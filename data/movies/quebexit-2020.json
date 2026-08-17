@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quebexit_2020",
+  "title": "Québexit",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104835217",
+    "imdb": "tt12406590",
+    "tmdb": 740562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-22"
+}
