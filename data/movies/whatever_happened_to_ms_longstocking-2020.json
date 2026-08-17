@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whatever_happened_to_ms_longstocking_2020",
+  "title": "Whatever happened to Ms Longstocking",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104776221",
+    "imdb": "tt10662536",
+    "tmdb": 692481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 15
+}

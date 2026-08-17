@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whereto_with_history_2020",
+  "title": "Where·to with History",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117310990",
+    "imdb": "tt13405274",
+    "tmdb": 827330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 63
+}

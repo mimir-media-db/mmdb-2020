@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_with_grandpa_2020",
+  "title": "The War with Grandpa",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999873",
+    "imdb": "tt4532038",
+    "tmdb": 425001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 94
+}

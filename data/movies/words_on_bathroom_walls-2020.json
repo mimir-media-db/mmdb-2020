@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_words_on_bathroom_walls_2020",
+  "title": "Words on Bathroom Walls",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56604167",
+    "imdb": "tt8045906",
+    "tmdb": 523781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

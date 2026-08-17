@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waves_2020",
+  "title": "Waves",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56205334",
+    "imdb": "tt8652728",
+    "tmdb": 533444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-17",
+  "runtime_minutes": 135
+}

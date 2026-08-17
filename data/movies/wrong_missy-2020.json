@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_missy_2020",
+  "title": "The Wrong Missy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91475459",
+    "imdb": "tt9619798",
+    "tmdb": 582596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}

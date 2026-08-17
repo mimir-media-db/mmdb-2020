@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_window_boy_would_also_like_to_have_a_submarine_2020",
+  "title": "Window Boy Would Also Like to Have a Submarine",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119686520",
+    "imdb": "tt2456492",
+    "tmdb": 616980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 85
+}

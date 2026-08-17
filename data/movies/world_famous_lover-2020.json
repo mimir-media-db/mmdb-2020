@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_world_famous_lover_2020",
+  "title": "World Famous Lover",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85218154",
+    "imdb": "tt10991188",
+    "tmdb": 659674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

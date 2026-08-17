@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_the_heat_2020",
+  "title": "We Are the Heat",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60768420",
+    "imdb": "tt8949410",
+    "tmdb": 548756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 104
+}

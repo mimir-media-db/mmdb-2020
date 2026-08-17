@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_hold_the_line_2020",
+  "title": "We Hold the Line",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109236267",
+    "imdb": "tt12352162",
+    "tmdb": 686638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}
