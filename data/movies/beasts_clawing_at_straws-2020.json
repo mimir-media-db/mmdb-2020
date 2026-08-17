@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beasts_clawing_at_straws_2020",
+  "title": "Beasts Clawing at Straws",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65294195",
+    "imdb": "tt9747594",
+    "tmdb": 571648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-25",
+  "runtime_minutes": 109
+}

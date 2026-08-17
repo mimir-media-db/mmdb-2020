@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_berts_diary_2020",
+  "title": "Bert's Diary",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98289500",
+    "imdb": "tt12182416",
+    "tmdb": 625552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-05"
+}

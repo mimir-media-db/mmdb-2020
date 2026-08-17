@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_back_to_the_wharf_2020",
+  "title": "Back to the Wharf",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109351102",
+    "imdb": "tt11306684",
+    "tmdb": 748687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-06"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_budapest_heist_2020",
+  "title": "Budapest Heist",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88077204",
+    "imdb": "tt10319486",
+    "tmdb": 698528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-11"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breaking_into_baikonur_2020",
+  "title": "Breaking into Baikonur",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576043",
+    "imdb": "tt13453056",
+    "tmdb": 756355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-26",
+  "runtime_minutes": 68
+}

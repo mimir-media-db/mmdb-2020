@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blade_the_iron_cross_2020",
+  "title": "Blade: The Iron Cross",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123514842",
+    "imdb": "tt10887344",
+    "tmdb": 596332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-07",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beloved_daughter_2020",
+  "title": "The Beloved Daughter",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98726003",
+    "imdb": "tt10967954",
+    "tmdb": 686631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05"
+}

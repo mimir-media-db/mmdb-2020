@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ballad_for_a_pierced_heart_2020",
+  "title": "Ballad for a Pierced Heart",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95745612",
+    "imdb": "tt11851430",
+    "tmdb": 691853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05",
+  "runtime_minutes": 140
+}

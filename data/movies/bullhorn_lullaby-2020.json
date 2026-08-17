@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bullhorn_lullaby_2020",
+  "title": "Bullhorn Lullaby",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98765398",
+    "imdb": "tt10927374",
+    "tmdb": 738041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-12",
+  "runtime_minutes": 96
+}

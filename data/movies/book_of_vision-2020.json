@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_book_of_vision_2020",
+  "title": "The Book of Vision",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97028622",
+    "imdb": "tt4016312",
+    "tmdb": 498587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-01",
+  "runtime_minutes": 99
+}

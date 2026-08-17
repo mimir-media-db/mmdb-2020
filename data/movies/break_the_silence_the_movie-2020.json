@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_break_the_silence_the_movie_2020",
+  "title": "Break the Silence: The Movie",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98367225",
+    "imdb": "tt12850582",
+    "tmdb": 730647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-10",
+  "runtime_minutes": 95
+}

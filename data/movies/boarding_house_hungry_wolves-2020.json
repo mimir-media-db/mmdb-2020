@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_boarding_house_hungry_wolves_2020",
+  "title": "Boarding House: Hungry Wolves",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841910",
+    "tmdb": 692454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-13"
+}

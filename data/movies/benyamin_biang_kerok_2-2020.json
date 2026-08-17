@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_benyamin_biang_kerok_2_2020",
+  "title": "Benyamin Biang Kerok 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105740850",
+    "imdb": "tt12868184",
+    "tmdb": 731675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-11"
+}

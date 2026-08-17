@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_brothers_first_experience_2020",
+  "title": "Brothers First Experience",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841886",
+    "tmdb": 1112972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-03"
+}

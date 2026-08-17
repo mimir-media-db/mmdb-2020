@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_be_alive_just_like_you_2020",
+  "title": "Be Alive Just Like You",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106557837",
+    "imdb": "tt15448824",
+    "tmdb": 758534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-04"
+}

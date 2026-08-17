@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barefoot_emperor_2020",
+  "title": "The Barefoot Emperor",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66587727",
+    "imdb": "tt8439922",
+    "tmdb": 559112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-26",
+  "runtime_minutes": 98
+}

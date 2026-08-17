@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_story_2020",
+  "title": "Blue Story",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73535930",
+    "imdb": "tt9285882",
+    "tmdb": 621191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-25"
+}

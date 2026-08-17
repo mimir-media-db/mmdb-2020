@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bheemasena_nalamaharaja_2020",
+  "title": "Bheemasena Nalamaharaja",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39048115",
+    "imdb": "tt8016356",
+    "tmdb": 722103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-29"
+}

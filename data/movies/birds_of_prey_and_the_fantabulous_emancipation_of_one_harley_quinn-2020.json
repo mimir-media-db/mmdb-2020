@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_birds_of_prey_and_the_fantabulous_emancipation_of_one_harley_quinn_2020",
+  "title": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57177410",
+    "imdb": "tt7713068",
+    "tmdb": 495764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-06",
+  "runtime_minutes": 109
+}

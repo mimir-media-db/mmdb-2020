@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_becky_2020",
+  "title": "Becky",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93972936",
+    "imdb": "tt10314450",
+    "tmdb": 601844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-15",
+  "runtime_minutes": 100
+}

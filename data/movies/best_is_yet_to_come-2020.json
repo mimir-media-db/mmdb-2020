@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_is_yet_to_come_2020",
+  "title": "The Best Is Yet to Come",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72842335",
+    "imdb": "tt9284430",
+    "tmdb": 582206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-09",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_binti_2020",
+  "title": "Binti",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89102885",
+    "imdb": "tt6922062",
+    "tmdb": 577285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-17"
+}

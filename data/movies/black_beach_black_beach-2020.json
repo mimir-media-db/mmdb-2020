@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_beach_black_beach_2020",
+  "title": "Black Beach, Black Beach",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99527516",
+    "imdb": "tt9660688",
+    "tmdb": 735129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-02",
+  "runtime_minutes": 111
+}

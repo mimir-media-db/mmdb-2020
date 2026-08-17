@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bruno_2020",
+  "title": "Bruno",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99598196",
+    "imdb": "tt7586628",
+    "tmdb": 631435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-15"
+}

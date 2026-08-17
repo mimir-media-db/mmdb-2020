@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_butak_2020",
+  "title": "Butak",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130645238",
+    "imdb": "tt13285844",
+    "tmdb": 750840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-08",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brning_3_2020",
+  "title": "Børning 3",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97585990",
+    "imdb": "tt6527456",
+    "tmdb": 505746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-30",
+  "runtime_minutes": 100
+}

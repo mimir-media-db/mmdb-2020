@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_betrayed_2020",
+  "title": "Betrayed",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102015061",
+    "imdb": "tt11390442",
+    "tmdb": 598439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-25",
+  "runtime_minutes": 126
+}

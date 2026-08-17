@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_break_2020",
+  "title": "Break",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104848991",
+    "imdb": "tt4590390",
+    "tmdb": 661738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-22",
+  "runtime_minutes": 107
+}

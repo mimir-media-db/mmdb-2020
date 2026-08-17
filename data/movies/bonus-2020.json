@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bonus_2020",
+  "title": "Bonus",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107115537",
+    "imdb": "tt9044650",
+    "tmdb": 687090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-28"
+}

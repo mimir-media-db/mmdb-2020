@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_tales_2020",
+  "title": "Bad Tales",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84075576",
+    "imdb": "tt8526370",
+    "tmdb": 614292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-25",
+  "runtime_minutes": 98
+}

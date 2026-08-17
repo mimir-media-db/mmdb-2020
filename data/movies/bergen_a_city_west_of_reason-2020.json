@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bergen_a_city_west_of_reason_2020",
+  "title": "Bergen - A City West of Reason",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130729452",
+    "imdb": "tt14208088",
+    "tmdb": 767732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-25"
+}

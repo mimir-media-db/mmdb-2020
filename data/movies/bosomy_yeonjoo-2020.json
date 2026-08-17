@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bosomy_yeonjoo_2020",
+  "title": "Bosomy Yeon-joo",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841815",
+    "imdb": "tt12944384",
+    "tmdb": 711644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-12"
+}

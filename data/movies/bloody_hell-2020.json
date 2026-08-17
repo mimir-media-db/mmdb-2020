@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bloody_hell_2020",
+  "title": "Bloody Hell",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98126098",
+    "imdb": "tt9772374",
+    "tmdb": 696822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-13",
+  "runtime_minutes": 100
+}
