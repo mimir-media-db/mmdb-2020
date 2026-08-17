@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vecher_shutov_ili_serezno_s_privetom_2020",
+  "title": "Vecher shutov, ili Serezno s privetom",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111534160",
+    "imdb": "tt13318576",
+    "tmdb": 757568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}

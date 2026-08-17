@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vanished_2020",
+  "title": "The Vanished",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98545416",
+    "imdb": "tt9794630",
+    "tmdb": 718400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 115
+}

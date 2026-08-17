@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_velvet_nagaram_2020",
+  "title": "Velvet Nagaram",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737835",
+    "imdb": "tt8907890",
+    "tmdb": 541791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

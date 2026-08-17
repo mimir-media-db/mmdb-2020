@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vacio_2020",
+  "title": "Vacío",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81938293",
+    "imdb": "tt8777758",
+    "tmdb": 664374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-24",
+  "runtime_minutes": 92
+}
