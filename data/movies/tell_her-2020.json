@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tell_her_2020",
+  "title": "Tell Her",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107435219",
+    "imdb": "tt11349638",
+    "tmdb": 633793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-14",
+  "runtime_minutes": 98
+}

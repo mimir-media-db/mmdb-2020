@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_take_me_home_2020",
+  "title": "Take Me Home",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999314",
+    "imdb": "tt13925964",
+    "tmdb": 705990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-28"
+}

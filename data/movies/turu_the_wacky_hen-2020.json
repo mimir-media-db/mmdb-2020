@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_turu_the_wacky_hen_2020",
+  "title": "Turu, the Wacky Hen",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97236108",
+    "imdb": "tt8790552",
+    "tmdb": 653247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-14",
+  "runtime_minutes": 79
+}

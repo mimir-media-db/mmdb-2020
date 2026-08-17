@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_all_the_boys_ps_i_still_love_you_2020",
+  "title": "To All the Boys: P.S. I Still Love You",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62761144",
+    "imdb": "tt9354842",
+    "tmdb": 565426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-12",
+  "runtime_minutes": 81
+}

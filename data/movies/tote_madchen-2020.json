@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tote_madchen_2020",
+  "title": "Tote Mädchen",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113714690",
+    "imdb": "tt10976742"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-12"
+}

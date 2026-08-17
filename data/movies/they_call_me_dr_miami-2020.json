@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_they_call_me_dr_miami_2020",
+  "title": "They Call Me Dr. Miami",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109616212",
+    "imdb": "tt11897170",
+    "tmdb": 687378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_toko_barang_mantan_2020",
+  "title": "Toko Barang Mantan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65205146",
+    "imdb": "tt10640766",
+    "tmdb": 664277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-20",
+  "runtime_minutes": 98
+}

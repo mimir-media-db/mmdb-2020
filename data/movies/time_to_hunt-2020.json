@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_time_to_hunt_2020",
+  "title": "Time to Hunt",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81222925",
+    "imdb": "tt11777040",
+    "tmdb": 571785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-22",
+  "runtime_minutes": 134
+}

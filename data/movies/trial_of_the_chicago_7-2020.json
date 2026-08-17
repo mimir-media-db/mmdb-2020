@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trial_of_the_chicago_7_2020",
+  "title": "The Trial of the Chicago 7",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72397975",
+    "imdb": "tt1070874",
+    "tmdb": 556984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-25",
+  "runtime_minutes": 129
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teenage_badass_2020",
+  "title": "Teenage Badass",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98927428",
+    "imdb": "tt9762398",
+    "tmdb": 646551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-18",
+  "runtime_minutes": 99
+}

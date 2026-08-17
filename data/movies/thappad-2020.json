@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thappad_2020",
+  "title": "Thappad",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892452",
+    "imdb": "tt10964430",
+    "tmdb": 668435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-28",
+  "runtime_minutes": 142
+}

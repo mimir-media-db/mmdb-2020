@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tikitaka_2020",
+  "title": "Tiki-Taka",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102046244",
+    "imdb": "tt8289664"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-11"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_perfect_daughters_2020",
+  "title": "Three Perfect Daughters",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96794828",
+    "imdb": "tt10342250",
+    "tmdb": 614427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-02",
+  "runtime_minutes": 96
+}
