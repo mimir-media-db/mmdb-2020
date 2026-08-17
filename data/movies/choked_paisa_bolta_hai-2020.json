@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_choked_paisa_bolta_hai_2020",
+  "title": "Choked: Paisa Bolta Hai",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96374956",
+    "imdb": "tt11651780",
+    "tmdb": 706783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-05"
+}

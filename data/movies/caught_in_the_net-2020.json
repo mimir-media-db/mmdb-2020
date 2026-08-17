@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caught_in_the_net_2020",
+  "title": "Caught in the Net",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64845991",
+    "imdb": "tt11900404",
+    "tmdb": 599876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 100
+}

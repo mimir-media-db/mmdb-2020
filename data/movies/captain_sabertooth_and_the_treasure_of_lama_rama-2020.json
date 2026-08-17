@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captain_sabertooth_and_the_treasure_of_lama_rama_2020",
+  "title": "Captain Sabertooth and the Treasure of Lama Rama",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4240309",
+    "imdb": "tt2664712",
+    "tmdb": 285191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corpus_christi_2020",
+  "title": "Corpus Christi",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66758332",
+    "imdb": "tt8649186",
+    "tmdb": 471707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-02",
+  "runtime_minutes": 115
+}

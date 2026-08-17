@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colombia_in_my_arms_2020",
+  "title": "Colombia in My Arms",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98555020",
+    "imdb": "tt11563822",
+    "tmdb": 660354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-28",
+  "runtime_minutes": 91
+}

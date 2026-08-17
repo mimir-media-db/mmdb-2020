@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_console_wars_2020",
+  "title": "Console Wars",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99555529",
+    "imdb": "tt5215462",
+    "tmdb": 344031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-23"
+}

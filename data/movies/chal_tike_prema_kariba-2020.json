@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_chal_tike_prema_kariba_2020",
+  "title": "Chal Tike Prema Kariba",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109474580",
+    "imdb": "tt15716844"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-22"
+}

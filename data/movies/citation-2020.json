@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_citation_2020",
+  "title": "Citation",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101237151",
+    "imdb": "tt11481312",
+    "tmdb": 755340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-06",
+  "runtime_minutes": 151
+}

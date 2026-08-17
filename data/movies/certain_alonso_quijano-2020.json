@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_certain_alonso_quijano_2020",
+  "title": "A Certain Alonso Quijano",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97158782",
+    "imdb": "tt12357296",
+    "tmdb": 720563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-01",
+  "runtime_minutes": 102
+}

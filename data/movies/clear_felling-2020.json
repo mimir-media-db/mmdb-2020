@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clear_felling_2020",
+  "title": "A Clear Felling",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q82999374",
+    "imdb": "tt6682828",
+    "tmdb": 503335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05"
+}

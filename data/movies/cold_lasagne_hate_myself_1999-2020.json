@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_lasagne_hate_myself_1999_2020",
+  "title": "Cold Lasagne Hate Myself 1999",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117843156",
+    "imdb": "tt13446472",
+    "tmdb": 763274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-01"
+}

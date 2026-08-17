@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_conductor_2020",
+  "title": "The Conductor",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43373252",
+    "imdb": "tt6932818",
+    "tmdb": 541611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-24",
+  "runtime_minutes": 137
+}

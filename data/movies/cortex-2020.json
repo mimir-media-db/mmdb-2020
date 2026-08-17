@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cortex_2020",
+  "title": "Cortex",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85226887",
+    "imdb": "tt10056224",
+    "tmdb": 730741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-22"
+}

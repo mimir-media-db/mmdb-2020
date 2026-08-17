@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caliber_9_2020",
+  "title": "Caliber 9",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110473332",
+    "imdb": "tt11390878",
+    "tmdb": 660598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-23",
+  "runtime_minutes": 90
+}

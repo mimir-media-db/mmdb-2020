@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clouds_2020",
+  "title": "Clouds",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73549338",
+    "imdb": "tt6473066",
+    "tmdb": 630566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-16",
+  "runtime_minutes": 121
+}

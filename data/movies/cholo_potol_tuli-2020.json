@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cholo_potol_tuli_2020",
+  "title": "Cholo Potol Tuli",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245448",
+    "imdb": "tt13265830"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-21"
+}

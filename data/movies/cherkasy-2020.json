@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cherkasy_2020",
+  "title": "Cherkasy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45409629",
+    "imdb": "tt8205656",
+    "tmdb": 617499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_crossfire_2020",
+  "title": "Christmas Crossfire",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q103926227",
+    "imdb": "tt13446424",
+    "tmdb": 765123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-04",
+  "runtime_minutes": 106
+}

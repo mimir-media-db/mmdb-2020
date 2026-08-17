@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comeback_trail_2020",
+  "title": "The Comeback Trail",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65069001",
+    "imdb": "tt5420210",
+    "tmdb": 650783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-12",
+  "runtime_minutes": 104
+}

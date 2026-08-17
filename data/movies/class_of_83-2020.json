@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_class_of_83_2020",
+  "title": "Class of '83",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65068618",
+    "imdb": "tt10230422",
+    "tmdb": 730428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-21"
+}

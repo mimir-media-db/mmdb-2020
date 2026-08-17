@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chobiyal_2020",
+  "title": "Chobiyal",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104879251",
+    "imdb": "tt15727970",
+    "tmdb": 895770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-11"
+}

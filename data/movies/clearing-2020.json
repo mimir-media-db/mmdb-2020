@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clearing_2020",
+  "title": "The Clearing",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113598104",
+    "imdb": "tt7411112",
+    "tmdb": 707214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-04"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chhalaang_2020",
+  "title": "Chhalaang",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62073359",
+    "imdb": "tt8983164",
+    "tmdb": 667585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-13",
+  "runtime_minutes": 136
+}
