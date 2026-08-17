@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hunger_ward_2020",
+  "title": "Hunger Ward",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106280781",
+    "imdb": "tt12979636",
+    "tmdb": 757697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

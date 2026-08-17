@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hasta_el_cielo_ida_y_vuelta_2020",
+  "title": "Hasta el cielo ida y vuelta",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85870752",
+    "imdb": "tt8327502"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

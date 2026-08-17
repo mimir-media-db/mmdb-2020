@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunted_2020",
+  "title": "Hunted",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105081812",
+    "imdb": "tt10011228",
+    "tmdb": 660335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 87
+}

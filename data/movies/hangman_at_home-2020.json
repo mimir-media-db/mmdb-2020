@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hangman_at_home_2020",
+  "title": "The Hangman at Home",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98131846",
+    "imdb": "tt15361312",
+    "tmdb": 742850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 13
+}

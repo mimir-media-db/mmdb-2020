@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heaven_to_the_land_of_happiness_2020",
+  "title": "Heaven: To the Land of Happiness",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96079634",
+    "imdb": "tt12443662",
+    "tmdb": 593050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 100
+}

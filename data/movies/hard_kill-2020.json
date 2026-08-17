@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_kill_2020",
+  "title": "Hard Kill",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84204312",
+    "imdb": "tt11656172",
+    "tmdb": 724989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

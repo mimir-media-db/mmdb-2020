@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_do_you_know_chris_2020",
+  "title": "How Do You Know Chris?",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600243",
+    "imdb": "tt8355036",
+    "tmdb": 791560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 86
+}

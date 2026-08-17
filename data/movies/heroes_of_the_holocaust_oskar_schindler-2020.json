@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heroes_of_the_holocaust_oskar_schindler_2020",
+  "title": "Heroes of the Holocaust: Oskar Schindler",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643493",
+    "imdb": "tt11738092",
+    "tmdb": 708631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 48
+}

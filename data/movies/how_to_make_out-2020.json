@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_make_out_2020",
+  "title": "How to Make Out",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97581026",
+    "imdb": "tt12633744",
+    "tmdb": 711321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 98
+}
