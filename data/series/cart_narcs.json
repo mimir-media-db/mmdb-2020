@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cart_narcs",
+  "title": "Cart Narcs",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123527857",
+    "imdb": "tt17886956"
+  },
+  "last_updated": "2026-08-17"
+}

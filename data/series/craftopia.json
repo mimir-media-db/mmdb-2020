@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_craftopia",
+  "title": "Craftopia",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q96375634",
+    "imdb": "tt11094566",
+    "tmdb": 102541
+  },
+  "last_updated": "2026-08-17"
+}

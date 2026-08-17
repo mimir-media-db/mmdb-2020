@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_curry_songs",
+  "title": "The Curry Songs",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q116555551",
+    "imdb": "tt13339616",
+    "tmdb": 110712
+  },
+  "last_updated": "2026-08-17"
+}

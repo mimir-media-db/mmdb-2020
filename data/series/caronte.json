@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_caronte",
+  "title": "Caronte",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q87059519",
+    "imdb": "tt9204142",
+    "tmdb": 99565
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

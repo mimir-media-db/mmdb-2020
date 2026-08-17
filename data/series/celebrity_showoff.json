@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_showoff",
+  "title": "Celebrity Show-Off",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q96363639",
+    "imdb": "tt12624312"
+  },
+  "last_updated": "2026-08-17"
+}

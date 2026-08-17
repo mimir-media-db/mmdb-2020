@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_complicated_life_of_lea_oliver",
+  "title": "The Complicated Life of Lea Oliver",
+  "start_year": 2020,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q107614195",
+    "imdb": "tt10940000",
+    "tmdb": 95522
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

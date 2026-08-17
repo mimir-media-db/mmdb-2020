@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_coronavirus_explained",
+  "title": "Coronavirus, Explained",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q92932803",
+    "imdb": "tt12189310",
+    "tmdb": 102360
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

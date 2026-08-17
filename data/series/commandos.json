@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_commandos",
+  "title": "Commando’s",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98793279",
+    "imdb": "tt10699300",
+    "tmdb": 93739
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

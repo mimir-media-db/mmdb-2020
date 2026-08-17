@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chefs_table_bbq",
+  "title": "Chef's Table: BBQ",
+  "start_year": 2020,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q99515022",
+    "imdb": "tt12917170",
+    "tmdb": 107671
+  },
+  "last_updated": "2026-08-17"
+}

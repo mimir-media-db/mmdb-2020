@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_coyote",
+  "title": "Coyote",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104651297",
+    "imdb": "tt10279176",
+    "tmdb": 90702
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

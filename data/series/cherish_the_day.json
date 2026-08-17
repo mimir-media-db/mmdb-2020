@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cherish_the_day",
+  "title": "Cherish the Day",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85751774",
+    "imdb": "tt10065678",
+    "tmdb": 98993
+  },
+  "last_updated": "2026-08-17"
+}

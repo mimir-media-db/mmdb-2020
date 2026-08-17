@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_council_of_dads",
+  "title": "Council of Dads",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65068474",
+    "imdb": "tt9165830",
+    "tmdb": 94267
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

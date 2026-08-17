@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cronica_dos_bons_malandros",
+  "title": "Crónica dos Bons Malandros",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q112962050",
+    "imdb": "tt12827254",
+    "tmdb": 115792
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}
