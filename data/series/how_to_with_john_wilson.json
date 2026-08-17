@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_how_to_with_john_wilson",
+  "title": "How To with John Wilson",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85767522",
+    "imdb": "tt10801534",
+    "tmdb": 110971
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

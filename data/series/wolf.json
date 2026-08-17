@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wolf",
+  "title": "The Wolf",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q65060906",
+    "imdb": "tt8871128",
+    "tmdb": 100033
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

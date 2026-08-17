@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_families_2020",
+  "title": "The Best Families",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114364911",
+    "imdb": "tt11938888",
+    "tmdb": 742777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 99
+}

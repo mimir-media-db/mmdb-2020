@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_qin_dynasty_epic",
+  "title": "Qin Dynasty Epic",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60992353",
+    "imdb": "tt13551018",
+    "tmdb": 114043
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 78
+}

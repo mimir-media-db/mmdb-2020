@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_super_fan",
+  "title": "Super Fan",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97332671",
+    "imdb": "tt12683182"
+  },
+  "last_updated": "2026-08-17"
+}

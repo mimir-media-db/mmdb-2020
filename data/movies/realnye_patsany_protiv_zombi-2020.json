@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_realnye_patsany_protiv_zombi_2020",
+  "title": "Realnye patsany protiv zombi",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105306188",
+    "imdb": "tt13872708",
+    "tmdb": 633799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 88
+}

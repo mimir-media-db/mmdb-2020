@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_death_of_the_black_wizard_2020",
+  "title": "The White Death of the Black Wizard",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131386492",
+    "imdb": "tt13266220",
+    "tmdb": 713862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 10
+}

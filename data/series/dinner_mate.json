@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dinner_mate",
+  "title": "Dinner Mate",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q90770978",
+    "imdb": "tt12415644",
+    "tmdb": 102293
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

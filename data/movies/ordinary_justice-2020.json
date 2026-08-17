@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ordinary_justice_2020",
+  "title": "Ordinary Justice",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85524894",
+    "imdb": "tt10247750",
+    "tmdb": 666109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

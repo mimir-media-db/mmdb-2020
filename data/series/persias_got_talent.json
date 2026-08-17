@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_persias_got_talent",
+  "title": "Persia's Got Talent",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q84040490",
+    "imdb": "tt11707798",
+    "tmdb": 317054
+  },
+  "last_updated": "2026-08-17"
+}

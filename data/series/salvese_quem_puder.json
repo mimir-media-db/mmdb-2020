@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_salvese_quem_puder",
+  "title": "Salve-se Quem Puder",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q67893979",
+    "imdb": "tt11470446",
+    "tmdb": 98968
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 107
+}

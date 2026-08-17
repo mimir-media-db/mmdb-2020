@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_romulo_julita_2020",
+  "title": "Romulo & Julita",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87070591",
+    "imdb": "tt11985684",
+    "tmdb": 682354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 92
+}

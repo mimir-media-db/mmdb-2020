@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_dies_tomorrow_2020",
+  "title": "She Dies Tomorrow",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84009126",
+    "imdb": "tt11614912",
+    "tmdb": 664297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 84
+}

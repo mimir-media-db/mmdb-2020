@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_corazon_de_sicario_2020",
+  "title": "Corazón de sicario",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123553240"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

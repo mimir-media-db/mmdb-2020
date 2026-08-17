@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_jj_villards_fairy_tales",
+  "title": "JJ Villard's Fairy Tales",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q93452013",
+    "imdb": "tt11397978",
+    "tmdb": 103243
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_crumb_race_to_the_gold_mine_2020",
+  "title": "Little Crumb Race to the Gold Mine",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86894851",
+    "imdb": "tt8801582",
+    "tmdb": 665762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 78
+}

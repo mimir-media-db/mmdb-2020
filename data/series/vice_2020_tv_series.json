@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vice_2020_tv_series",
+  "title": "VICE (2020 TV series)",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119118385",
+    "imdb": "tt11625626",
+    "tmdb": 100662
+  },
+  "last_updated": "2026-08-17"
+}

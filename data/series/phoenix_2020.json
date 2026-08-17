@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_phoenix_2020",
+  "title": "Phoenix 2020",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96758158",
+    "imdb": "tt14433228",
+    "tmdb": 111603
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

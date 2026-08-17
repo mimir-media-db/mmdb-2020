@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_love_bond",
+  "title": "Love bond",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104540800",
+    "imdb": "tt13984562"
+  },
+  "last_updated": "2026-08-17"
+}

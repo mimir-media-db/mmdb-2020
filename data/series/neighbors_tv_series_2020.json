@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_neighbors_tv_series_2020",
+  "title": "Neighbors (TV Series 2020)",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139850868",
+    "imdb": "tt13042560",
+    "tmdb": 119179
+  },
+  "last_updated": "2026-08-17"
+}

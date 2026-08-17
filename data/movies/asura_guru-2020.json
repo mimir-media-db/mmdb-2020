@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_asura_guru_2020",
+  "title": "Asura Guru",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60533190",
+    "imdb": "tt8011344",
+    "tmdb": 535223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

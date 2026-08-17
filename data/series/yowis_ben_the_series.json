@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_yowis_ben_the_series",
+  "title": "Yowis Ben: The Series",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q102751512",
+    "tmdb": 110257
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

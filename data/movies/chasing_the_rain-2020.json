@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chasing_the_rain_2020",
+  "title": "Chasing the Rain",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104626170",
+    "imdb": "tt2075078",
+    "tmdb": 286539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

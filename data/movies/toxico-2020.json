@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_toxico_2020",
+  "title": "Tóxico",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93493281",
+    "imdb": "tt12182184",
+    "tmdb": 687149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 80
+}

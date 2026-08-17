@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thief_of_baghdad_2020",
+  "title": "Thief of Baghdad",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65619902",
+    "imdb": "tt11187484",
+    "tmdb": 638796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-22",
+  "runtime_minutes": 102
+}

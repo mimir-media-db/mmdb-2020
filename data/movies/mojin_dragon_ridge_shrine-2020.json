@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mojin_dragon_ridge_shrine_2020",
+  "title": "Mojin: Dragon Ridge Shrine",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354338",
+    "imdb": "tt16118850",
+    "tmdb": 780741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_cnn_series_originais",
+  "title": "CNN Séries Originais",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q88490388"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_kiosque_2020",
+  "title": "Le Kiosque",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109312743",
+    "imdb": "tt13105458",
+    "tmdb": 714538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_indonesias_next_top_model",
+  "title": "Indonesia's Next Top Model",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97198248",
+    "imdb": "tt13943614",
+    "tmdb": 155828
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 80
+}

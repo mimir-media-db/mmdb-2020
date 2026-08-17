@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_onbathu_kuzhi_sampath_2020",
+  "title": "Onbathu Kuzhi Sampath",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101244986",
+    "imdb": "tt12660372",
+    "tmdb": 864210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

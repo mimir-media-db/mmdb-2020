@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_social_distance",
+  "title": "Social Distance",
+  "start_year": 2020,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q100958687",
+    "imdb": "tt12313074",
+    "tmdb": 110862
+  },
+  "last_updated": "2026-08-17"
+}

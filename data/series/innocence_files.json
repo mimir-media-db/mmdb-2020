@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_innocence_files",
+  "title": "The Innocence Files",
+  "start_year": 2020,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q90704897",
+    "imdb": "tt11958922",
+    "tmdb": 100379
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

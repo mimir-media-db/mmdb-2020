@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gonul_dag",
+  "title": "Gönül Dağı",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q100930223",
+    "imdb": "tt12872884",
+    "tmdb": 111685
+  },
+  "last_updated": "2026-08-17"
+}

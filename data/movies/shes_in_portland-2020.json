@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shes_in_portland_2020",
+  "title": "She's in Portland",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104878723",
+    "imdb": "tt7174660",
+    "tmdb": 664498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

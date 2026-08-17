@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coded_bias_2020",
+  "title": "Coded Bias",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104878660",
+    "imdb": "tt11394170",
+    "tmdb": 653734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

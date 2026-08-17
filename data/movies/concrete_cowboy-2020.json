@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_concrete_cowboy_2020",
+  "title": "Concrete Cowboy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66828796",
+    "imdb": "tt8846176",
+    "tmdb": 621954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 111
+}

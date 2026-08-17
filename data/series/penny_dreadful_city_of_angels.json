@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_penny_dreadful_city_of_angels",
+  "title": "Penny Dreadful: City of Angels",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q61864083",
+    "imdb": "tt10361016",
+    "tmdb": 83685
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

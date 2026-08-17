@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_the_thousand_2020",
+  "title": "We Are the Thousand",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111380420",
+    "imdb": "tt11899028",
+    "tmdb": 676315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 76
+}

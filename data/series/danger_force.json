@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_danger_force",
+  "title": "Danger Force",
+  "start_year": 2020,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q85664642",
+    "imdb": "tt11833388",
+    "tmdb": 99583
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 65
+}

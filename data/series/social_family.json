@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_social_family",
+  "title": "Social Family",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112818405"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hero_2020",
+  "title": "Hero",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79998805",
+    "imdb": "tt22506970",
+    "tmdb": 602464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

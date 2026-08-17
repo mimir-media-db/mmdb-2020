@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_varane_avashyamund_2020",
+  "title": "Varane Avashyamund",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97258346",
+    "imdb": "tt11531530",
+    "tmdb": 659731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

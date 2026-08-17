@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nothing_but_the_sun_2020",
+  "title": "Nothing but the Sun",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107675708",
+    "imdb": "tt10215134",
+    "tmdb": 763553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 75
+}

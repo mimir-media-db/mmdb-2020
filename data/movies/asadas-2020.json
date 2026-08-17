@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asadas_2020",
+  "title": "The Asadas",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85881954",
+    "imdb": "tt9860350",
+    "tmdb": 586393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 127
+}

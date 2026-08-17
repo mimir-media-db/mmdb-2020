@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rope_curse_2_2020",
+  "title": "The Rope Curse 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97503337",
+    "imdb": "tt13212006",
+    "tmdb": 737519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 104
+}

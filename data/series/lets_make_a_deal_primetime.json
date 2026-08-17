@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_lets_make_a_deal_primetime",
+  "title": "Let's Make a Deal Primetime",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123924126",
+    "imdb": "tt13706168"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_black_and_white",
+  "title": "Black and White",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q104388744",
+    "tmdb": 114743
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pretty_little_liars",
+  "title": "Pretty Little Liars",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q92941669",
+    "imdb": "tt10896728",
+    "tmdb": 102567
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

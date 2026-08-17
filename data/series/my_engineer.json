@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_engineer",
+  "title": "My Engineer",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97353957",
+    "imdb": "tt12729214",
+    "tmdb": 96478
+  },
+  "last_updated": "2026-08-17"
+}

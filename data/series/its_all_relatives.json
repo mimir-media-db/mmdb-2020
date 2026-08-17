@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_its_all_relatives",
+  "title": "It's All Relatives",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107531513",
+    "imdb": "tt13452364",
+    "tmdb": 111851
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 31
+}

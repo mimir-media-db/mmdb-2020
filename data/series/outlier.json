@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_outlier",
+  "title": "Outlier",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109285809",
+    "imdb": "tt13470388",
+    "tmdb": 114300
+  },
+  "last_updated": "2026-08-17"
+}

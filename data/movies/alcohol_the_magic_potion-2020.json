@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alcohol_the_magic_potion_2020",
+  "title": "Alcohol - The Magic Potion",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77295208",
+    "imdb": "tt11356922",
+    "tmdb": 653481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-09",
+  "runtime_minutes": 87
+}

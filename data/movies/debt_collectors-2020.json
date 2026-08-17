@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_debt_collectors_2020",
+  "title": "Debt Collectors",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95390208",
+    "imdb": "tt10933680",
+    "tmdb": 647785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 97
+}

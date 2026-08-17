@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_parents_committee",
+  "title": "Parents Committee",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104658838",
+    "imdb": "tt13525346",
+    "tmdb": 113999
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 38
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_family_bond_2020",
+  "title": "Family Bond",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64004206",
+    "imdb": "tt14716076",
+    "tmdb": 735635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

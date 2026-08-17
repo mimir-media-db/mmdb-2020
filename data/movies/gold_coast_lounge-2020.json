@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gold_coast_lounge_2020",
+  "title": "Gold Coast Lounge",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105614969",
+    "imdb": "tt10508774",
+    "tmdb": 660722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

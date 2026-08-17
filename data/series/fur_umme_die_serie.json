@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fur_umme_die_serie",
+  "title": "Für Umme - Die Serie",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q105493697",
+    "imdb": "tt7488532",
+    "tmdb": 73376
+  },
+  "last_updated": "2026-08-17"
+}

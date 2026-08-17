@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_star_wars_2020",
+  "title": "Battle Star Wars",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99932549",
+    "imdb": "tt11518196",
+    "tmdb": 667574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_policemans_daughter",
+  "title": "The Policeman’s Daughter",
+  "start_year": 2020,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q100630770",
+    "imdb": "tt13308954",
+    "tmdb": 111155
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_deadliest_catch_bloodline",
+  "title": "Deadliest Catch: Bloodline",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96376088",
+    "imdb": "tt12018426",
+    "tmdb": 101872
+  },
+  "last_updated": "2026-08-17"
+}

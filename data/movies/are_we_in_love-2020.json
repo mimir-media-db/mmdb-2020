@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_are_we_in_love_2020",
+  "title": "Are We in Love?",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55730599",
+    "imdb": "tt9422200",
+    "tmdb": 672955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

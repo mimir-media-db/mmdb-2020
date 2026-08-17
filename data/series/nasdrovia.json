@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nasdrovia",
+  "title": "Nasdrovia",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q103840996",
+    "imdb": "tt10464754",
+    "tmdb": 105775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}

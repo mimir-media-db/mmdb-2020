@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_breeders",
+  "title": "Breeders",
+  "start_year": 2020,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q94522120",
+    "imdb": "tt8129450",
+    "tmdb": 93290
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

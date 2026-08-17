@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grandmas_will_2020",
+  "title": "Grandma's Will",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104603179",
+    "imdb": "tt10658922",
+    "tmdb": 676838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

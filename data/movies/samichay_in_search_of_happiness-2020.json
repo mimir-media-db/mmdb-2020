@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_samichay_in_search_of_happiness_2020",
+  "title": "Samichay, In Search of Happiness",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110198447",
+    "imdb": "tt14444784",
+    "tmdb": 736125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 86
+}

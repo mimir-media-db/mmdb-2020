@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_street_food_latin_america",
+  "title": "Street Food: Latin America",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112186816",
+    "imdb": "tt12742136",
+    "tmdb": 105488
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

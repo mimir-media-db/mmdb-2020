@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gunjan_saxena_the_kargil_girl_2020",
+  "title": "Gunjan Saxena: The Kargil Girl",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65065630",
+    "imdb": "tt10350626",
+    "tmdb": 645489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 110
+}

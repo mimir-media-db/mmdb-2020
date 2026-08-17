@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_facing_down_under_a_backpackers_documentary_2020",
+  "title": "Facing Down Under - A Backpackers Documentary",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106488065",
+    "imdb": "tt13594640",
+    "tmdb": 985634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 84
+}

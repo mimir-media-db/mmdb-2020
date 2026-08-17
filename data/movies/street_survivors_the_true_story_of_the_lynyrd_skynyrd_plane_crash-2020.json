@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_street_survivors_the_true_story_of_the_lynyrd_skynyrd_plane_crash_2020",
+  "title": "Street Survivors: The True Story of the Lynyrd Skynyrd Plane Crash",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29567978",
+    "imdb": "tt6744988",
+    "tmdb": 701461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

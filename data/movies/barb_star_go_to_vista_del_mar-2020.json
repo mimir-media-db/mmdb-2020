@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barb_star_go_to_vista_del_mar_2020",
+  "title": "Barb & Star Go to Vista Del Mar",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65677529",
+    "imdb": "tt3797512",
+    "tmdb": 595813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 107
+}

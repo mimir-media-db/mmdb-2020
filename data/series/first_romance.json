@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_first_romance",
+  "title": "First Romance",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65058418"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

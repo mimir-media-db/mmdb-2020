@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_salinger_year_2020",
+  "title": "My Salinger Year",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63994418",
+    "imdb": "tt2222052",
+    "tmdb": 619594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 101
+}

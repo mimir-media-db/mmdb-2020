@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_ravens_2020",
+  "title": "King of Ravens",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100794777",
+    "imdb": "tt10497782",
+    "tmdb": 757895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 104
+}

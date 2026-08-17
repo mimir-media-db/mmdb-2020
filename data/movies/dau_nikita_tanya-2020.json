@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dau_nikita_tanya_2020",
+  "title": "DAU. Nikita Tanya",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97314355",
+    "imdb": "tt11909040",
+    "tmdb": 693839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 99
+}

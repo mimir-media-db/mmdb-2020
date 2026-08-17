@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_iliza_shlesinger_sketch_show",
+  "title": "The Iliza Shlesinger Sketch Show",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q89255793",
+    "imdb": "tt11092086",
+    "tmdb": 101255
+  },
+  "last_updated": "2026-08-17"
+}

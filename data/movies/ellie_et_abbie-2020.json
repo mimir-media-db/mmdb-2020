@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ellie_et_abbie_2020",
+  "title": "Ellie et Abbie",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107105075",
+    "imdb": "tt10353866",
+    "tmdb": 662541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

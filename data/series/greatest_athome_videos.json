@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_greatest_athome_videos",
+  "title": "The Greatest AtHome Videos",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104845691",
+    "imdb": "tt12802744",
+    "tmdb": 228316
+  },
+  "last_updated": "2026-08-17"
+}

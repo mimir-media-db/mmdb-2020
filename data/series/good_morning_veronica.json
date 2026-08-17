@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_morning_veronica",
+  "title": "Good Morning, Verônica",
+  "start_year": 2020,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q84262198",
+    "imdb": "tt12987918",
+    "tmdb": 110115
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 17
+}

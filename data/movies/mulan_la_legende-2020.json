@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mulan_la_legende_2020",
+  "title": "Mulan, la légende",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132171559",
+    "imdb": "tt21430954",
+    "tmdb": 752662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 77
+}

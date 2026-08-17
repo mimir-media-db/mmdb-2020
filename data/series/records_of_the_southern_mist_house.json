@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_records_of_the_southern_mist_house",
+  "title": "Records of the Southern Mist House",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55074802",
+    "imdb": "tt15294526",
+    "tmdb": 226294
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 55
+}

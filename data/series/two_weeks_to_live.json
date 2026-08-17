@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_two_weeks_to_live",
+  "title": "Two Weeks to Live",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98839071",
+    "imdb": "tt6075088",
+    "tmdb": 91445
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

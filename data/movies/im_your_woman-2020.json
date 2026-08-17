@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_your_woman_2020",
+  "title": "I'm Your Woman",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73549619",
+    "imdb": "tt10243992",
+    "tmdb": 643612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 120
+}

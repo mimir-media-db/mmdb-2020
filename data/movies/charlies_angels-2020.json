@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_charlies_angels_2020",
+  "title": "Charlie's Angels",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55815650",
+    "imdb": "tt5033998",
+    "tmdb": 458897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-02",
+  "runtime_minutes": 118
+}

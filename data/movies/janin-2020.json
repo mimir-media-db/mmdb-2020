@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_janin_2020",
+  "title": "Janin",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97308222",
+    "imdb": "tt11450018",
+    "tmdb": 652589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-16"
+}

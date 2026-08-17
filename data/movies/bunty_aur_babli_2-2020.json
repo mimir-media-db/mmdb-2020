@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bunty_aur_babli_2_2020",
+  "title": "Bunty Aur Babli 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79821532",
+    "imdb": "tt10569922",
+    "tmdb": 666390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

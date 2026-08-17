@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garden_of_calabria_2020",
+  "title": "The garden of Calabria",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117310882",
+    "imdb": "tt14827262"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 20
+}

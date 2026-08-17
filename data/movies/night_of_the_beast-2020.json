@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_the_beast_2020",
+  "title": "The Night of the Beast",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101094214",
+    "imdb": "tt8995862",
+    "tmdb": 579701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 71
+}

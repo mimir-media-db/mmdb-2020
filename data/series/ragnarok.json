@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ragnarok",
+  "title": "Ragnarok",
+  "start_year": 2020,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q83962233",
+    "imdb": "tt9251798",
+    "tmdb": 91557
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

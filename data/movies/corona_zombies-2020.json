@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corona_zombies_2020",
+  "title": "Corona Zombies",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92798265",
+    "imdb": "tt12098392",
+    "tmdb": 684420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 61
+}

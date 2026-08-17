@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_misfit_3_de_finale_2020",
+  "title": "Misfit 3: De Finale",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108207987",
+    "imdb": "tt13609560",
+    "tmdb": 768755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

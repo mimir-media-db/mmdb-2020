@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arthur_merlin_knights_of_camelot_2020",
+  "title": "Arthur & Merlin: Knights of Camelot",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110221127",
+    "imdb": "tt7052270",
+    "tmdb": 635237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}

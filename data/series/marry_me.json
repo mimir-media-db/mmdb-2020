@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_marry_me",
+  "title": "Marry Me!",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102664883",
+    "imdb": "tt13958982",
+    "tmdb": 110666
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enchanted_feather_2020",
+  "title": "Enchanted Feather",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77047961",
+    "imdb": "tt10110022",
+    "tmdb": 642695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-02",
+  "runtime_minutes": 94
+}

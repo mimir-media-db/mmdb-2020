@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_albtraumer_2020",
+  "title": "Albträumer",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100753217",
+    "imdb": "tt13231118",
+    "tmdb": 756224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 94
+}

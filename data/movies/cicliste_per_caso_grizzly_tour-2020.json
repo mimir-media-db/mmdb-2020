@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cicliste_per_caso_grizzly_tour_2020",
+  "title": "Cicliste per caso - Grizzly Tour",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107062537",
+    "imdb": "tt13307450",
+    "tmdb": 822581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

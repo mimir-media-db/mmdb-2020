@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unsolved_mysteries",
+  "title": "Unsolved Mysteries",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136497520",
+    "imdb": "tt9642938",
+    "tmdb": 105177
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 30
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_field_of_operations_the_war_in_the_mediterranean_2020",
+  "title": "Field of Operations: The War in the Mediterranean",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643488",
+    "imdb": "tt15079852",
+    "tmdb": 982667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

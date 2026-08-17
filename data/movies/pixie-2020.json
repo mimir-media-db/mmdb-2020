@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pixie_2020",
+  "title": "Pixie",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73898752",
+    "imdb": "tt10831086",
+    "tmdb": 651610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

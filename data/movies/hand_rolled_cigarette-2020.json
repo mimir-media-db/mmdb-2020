@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hand_rolled_cigarette_2020",
+  "title": "Hand Rolled Cigarette",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100584262",
+    "imdb": "tt13210170",
+    "tmdb": 741328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

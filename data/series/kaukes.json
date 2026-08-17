@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kaukes",
+  "title": "Kaukės",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q104871690",
+    "imdb": "tt13444770"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 36
+}

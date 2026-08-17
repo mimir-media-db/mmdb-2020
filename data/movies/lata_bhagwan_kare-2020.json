@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lata_bhagwan_kare_2020",
+  "title": "Lata Bhagwan Kare",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104608262",
+    "imdb": "tt11434354",
+    "tmdb": 809321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-17"
+}

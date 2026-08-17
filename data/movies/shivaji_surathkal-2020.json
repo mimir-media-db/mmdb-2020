@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shivaji_surathkal_2020",
+  "title": "Shivaji Surathkal",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86756772",
+    "imdb": "tt11779616",
+    "tmdb": 682614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

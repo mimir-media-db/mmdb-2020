@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jantzari_tradizioa_eta_parekidetasuna_2020",
+  "title": "Jantzari: Tradizioa eta parekidetasuna",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115102490",
+    "imdb": "tt13547042",
+    "tmdb": 872611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 70
+}

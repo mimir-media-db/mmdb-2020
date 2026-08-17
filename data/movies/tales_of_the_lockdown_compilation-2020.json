@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tales_of_the_lockdown_compilation_2020",
+  "title": "Tales of the Lockdown (compilation)",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97125946"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}

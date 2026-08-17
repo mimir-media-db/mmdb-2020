@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_last_heretic_2020",
+  "title": "The Last Heretic",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66724723",
+    "imdb": "tt10138126"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tales_from_the_loop",
+  "title": "Tales from the Loop",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q55642202",
+    "imdb": "tt8741290",
+    "tmdb": 93784
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

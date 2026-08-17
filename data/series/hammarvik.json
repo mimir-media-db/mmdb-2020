@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hammarvik",
+  "title": "Hammarvik",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q100709331",
+    "imdb": "tt13017934",
+    "tmdb": 111820
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

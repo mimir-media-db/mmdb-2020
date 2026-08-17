@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_mexicana_y_el_guero",
+  "title": "La mexicana y el güero",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q96592238",
+    "imdb": "tt12572134",
+    "tmdb": 107775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 127
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casting_na_lasku_2020",
+  "title": "Casting na lásku",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81334788",
+    "imdb": "tt12771386",
+    "tmdb": 675356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 83
+}

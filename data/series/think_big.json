@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_think_big",
+  "title": "Think Big!",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q84599718",
+    "imdb": "tt11710778",
+    "tmdb": 57971
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

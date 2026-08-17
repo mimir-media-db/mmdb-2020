@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_yokai_sharehouse",
+  "title": "Yōkai Sharehouse",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97178213",
+    "imdb": "tt12490694",
+    "tmdb": 106848
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pattas_2020",
+  "title": "Pattas",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q82843367",
+    "imdb": "tt10750020",
+    "tmdb": 619188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

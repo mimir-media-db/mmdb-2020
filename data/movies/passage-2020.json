@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passage_2020",
+  "title": "Passage",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108127912",
+    "imdb": "tt11951330",
+    "tmdb": 699972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 81
+}

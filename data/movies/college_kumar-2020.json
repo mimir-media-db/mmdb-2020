@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_college_kumar_2020",
+  "title": "College Kumar",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89187788",
+    "imdb": "tt11859486",
+    "tmdb": 680988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_calming_2020",
+  "title": "The Calming",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85921838",
+    "imdb": "tt11646456",
+    "tmdb": 493862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 89
+}

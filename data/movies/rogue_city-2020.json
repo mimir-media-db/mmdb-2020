@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rogue_city_2020",
+  "title": "Rogue City",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84353735",
+    "imdb": "tt10127684",
+    "tmdb": 671039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 116
+}

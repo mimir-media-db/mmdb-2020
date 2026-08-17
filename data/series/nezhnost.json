@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nezhnost",
+  "title": "Nezhnost",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q111594182",
+    "imdb": "tt13812290",
+    "tmdb": 110244
+  },
+  "last_updated": "2026-08-17"
+}

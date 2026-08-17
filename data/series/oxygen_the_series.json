@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_oxygen_the_series",
+  "title": "Oxygen The Series",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97167064",
+    "imdb": "tt13084920",
+    "tmdb": 106818
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

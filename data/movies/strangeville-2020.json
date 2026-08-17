@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strangeville_2020",
+  "title": "Strangeville",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600168",
+    "imdb": "tt11865992",
+    "tmdb": 750521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

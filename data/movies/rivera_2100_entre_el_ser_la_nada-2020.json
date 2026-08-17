@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rivera_2100_entre_el_ser_la_nada_2020",
+  "title": "Rivera 2100, entre el ser & la nada",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106153797",
+    "imdb": "tt13333370"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 68
+}

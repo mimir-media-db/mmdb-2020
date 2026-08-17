@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gentle_art_of_violence_2020",
+  "title": "The Gentle Art of Violence",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108903518",
+    "imdb": "tt10563172",
+    "tmdb": 738149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 5
+}

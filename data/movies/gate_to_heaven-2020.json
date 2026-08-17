@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gate_to_heaven_2020",
+  "title": "Gate to Heaven",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72865952",
+    "imdb": "tt9045740",
+    "tmdb": 643470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 91
+}

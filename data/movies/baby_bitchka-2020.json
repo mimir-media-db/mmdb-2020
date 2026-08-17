@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baby_bitchka_2020",
+  "title": "Baby Bitchka",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107313808",
+    "imdb": "tt13386006",
+    "tmdb": 843754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_great_ruler",
+  "title": "The Great Ruler",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55697656",
+    "imdb": "tt11698258",
+    "tmdb": 98874
+  },
+  "last_updated": "2026-08-17"
+}

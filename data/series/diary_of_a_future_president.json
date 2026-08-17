@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_diary_of_a_future_president",
+  "title": "Diary of a Future President",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q80683677",
+    "imdb": "tt9695266",
+    "tmdb": 94761
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

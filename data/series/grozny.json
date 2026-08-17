@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grozny",
+  "title": "Grozny",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q86685797",
+    "imdb": "tt13523738",
+    "tmdb": 102642
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_au_pairs",
+  "title": "Au Pairs",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107484484",
+    "imdb": "tt15000658",
+    "tmdb": 129538
+  },
+  "last_updated": "2026-08-17"
+}

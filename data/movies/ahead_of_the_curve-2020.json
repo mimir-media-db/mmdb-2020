@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ahead_of_the_curve_2020",
+  "title": "Ahead of the Curve",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106959372",
+    "imdb": "tt8956926",
+    "tmdb": 716156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 95
+}

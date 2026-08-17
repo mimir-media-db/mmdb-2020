@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_turkler_geliyor_adaletin_klc_2020",
+  "title": "Türkler Geliyor: Adaletin Kılıcı",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80220497",
+    "imdb": "tt11167818",
+    "tmdb": 665766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

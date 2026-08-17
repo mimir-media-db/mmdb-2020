@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stars_above_us_2020",
+  "title": "Stars Above Us",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73518737",
+    "imdb": "tt8779474",
+    "tmdb": 608617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-17",
+  "runtime_minutes": 102
+}

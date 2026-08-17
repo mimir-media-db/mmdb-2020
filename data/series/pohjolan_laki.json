@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pohjolan_laki",
+  "title": "Pohjolan laki",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110446315",
+    "imdb": "tt13535120",
+    "tmdb": 114810
+  },
+  "last_updated": "2026-08-17"
+}

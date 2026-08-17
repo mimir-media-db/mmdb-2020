@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_thin_ice",
+  "title": "Thin Ice",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q84301149",
+    "imdb": "tt11721492",
+    "tmdb": 98982
+  },
+  "last_updated": "2026-08-17"
+}

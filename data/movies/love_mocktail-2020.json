@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_mocktail_2020",
+  "title": "Love Mocktail",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85782465",
+    "imdb": "tt10919132",
+    "tmdb": 672125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

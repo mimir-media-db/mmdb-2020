@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_neighbourhood_guy",
+  "title": "Neighbourhood Guy",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q96951927",
+    "imdb": "tt27953870",
+    "tmdb": 274138
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

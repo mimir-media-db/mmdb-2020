@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_juneteenth_2020",
+  "title": "Miss Juneteenth",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84011065",
+    "imdb": "tt11394158",
+    "tmdb": 653668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 99
+}

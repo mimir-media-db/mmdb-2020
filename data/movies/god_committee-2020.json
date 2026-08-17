@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_god_committee_2020",
+  "title": "The God Committee",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87145464",
+    "imdb": "tt6852526",
+    "tmdb": 653024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

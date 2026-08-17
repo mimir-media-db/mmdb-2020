@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_ein_krimi_aus_passau",
+  "title": "Ein Krimi aus Passau",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98399280"
+  },
+  "last_updated": "2026-08-17"
+}

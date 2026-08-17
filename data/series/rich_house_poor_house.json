@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rich_house_poor_house",
+  "title": "Rich House Poor House",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q95740342",
+    "imdb": "tt11935340",
+    "tmdb": 157649
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 26
+}

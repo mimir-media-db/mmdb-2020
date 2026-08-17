@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_demarcus_family_rules",
+  "title": "DeMarcus Family Rules",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98690989",
+    "imdb": "tt12759420",
+    "tmdb": 107011
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

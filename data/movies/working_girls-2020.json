@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_working_girls_2020",
+  "title": "Working Girls",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96582828",
+    "imdb": "tt11018402",
+    "tmdb": 584355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 91
+}

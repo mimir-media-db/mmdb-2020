@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_go_karts_2020",
+  "title": "Go Karts",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90297034",
+    "imdb": "tt8116640",
+    "tmdb": 520765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_on_pointe",
+  "title": "On Pointe",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109040419",
+    "imdb": "tt11097576",
+    "tmdb": 112804
+  },
+  "last_updated": "2026-08-17"
+}

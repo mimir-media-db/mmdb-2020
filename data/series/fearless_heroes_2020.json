@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_fearless_heroes_2020",
+  "title": "fearless heroes 2020",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q101440901"
+  },
+  "last_updated": "2026-08-17"
+}

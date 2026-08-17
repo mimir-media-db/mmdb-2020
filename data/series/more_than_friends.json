@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_more_than_friends",
+  "title": "More Than Friends",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97232119",
+    "imdb": "tt12879170",
+    "tmdb": 108146
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

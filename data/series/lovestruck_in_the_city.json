@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lovestruck_in_the_city",
+  "title": "Lovestruck in the City",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q101243720",
+    "imdb": "tt13394544",
+    "tmdb": 113710
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 17
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_como_vivem_os_bravos_2020",
+  "title": "Como Vivem os Bravos",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106543390",
+    "tmdb": 719596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

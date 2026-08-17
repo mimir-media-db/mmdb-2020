@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_involuntary_retirements_2020",
+  "title": "(In)Voluntary Retirements",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140111764",
+    "imdb": "tt13519018",
+    "tmdb": 763654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 85
+}

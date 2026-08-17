@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_claus_family_2020",
+  "title": "The Claus Family",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92135195",
+    "imdb": "tt12459520",
+    "tmdb": 767896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

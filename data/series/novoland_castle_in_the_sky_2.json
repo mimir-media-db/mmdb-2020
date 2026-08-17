@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_novoland_castle_in_the_sky_2",
+  "title": "Novoland: Castle in the Sky 2",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q85874688",
+    "imdb": "tt10856216",
+    "tmdb": 124702
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 34
+}

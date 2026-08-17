@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ein_tag_in_auschwitz_2020",
+  "title": "Ein Tag in Auschwitz",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126718249",
+    "imdb": "tt12868026",
+    "tmdb": 669939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

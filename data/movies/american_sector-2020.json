@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_sector_2020",
+  "title": "The American Sector",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85293230",
+    "imdb": "tt9656126",
+    "tmdb": 665732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 70
+}

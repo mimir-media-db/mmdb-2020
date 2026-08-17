@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_there_be_colour_2020",
+  "title": "Let There Be Colour",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135236027",
+    "imdb": "tt11823094",
+    "tmdb": 733682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

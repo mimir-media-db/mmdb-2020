@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fight_lah_kopitiam_2020",
+  "title": "Fight Lah! Kopitiam",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83797874",
+    "imdb": "tt11663090",
+    "tmdb": 666440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

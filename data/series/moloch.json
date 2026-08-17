@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_moloch",
+  "title": "Moloch",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q100742466",
+    "imdb": "tt10370486",
+    "tmdb": 111133
+  },
+  "last_updated": "2026-08-17"
+}

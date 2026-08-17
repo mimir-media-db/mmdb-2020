@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_kitty_and_friends_supercute_adventures",
+  "title": "Hello Kitty and Friends Supercute Adventures",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108674010",
+    "imdb": "tt13352178",
+    "tmdb": 121922
+  },
+  "last_updated": "2026-08-17"
+}

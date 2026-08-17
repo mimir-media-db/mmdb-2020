@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_butimar",
+  "title": "Butimar",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q112083153",
+    "imdb": "tt14643548",
+    "tmdb": 257769
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 20,
+  "total_episodes": 1
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_tenant_2020",
+  "title": "Dear tenant",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97161350",
+    "imdb": "tt12359272",
+    "tmdb": 721482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

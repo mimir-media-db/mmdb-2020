@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ambiance_2020",
+  "title": "Ambiancé",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23901473",
+    "imdb": "tt3854496",
+    "tmdb": 1287471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 43200
+}

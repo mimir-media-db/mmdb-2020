@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_walking_dead_world_beyond",
+  "title": "The Walking Dead: World Beyond",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q77422787",
+    "imdb": "tt10148174",
+    "tmdb": 94305
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

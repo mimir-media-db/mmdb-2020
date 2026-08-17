@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glorias_2020",
+  "title": "The Glorias",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737551",
+    "imdb": "tt7435316",
+    "tmdb": 519056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 139
+}

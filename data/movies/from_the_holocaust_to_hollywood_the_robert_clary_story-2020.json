@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_from_the_holocaust_to_hollywood_the_robert_clary_story_2020",
+  "title": "From the Holocaust to Hollywood: The Robert Clary Story",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643489",
+    "imdb": "tt13266018"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 49
+}

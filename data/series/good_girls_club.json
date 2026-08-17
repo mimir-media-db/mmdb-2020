@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_girls_club",
+  "title": "The Good Girls Club",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106459627",
+    "imdb": "tt13304884",
+    "tmdb": 114899
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

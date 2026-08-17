@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grandfather",
+  "title": "Grandfather",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109660991",
+    "imdb": "tt11065106",
+    "tmdb": 108668
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 26
+}

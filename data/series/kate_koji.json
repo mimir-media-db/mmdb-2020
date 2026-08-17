@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kate_koji",
+  "title": "Kate & Koji",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q95682054",
+    "imdb": "tt10949294",
+    "tmdb": 100678
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caution_children_at_play_2020",
+  "title": "Caution! Children at Play!",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113286804",
+    "imdb": "tt14982448",
+    "tmdb": 778746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

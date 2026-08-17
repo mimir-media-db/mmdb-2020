@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_least_expected_day_inside_the_movistar_team_2019",
+  "title": "The Least Expected Day: Inside the Movistar Team 2019",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q90350087",
+    "imdb": "tt12048124",
+    "tmdb": 101262
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

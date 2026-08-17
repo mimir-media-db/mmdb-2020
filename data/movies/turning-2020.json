@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_turning_2020",
+  "title": "The Turning",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52151357",
+    "imdb": "tt7510346",
+    "tmdb": 492611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_inequity_2020",
+  "title": "House Of Inequity",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543952",
+    "imdb": "tt5598934",
+    "tmdb": 852910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 107
+}

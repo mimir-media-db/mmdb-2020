@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_nino_de_fuego_2020",
+  "title": "El Niño de Fuego",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110800884",
+    "imdb": "tt13920194",
+    "tmdb": 790133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_guaranteed_2020",
+  "title": "Love, Guaranteed",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98910124",
+    "imdb": "tt11100856",
+    "tmdb": 644090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}

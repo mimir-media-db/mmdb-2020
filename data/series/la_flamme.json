@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_flamme",
+  "title": "La Flamme",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q100320809",
+    "imdb": "tt13286778",
+    "tmdb": 94626
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

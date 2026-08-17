@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tfw_no_gf_2020",
+  "title": "TFW NO GF",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91370374",
+    "imdb": "tt11602648",
+    "tmdb": 664302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 71
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nana_et_les_filles_du_bord_de_mer_2020",
+  "title": "Nana et les Filles du bord de mer",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98094621",
+    "imdb": "tt12828136",
+    "tmdb": 722810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 78
+}

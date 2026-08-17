@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jerry_seinfeld_23_hours_to_kill_2020",
+  "title": "Jerry Seinfeld: 23 Hours to Kill",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93438612",
+    "imdb": "tt12117854",
+    "tmdb": 696000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

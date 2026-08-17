@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mighty_ones",
+  "title": "The Mighty Ones",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107694952",
+    "imdb": "tt11714946",
+    "tmdb": 112063
+  },
+  "last_updated": "2026-08-17"
+}

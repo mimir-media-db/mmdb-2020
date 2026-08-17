@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_balkan_line_2020",
+  "title": "The Balkan Line",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45740018",
+    "imdb": "tt5951188",
+    "tmdb": 517093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-02",
+  "runtime_minutes": 130
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fallen_2020",
+  "title": "The Fallen",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73877771",
+    "imdb": "tt12397304",
+    "tmdb": 641705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

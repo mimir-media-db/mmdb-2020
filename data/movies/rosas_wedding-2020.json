@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rosas_wedding_2020",
+  "title": "Rosa's Wedding",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99372801",
+    "imdb": "tt10077544",
+    "tmdb": 679888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 99
+}

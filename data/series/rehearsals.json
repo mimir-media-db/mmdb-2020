@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rehearsals",
+  "title": "Rehearsals",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q111606451",
+    "imdb": "tt13464060",
+    "tmdb": 112941
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

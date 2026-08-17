@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_e_sorte",
+  "title": "Amor e Sorte",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q100516104",
+    "imdb": "tt13029484",
+    "tmdb": 109483
+  },
+  "last_updated": "2026-08-17"
+}

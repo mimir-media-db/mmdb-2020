@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_postales_2020",
+  "title": "Postales",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140385015",
+    "imdb": "tt22866192"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 43
+}

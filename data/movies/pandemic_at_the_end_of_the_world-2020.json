@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pandemic_at_the_end_of_the_world_2020",
+  "title": "Pandemic At the End of the World",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130641181",
+    "imdb": "tt16102382",
+    "tmdb": 753353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

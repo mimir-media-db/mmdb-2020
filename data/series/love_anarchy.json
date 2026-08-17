@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_anarchy",
+  "title": "Love & Anarchy",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85782411",
+    "imdb": "tt10888876",
+    "tmdb": 111743
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

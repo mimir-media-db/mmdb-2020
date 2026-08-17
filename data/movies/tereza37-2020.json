@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tereza37_2020",
+  "title": "Tereza37",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100980095",
+    "imdb": "tt12794392",
+    "tmdb": 763806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 100
+}

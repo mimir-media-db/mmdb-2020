@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hager_2020",
+  "title": "Hager",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87189269",
+    "imdb": "tt6698964",
+    "tmdb": 460290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

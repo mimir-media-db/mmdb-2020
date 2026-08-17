@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tribal",
+  "title": "Tribal",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q90158084",
+    "imdb": "tt9108604",
+    "tmdb": 99673
+  },
+  "last_updated": "2026-08-17"
+}

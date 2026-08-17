@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jingle_jangle_a_christmas_journey_2020",
+  "title": "Jingle Jangle: A Christmas Journey",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65091103",
+    "imdb": "tt7736496",
+    "tmdb": 622855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

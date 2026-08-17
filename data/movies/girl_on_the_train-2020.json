@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_on_the_train_2020",
+  "title": "The Girl on the Train",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85807258",
+    "imdb": "tt8907992",
+    "tmdb": 695958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 112
+}

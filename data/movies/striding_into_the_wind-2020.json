@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_striding_into_the_wind_2020",
+  "title": "Striding Into The Wind",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105712763",
+    "imdb": "tt11090178",
+    "tmdb": 712164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

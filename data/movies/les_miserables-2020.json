@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_miserables_2020",
+  "title": "Les Misérables",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63246549",
+    "imdb": "tt10199590",
+    "tmdb": 586863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-23",
+  "runtime_minutes": 103
+}

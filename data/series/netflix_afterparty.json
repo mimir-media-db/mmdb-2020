@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_netflix_afterparty",
+  "title": "The Netflix Afterparty",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104858101",
+    "imdb": "tt13521850",
+    "tmdb": 115549
+  },
+  "last_updated": "2026-08-17"
+}

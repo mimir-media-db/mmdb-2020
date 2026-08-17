@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kinderwood",
+  "title": "Kinderwood",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q104835175",
+    "imdb": "tt13574872",
+    "tmdb": 126284
+  },
+  "last_updated": "2026-08-17"
+}

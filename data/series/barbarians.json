@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_barbarians",
+  "title": "Barbarians",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q99591764",
+    "imdb": "tt9184986",
+    "tmdb": 93785
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

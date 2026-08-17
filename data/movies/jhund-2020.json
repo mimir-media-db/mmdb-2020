@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jhund_2020",
+  "title": "Jhund",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65077997",
+    "imdb": "tt8983228",
+    "tmdb": 665685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ok_its_fine_2020",
+  "title": "Ok, It's Fine…",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117843075",
+    "imdb": "tt10101246",
+    "tmdb": 613013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 91
+}

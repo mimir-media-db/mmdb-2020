@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dwitiyo_purush_2020",
+  "title": "Dwitiyo Purush",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81051411",
+    "imdb": "tt10778840",
+    "tmdb": 665671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

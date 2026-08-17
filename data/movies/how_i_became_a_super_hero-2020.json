@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_i_became_a_super_hero_2020",
+  "title": "How I Became a Super Hero",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72848555",
+    "imdb": "tt10345590",
+    "tmdb": 641501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 97
+}

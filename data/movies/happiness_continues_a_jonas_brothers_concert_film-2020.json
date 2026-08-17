@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happiness_continues_a_jonas_brothers_concert_film_2020",
+  "title": "Happiness Continues: A Jonas Brothers Concert Film",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97124795",
+    "imdb": "tt12179472",
+    "tmdb": 696396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

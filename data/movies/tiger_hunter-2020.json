@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_hunter_2020",
+  "title": "Tiger Hunter",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120756890",
+    "imdb": "tt12358728",
+    "tmdb": 704235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

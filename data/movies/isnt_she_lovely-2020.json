@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_isnt_she_lovely_2020",
+  "title": "Isn't She Lovely?",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96775064",
+    "imdb": "tt7438706",
+    "tmdb": 701437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 91
+}

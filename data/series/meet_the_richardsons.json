@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_meet_the_richardsons",
+  "title": "Meet the Richardsons",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96392514",
+    "imdb": "tt11824218",
+    "tmdb": 90241
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

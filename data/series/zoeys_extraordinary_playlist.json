@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zoeys_extraordinary_playlist",
+  "title": "Zoey's Extraordinary Playlist",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q65069235",
+    "imdb": "tt10314462",
+    "tmdb": 95941
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 25
+}

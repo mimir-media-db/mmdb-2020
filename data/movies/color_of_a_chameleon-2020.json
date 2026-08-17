@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_color_of_a_chameleon_2020",
+  "title": "The Color of a Chameleon",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101115901",
+    "imdb": "tt6469914",
+    "tmdb": 756392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

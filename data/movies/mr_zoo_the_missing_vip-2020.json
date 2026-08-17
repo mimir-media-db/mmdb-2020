@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_zoo_the_missing_vip_2020",
+  "title": "Mr. Zoo: The Missing VIP",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65248979",
+    "imdb": "tt11566166",
+    "tmdb": 572197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-22",
+  "runtime_minutes": 114
+}

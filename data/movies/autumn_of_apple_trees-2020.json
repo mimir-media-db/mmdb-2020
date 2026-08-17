@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_autumn_of_apple_trees_2020",
+  "title": "Autumn of Apple Trees",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87372394",
+    "imdb": "tt11223476",
+    "tmdb": 815150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 120
+}

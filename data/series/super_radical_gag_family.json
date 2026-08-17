@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_super_radical_gag_family",
+  "title": "Super Radical Gag Family",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97420458",
+    "imdb": "tt13428586",
+    "tmdb": 107871
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

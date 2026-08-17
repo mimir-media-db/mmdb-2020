@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_gear_and_your_gown",
+  "title": "My Gear and Your Gown",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97159317",
+    "imdb": "tt13180414",
+    "tmdb": 109772
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

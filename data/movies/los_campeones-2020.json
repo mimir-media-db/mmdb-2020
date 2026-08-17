@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_los_campeones_2020",
+  "title": "Los Campeones",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124540639",
+    "tmdb": 939544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

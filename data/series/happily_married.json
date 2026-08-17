@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_happily_married",
+  "title": "Happily Married",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q82804234",
+    "imdb": "tt11388348",
+    "tmdb": 97198
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 28
+}

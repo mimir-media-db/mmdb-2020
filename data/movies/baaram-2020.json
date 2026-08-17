@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baaram_2020",
+  "title": "Baaram",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66475661",
+    "imdb": "tt9277762",
+    "tmdb": 586095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

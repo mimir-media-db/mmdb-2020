@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_forensic_heroes_iv",
+  "title": "Forensic Heroes IV",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q60991751",
+    "imdb": "tt10280034",
+    "tmdb": 93874
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

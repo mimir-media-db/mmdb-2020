@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mafia_nights",
+  "title": "Mafia Nights",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102290539",
+    "imdb": "tt15127174",
+    "tmdb": 137503
+  },
+  "last_updated": "2026-08-17"
+}

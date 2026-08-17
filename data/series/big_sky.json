@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_sky",
+  "title": "Big Sky",
+  "start_year": 2020,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q96373540",
+    "imdb": "tt11794642",
+    "tmdb": 100010
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 47
+}

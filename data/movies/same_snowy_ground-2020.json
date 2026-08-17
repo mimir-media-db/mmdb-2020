@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_same_snowy_ground_2020",
+  "title": "The Same Snowy Ground",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98355935",
+    "imdb": "tt8621770",
+    "tmdb": 919655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 43
+}

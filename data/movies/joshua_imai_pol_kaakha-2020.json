@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_joshua_imai_pol_kaakha_2020",
+  "title": "Joshua Imai Pol Kaakha",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77905964",
+    "imdb": "tt11216522",
+    "tmdb": 652784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

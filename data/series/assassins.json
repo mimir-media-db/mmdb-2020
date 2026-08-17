@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_assassins",
+  "title": "Assassins",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q104599262",
+    "imdb": "tt13358616",
+    "tmdb": 115089
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

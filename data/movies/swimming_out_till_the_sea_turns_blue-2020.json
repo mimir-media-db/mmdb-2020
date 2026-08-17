@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swimming_out_till_the_sea_turns_blue_2020",
+  "title": "Swimming Out Till the Sea Turns Blue",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85873664",
+    "imdb": "tt10374360",
+    "tmdb": 601368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 112
+}

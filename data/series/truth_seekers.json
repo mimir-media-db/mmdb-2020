@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_truth_seekers",
+  "title": "Truth Seekers",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q48815266",
+    "imdb": "tt7907922",
+    "tmdb": 92209
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

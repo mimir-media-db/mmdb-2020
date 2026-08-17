@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dharala_prabhu_2020",
+  "title": "Dharala Prabhu",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96219243",
+    "imdb": "tt11731984",
+    "tmdb": 680943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

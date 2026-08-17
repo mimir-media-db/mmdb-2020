@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babysitters_guide_to_monster_hunting_2020",
+  "title": "A Babysitter's Guide to Monster Hunting",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99982067",
+    "imdb": "tt4844150",
+    "tmdb": 624963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 94
+}

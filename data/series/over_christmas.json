@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_over_christmas",
+  "title": "Over Christmas",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q100941675",
+    "imdb": "tt11951234",
+    "tmdb": 112538
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ben_platt_live_from_radio_city_music_hall_2020",
+  "title": "Ben Platt Live from Radio City Music Hall",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95463223",
+    "imdb": "tt11000894",
+    "tmdb": 699210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 85
+}

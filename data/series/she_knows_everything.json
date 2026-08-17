@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_she_knows_everything",
+  "title": "She Knows Everything",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96246978",
+    "imdb": "tt12538770",
+    "tmdb": 104308
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

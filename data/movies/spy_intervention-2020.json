@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spy_intervention_2020",
+  "title": "Spy Intervention",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85802770",
+    "imdb": "tt7369550",
+    "tmdb": 663255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}

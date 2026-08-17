@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sein_gesund_bewusst_lebendig_2020",
+  "title": "SEIN – gesund, bewusst, lebendig",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83872266",
+    "imdb": "tt12843654",
+    "tmdb": 730079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 106
+}

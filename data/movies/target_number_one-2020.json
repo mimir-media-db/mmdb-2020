@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_target_number_one_2020",
+  "title": "Target Number One",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96393967",
+    "imdb": "tt1656177",
+    "tmdb": 526973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 125
+}

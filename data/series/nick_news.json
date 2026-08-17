@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nick_news",
+  "title": "Nick News",
+  "start_year": 2020,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7027604",
+    "imdb": "tt0266165",
+    "tmdb": 3959
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 24,
+  "total_episodes": 178
+}

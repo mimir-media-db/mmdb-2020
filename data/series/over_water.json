@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_over_water",
+  "title": "Over water",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q62398064",
+    "imdb": "tt7281630",
+    "tmdb": 79876
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

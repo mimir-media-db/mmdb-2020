@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pognali",
+  "title": "Pognali",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q111594315",
+    "imdb": "tt13529974",
+    "tmdb": 105719
+  },
+  "last_updated": "2026-08-17"
+}

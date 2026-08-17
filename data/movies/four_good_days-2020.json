@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_good_days_2020",
+  "title": "Four Good Days",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73534675",
+    "imdb": "tt10344522",
+    "tmdb": 641960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 100
+}

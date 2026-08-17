@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_lies_below_2020",
+  "title": "What Lies Below",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101445683",
+    "imdb": "tt9264728",
+    "tmdb": 716703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 87
+}

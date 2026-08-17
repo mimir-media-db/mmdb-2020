@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_palace_of_serendipity",
+  "title": "Palace of Serendipity",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q125354555",
+    "tmdb": 114970
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

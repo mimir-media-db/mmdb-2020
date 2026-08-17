@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_d2_train_to_the_end_of_the_world_2020",
+  "title": "D2: Train to the End of the World",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104895943",
+    "imdb": "tt11917636",
+    "tmdb": 738313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 77
+}

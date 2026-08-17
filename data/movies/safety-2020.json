@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_safety_2020",
+  "title": "Safety",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73897634",
+    "imdb": "tt10649016",
+    "tmdb": 727306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

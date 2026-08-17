@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_donzela_guerreira_2020",
+  "title": "Donzela Guerreira",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140267188",
+    "imdb": "tt8094890",
+    "tmdb": 760291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

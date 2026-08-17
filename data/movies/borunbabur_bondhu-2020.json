@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_borunbabur_bondhu_2020",
+  "title": "Borunbabur Bondhu",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79781208",
+    "imdb": "tt11497378",
+    "tmdb": 679791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-10"
+}

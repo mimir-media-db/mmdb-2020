@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_best_friends_story",
+  "title": "My Best Friend's Story",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105212144",
+    "imdb": "tt12234182",
+    "tmdb": 115479
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 38
+}

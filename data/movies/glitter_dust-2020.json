@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glitter_dust_2020",
+  "title": "Glitter & Dust",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98843083",
+    "imdb": "tt13361238",
+    "tmdb": 667338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-22",
+  "runtime_minutes": 91
+}

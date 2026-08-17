@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_timoucha",
+  "title": "Timoucha",
+  "start_year": 2020,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q132801490",
+    "imdb": "tt36085136"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 73
+}

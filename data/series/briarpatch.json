@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_briarpatch",
+  "title": "Briarpatch",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q80740496",
+    "imdb": "tt8289758",
+    "tmdb": 86164
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rose_family_2020",
+  "title": "The Rose Family",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245378",
+    "imdb": "tt12854806",
+    "tmdb": 733123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

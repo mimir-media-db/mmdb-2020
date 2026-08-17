@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sister_of_the_groom_2020",
+  "title": "Sister of the Groom",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96405780",
+    "imdb": "tt9222438",
+    "tmdb": 738642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 92
+}

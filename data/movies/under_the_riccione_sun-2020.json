@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_riccione_sun_2020",
+  "title": "Under the Riccione Sun",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96778948",
+    "imdb": "tt10941528",
+    "tmdb": 694234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

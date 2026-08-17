@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweetie_you_wont_believe_it_2020",
+  "title": "Sweetie, You Won't Believe It",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108945728",
+    "imdb": "tt13236334",
+    "tmdb": 681880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 84
+}

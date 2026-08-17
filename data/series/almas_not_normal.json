@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_almas_not_normal",
+  "title": "Alma's Not Normal",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108532525",
+    "imdb": "tt12106710",
+    "tmdb": 106161
+  },
+  "last_updated": "2026-08-17"
+}

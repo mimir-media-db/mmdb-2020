@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_came_back_2020",
+  "title": "You Came Back",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97925354",
+    "imdb": "tt9421456",
+    "tmdb": 654902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 98
+}

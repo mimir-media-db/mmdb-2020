@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_big_women_2020",
+  "title": "Little Big Women",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104051116",
+    "imdb": "tt12397078",
+    "tmdb": 739269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

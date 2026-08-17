@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_slim_2020",
+  "title": "Queen & Slim",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60683357",
+    "imdb": "tt8722346",
+    "tmdb": 536743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-09",
+  "runtime_minutes": 132
+}

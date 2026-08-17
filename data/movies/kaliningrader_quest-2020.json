@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaliningrader_quest_2020",
+  "title": "Kaliningrader Quest",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116833148",
+    "imdb": "tt9420380",
+    "tmdb": 1513752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

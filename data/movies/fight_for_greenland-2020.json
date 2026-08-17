@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fight_for_greenland_2020",
+  "title": "The Fight for Greenland",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87126410",
+    "imdb": "tt11874662",
+    "tmdb": 671125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nabab_llb_2020",
+  "title": "Nabab LLB",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92769190",
+    "imdb": "tt13793498",
+    "tmdb": 901253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

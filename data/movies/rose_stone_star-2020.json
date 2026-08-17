@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rose_stone_star_2020",
+  "title": "Rose Stone Star",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61924960",
+    "imdb": "tt9897258",
+    "tmdb": 662940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-24",
+  "runtime_minutes": 94
+}

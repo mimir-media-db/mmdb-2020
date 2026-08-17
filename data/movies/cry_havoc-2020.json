@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cry_havoc_2020",
+  "title": "Cry Havoc",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136001877",
+    "imdb": "tt12158538",
+    "tmdb": 648168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 85
+}

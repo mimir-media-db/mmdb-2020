@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_milestone_2020",
+  "title": "Milestone",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104855155",
+    "imdb": "tt12779208",
+    "tmdb": 728133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

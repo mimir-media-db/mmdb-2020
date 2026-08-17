@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jathi_ratnalu_2020",
+  "title": "Jathi Ratnalu",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85770972",
+    "imdb": "tt11306376",
+    "tmdb": 796368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_something_just_like_this",
+  "title": "Something Just Like This",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97165710",
+    "imdb": "tt11384218",
+    "tmdb": 96111
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 47
+}

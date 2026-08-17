@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_corona_2020",
+  "title": "Corona",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92801637",
+    "imdb": "tt11766262",
+    "tmdb": 694133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

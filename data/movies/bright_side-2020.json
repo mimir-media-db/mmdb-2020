@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bright_side_2020",
+  "title": "The Bright Side",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102158716",
+    "imdb": "tt13641244",
+    "tmdb": 761890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

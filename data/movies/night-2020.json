@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_2020",
+  "title": "The Night",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85966825",
+    "imdb": "tt8102806",
+    "tmdb": 746781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

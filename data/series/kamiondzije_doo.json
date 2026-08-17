@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kamiondzije_doo",
+  "title": "Kamiondzije d.o.o.",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97329379",
+    "imdb": "tt12463898",
+    "tmdb": 115564
+  },
+  "last_updated": "2026-08-17"
+}

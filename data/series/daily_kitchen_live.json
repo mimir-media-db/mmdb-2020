@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_daily_kitchen_live",
+  "title": "Daily Kitchen Live",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q96375889"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_your_home_planet_2020",
+  "title": "Your Home Planet",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107613970"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

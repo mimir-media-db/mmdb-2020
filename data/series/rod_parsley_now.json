@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rod_parsley_now",
+  "title": "Rod Parsley Now",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96273370",
+    "imdb": "tt0278236",
+    "tmdb": 41400
+  },
+  "last_updated": "2026-08-17"
+}

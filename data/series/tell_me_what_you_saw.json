@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tell_me_what_you_saw",
+  "title": "Tell Me What You Saw",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q77728605",
+    "imdb": "tt11557904",
+    "tmdb": 96041
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dream_home_makeover",
+  "title": "Dream Home Makeover",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q100952350",
+    "imdb": "tt13161310",
+    "tmdb": 111597
+  },
+  "last_updated": "2026-08-17"
+}

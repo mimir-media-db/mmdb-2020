@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_care_a_lot_2020",
+  "title": "I Care a Lot",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66688968",
+    "imdb": "tt9893250",
+    "tmdb": 601666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 118
+}

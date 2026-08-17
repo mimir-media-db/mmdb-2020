@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_18_again",
+  "title": "18 Again",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97421688",
+    "imdb": "tt12846096",
+    "tmdb": 99654
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

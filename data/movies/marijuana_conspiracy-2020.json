@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marijuana_conspiracy_2020",
+  "title": "The Marijuana Conspiracy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106514960",
+    "imdb": "tt8461042",
+    "tmdb": 728922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 124
+}

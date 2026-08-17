@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boys_state_2020",
+  "title": "Boys State",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96373878",
+    "imdb": "tt11095742",
+    "tmdb": 653723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_katy_keene",
+  "title": "Katy Keene",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q63608626",
+    "imdb": "tt10312964",
+    "tmdb": 87539
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

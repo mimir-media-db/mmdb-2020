@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lamento_2020",
+  "title": "Lamento",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108828662",
+    "imdb": "tt13452548",
+    "tmdb": 882423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 16
+}

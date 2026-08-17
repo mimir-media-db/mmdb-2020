@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_one_lane_bridge",
+  "title": "One Lane Bridge",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108645671",
+    "imdb": "tt10901134",
+    "tmdb": 102278
+  },
+  "last_updated": "2026-08-17"
+}

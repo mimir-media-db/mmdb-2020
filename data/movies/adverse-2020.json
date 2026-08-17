@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adverse_2020",
+  "title": "Adverse",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65061077",
+    "imdb": "tt8597594",
+    "tmdb": 661020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 94
+}

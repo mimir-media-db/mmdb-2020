@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_high_ground_2020",
+  "title": "High Ground",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87654420",
+    "imdb": "tt9286908",
+    "tmdb": 522466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 104
+}

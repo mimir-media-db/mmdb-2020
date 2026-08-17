@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_run_for_young",
+  "title": "Run for Young",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q109342594",
+    "imdb": "tt11502620",
+    "tmdb": 110518
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

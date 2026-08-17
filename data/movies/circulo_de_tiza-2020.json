@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_circulo_de_tiza_2020",
+  "title": "Círculo de tiza",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123553227",
+    "imdb": "tt13096232",
+    "tmdb": 738222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

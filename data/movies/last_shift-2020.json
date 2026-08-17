@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_shift_2020",
+  "title": "The Last Shift",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83726977",
+    "imdb": "tt10661180",
+    "tmdb": 653606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

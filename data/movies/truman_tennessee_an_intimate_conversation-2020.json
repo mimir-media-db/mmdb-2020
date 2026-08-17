@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_truman_tennessee_an_intimate_conversation_2020",
+  "title": "Truman & Tennessee: An Intimate Conversation",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121832829",
+    "imdb": "tt13016030",
+    "tmdb": 730081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ga_doo_ris_sushi_restaurant",
+  "title": "Ga Doo Ri's Sushi Restaurant",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q124514643",
+    "imdb": "tt13846168",
+    "tmdb": 104686
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

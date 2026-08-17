@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_business_ethics_2020",
+  "title": "Business Ethics",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116197062",
+    "imdb": "tt6003660",
+    "tmdb": 483471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

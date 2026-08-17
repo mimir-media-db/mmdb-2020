@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wonder_boy_2020",
+  "title": "Wonder Boy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q82231638",
+    "imdb": "tt9176600",
+    "tmdb": 639947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-16",
+  "runtime_minutes": 99
+}

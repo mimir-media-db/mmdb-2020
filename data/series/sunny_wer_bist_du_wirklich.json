@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sunny_wer_bist_du_wirklich",
+  "title": "Sunny - Wer bist du wirklich?",
+  "start_year": 2020,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q99891788",
+    "imdb": "tt12605626",
+    "tmdb": 110386
+  },
+  "last_updated": "2026-08-17"
+}

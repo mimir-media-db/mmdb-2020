@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dday_and_the_dambusters_2020",
+  "title": "D-Day and the Dambusters",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643486",
+    "imdb": "tt14321126"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

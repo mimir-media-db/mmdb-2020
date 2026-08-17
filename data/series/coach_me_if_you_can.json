@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_coach_me_if_you_can",
+  "title": "Coach Me If You Can",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109314749",
+    "imdb": "tt13222170",
+    "tmdb": 123086
+  },
+  "last_updated": "2026-08-17"
+}

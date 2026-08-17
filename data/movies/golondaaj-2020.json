@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golondaaj_2020",
+  "title": "Golondaaj",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84430773",
+    "imdb": "tt11755300",
+    "tmdb": 713037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

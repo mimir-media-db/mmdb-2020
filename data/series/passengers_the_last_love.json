@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_passengers_the_last_love",
+  "title": "Passengers. The Last Love",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105610302",
+    "imdb": "tt13711860",
+    "tmdb": 111934
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

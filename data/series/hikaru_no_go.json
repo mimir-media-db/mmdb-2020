@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hikaru_no_go",
+  "title": "Hikaru no Go",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97160902",
+    "imdb": "tt13364846",
+    "tmdb": 112217
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}

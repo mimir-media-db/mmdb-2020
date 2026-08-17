@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_county_2020",
+  "title": "The County",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66587557",
+    "imdb": "tt8390612",
+    "tmdb": 575559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-09",
+  "runtime_minutes": 92
+}

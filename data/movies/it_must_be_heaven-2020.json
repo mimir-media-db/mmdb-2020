@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_must_be_heaven_2020",
+  "title": "It Must Be Heaven",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63226387",
+    "imdb": "tt8359842",
+    "tmdb": 539531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-16",
+  "runtime_minutes": 97
+}

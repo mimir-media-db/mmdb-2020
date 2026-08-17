@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_violent_heart_2020",
+  "title": "The Violent Heart",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61851090",
+    "imdb": "tt8310476",
+    "tmdb": 681437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

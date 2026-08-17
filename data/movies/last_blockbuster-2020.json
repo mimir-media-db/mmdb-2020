@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_blockbuster_2020",
+  "title": "The Last Blockbuster",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106298449",
+    "imdb": "tt8704802",
+    "tmdb": 694681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

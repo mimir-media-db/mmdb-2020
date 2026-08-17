@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_unseen",
+  "title": "Unseen",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109040575",
+    "imdb": "tt13505052",
+    "tmdb": 113574
+  },
+  "last_updated": "2026-08-17"
+}

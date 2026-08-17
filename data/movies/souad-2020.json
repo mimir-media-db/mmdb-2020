@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_souad_2020",
+  "title": "Souad",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96406049",
+    "imdb": "tt12444454",
+    "tmdb": 712131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 96
+}

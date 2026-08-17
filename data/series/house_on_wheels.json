@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_house_on_wheels",
+  "title": "House on Wheels",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q96775031",
+    "imdb": "tt12834178",
+    "tmdb": 104691
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 35
+}

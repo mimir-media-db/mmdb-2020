@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_melkein_mensa",
+  "title": "Melkein Mensa",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110446308",
+    "imdb": "tt15267784",
+    "tmdb": 277428
+  },
+  "last_updated": "2026-08-17"
+}

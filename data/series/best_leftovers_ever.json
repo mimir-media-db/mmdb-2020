@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_best_leftovers_ever",
+  "title": "Best Leftovers Ever!",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104602425",
+    "imdb": "tt13563634",
+    "tmdb": 115555
+  },
+  "last_updated": "2026-08-17"
+}

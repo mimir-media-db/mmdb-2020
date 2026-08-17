@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daisy_quokka_worlds_scariest_animal_2020",
+  "title": "Daisy Quokka: World's Scariest Animal",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107524881",
+    "imdb": "tt11482894",
+    "tmdb": 778814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 89
+}

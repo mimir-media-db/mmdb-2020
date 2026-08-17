@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_warten_aufn_bus",
+  "title": "Warten auf’n Bus",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q90886978",
+    "imdb": "tt12203396",
+    "tmdb": 102538
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

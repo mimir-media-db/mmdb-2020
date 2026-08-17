@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jinde_meriye_2020",
+  "title": "Jinde Meriye",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77906051",
+    "imdb": "tt10984686",
+    "tmdb": 666340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-24"
+}

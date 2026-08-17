@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lassemajas_detektivbyra",
+  "title": "LasseMajas detektivbyrå",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104586918",
+    "imdb": "tt13614746",
+    "tmdb": 115266
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_against_all_2020",
+  "title": "All Against All",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107200919",
+    "imdb": "tt10602144",
+    "tmdb": 634539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 105
+}

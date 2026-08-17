@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jimmy_o_yang_good_deal_2020",
+  "title": "Jimmy O. Yang: Good Deal",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96248657",
+    "imdb": "tt11250926",
+    "tmdb": 699198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 57
+}

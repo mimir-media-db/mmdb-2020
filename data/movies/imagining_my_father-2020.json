@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_imagining_my_father_2020",
+  "title": "Imagining my Father",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76942101",
+    "imdb": "tt11243224"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 25
+}

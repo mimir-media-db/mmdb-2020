@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_de_erfgenaam",
+  "title": "De Erfgenaam",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113611235",
+    "imdb": "tt29668138",
+    "tmdb": 112762
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 17
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_how_to_buy_a_friend",
+  "title": "How to Buy a Friend",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q87627249",
+    "imdb": "tt13860124",
+    "tmdb": 100998
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

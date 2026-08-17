@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_were_meji_2020",
+  "title": "Were Meji",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100152089"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

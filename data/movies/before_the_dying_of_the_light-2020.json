@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_the_dying_of_the_light_2020",
+  "title": "Before the Dying of the Light",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109570535",
+    "imdb": "tt14111156",
+    "tmdb": 768223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gr5",
+  "title": "GR5",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q88364930",
+    "imdb": "tt8121156",
+    "tmdb": 101791
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

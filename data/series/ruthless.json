@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ruthless",
+  "title": "Ruthless",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q82129416",
+    "imdb": "tt11306366",
+    "tmdb": 100575
+  },
+  "last_updated": "2026-08-17"
+}

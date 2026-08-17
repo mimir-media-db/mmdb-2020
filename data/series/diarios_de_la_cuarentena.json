@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_diarios_de_la_cuarentena",
+  "title": "Diarios de la cuarentena",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q89837647",
+    "imdb": "tt12072898",
+    "tmdb": 101948
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

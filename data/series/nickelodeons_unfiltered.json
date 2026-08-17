@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nickelodeons_unfiltered",
+  "title": "Nickelodeon's Unfiltered",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q96418440",
+    "imdb": "tt12541722",
+    "tmdb": 105289
+  },
+  "last_updated": "2026-08-17"
+}

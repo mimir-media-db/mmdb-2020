@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_held_in_the_lonely_castle",
+  "title": "Held in the Lonely Castle",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60740592",
+    "imdb": "tt10380642",
+    "tmdb": 87841
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 69
+}

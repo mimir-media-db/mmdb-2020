@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_love_monster",
+  "title": "Love Monster",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85782467",
+    "imdb": "tt11437474",
+    "tmdb": 98101
+  },
+  "last_updated": "2026-08-17"
+}

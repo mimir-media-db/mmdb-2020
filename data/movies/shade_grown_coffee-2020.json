@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shade_grown_coffee_2020",
+  "title": "Shade grown coffee",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117311116",
+    "imdb": "tt12026324",
+    "tmdb": 643367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 76
+}

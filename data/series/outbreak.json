@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_outbreak",
+  "title": "Outbreak",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q90856785",
+    "imdb": "tt11198202",
+    "tmdb": 95515
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

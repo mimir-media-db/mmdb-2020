@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_binge_reloaded",
+  "title": "Binge Reloaded",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102225515",
+    "imdb": "tt13468658",
+    "tmdb": 112659
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

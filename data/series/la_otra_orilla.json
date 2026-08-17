@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_la_otra_orilla",
+  "title": "La Otra Orilla",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97885939",
+    "imdb": "tt12854938",
+    "tmdb": 157885
+  },
+  "last_updated": "2026-08-17"
+}

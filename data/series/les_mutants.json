@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_mutants",
+  "title": "Les Mutants",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q86664214",
+    "imdb": "tt12972208",
+    "tmdb": 93670
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 50
+}

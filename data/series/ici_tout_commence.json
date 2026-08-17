@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ici_tout_commence",
+  "title": "Ici tout commence",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97276119",
+    "imdb": "tt13392064",
+    "tmdb": 112470
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 848
+}

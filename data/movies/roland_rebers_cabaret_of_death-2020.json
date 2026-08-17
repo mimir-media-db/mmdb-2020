@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roland_rebers_cabaret_of_death_2020",
+  "title": "Roland Reber's Cabaret of Death",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68705056",
+    "imdb": "tt11143286",
+    "tmdb": 649497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-23",
+  "runtime_minutes": 93
+}

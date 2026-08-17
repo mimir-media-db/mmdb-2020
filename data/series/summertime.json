@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_summertime",
+  "title": "Summertime",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q92490540",
+    "imdb": "tt11269886",
+    "tmdb": 100333
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

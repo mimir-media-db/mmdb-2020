@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rashmi_rocket_2020",
+  "title": "Rashmi Rocket",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75174902",
+    "imdb": "tt10895556",
+    "tmdb": 794819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

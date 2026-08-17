@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fugitive",
+  "title": "The Fugitive",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85807230",
+    "imdb": "tt10623550",
+    "tmdb": 98950
+  },
+  "last_updated": "2026-08-17"
+}

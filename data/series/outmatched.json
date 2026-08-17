@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_outmatched",
+  "title": "Outmatched",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65069772",
+    "imdb": "tt10327294",
+    "tmdb": 96652
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

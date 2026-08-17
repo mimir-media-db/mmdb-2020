@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cube",
+  "title": "The Cube",
+  "start_year": 2020,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q609711",
+    "imdb": "tt1555887",
+    "tmdb": 30869
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 95
+}

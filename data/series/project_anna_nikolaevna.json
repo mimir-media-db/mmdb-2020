@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_project_anna_nikolaevna",
+  "title": "Project 'Anna Nikolaevna'",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q89781138",
+    "imdb": "tt11867066",
+    "tmdb": 100913
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

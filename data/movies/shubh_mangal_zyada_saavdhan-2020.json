@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shubh_mangal_zyada_saavdhan_2020",
+  "title": "Shubh Mangal Zyada Saavdhan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73128497",
+    "imdb": "tt10309906",
+    "tmdb": 606535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 117
+}

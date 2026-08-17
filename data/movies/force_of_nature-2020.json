@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_force_of_nature_2020",
+  "title": "Force of Nature",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94770146",
+    "imdb": "tt10308928",
+    "tmdb": 619592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 91
+}

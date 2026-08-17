@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_deliciousness",
+  "title": "Deliciousness",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104881766",
+    "imdb": "tt13540190",
+    "tmdb": 114627
+  },
+  "last_updated": "2026-08-17"
+}

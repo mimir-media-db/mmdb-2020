@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_woods",
+  "title": "The Woods",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q85814101",
+    "imdb": "tt1910645",
+    "tmdb": 103425
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

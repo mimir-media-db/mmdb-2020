@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sockeye_salmon_red_fish_2020",
+  "title": "Sockeye Salmon, Red Fish",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106758591",
+    "imdb": "tt12200224",
+    "tmdb": 734703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 51
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_surgeons_cut",
+  "title": "The Surgeon's Cut",
+  "start_year": 2020,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q104622663",
+    "imdb": "tt13487106",
+    "tmdb": 113647
+  },
+  "last_updated": "2026-08-17"
+}

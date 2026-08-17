@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_big_lars",
+  "title": "Big Lars",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q95734246",
+    "imdb": "tt12091386",
+    "tmdb": 101484
+  },
+  "last_updated": "2026-08-17"
+}

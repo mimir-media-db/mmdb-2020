@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_money_plane_2020",
+  "title": "Money Plane",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98549048",
+    "imdb": "tt7286966",
+    "tmdb": 694919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

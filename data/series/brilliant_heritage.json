@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_brilliant_heritage",
+  "title": "Brilliant Heritage",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q90690037",
+    "imdb": "tt12179496",
+    "tmdb": 101858
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 122
+}

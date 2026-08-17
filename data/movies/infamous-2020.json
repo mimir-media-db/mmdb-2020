@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_infamous_2020",
+  "title": "Infamous",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95483883",
+    "imdb": "tt7703924",
+    "tmdb": 703134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_circle",
+  "title": "The Circle",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65043898",
+    "imdb": "tt9581768",
+    "tmdb": 97083
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

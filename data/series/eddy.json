@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eddy",
+  "title": "The Eddy",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48724835",
+    "imdb": "tt7322210",
+    "tmdb": 86784
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

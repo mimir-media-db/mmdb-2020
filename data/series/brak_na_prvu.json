@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_brak_na_prvu",
+  "title": "Brak na prvu",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116612580",
+    "imdb": "tt12069402",
+    "tmdb": 244796
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5
+}

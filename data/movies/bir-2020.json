@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bir_2020",
+  "title": "Bir",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83488455",
+    "imdb": "tt11760270",
+    "tmdb": 693560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

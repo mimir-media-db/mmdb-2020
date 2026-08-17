@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_aba_metapelet",
+  "title": "Aba Metapelet",
+  "start_year": 2020,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q97323156",
+    "imdb": "tt12156590",
+    "tmdb": 100119
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 100
+}

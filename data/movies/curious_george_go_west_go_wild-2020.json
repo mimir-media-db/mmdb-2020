@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_curious_george_go_west_go_wild_2020",
+  "title": "Curious George: Go West, Go Wild",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107562919",
+    "imdb": "tt13071908",
+    "tmdb": 743904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

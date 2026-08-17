@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grandpa_is_moving_out_2020",
+  "title": "Grandpa is Moving Out?",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117311053",
+    "imdb": "tt11563350"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 19
+}

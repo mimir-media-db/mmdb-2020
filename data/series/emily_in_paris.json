@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_emily_in_paris",
+  "title": "Emily in Paris",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64584978",
+    "imdb": "tt8962124",
+    "tmdb": 82596
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 50
+}

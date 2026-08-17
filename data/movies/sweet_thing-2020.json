@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_thing_2020",
+  "title": "Sweet Thing",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107643961",
+    "imdb": "tt11685322",
+    "tmdb": 626882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 91
+}

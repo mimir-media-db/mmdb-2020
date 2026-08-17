@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_into_the_world_2020",
+  "title": "Into the World",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87746413",
+    "imdb": "tt11154574",
+    "tmdb": 653775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 91
+}

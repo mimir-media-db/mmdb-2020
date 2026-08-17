@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_hall_2020",
+  "title": "City Hall",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97940517",
+    "imdb": "tt12094720",
+    "tmdb": 726041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_samrat_prithviraj_2020",
+  "title": "Samrat Prithviraj",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75330260",
+    "imdb": "tt9637132",
+    "tmdb": 611598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 133
+}

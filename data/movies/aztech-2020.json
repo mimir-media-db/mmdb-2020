@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aztech_2020",
+  "title": "Aztech",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64995164",
+    "imdb": "tt5237742",
+    "tmdb": 674025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 91
+}

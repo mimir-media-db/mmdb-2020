@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wish_upon_a_unicorn_2020",
+  "title": "Wish Upon A Unicorn",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108189012",
+    "imdb": "tt10798660",
+    "tmdb": 743227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

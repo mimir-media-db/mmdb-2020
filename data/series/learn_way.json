@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_learn_way",
+  "title": "Learn Way",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q102239947"
+  },
+  "last_updated": "2026-08-17"
+}

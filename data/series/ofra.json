@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ofra",
+  "title": "Ofra",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q109139758",
+    "imdb": "tt14396088",
+    "tmdb": 209424
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

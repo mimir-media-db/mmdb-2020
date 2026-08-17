@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_andaba_muerto_estaba_de_parranda_2020",
+  "title": "No Andaba Muerto, Estaba de Parranda",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84332538",
+    "imdb": "tt12263440",
+    "tmdb": 663360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_muse_season_1",
+  "title": "Muse Season 1",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107119280",
+    "imdb": "tt14456714",
+    "tmdb": 216855
+  },
+  "last_updated": "2026-08-17"
+}

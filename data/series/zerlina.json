@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_zerlina",
+  "title": "Zerlina",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112155637",
+    "imdb": "tt13262152"
+  },
+  "last_updated": "2026-08-17"
+}

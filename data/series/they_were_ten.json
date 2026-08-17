@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_they_were_ten",
+  "title": "They Were Ten",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q100936748",
+    "imdb": "tt10063310",
+    "tmdb": 106084
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

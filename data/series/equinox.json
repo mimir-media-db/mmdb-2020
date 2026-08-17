@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_equinox",
+  "title": "Equinox",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102438939",
+    "imdb": "tt10973800",
+    "tmdb": 113600
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

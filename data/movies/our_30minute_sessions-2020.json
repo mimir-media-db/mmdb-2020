@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_30minute_sessions_2020",
+  "title": "Our 30-minute Sessions",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85871476",
+    "imdb": "tt10857048",
+    "tmdb": 700173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 114
+}

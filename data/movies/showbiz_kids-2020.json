@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_showbiz_kids_2020",
+  "title": "Showbiz Kids",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131794050",
+    "imdb": "tt3197274",
+    "tmdb": 585530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 105
+}

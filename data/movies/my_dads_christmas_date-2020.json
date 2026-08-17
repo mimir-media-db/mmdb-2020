@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_dads_christmas_date_2020",
+  "title": "My Dad's Christmas Date",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051311",
+    "imdb": "tt11457736",
+    "tmdb": 754053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 91
+}

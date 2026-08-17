@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_landline_detective_2020",
+  "title": "The Landline Detective",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131629752",
+    "imdb": "tt7798842",
+    "tmdb": 785728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_spides",
+  "title": "Spides",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q105847543",
+    "imdb": "tt8629136",
+    "tmdb": 97724
+  },
+  "last_updated": "2026-08-17"
+}

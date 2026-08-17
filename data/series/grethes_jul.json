@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_grethes_jul",
+  "title": "Grethes jul",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q108039752",
+    "imdb": "tt13551550",
+    "tmdb": 113913
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_law_2020",
+  "title": "Broken Law",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93100442",
+    "imdb": "tt5984744",
+    "tmdb": 677176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_valliddari_madhya_2020",
+  "title": "Valliddari Madhya",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96413464",
+    "imdb": "tt11216008",
+    "tmdb": 1061647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

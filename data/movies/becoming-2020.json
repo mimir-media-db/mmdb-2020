@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_becoming_2020",
+  "title": "Becoming",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94244505",
+    "imdb": "tt12221748",
+    "tmdb": 699280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

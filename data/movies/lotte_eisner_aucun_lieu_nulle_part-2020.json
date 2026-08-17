@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lotte_eisner_aucun_lieu_nulle_part_2020",
+  "title": "Lotte Eisner, aucun lieu, nulle part",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105812801",
+    "imdb": "tt14101856",
+    "tmdb": 800373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 55
+}

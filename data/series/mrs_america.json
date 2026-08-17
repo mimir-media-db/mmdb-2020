@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mrs_america",
+  "title": "Mrs. America",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q59833414",
+    "imdb": "tt9244556",
+    "tmdb": 83605
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}

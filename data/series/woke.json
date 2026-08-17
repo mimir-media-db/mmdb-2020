@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_woke",
+  "title": "Woke",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q99053469",
+    "imdb": "tt9223870",
+    "tmdb": 105848
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

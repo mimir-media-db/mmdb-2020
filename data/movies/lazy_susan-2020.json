@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lazy_susan_2020",
+  "title": "Lazy Susan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85776043",
+    "imdb": "tt8633560",
+    "tmdb": 668627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

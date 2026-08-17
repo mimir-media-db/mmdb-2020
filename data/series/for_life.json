@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_for_life",
+  "title": "For Life",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q65069236",
+    "imdb": "tt10327830",
+    "tmdb": 92053
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

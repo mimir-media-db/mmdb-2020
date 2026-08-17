@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_leurope_le_berceau_de_lhumanite_2020",
+  "title": "L‘Europe, le berceau de l’humanité ?",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100736192",
+    "imdb": "tt11749802",
+    "tmdb": 671638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

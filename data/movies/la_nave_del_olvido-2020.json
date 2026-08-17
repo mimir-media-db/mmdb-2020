@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_nave_del_olvido_2020",
+  "title": "La Nave del Olvido",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110416054",
+    "imdb": "tt12888166",
+    "tmdb": 735210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 72
+}

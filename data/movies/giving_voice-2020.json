@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_giving_voice_2020",
+  "title": "Giving Voice",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96418480",
+    "imdb": "tt11394338",
+    "tmdb": 653747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 87
+}

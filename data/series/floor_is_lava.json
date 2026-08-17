@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_floor_is_lava",
+  "title": "Floor Is Lava",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96484048",
+    "imdb": "tt12370124",
+    "tmdb": 104999
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sarileru_neekevvaru_2020",
+  "title": "Sarileru Neekevvaru",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65052126",
+    "imdb": "tt10773090",
+    "tmdb": 607313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-11",
+  "runtime_minutes": 169
+}

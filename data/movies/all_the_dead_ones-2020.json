@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_dead_ones_2020",
+  "title": "All the Dead Ones",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84083939",
+    "imdb": "tt8845322",
+    "tmdb": 655289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_father_soldier_son_2020",
+  "title": "Father Soldier Son",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97495321",
+    "imdb": "tt12187586",
+    "tmdb": 695476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

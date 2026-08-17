@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_everyone_wants_to_meet_you",
+  "title": "Everyone Wants To Meet You",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123735079",
+    "imdb": "tt9844888",
+    "tmdb": 95831
+  },
+  "last_updated": "2026-08-17"
+}

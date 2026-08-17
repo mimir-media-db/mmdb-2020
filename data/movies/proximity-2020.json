@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_proximity_2020",
+  "title": "Proximity",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106091363",
+    "imdb": "tt8718300",
+    "tmdb": 693158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

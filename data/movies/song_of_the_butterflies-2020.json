@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_song_of_the_butterflies_2020",
+  "title": "The Song of the Butterflies",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123553218",
+    "imdb": "tt12450582",
+    "tmdb": 693495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 65
+}

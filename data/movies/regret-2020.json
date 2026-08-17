@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_regret_2020",
+  "title": "Regret",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96383903",
+    "imdb": "tt11421112",
+    "tmdb": 654981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 16
+}

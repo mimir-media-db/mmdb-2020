@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_of_the_lord_2020",
+  "title": "The Day of the Lord",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101157677",
+    "imdb": "tt5603212",
+    "tmdb": 676844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

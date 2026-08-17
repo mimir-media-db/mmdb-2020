@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_clerk_2020",
+  "title": "The Night Clerk",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55080133",
+    "imdb": "tt7979142",
+    "tmdb": 526007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}

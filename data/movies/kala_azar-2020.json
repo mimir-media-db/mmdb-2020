@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kala_azar_2020",
+  "title": "Kala azar",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106483669",
+    "imdb": "tt10006160",
+    "tmdb": 660134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

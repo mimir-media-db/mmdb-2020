@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_untold_tale_of_the_three_kingdoms_2020",
+  "title": "The Untold Tale of the Three Kingdoms",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95572774",
+    "imdb": "tt12718318",
+    "tmdb": 726654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

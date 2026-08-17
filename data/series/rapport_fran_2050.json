@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rapport_fran_2050",
+  "title": "Rapport från 2050",
+  "start_year": 2020,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q82539582",
+    "imdb": "tt11610626",
+    "tmdb": 97912
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

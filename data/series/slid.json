@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_slid",
+  "title": "Slid",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q100147181",
+    "imdb": "tt19402176"
+  },
+  "last_updated": "2026-08-17"
+}

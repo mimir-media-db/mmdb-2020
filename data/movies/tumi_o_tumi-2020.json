@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tumi_o_tumi_2020",
+  "title": "Tumi O Tumi",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85811049",
+    "imdb": "tt11432356",
+    "tmdb": 886015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

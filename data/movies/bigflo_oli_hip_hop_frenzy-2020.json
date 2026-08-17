@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bigflo_oli_hip_hop_frenzy_2020",
+  "title": "Bigflo & Oli: Hip Hop Frenzy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100959378",
+    "imdb": "tt13161318",
+    "tmdb": 746752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

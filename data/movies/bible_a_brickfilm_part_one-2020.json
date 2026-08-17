@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bible_a_brickfilm_part_one_2020",
+  "title": "The Bible: A Brickfilm - Part One",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138939543",
+    "imdb": "tt13406144",
+    "tmdb": 778886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 108
+}

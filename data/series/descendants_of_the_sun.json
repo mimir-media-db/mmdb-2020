@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_descendants_of_the_sun",
+  "title": "Descendants of the Sun",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85845809",
+    "imdb": "tt11747882",
+    "tmdb": 98786
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 65
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rasuk_2_2020",
+  "title": "Rasuk 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7295318",
+    "imdb": "tt10930558",
+    "tmdb": 646454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-02",
+  "runtime_minutes": 95
+}

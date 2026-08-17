@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorry_i_killed_you_2020",
+  "title": "Sorry I Killed You",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135689141",
+    "imdb": "tt3442126",
+    "tmdb": 763820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 98
+}

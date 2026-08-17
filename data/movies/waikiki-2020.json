@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waikiki_2020",
+  "title": "Waikīkī",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109324544",
+    "imdb": "tt6932766",
+    "tmdb": 745993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 77
+}

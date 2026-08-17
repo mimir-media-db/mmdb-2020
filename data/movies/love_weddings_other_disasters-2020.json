@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_weddings_other_disasters_2020",
+  "title": "Love, Weddings & Other Disasters",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68211651",
+    "imdb": "tt10235718",
+    "tmdb": 627103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

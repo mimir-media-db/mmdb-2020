@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_yan_yun_tai",
+  "title": "Yan Yun Tai",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114170616",
+    "imdb": "tt12611212",
+    "tmdb": 112542
+  },
+  "last_updated": "2026-08-17"
+}

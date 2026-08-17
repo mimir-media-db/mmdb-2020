@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_suparna_2020",
+  "title": "Suparna",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85804167",
+    "imdb": "tt9501678"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

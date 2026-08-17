@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_200_meters_2020",
+  "title": "200 Meters",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97480588",
+    "imdb": "tt12246266",
+    "tmdb": 727012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

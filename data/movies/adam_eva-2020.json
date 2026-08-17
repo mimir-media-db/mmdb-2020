@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adam_eva_2020",
+  "title": "Adam & Eva",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133857667",
+    "imdb": "tt12428918",
+    "tmdb": 773124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-20",
+  "runtime_minutes": 122
+}

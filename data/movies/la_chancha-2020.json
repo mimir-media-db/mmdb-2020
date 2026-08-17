@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_chancha_2020",
+  "title": "La chancha",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109545644",
+    "imdb": "tt12391966",
+    "tmdb": 679899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 97
+}

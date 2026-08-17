@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_living",
+  "title": "Living",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q95188188"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

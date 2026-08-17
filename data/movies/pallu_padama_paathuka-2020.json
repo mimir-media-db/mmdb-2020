@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pallu_padama_paathuka_2020",
+  "title": "Pallu Padama Paathuka",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737832",
+    "imdb": "tt7853258",
+    "tmdb": 773271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

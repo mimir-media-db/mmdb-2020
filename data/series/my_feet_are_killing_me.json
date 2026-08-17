@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_feet_are_killing_me",
+  "title": "My Feet Are Killing Me",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q84162046",
+    "imdb": "tt11498422",
+    "tmdb": 97122
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

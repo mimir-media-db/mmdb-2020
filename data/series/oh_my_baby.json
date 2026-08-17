@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_oh_my_baby",
+  "title": "Oh My Baby",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q89074943",
+    "imdb": "tt12324660",
+    "tmdb": 101243
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

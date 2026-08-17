@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_evening_hour_2020",
+  "title": "The Evening Hour",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83965700",
+    "imdb": "tt5554356",
+    "tmdb": 653568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

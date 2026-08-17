@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_high_fidelity",
+  "title": "High Fidelity",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q83961623",
+    "imdb": "tt8577458",
+    "tmdb": 96734
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

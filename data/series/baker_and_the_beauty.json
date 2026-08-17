@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_baker_and_the_beauty",
+  "title": "The Baker and the Beauty",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65069352",
+    "imdb": "tt9164986",
+    "tmdb": 92045
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

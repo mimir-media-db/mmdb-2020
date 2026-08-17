@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mythic_quest",
+  "title": "Mythic Quest",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56277122",
+    "imdb": "tt8879940",
+    "tmdb": 94951
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

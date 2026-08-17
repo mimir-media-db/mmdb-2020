@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_jazz_club_owner_2020",
+  "title": "Jazz Club Owner",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83955578"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

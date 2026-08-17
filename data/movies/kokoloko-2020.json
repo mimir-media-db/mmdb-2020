@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kokoloko_2020",
+  "title": "Kokoloko",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93142424",
+    "imdb": "tt11905394",
+    "tmdb": 694079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 105
+}

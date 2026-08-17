@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meister_des_todes_2_2020",
+  "title": "Meister des Todes 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89267854",
+    "imdb": "tt12062086",
+    "tmdb": 688981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 95
+}

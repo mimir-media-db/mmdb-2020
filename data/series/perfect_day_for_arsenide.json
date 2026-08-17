@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_day_for_arsenide",
+  "title": "A Perfect Day for Arsenide",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105842740",
+    "imdb": "tt14592684",
+    "tmdb": 120226
+  },
+  "last_updated": "2026-08-17"
+}

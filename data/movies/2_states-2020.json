@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_2_states_2020",
+  "title": "2 States",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96371040",
+    "imdb": "tt11912390",
+    "tmdb": 737900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

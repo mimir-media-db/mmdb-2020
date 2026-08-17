@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_las_colmenas_2020",
+  "title": "Las colmenas",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123553235",
+    "imdb": "tt13751632",
+    "tmdb": 782424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

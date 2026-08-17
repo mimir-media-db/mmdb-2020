@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loveparade_die_verhandlung_2020",
+  "title": "Loveparade: Die Verhandlung",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123502227",
+    "imdb": "tt12720344",
+    "tmdb": 725406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

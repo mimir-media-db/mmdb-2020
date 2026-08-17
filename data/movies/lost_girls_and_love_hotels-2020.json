@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_girls_and_love_hotels_2020",
+  "title": "Lost Girls and Love Hotels",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42947839",
+    "imdb": "tt0920462",
+    "tmdb": 479259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 97
+}

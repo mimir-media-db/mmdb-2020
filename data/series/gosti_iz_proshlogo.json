@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gosti_iz_proshlogo",
+  "title": "Gosti iz proshlogo",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q100272979",
+    "imdb": "tt14904678",
+    "tmdb": 112113
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_entha_manchivaadavuraa_2020",
+  "title": "Entha Manchivaadavuraa",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892733",
+    "imdb": "tt10995146",
+    "tmdb": 633146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_light_in_the_dark_2020",
+  "title": "Light in the Dark",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70486626",
+    "imdb": "tt8530796",
+    "tmdb": 706753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

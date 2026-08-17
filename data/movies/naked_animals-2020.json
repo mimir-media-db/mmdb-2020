@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naked_animals_2020",
+  "title": "Naked Animals",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84562466",
+    "imdb": "tt11162826",
+    "tmdb": 664577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

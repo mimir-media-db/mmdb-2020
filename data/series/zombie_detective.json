@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_zombie_detective",
+  "title": "Zombie Detective",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97195534",
+    "imdb": "tt12937604",
+    "tmdb": 108285
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

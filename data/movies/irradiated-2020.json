@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_irradiated_2020",
+  "title": "Irradiated",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84271770",
+    "imdb": "tt11697794",
+    "tmdb": 667936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

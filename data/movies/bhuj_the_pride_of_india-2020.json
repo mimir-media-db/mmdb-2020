@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhuj_the_pride_of_india_2020",
+  "title": "Bhuj: The Pride of India",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65085740",
+    "imdb": "tt10062556",
+    "tmdb": 590397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

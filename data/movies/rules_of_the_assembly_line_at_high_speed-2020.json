@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rules_of_the_assembly_line_at_high_speed_2020",
+  "title": "Rules of the Assembly Line, at High Speed",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98818587",
+    "imdb": "tt11898858",
+    "tmdb": 727618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-21",
+  "runtime_minutes": 92
+}

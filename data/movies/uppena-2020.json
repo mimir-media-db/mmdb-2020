@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uppena_2020",
+  "title": "Uppena",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85812404",
+    "imdb": "tt9633480",
+    "tmdb": 606718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

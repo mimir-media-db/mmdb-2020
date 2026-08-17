@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_veinteanera_divorciada_y_fantastica_2020",
+  "title": "Veinteañera: Divorciada y fantástica",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85812878",
+    "imdb": "tt7909434",
+    "tmdb": 610461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}

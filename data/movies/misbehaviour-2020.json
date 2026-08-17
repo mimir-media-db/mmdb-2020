@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_misbehaviour_2020",
+  "title": "Misbehaviour",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59214101",
+    "imdb": "tt9148706",
+    "tmdb": 567965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 106
+}

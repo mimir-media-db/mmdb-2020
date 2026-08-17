@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_little_america",
+  "title": "Little America",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55621065",
+    "imdb": "tt8000674",
+    "tmdb": 80336
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

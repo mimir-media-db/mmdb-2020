@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_forest",
+  "title": "Forest",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q82500746",
+    "imdb": "tt11709894",
+    "tmdb": 97565
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

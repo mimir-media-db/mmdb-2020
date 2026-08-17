@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_connecting",
+  "title": "Connecting",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q104857919",
+    "imdb": "tt12810046",
+    "tmdb": 109608
+  },
+  "last_updated": "2026-08-17"
+}

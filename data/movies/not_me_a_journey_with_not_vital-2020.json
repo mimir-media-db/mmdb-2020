@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_not_me_a_journey_with_not_vital_2020",
+  "title": "Not Me - A Journey with Not Vital",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104549274",
+    "imdb": "tt10619482",
+    "tmdb": 747086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 78
+}

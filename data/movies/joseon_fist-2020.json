@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_joseon_fist_2020",
+  "title": "Joseon Fist",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739577",
+    "tmdb": 691218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_omo_ghetto_the_saga_2020",
+  "title": "Omo Ghetto: The Saga",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105063013",
+    "imdb": "tt14099462",
+    "tmdb": 790682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 110
+}

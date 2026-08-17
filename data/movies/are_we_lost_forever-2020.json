@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_are_we_lost_forever_2020",
+  "title": "Are We Lost Forever",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100257527",
+    "imdb": "tt10691314",
+    "tmdb": 666959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 104
+}

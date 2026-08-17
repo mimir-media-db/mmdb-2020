@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_being_eriko_2020",
+  "title": "Being Eriko",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76450200",
+    "imdb": "tt13282082",
+    "tmdb": 686048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 75
+}

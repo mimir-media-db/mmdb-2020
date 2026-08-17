@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meeting_neanderthal_2020",
+  "title": "Meeting Neanderthal",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134456453",
+    "imdb": "tt13249918",
+    "tmdb": 749659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

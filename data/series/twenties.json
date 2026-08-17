@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_twenties",
+  "title": "Twenties",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q85811224",
+    "imdb": "tt8115582",
+    "tmdb": 100002
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

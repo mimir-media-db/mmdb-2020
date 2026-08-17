@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zola_2020",
+  "title": "Zola",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58815009",
+    "imdb": "tt5439812",
+    "tmdb": 539565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

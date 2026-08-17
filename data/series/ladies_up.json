@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ladies_up",
+  "title": "Ladies Up",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q90350923",
+    "imdb": "tt11942100",
+    "tmdb": 101090
+  },
+  "last_updated": "2026-08-17"
+}

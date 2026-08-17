@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kratt_2020",
+  "title": "Kratt",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122863612",
+    "imdb": "tt11690220",
+    "tmdb": 766720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

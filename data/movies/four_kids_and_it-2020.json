@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_four_kids_and_it_2020",
+  "title": "Four Kids and It",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56274553",
+    "imdb": "tt5556054",
+    "tmdb": 555457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

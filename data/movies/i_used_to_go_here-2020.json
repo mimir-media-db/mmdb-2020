@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_used_to_go_here_2020",
+  "title": "I Used to Go Here",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66828718",
+    "imdb": "tt10887902",
+    "tmdb": 664301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

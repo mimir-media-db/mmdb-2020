@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lindenberg_mach_dein_ding_2020",
+  "title": "Lindenberg! Mach Dein Ding",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80212412",
+    "imdb": "tt9181732",
+    "tmdb": 633172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-16",
+  "runtime_minutes": 139
+}

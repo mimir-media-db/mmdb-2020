@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sab_kushal_mangal_2020",
+  "title": "Sab Kushal Mangal",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q82260981",
+    "imdb": "tt9691324",
+    "tmdb": 659672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-03"
+}

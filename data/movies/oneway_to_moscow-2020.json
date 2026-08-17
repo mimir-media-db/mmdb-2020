@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oneway_to_moscow_2020",
+  "title": "One-way to Moscow",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83643886",
+    "imdb": "tt10949014",
+    "tmdb": 662286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

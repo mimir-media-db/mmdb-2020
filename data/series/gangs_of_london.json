@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gangs_of_london",
+  "title": "Gangs of London",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60761014",
+    "imdb": "tt7661390",
+    "tmdb": 85021
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

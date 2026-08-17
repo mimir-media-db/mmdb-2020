@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_giro_de_ases_2020",
+  "title": "Giro de ases",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124637577",
+    "imdb": "tt9038680",
+    "tmdb": 731595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 82
+}

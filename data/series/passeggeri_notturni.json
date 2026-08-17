@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_passeggeri_notturni",
+  "title": "Passeggeri notturni",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q86669207",
+    "imdb": "tt10270344",
+    "tmdb": 107956
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

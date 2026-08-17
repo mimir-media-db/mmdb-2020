@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_time_apart_2020",
+  "title": "Time Apart",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600170",
+    "imdb": "tt9784068",
+    "tmdb": 689489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

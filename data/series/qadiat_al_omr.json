@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_qadiat_al_omr",
+  "title": "Qadiat Al Omr",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q100258297",
+    "imdb": "tt15301402"
+  },
+  "last_updated": "2026-08-17"
+}

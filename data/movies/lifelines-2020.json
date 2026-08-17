@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lifelines_2020",
+  "title": "Lifelines",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111211618",
+    "imdb": "tt12313444",
+    "tmdb": 783568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 85
+}

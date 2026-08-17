@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mon_fils",
+  "title": "Mon fils",
+  "start_year": 2020,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q109045339",
+    "imdb": "tt14036932",
+    "tmdb": 95520
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

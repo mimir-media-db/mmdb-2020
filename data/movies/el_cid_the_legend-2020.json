@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_cid_the_legend_2020",
+  "title": "El Cid, The Legend",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130362001",
+    "imdb": "tt13696482",
+    "tmdb": 789390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_casanovas_2020",
+  "title": "Casanova's",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105022541",
+    "imdb": "tt12064226",
+    "tmdb": 740516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

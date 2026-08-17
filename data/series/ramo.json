@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ramo",
+  "title": "Ramo",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q81634295",
+    "imdb": "tt11051886",
+    "tmdb": 97852
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}
