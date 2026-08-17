@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mortal_kombat_legends_scorpions_revenge_2020",
+  "title": "Mortal Kombat Legends: Scorpion's Revenge",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84366495",
+    "imdb": "tt9580138",
+    "tmdb": 664767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 80
+}

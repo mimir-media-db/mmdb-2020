@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_seafood_wars_2020",
+  "title": "Monster Seafood Wars",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97164251",
+    "imdb": "tt12002786",
+    "tmdb": 689687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

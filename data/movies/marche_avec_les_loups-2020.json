@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marche_avec_les_loups_2020",
+  "title": "Marche avec les loups",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q82291297",
+    "imdb": "tt10765954",
+    "tmdb": 651846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-15"
+}

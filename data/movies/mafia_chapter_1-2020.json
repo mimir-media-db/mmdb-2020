@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mafia_chapter_1_2020",
+  "title": "Mafia: Chapter 1",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85846515",
+    "imdb": "tt10594792",
+    "tmdb": 612644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

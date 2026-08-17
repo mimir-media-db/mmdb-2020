@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mariyam_vannu_vilakkoothi_2020",
+  "title": "Mariyam Vannu Vilakkoothi",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59725743",
+    "imdb": "tt9261828",
+    "tmdb": 654541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

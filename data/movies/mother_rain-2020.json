@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_rain_2020",
+  "title": "Mother rain",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140276259",
+    "imdb": "tt11709980",
+    "tmdb": 656203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 17
+}

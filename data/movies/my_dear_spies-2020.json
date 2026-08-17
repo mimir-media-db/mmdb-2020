@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_dear_spies_2020",
+  "title": "My Dear Spies",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111210558",
+    "imdb": "tt12100410",
+    "tmdb": 751468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 134
+}

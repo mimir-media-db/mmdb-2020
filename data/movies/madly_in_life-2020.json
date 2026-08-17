@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madly_in_life_2020",
+  "title": "Madly in Life",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110555335",
+    "imdb": "tt13194566",
+    "tmdb": 747681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 87
+}

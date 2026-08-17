@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_hunters_2020",
+  "title": "Monster Hunters",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111993487",
+    "imdb": "tt12942958",
+    "tmdb": 736485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_myopia_2020",
+  "title": "Myopia",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107404574",
+    "imdb": "tt12452636",
+    "tmdb": 768998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

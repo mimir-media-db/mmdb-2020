@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miles_davis_birth_of_the_cool_2020",
+  "title": "Miles Davis: Birth of the Cool",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76715464",
+    "imdb": "tt9358200",
+    "tmdb": 566232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-02",
+  "runtime_minutes": 115
+}

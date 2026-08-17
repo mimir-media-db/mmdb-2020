@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_thoughts_are_silent_2020",
+  "title": "My Thoughts Are Silent",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80963748",
+    "imdb": "tt7876510",
+    "tmdb": 609031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-16",
+  "runtime_minutes": 104
+}

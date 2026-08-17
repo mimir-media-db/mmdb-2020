@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mighty_oak_2020",
+  "title": "Mighty Oak",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98171625",
+    "imdb": "tt8385384",
+    "tmdb": 711696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 102
+}

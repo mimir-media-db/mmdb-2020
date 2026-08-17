@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_girlfriend_2_2020",
+  "title": "My Girlfriend 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841974",
+    "tmdb": 696021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-09"
+}

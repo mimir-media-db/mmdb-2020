@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mrs_serial_killer_2020",
+  "title": "Mrs. Serial Killer",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94939303",
+    "imdb": "tt10230426",
+    "tmdb": 601807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

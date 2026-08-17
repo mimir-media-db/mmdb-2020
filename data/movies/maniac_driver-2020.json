@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maniac_driver_2020",
+  "title": "Maniac Driver",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111749452",
+    "imdb": "tt10978584",
+    "tmdb": 886474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 75
+}

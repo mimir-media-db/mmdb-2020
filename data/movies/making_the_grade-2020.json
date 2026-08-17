@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_making_the_grade_2020",
+  "title": "Making the Grade",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77746180",
+    "imdb": "tt7754528",
+    "tmdb": 502186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-16",
+  "runtime_minutes": 85
+}

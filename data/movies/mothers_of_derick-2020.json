@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mothers_of_derick_2020",
+  "title": "Mothers of Derick",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112080140",
+    "imdb": "tt13455258",
+    "tmdb": 667409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 77
+}

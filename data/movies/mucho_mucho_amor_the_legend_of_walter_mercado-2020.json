@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mucho_mucho_amor_the_legend_of_walter_mercado_2020",
+  "title": "Mucho Mucho Amor: The Legend of Walter Mercado",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97358509",
+    "imdb": "tt11378264",
+    "tmdb": 653735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

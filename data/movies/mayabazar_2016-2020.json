@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mayabazar_2016_2020",
+  "title": "Mayabazar 2016",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72658210",
+    "imdb": "tt9628392",
+    "tmdb": 676148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

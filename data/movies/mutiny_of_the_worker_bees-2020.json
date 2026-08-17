@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mutiny_of_the_worker_bees_2020",
+  "title": "Mutiny of the Worker Bees",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95463154",
+    "imdb": "tt9014248",
+    "tmdb": 667018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}

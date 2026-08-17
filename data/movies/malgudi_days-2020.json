@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malgudi_days_2020",
+  "title": "Malgudi Days",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96418869",
+    "imdb": "tt11497346",
+    "tmdb": 683002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

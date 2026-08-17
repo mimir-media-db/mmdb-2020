@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monday_2020",
+  "title": "Monday",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88982411",
+    "imdb": "tt8884906",
+    "tmdb": 550524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

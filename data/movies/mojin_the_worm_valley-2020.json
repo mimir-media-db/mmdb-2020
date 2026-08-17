@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mojin_the_worm_valley_2020",
+  "title": "Mojin: the Worm Valley",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354339",
+    "imdb": "tt28442452",
+    "tmdb": 664819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}
