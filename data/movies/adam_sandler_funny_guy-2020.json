@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adam_sandler_funny_guy_2020",
+  "title": "Adam Sandler: Funny Guy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111737544",
+    "imdb": "tt12792672",
+    "tmdb": 794539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 60
+}

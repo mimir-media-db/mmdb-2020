@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_andres_iniesta_the_unexpected_hero_2020",
+  "title": "Andrés Iniesta: The Unexpected Hero",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106823710",
+    "imdb": "tt11786320",
+    "tmdb": 678314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

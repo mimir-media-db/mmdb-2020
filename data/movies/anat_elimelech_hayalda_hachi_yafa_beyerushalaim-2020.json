@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anat_elimelech_hayalda_hachi_yafa_beyerushalaim_2020",
+  "title": "Anat Elimelech: HaYalda Hachi Yafa BeYerushalaim",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86007606",
+    "imdb": "tt11743876",
+    "tmdb": 707292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

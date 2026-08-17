@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_norma_2020",
+  "title": "After Norma",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90567816",
+    "imdb": "tt11090210",
+    "tmdb": 681454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}

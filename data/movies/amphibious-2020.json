@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amphibious_2020",
+  "title": "Amphibious",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85970954",
+    "imdb": "tt18227100",
+    "tmdb": 672973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_assassin_33_ad_2020",
+  "title": "Assassin 33 A.D.",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115122715",
+    "imdb": "tt8064418",
+    "tmdb": 582306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

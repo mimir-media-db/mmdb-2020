@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_air_conditioner_2020",
+  "title": "Air Conditioner",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96371584",
+    "imdb": "tt10389922",
+    "tmdb": 662098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asteroidageddon_2020",
+  "title": "Asteroid-a-Geddon",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107564406",
+    "imdb": "tt13298656",
+    "tmdb": 756499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_2020",
+  "title": "The Alien",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85425717",
+    "imdb": "tt11647154",
+    "tmdb": 665452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}

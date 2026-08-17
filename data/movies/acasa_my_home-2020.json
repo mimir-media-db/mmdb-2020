@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_acasa_my_home_2020",
+  "title": "Acasă, My Home",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101090249",
+    "imdb": "tt11364376",
+    "tmdb": 653742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 86
+}

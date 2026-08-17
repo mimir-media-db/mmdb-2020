@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_art_of_sin_2020",
+  "title": "The Art of Sin",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115812690",
+    "imdb": "tt13280182",
+    "tmdb": 832098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 59
+}

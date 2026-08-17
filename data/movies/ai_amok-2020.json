@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ai_amok_2020",
+  "title": "AI Amok",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65227528",
+    "imdb": "tt10579380",
+    "tmdb": 619083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

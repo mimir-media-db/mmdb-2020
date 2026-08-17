@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_atabai_2020",
+  "title": "Atabai",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84744363",
+    "imdb": "tt11772966",
+    "tmdb": 669404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

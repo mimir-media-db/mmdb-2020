@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ale_2020",
+  "title": "Ale",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105158802",
+    "imdb": "tt9776616",
+    "tmdb": 750612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

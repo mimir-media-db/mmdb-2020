@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ana_2020",
+  "title": "Ana",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96372014",
+    "imdb": "tt6865630",
+    "tmdb": 646453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

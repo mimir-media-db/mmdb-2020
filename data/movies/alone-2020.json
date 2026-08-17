@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alone_2020",
+  "title": "Alone",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85973235",
+    "imdb": "tt10192566",
+    "tmdb": 661950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 92
+}
