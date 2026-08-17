@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_68_whiskey",
+  "title": "68 Whiskey",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q67200575",
+    "imdb": "tt8680948",
+    "tmdb": 88947
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}
