@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_21_bridges_2020",
+  "title": "21 Bridges",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411015",
+    "imdb": "tt8688634",
+    "tmdb": 535292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-06",
+  "runtime_minutes": 99
+}
