@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_hair_salon_2020",
+  "title": "Hot Hair Salon",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841714",
+    "tmdb": 748501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-04"
+}

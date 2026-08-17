@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_husband_friend_2020",
+  "title": "Husband Friend",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841691",
+    "tmdb": 826954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-07"
+}

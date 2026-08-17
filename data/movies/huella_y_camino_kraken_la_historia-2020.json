@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_huella_y_camino_kraken_la_historia_2020",
+  "title": "Huella y camino: Kraken, la historia",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97626321",
+    "imdb": "tt36635953",
+    "tmdb": 720572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-22",
+  "runtime_minutes": 85
+}

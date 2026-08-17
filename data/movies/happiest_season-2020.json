@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happiest_season_2020",
+  "title": "Happiest Season",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60852007",
+    "imdb": "tt8522006",
+    "tmdb": 520172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-25",
+  "runtime_minutes": 102
+}

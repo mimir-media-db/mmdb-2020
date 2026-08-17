@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_huo_yuanjia_2020",
+  "title": "Huo Yuanjia",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110114954",
+    "imdb": "tt12132452",
+    "tmdb": 728726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-09"
+}

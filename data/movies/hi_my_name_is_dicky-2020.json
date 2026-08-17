@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hi_my_name_is_dicky_2020",
+  "title": "Hi, My Name Is Dicky",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104177610",
+    "imdb": "tt12239858",
+    "tmdb": 730303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-10"
+}

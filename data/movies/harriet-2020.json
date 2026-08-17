@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harriet_2020",
+  "title": "Harriet",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30609465",
+    "imdb": "tt4648786",
+    "tmdb": 506528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-09",
+  "runtime_minutes": 125
+}

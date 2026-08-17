@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_helmut_newton_the_bad_and_the_beautiful_2020",
+  "title": "Helmut Newton - The Bad And The Beautiful",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84488352",
+    "imdb": "tt10370644",
+    "tmdb": 698369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-09",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_human_hibachi_2020",
+  "title": "Human Hibachi",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105638081",
+    "imdb": "tt8941294",
+    "tmdb": 792742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-23"
+}

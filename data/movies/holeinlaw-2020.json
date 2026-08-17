@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_holeinlaw_2020",
+  "title": "Hole-in-law",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841788",
+    "imdb": "tt12944128",
+    "tmdb": 724109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-06"
+}

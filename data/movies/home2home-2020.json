@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_home2home_2020",
+  "title": "Home2Home",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80346400",
+    "imdb": "tt11849508",
+    "tmdb": 673193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-13"
+}

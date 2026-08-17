@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_honeyworks_10th_anniversary_liplip_filmlive_2020",
+  "title": "HoneyWorks 10th Anniversary “LIP×LIP FILM×LIVE”",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109361463",
+    "tmdb": 788846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-25",
+  "runtime_minutes": 90
+}

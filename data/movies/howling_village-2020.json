@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_howling_village_2020",
+  "title": "Howling Village",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60988497",
+    "imdb": "tt10919074",
+    "tmdb": 635199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-07",
+  "runtime_minutes": 108
+}

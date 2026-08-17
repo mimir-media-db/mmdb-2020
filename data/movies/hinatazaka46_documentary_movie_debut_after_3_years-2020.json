@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hinatazaka46_documentary_movie_debut_after_3_years_2020",
+  "title": "Hinatazaka46 Documentary Movie: Debut After 3 Years",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97179113",
+    "imdb": "tt12878078",
+    "tmdb": 694741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-07"
+}

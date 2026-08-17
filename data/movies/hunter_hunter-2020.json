@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunter_hunter_2020",
+  "title": "Hunter Hunter",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104398462",
+    "imdb": "tt2226162",
+    "tmdb": 759902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-18",
+  "runtime_minutes": 93
+}

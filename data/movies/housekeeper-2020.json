@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_housekeeper_2020",
+  "title": "Housekeeper",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841897",
+    "imdb": "tt13255788",
+    "tmdb": 688302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-26"
+}
