@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crystal_room_2020",
+  "title": "Crystal Room",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105557923",
+    "imdb": "tt10690512",
+    "tmdb": 793823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}

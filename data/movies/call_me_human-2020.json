@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_call_me_human_2020",
+  "title": "Call Me Human",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245213",
+    "imdb": "tt12783838",
+    "tmdb": 740749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

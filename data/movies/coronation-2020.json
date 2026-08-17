@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coronation_2020",
+  "title": "Coronation",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98599247",
+    "imdb": "tt12935000",
+    "tmdb": 734949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 113
+}

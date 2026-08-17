@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cuidado_con_lo_que_deseas_2020",
+  "title": "Cuidado con lo que deseas",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104181115",
+    "imdb": "tt12943128",
+    "tmdb": 681429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 91
+}

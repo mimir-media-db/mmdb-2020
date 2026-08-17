@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cobra_non_e_2020",
+  "title": "Cobra non è",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96790172",
+    "imdb": "tt7921320",
+    "tmdb": 698489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

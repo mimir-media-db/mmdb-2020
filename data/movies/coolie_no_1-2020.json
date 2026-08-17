@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coolie_no_1_2020",
+  "title": "Coolie No. 1",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65081543",
+    "imdb": "tt10280276",
+    "tmdb": 614179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 134
+}

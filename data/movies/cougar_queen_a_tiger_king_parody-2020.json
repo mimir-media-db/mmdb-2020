@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cougar_queen_a_tiger_king_parody_2020",
+  "title": "Cougar Queen: A Tiger King Parody",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116279674",
+    "imdb": "tt14419658",
+    "tmdb": 1022217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 220
+}

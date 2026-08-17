@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coffee_kareem_2020",
+  "title": "Coffee & Kareem",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63450196",
+    "imdb": "tt9898858",
+    "tmdb": 615177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 88
+}

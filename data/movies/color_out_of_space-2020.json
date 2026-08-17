@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_color_out_of_space_2020",
+  "title": "Color Out of Space",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64576691",
+    "imdb": "tt5073642",
+    "tmdb": 548473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-24",
+  "runtime_minutes": 111
+}

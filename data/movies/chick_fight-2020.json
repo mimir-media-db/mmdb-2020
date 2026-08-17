@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chick_fight_2020",
+  "title": "Chick Fight",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84010252",
+    "imdb": "tt10944486",
+    "tmdb": 682377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

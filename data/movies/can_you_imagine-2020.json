@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_can_you_imagine_2020",
+  "title": "Can You Imagine",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65584097",
+    "imdb": "tt12441518",
+    "tmdb": 666593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

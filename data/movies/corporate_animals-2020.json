@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corporate_animals_2020",
+  "title": "Corporate Animals",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55080340",
+    "imdb": "tt8366502",
+    "tmdb": 530076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-23",
+  "runtime_minutes": 86
+}

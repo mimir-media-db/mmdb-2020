@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_character_one_susan_2020",
+  "title": "Character One: Susan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74812380",
+    "imdb": "tt11745820",
+    "tmdb": 661335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-16",
+  "runtime_minutes": 80
+}

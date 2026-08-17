@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cyrille_2020",
+  "title": "Cyrille",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97366311",
+    "imdb": "tt11804388",
+    "tmdb": 664721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 85
+}

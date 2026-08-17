@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_with_a_crown_2020",
+  "title": "Christmas With a Crown",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109782260",
+    "imdb": "tt12986254",
+    "tmdb": 757771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 89
+}

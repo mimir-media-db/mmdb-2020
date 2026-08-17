@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clash_2020",
+  "title": "The Clash",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90450852",
+    "imdb": "tt10883748",
+    "tmdb": 621741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 102
+}

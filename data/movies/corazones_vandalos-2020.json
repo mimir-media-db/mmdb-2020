@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_corazones_vandalos_2020",
+  "title": "Corazones vándalos",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134904",
+    "imdb": "tt29335300"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

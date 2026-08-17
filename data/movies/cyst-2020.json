@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cyst_2020",
+  "title": "Cyst",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114357879",
+    "imdb": "tt10611992",
+    "tmdb": 741592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

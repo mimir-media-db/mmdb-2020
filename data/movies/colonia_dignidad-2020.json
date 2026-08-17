@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_colonia_dignidad_2020",
+  "title": "Colonia Dignidad",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88679673",
+    "imdb": "tt11854670"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

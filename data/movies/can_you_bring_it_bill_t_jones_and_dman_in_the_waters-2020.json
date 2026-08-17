@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_can_you_bring_it_bill_t_jones_and_dman_in_the_waters_2020",
+  "title": "Can You Bring It: Bill T. Jones and D-Man in the Waters",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125975884",
+    "imdb": "tt14551164",
+    "tmdb": 745147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}
