@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3rd_class_2020",
+  "title": "3rd Class",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85845264",
+    "imdb": "tt11515380",
+    "tmdb": 863938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

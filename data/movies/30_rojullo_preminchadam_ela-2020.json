@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_30_rojullo_preminchadam_ela_2020",
+  "title": "30 Rojullo Preminchadam Ela",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96371051",
+    "imdb": "tt11739498",
+    "tmdb": 791390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}
