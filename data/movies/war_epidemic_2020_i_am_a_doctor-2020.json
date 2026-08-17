@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_war_epidemic_2020_i_am_a_doctor_2020",
+  "title": "War Epidemic 2020: I am a Doctor",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97171978",
+    "imdb": "tt35764256",
+    "tmdb": 760338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-03"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_walnut_tree_2020",
+  "title": "Walnut Tree",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85302462",
+    "imdb": "tt11737936",
+    "tmdb": 669417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-01"
+}

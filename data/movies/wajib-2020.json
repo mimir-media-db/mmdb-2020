@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wajib_2020",
+  "title": "Wajib",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38421581",
+    "imdb": "tt6695212",
+    "tmdb": 467263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-15",
+  "runtime_minutes": 96
+}

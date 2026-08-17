@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_to_the_guesthouse_2020",
+  "title": "Welcome To The Guesthouse",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97657571",
+    "imdb": "tt13439270",
+    "tmdb": 608328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-13"
+}

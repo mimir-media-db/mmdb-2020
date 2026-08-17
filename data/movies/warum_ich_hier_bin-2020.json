@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warum_ich_hier_bin_2020",
+  "title": "Warum ich hier bin",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q82248167",
+    "imdb": "tt10534974",
+    "tmdb": 663444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-25",
+  "runtime_minutes": 65
+}

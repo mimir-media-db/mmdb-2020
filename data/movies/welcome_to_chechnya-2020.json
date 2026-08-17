@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_to_chechnya_2020",
+  "title": "Welcome to Chechnya",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83795548",
+    "imdb": "tt11394200",
+    "tmdb": 653579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-26",
+  "runtime_minutes": 107
+}

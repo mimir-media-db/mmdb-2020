@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_we_wanted_2020",
+  "title": "What We Wanted",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100232971",
+    "imdb": "tt13279528",
+    "tmdb": 754800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-06",
+  "runtime_minutes": 93
+}

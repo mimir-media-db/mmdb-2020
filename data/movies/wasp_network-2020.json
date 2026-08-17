@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wasp_network_2020",
+  "title": "Wasp Network",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60832907",
+    "imdb": "tt6760876",
+    "tmdb": 451184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-20",
+  "runtime_minutes": 123
+}

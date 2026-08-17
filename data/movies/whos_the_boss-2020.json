@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whos_the_boss_2020",
+  "title": "Who's the Boss",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96414809",
+    "imdb": "tt13370858",
+    "tmdb": 807604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-28",
+  "runtime_minutes": 130
+}

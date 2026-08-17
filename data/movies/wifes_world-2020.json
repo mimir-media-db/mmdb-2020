@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wifes_world_2020",
+  "title": "Wife's World",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841809",
+    "tmdb": 720072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-18"
+}

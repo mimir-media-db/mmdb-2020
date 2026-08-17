@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_killed_michael_brown_2020",
+  "title": "What Killed Michael Brown?",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104864728",
+    "imdb": "tt13056736",
+    "tmdb": 753240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-16",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wildland_2020",
+  "title": "Wildland",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55766234",
+    "imdb": "tt8386958",
+    "tmdb": 522893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-12",
+  "runtime_minutes": 90
+}
