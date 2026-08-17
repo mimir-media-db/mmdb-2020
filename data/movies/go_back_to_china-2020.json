@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_go_back_to_china_2020",
+  "title": "Go Back to China",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96379627",
+    "imdb": "tt7957314",
+    "tmdb": 563489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-06"
+}

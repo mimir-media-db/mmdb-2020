@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grotto_2020",
+  "title": "The Grotto",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106542243",
+    "imdb": "tt13318486",
+    "tmdb": 758510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-29",
+  "runtime_minutes": 99
+}

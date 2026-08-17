@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gisaekchung_2020",
+  "title": "Gisaekchung",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841711",
+    "tmdb": 1018352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-10"
+}

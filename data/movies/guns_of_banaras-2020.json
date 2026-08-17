@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guns_of_banaras_2020",
+  "title": "Guns of Banaras",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85764883",
+    "imdb": "tt11573410",
+    "tmdb": 678960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-28",
+  "runtime_minutes": 132
+}

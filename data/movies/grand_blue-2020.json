@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grand_blue_2020",
+  "title": "Grand Blue",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134506938",
+    "imdb": "tt11312092",
+    "tmdb": 677602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-07",
+  "runtime_minutes": 107
+}

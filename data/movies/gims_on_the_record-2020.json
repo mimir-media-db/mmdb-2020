@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gims_on_the_record_2020",
+  "title": "GIMS: On the Record",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99507704",
+    "imdb": "tt12982218",
+    "tmdb": 739246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-17",
+  "runtime_minutes": 95
+}

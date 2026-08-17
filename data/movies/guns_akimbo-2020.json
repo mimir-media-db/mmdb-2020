@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guns_akimbo_2020",
+  "title": "Guns Akimbo",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55080292",
+    "imdb": "tt6902676",
+    "tmdb": 457335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 95
+}

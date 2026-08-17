@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_traitor_2020",
+  "title": "The Good Traitor",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73483904",
+    "imdb": "tt10375972",
+    "tmdb": 702557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-13",
+  "runtime_minutes": 115
+}

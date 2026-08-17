@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_giraffe_2020",
+  "title": "The Giraffe",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66446605",
+    "imdb": "tt8955616",
+    "tmdb": 616619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-06"
+}

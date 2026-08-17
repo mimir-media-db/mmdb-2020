@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gone_with_the_wind_2020",
+  "title": "Gone with the Wind",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354388",
+    "imdb": "tt13105114",
+    "tmdb": 743209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-28"
+}

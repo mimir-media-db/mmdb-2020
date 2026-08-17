@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_as_new_2020",
+  "title": "Good as New",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60851593",
+    "imdb": "tt9303778",
+    "tmdb": 575189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-30",
+  "runtime_minutes": 95
+}

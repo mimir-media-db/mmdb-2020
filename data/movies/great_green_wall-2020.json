@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_green_wall_2020",
+  "title": "The Great Green Wall",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86315370",
+    "imdb": "tt8333336",
+    "tmdb": 617782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-24",
+  "runtime_minutes": 90
+}
