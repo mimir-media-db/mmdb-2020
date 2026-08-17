@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_yell",
+  "title": "Yell",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q61929107",
+    "imdb": "tt9860372",
+    "tmdb": 109360
+  },
+  "last_updated": "2026-08-17"
+}
