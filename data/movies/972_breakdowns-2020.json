@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_972_breakdowns_2020",
+  "title": "972 Breakdowns",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98684559",
+    "imdb": "tt12872768",
+    "tmdb": 729158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-03",
+  "runtime_minutes": 115
+}
