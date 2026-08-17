@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kingdoms_of_fire_ice_fairy_tales_2020",
+  "title": "Kingdoms of Fire, Ice & Fairy Tales",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111521686",
+    "imdb": "tt14419532"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-03"
+}

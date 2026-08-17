@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_me_today_tomorrow_im_sick_2020",
+  "title": "Kill Me Today, Tomorrow I’m Sick!",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59184045",
+    "imdb": "tt8083504",
+    "tmdb": 573159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-13"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kings_of_capitol_hill_2020",
+  "title": "Kings of Capitol Hill",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130751700",
+    "imdb": "tt13044178",
+    "tmdb": 763287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-11",
+  "runtime_minutes": 88
+}

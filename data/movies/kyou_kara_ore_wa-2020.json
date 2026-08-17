@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kyou_kara_ore_wa_2020",
+  "title": "Kyou kara Ore wa!!",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110867758",
+    "imdb": "tt11427318",
+    "tmdb": 698222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-17",
+  "runtime_minutes": 114
+}

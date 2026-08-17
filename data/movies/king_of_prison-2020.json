@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_prison_2020",
+  "title": "King of Prison",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97208730",
+    "imdb": "tt12709450",
+    "tmdb": 706750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-14"
+}

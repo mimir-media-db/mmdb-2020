@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kajeng_kliwon_2020",
+  "title": "Kajeng Kliwon",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110400050",
+    "imdb": "tt10163288",
+    "tmdb": 665385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-13",
+  "runtime_minutes": 76
+}

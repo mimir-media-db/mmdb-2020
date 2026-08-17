@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kimi_no_me_ga_toikaketeiru_2020",
+  "title": "Kimi no me ga toikaketeiru",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97160153",
+    "imdb": "tt11051974",
+    "tmdb": 730154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-23"
+}

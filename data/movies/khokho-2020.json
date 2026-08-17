@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khokho_2020",
+  "title": "Kho-Kho",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98768249",
+    "imdb": "tt12988104",
+    "tmdb": 818871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-28"
+}

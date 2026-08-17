@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karpo_2020",
+  "title": "Karpo",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98725987",
+    "imdb": "tt12600260",
+    "tmdb": 713911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-25"
+}

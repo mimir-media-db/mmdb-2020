@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_raccoons_2_dark_christmas_in_the_dark_2020",
+  "title": "Killer Raccoons 2: Dark Christmas in the Dark",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97930148",
+    "imdb": "tt8042004",
+    "tmdb": 656793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-15",
+  "runtime_minutes": 96
+}

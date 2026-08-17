@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kitap_1820_2020",
+  "title": "Kitap 1820",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96061905",
+    "imdb": "tt12444446"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kinomann_2020",
+  "title": "Kinomann",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107362694",
+    "imdb": "tt16727116",
+    "tmdb": 826102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-22",
+  "runtime_minutes": 93
+}
