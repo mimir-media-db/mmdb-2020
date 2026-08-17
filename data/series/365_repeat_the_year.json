@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_365_repeat_the_year",
+  "title": "365: Repeat the Year",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q79997168",
+    "imdb": "tt12015466",
+    "tmdb": 99479
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

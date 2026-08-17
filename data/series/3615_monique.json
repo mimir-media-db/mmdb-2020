@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_3615_monique",
+  "title": "3615 Monique",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106904239",
+    "imdb": "tt13462310",
+    "tmdb": 113819
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}
