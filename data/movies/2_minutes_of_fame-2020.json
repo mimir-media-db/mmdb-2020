@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2_minutes_of_fame_2020",
+  "title": "2 Minutes of Fame",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104872880",
+    "imdb": "tt7661376",
+    "tmdb": 698783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 97
+}
