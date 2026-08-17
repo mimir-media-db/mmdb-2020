@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_primavera_2020",
+  "title": "Una Primavera",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76714670",
+    "imdb": "tt8929908",
+    "tmdb": 599948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-02",
+  "runtime_minutes": 80
+}

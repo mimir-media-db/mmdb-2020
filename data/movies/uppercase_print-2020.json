@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uppercase_print_2020",
+  "title": "Uppercase Print",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85006282",
+    "imdb": "tt10452766",
+    "tmdb": 655368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 128
+}

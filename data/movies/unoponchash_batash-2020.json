@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unoponchash_batash_2020",
+  "title": "Unoponchash Batash",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87763001",
+    "imdb": "tt7817520",
+    "tmdb": 665798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}
