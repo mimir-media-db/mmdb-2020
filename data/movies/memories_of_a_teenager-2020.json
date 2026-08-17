@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memories_of_a_teenager_2020",
+  "title": "Memories of a Teenager",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102228542",
+    "imdb": "tt11254858",
+    "tmdb": 649058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-23",
+  "runtime_minutes": 97
+}

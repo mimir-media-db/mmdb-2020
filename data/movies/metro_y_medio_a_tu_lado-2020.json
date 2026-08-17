@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_metro_y_medio_a_tu_lado_2020",
+  "title": "Metro y Medio a Tu Lado",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87452529",
+    "imdb": "tt11937464"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-20",
+  "runtime_minutes": 3
+}

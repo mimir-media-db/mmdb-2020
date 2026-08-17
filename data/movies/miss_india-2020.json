@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_india_2020",
+  "title": "Miss India",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96393472",
+    "imdb": "tt11199310",
+    "tmdb": 757305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-04"
+}

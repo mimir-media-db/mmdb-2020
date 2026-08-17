@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mi_chiamo_francesco_totti_2020",
+  "title": "Mi Chiamo Francesco Totti",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105871994",
+    "imdb": "tt12142854",
+    "tmdb": 605255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-19",
+  "runtime_minutes": 105
+}

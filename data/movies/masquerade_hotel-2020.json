@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_masquerade_hotel_2020",
+  "title": "Masquerade Hotel",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62545029",
+    "imdb": "tt7502322",
+    "tmdb": 554808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-04",
+  "runtime_minutes": 133
+}

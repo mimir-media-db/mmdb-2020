@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mosquito_2020",
+  "title": "Mosquito",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96238901",
+    "imdb": "tt5658540",
+    "tmdb": 423132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-22",
+  "runtime_minutes": 125
+}

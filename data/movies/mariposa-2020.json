@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mariposa_2020",
+  "title": "Mariposa",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97239884",
+    "imdb": "tt11470064",
+    "tmdb": 646696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-12",
+  "runtime_minutes": 118
+}

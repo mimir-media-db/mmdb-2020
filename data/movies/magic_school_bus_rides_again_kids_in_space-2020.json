@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_school_bus_rides_again_kids_in_space_2020",
+  "title": "The Magic School Bus Rides Again: Kids in Space",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98708524",
+    "imdb": "tt12730310",
+    "tmdb": 726661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-07",
+  "runtime_minutes": 45
+}

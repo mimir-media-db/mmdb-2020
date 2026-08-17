@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_metro_kathalu_2020",
+  "title": "Metro Kathalu",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120188619",
+    "imdb": "tt12833450",
+    "tmdb": 734413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-14"
+}

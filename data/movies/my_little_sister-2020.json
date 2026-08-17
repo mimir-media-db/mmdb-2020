@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_little_sister_2020",
+  "title": "My Little Sister",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83960357",
+    "imdb": "tt10117768",
+    "tmdb": 659967
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-24",
+  "runtime_minutes": 99
+}

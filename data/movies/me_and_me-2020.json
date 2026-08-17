@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_and_me_2020",
+  "title": "Me and Me",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96460292",
+    "imdb": "tt12805676",
+    "tmdb": 581529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-18",
+  "runtime_minutes": 105
+}

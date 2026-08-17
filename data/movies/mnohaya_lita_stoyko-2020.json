@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mnohaya_lita_stoyko_2020",
+  "title": "Mnohaya lita. Stoyko",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575995",
+    "imdb": "tt11952822",
+    "tmdb": 804720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-14"
+}

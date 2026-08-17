@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monos_2020",
+  "title": "Monos",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63386137",
+    "imdb": "tt6062774",
+    "tmdb": 417466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-04",
+  "runtime_minutes": 103
+}

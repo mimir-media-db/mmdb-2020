@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_music_for_bleeding_hearts_2020",
+  "title": "Music for Bleeding Hearts",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106632589",
+    "imdb": "tt8390616",
+    "tmdb": 643286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-13"
+}

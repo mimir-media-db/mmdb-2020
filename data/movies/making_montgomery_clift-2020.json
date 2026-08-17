@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_making_montgomery_clift_2020",
+  "title": "Making Montgomery Clift",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99739655",
+    "imdb": "tt8496536",
+    "tmdb": 550752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-17",
+  "runtime_minutes": 93
+}

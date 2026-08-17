@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monstrous_2020",
+  "title": "Monstrous",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109457711",
+    "imdb": "tt12198504",
+    "tmdb": 724427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-11"
+}

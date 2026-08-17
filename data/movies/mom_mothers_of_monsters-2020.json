@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mom_mothers_of_monsters_2020",
+  "title": "M.O.M.: Mothers of Monsters",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108322277",
+    "imdb": "tt8186932",
+    "tmdb": 675253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-13",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_2020",
+  "title": "Miracle",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108704509",
+    "imdb": "tt14710106",
+    "tmdb": 762574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-27"
+}

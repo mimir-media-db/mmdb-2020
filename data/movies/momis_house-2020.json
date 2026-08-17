@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_momis_house_2020",
+  "title": "Momi'S House",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97636131",
+    "imdb": "tt10086754",
+    "tmdb": 698855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-20"
+}

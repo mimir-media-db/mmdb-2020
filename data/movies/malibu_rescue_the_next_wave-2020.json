@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_malibu_rescue_the_next_wave_2020",
+  "title": "Malibu Rescue: The Next Wave",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98448503",
+    "imdb": "tt11032990",
+    "tmdb": 695596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-04",
+  "runtime_minutes": 68
+}

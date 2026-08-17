@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_trot_the_movie_2020",
+  "title": "Mr. Trot: The Movie",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110115001",
+    "tmdb": 755395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-22"
+}

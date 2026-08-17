@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maverick_modigliani_2020",
+  "title": "Maverick Modigliani",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132047831",
+    "imdb": "tt12035456",
+    "tmdb": 701044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-29",
+  "runtime_minutes": 90
+}

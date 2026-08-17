@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_knowitall_2020",
+  "title": "Mr. Know-It-All",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48760009",
+    "imdb": "tt7305366",
+    "tmdb": 512418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-02"
+}

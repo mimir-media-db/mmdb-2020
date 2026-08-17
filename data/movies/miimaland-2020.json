@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miimaland_2020",
+  "title": "Miimaland",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99638002",
+    "imdb": "tt12981960",
+    "tmdb": 745868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-24"
+}

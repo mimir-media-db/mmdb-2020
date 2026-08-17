@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minari_2020",
+  "title": "Minari",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65679599",
+    "imdb": "tt10633456",
+    "tmdb": 615643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-26",
+  "runtime_minutes": 115
+}

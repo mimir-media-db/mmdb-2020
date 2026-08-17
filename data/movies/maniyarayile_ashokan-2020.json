@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maniyarayile_ashokan_2020",
+  "title": "Maniyarayile Ashokan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98447905",
+    "imdb": "tt11060730",
+    "tmdb": 733352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-31"
+}

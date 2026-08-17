@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_from_podolsk_2020",
+  "title": "Man from Podolsk",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102433455",
+    "imdb": "tt12286896",
+    "tmdb": 633882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-16",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_may_the_devil_take_you_too_2020",
+  "title": "May the Devil Take You Too",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97236897",
+    "imdb": "tt10776270",
+    "tmdb": 632885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_brother_is_too_much_2020",
+  "title": "My Brother is Too Much",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841777",
+    "tmdb": 723579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_martin_margiela_in_his_own_words_2020",
+  "title": "Martin Margiela: In His Own Words",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90490799",
+    "imdb": "tt11284244",
+    "tmdb": 643561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-15",
+  "runtime_minutes": 93
+}

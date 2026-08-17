@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_killed_don_quixote_2020",
+  "title": "The Man Who Killed Don Quixote",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2095178",
+    "imdb": "tt1318517",
+    "tmdb": 297725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-31",
+  "runtime_minutes": 132
+}

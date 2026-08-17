@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_from_beirut_2020",
+  "title": "Man from Beirut",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94969014",
+    "imdb": "tt7390494",
+    "tmdb": 644318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-20"
+}
