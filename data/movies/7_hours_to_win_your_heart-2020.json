@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_hours_to_win_your_heart_2020",
+  "title": "7 Hours to Win Your Heart",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97177787",
+    "imdb": "tt10814876",
+    "tmdb": 614418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}
