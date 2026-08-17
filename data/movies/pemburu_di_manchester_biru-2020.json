@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pemburu_di_manchester_biru_2020",
+  "title": "Pemburu di Manchester Biru",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109435979",
+    "imdb": "tt11710234",
+    "tmdb": 668390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-06",
+  "runtime_minutes": 89
+}

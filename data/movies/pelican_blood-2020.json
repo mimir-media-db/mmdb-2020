@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pelican_blood_2020",
+  "title": "Pelican Blood",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66809721",
+    "imdb": "tt8074340",
+    "tmdb": 495332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-24",
+  "runtime_minutes": 121
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_plandemic_2020",
+  "title": "Plandemic",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93579649",
+    "imdb": "tt12745644"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-01"
+}

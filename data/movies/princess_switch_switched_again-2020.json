@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_princess_switch_switched_again_2020",
+  "title": "The Princess Switch: Switched Again",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101423732",
+    "imdb": "tt11199410",
+    "tmdb": 643882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-19",
+  "runtime_minutes": 96
+}

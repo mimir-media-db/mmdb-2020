@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_pheria_come_back_2020",
+  "title": "Pheria - Come Back",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110441089",
+    "imdb": "tt9909086"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-15"
+}

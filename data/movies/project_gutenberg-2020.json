@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_project_gutenberg_2020",
+  "title": "Project Gutenberg",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55715719",
+    "imdb": "tt7183578",
+    "tmdb": 531384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-07",
+  "runtime_minutes": 130
+}

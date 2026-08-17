@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_portrait_of_a_lady_on_fire_2020",
+  "title": "Portrait of a Lady on Fire",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63246568",
+    "imdb": "tt8613070",
+    "tmdb": 531428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-14",
+  "runtime_minutes": 121
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_project_power_2020",
+  "title": "Project Power",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57246586",
+    "imdb": "tt7550000",
+    "tmdb": 605116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-14",
+  "runtime_minutes": 111
+}

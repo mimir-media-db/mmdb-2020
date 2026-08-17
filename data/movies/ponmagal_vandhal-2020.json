@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ponmagal_vandhal_2020",
+  "title": "Ponmagal Vandhal",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95716755",
+    "imdb": "tt10692888",
+    "tmdb": 615911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-29"
+}

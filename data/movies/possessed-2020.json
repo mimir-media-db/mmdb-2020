@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_possessed_2020",
+  "title": "Possessed",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108033569",
+    "tmdb": 716850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-10"
+}

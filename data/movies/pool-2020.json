@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pool_2020",
+  "title": "Pool",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85332768",
+    "imdb": "tt6835382",
+    "tmdb": 695786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-17"
+}

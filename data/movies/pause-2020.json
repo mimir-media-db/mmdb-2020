@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pause_2020",
+  "title": "Pause",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87050026",
+    "imdb": "tt6590856",
+    "tmdb": 553956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-18",
+  "runtime_minutes": 96
+}

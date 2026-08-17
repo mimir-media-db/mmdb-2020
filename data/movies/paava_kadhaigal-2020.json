@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_paava_kadhaigal_2020",
+  "title": "Paava Kadhaigal",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q103662590",
+    "imdb": "tt13206988"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-18"
+}

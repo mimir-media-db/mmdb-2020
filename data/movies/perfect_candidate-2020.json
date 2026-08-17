@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_candidate_2020",
+  "title": "The Perfect Candidate",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65954726",
+    "imdb": "tt6971114",
+    "tmdb": 618214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-06",
+  "runtime_minutes": 104
+}

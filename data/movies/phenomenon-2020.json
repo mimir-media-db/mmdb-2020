@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phenomenon_2020",
+  "title": "The Phenomenon",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84388391",
+    "imdb": "tt13095604",
+    "tmdb": 745272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-06"
+}

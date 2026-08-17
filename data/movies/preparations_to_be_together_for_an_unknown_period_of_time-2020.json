@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_preparations_to_be_together_for_an_unknown_period_of_time_2020",
+  "title": "Preparations to Be Together for an Unknown Period of Time",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98293661",
+    "imdb": "tt12564514",
+    "tmdb": 727002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-24",
+  "runtime_minutes": 95
+}

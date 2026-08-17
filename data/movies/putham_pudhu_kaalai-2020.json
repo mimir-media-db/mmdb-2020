@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_putham_pudhu_kaalai_2020",
+  "title": "Putham Pudhu Kaalai",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100421268",
+    "imdb": "tt13087958",
+    "tmdb": 749032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-16"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_padrenostro_2020",
+  "title": "Padrenostro",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97829803",
+    "imdb": "tt10798072",
+    "tmdb": 669665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-04",
+  "runtime_minutes": 120
+}
