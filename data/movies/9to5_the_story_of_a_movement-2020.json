@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_9to5_the_story_of_a_movement_2020",
+  "title": "9to5: The Story of a Movement",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104834919",
+    "imdb": "tt11753730",
+    "tmdb": 682586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}
