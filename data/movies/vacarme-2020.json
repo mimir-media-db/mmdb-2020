@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vacarme_2020",
+  "title": "Vacarme",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106492821",
+    "imdb": "tt13068388",
+    "tmdb": 726800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-10",
+  "runtime_minutes": 77
+}

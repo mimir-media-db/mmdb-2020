@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vfw_2020",
+  "title": "VFW",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97499065",
+    "imdb": "tt9894470",
+    "tmdb": 624779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-14",
+  "runtime_minutes": 92
+}

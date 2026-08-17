@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vash_vasyl_2020",
+  "title": "Vash Vasyl",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573798",
+    "imdb": "tt14214832",
+    "tmdb": 804512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-03",
+  "runtime_minutes": 60
+}

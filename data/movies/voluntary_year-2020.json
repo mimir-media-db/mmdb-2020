@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_voluntary_year_2020",
+  "title": "A Voluntary Year",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79365164",
+    "imdb": "tt10652780",
+    "tmdb": 616209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-06"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vampria_the_toothless_vampire_2020",
+  "title": "Vampria: The Toothless Vampire",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117305695",
+    "imdb": "tt13105726"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-17",
+  "runtime_minutes": 19
+}

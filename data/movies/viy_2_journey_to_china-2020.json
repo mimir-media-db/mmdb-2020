@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viy_2_journey_to_china_2020",
+  "title": "Viy 2: Journey to China",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27965092",
+    "imdb": "tt6218010",
+    "tmdb": 428045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-20",
+  "runtime_minutes": 124
+}
