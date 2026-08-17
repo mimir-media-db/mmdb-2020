@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_para_toda_la_muerte_2020",
+  "title": "Para toda la muerte",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112960918",
+    "imdb": "tt9804514",
+    "tmdb": 645691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 73
+}

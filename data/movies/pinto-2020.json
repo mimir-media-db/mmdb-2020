@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pinto_2020",
+  "title": "Pinto",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111182459",
+    "imdb": "tt13982026",
+    "tmdb": 869600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

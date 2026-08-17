@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pawn_2020",
+  "title": "Pawn",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65241567",
+    "imdb": "tt13273172",
+    "tmdb": 589174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 113
+}

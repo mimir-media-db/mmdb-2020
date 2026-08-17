@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pantani_affair_2020",
+  "title": "The Pantani Affair",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113233485",
+    "imdb": "tt5546904",
+    "tmdb": 673760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 138
+}

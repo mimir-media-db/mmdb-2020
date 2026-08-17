@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pray_away_2020",
+  "title": "Pray Away",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91031132",
+    "imdb": "tt11224358",
+    "tmdb": 685264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 104
+}

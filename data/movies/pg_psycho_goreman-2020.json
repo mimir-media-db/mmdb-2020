@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pg_psycho_goreman_2020",
+  "title": "PG: Psycho Goreman",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97760291",
+    "imdb": "tt11252440",
+    "tmdb": 670428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 92
+}

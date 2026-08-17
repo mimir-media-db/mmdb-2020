@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paco_loco_viva_el_noise_2020",
+  "title": "Paco Loco: viva el noise",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124000140",
+    "imdb": "tt13280188",
+    "tmdb": 852551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 85
+}

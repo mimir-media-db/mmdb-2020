@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_penguin_2020",
+  "title": "Penguin",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96419158",
+    "imdb": "tt11323316",
+    "tmdb": 713496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

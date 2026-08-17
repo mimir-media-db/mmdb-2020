@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_powerful_chief_2020",
+  "title": "Powerful Chief",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108857075",
+    "imdb": "tt15495170",
+    "tmdb": 734508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 92
+}

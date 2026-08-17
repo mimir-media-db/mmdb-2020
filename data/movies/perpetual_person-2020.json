@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perpetual_person_2020",
+  "title": "Perpetual Person",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123553220",
+    "imdb": "tt13995238",
+    "tmdb": 788319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_planet_lockdown_2020",
+  "title": "Planet Lockdown",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119170286",
+    "imdb": "tt13819486",
+    "tmdb": 1709413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}

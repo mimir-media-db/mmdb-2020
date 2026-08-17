@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_petropolis_2020",
+  "title": "Petropolis",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106729633",
+    "imdb": "tt10933000",
+    "tmdb": 575072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}

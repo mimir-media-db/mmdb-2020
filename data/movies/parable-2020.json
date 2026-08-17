@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parable_2020",
+  "title": "Parable",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130348189",
+    "imdb": "tt12147986",
+    "tmdb": 737039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

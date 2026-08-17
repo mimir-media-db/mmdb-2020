@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prayer_for_a_lost_mitten_2020",
+  "title": "Prayer for a Lost Mitten",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97160342",
+    "imdb": "tt12389904",
+    "tmdb": 697380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 79
+}
