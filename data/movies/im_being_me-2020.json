@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_being_me_2020",
+  "title": "I'm Being Me",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111224651",
+    "imdb": "tt11786884",
+    "tmdb": 701368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 94
+}

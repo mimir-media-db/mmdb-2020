@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_irreconocible_2020",
+  "title": "Irreconocible",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135688887",
+    "imdb": "tt7722966",
+    "tmdb": 675119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 75
+}

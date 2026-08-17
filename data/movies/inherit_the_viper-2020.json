@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inherit_the_viper_2020",
+  "title": "Inherit the Viper",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48999628",
+    "imdb": "tt7349896",
+    "tmdb": 634904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_into_the_storm_2020",
+  "title": "Into the Storm",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110636098",
+    "imdb": "tt12363760",
+    "tmdb": 742227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 84
+}

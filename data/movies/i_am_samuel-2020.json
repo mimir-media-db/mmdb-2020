@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_samuel_2020",
+  "title": "I am Samuel",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114420751",
+    "imdb": "tt10530548",
+    "tmdb": 708249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 69
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_island_of_lies_2020",
+  "title": "The Island of Lies",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97924348",
+    "imdb": "tt9843470",
+    "tmdb": 703145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}

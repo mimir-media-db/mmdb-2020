@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ip_man_4_the_finale_2020",
+  "title": "Ip Man 4: The Finale",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54958357",
+    "imdb": "tt2076298",
+    "tmdb": 449924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-03"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_dont_wanna_be_without_you_2020",
+  "title": "I don't wanna be without you",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110220861",
+    "imdb": "tt13138430",
+    "tmdb": 889777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

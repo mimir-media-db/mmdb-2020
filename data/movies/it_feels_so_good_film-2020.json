@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_it_feels_so_good_film_2020",
+  "title": "It Feels So Good (film)",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133875356",
+    "imdb": "tt10747038",
+    "tmdb": 625976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invention_of_chris_marker_2020",
+  "title": "The Invention of Chris Marker",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112624189",
+    "imdb": "tt12178676",
+    "tmdb": 919258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 14
+}

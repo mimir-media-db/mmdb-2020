@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_impractical_jokers_the_movie_2020",
+  "title": "Impractical Jokers: The Movie",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54868265",
+    "imdb": "tt9208444",
+    "tmdb": 566927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}
