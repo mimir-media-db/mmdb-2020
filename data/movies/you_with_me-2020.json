@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_you_with_me_2020",
+  "title": "You with Me",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119465790",
+    "imdb": "tt7433398",
+    "tmdb": 478274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-27"
+}

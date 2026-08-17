@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yaara_2020",
+  "title": "Yaara",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97184307",
+    "imdb": "tt3698454",
+    "tmdb": 720796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-30"
+}
