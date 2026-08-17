@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_mothers_2020",
+  "title": "Our Mothers",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63352758",
+    "imdb": "tt9206516",
+    "tmdb": 596873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-07",
+  "runtime_minutes": 78
+}

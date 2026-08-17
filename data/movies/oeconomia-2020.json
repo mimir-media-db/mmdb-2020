@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oeconomia_2020",
+  "title": "Oeconomia",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84955120",
+    "imdb": "tt11664272",
+    "tmdb": 665453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-21",
+  "runtime_minutes": 89
+}

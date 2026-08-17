@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ode_to_passion_2020",
+  "title": "Ode to Passion",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97356376",
+    "imdb": "tt7117966",
+    "tmdb": 584257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-21",
+  "runtime_minutes": 128
+}

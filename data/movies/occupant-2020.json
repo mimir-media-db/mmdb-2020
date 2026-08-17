@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_occupant_2020",
+  "title": "The Occupant",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85808039",
+    "imdb": "tt9345754",
+    "tmdb": 674944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-25",
+  "runtime_minutes": 103
+}

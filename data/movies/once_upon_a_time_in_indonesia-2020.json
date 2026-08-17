@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_indonesia_2020",
+  "title": "Once Upon a Time in Indonesia",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109563787",
+    "imdb": "tt10200522",
+    "tmdb": 757691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-20",
+  "runtime_minutes": 159
+}

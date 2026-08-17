@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_word_2020",
+  "title": "One Word",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100931584",
+    "imdb": "tt13187790",
+    "tmdb": 753242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-05",
+  "runtime_minutes": 83
+}

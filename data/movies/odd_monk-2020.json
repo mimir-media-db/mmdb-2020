@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_odd_monk_2020",
+  "title": "The Odd Monk",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94737274",
+    "imdb": "tt10267720",
+    "tmdb": 701022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-30",
+  "runtime_minutes": 83
+}

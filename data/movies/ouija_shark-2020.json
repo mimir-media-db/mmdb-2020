@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ouija_shark_2020",
+  "title": "Ouija Shark",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111582482",
+    "imdb": "tt11650674",
+    "tmdb": 674482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-07",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ordinary_love_2020",
+  "title": "Ordinary Love",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737680",
+    "imdb": "tt6012380",
+    "tmdb": 588787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-14",
+  "runtime_minutes": 92
+}
