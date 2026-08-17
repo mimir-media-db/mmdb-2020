@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_257_reasons_to_live",
+  "title": "257 Reasons to Live",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q88414000",
+    "imdb": "tt11477416",
+    "tmdb": 99810
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}
