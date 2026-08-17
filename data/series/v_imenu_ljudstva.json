@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_v_imenu_ljudstva",
+  "title": "V imenu ljudstva",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108119422",
+    "imdb": "tt11658590",
+    "tmdb": 157557
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

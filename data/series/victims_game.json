@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_victims_game",
+  "title": "The Victims' Game",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q93109397",
+    "imdb": "tt12079212",
+    "tmdb": 101146
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}
