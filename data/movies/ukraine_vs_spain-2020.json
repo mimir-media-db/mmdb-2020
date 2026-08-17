@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ukraine_vs_spain_2020",
+  "title": "Ukraine vs Spain",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574073",
+    "imdb": "tt13381426"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-13",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_my_skin_2020",
+  "title": "Under My Skin",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102128141",
+    "imdb": "tt10332272",
+    "tmdb": 752812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-29",
+  "runtime_minutes": 97
+}

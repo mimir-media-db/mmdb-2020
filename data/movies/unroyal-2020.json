@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unroyal_2020",
+  "title": "Unroyal",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108933782",
+    "imdb": "tt15526612",
+    "tmdb": 861653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-20",
+  "runtime_minutes": 96
+}

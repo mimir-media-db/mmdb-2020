@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unter_tannen_der_film_2020",
+  "title": "Unter Tannen – Der Film",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96335261",
+    "imdb": "tt9389854",
+    "tmdb": 1412170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-25"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ultraman_taiga_the_movie_2020",
+  "title": "Ultraman Taiga The Movie",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85811811",
+    "imdb": "tt11540212",
+    "tmdb": 655942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-07"
+}
