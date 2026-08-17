@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ripper",
+  "title": "The Ripper",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q104621358",
+    "imdb": "tt13492374",
+    "tmdb": 113372
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

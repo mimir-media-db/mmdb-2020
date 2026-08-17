@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_reid_report",
+  "title": "The Reid Report",
+  "start_year": 2020,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17048632",
+    "imdb": "tt6199682",
+    "tmdb": 86183
+  },
+  "last_updated": "2026-08-17"
+}

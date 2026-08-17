@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_raised_by_wolves",
+  "title": "Raised by Wolves",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q60747802",
+    "imdb": "tt9170108",
+    "tmdb": 85723
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

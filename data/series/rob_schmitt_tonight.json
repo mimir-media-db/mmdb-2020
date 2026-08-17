@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_rob_schmitt_tonight",
+  "title": "Rob Schmitt Tonight",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125933549",
+    "imdb": "tt13976668"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_riot_police",
+  "title": "Riot Police",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q98593733",
+    "imdb": "tt10883660",
+    "tmdb": 96005
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

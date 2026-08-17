@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_radebank",
+  "title": "Rådebank",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q94691636",
+    "imdb": "tt11604808",
+    "tmdb": 106842
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}
