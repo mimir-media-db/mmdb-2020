@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_u_motherbaker",
+  "title": "U Motherbaker",
+  "start_year": 2020,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q127699057",
+    "imdb": "tt13012936",
+    "tmdb": 105269
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 70
+}

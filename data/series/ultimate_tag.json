@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ultimate_tag",
+  "title": "Ultimate Tag",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q96419590",
+    "imdb": "tt10329660",
+    "tmdb": 103417
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_united_we_fall",
+  "title": "United We Fall",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65069307",
+    "imdb": "tt10329044",
+    "tmdb": 92153
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_une_vie_de_reve",
+  "title": "Une vie de rêve",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136278658"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_uncanny_counter",
+  "title": "The Uncanny Counter",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q98099408",
+    "imdb": "tt13273826",
+    "tmdb": 113268
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 28
+}
