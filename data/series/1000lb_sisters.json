@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_1000lb_sisters",
+  "title": "1000-lb Sisters",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110612574",
+    "imdb": "tt11617414",
+    "tmdb": 98410
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 28
+}
