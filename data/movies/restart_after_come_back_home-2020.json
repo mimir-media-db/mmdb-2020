@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_restart_after_come_back_home_2020",
+  "title": "Restart After Come Back Home",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105973611",
+    "imdb": "tt12530960",
+    "tmdb": 732230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-04",
+  "runtime_minutes": 99
+}

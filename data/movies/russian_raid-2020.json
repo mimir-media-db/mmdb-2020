@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_russian_raid_2020",
+  "title": "Russian Raid",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104904377",
+    "imdb": "tt12425868",
+    "tmdb": 651793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-01",
+  "runtime_minutes": 103
+}

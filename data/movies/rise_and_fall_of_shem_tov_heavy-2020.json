@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rise_and_fall_of_shem_tov_heavy_2020",
+  "title": "The Rise and Fall of Shem Tov Heavy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97146140",
+    "imdb": "tt14045304",
+    "tmdb": 721149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-30",
+  "runtime_minutes": 24
+}

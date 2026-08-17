@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_real_thing_2020",
+  "title": "The Real Thing",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121065802",
+    "imdb": "tt13276326",
+    "tmdb": 712172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-09",
+  "runtime_minutes": 232
+}

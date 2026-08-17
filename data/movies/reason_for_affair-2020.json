@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_reason_for_affair_2020",
+  "title": "Reason for Affair",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841937",
+    "tmdb": 726807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-17"
+}

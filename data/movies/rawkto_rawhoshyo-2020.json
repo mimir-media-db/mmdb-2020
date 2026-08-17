@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rawkto_rawhoshyo_2020",
+  "title": "Rawkto Rawhoshyo",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85796147",
+    "imdb": "tt12339374",
+    "tmdb": 716377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-21"
+}

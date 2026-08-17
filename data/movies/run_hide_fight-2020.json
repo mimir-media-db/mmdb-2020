@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_run_hide_fight_2020",
+  "title": "Run Hide Fight",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98277032",
+    "imdb": "tt11456054",
+    "tmdb": 629017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-01",
+  "runtime_minutes": 109
+}

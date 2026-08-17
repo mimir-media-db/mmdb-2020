@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_renovation_2020",
+  "title": "The Renovation",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86594412",
+    "imdb": "tt10449466",
+    "tmdb": 649719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-19",
+  "runtime_minutes": 90
+}

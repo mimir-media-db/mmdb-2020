@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ratnik_2020",
+  "title": "Ratnik",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100148104",
+    "imdb": "tt5518714"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reiko_iruka_2020",
+  "title": "Reiko Iruka",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108551675",
+    "imdb": "tt28329684",
+    "tmdb": 797334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-08"
+}

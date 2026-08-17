@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rom_2020",
+  "title": "Rom",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q71219955",
+    "imdb": "tt11095810",
+    "tmdb": 637997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-25",
+  "runtime_minutes": 79
+}

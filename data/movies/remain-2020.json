@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_remain_2020",
+  "title": "Remain",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97575748",
+    "imdb": "tt10468882",
+    "tmdb": 597112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-27",
+  "runtime_minutes": 98
+}

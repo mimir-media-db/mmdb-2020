@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_riki_rhino_2020",
+  "title": "Riki Rhino",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97307690",
+    "imdb": "tt11710070",
+    "tmdb": 666875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 92
+}

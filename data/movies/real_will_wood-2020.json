@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_real_will_wood_2020",
+  "title": "The Real Will Wood",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130271739",
+    "imdb": "tt12294158",
+    "tmdb": 722518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-08",
+  "runtime_minutes": 93
+}

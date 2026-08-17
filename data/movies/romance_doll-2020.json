@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_romance_doll_2020",
+  "title": "Romance Doll",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97171375",
+    "imdb": "tt10914712",
+    "tmdb": 658006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-24"
+}
