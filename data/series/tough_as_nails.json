@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tough_as_nails",
+  "title": "Tough as Nails",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96410488",
+    "imdb": "tt11061808",
+    "tmdb": 105599
+  },
+  "last_updated": "2026-08-17"
+}

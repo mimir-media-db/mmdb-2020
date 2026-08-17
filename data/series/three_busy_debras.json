@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_three_busy_debras",
+  "title": "Three Busy Debras",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q65090821",
+    "imdb": "tt8619594",
+    "tmdb": 99858
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tale_of_the_nine_tailed",
+  "title": "Tale of the Nine Tailed",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97194459",
+    "imdb": "tt12879418",
+    "tmdb": 108284
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 28
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_touch",
+  "title": "Touch",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q79997509",
+    "imdb": "tt11534136",
+    "tmdb": 217093
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

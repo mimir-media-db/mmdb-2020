@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tell_me_who_i_am",
+  "title": "Tell Me Who I Am",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q101104946",
+    "imdb": "tt10474134",
+    "tmdb": 111841
+  },
+  "last_updated": "2026-08-17"
+}

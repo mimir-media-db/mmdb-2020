@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_to_catch_a_beautician",
+  "title": "To Catch A Beautician",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q95498942",
+    "imdb": "tt12295114",
+    "tmdb": 104051
+  },
+  "last_updated": "2026-08-17"
+}

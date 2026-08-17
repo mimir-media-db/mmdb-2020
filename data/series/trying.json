@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_trying",
+  "title": "Trying",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q90824181",
+    "imdb": "tt10982034",
+    "tmdb": 98177
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

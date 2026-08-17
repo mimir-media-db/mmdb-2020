@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_twenty_your_life_on",
+  "title": "Twenty Your Life On",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97192105",
+    "imdb": "tt11357988",
+    "tmdb": 137680
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

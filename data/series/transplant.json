@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_transplant",
+  "title": "Transplant",
+  "start_year": 2020,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q85810492",
+    "imdb": "tt10936342",
+    "tmdb": 99530
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 49
+}
