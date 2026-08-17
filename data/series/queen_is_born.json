@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_queen_is_born",
+  "title": "A Queen Is Born",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q101542372",
+    "imdb": "tt12571792",
+    "tmdb": 112917
+  },
+  "last_updated": "2026-08-17"
+}

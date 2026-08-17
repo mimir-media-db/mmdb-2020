@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_queen_and_the_conqueror",
+  "title": "The Queen and the Conqueror",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q67554121",
+    "imdb": "tt10348700",
+    "tmdb": 103727
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 60
+}

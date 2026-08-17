@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_quer_o_destino",
+  "title": "Quer o Destino",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q88675450",
+    "imdb": "tt11297630",
+    "tmdb": 100905
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 181
+}
