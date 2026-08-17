@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joan_of_arc_2020",
+  "title": "Joan of Arc",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63821555",
+    "imdb": "tt8669356",
+    "tmdb": 540111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-02",
+  "runtime_minutes": 124
+}

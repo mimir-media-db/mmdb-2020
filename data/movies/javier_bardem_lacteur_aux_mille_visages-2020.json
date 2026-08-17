@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_javier_bardem_lacteur_aux_mille_visages_2020",
+  "title": "Javier Bardem, l'acteur aux mille visages",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126767848",
+    "imdb": "tt31647570",
+    "tmdb": 1124722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 53
+}

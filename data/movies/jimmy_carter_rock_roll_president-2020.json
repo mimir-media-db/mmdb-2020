@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jimmy_carter_rock_roll_president_2020",
+  "title": "Jimmy Carter: Rock & Roll President",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125975377",
+    "imdb": "tt11804758",
+    "tmdb": 692982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 92
+}
