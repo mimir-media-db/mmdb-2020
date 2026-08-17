@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_you_cannot_kill_david_arquette_2020",
+  "title": "You Cannot Kill David Arquette",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245030",
+    "imdb": "tt11454066",
+    "tmdb": 672035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

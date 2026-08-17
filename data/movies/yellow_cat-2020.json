@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yellow_cat_2020",
+  "title": "Yellow Cat",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98690237",
+    "imdb": "tt12792608",
+    "tmdb": 728145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

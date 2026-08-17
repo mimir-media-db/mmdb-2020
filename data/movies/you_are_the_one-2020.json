@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_you_are_the_one_2020",
+  "title": "You Are the One",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83612962",
+    "imdb": "tt15241580",
+    "tmdb": 667523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

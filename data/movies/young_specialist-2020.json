@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_young_specialist_2020",
+  "title": "Young Specialist",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841969",
+    "tmdb": 699163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-10"
+}

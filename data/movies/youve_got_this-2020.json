@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_youve_got_this_2020",
+  "title": "You've Got This",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99984183",
+    "imdb": "tt13118012",
+    "tmdb": 746957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}
