@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fate_of_alakada_2020",
+  "title": "Fate of Alakada",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104834984",
+    "imdb": "tt11829884",
+    "tmdb": 800413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-01",
+  "runtime_minutes": 110
+}

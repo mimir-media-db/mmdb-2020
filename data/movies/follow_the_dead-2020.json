@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_follow_the_dead_2020",
+  "title": "Follow the Dead",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124478434",
+    "imdb": "tt6770142",
+    "tmdb": 754343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-17",
+  "runtime_minutes": 95
+}

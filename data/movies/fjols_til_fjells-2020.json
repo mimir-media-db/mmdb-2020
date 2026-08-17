@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fjols_til_fjells_2020",
+  "title": "Fjols til fjells",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97482024",
+    "imdb": "tt10157810",
+    "tmdb": 631572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-21",
+  "runtime_minutes": 87
+}

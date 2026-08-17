@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fashionably_yours_2020",
+  "title": "Fashionably Yours",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106313880",
+    "imdb": "tt11808612",
+    "tmdb": 677210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-11",
+  "runtime_minutes": 84
+}

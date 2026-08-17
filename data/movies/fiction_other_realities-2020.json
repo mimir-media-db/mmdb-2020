@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_fiction_other_realities_2020",
+  "title": "Fiction & Other Realities",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109455113",
+    "tmdb": 516782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-23"
+}

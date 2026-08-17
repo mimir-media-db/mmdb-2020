@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_friends_mothers_2_2020",
+  "title": "Friend's Mothers 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841944",
+    "tmdb": 671502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-10"
+}

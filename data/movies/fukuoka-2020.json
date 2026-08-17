@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fukuoka_2020",
+  "title": "Fukuoka",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85989462",
+    "imdb": "tt9619016",
+    "tmdb": 576112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-27",
+  "runtime_minutes": 85
+}

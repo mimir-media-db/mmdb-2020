@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flaming_river_2020",
+  "title": "The Flaming River",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575491",
+    "imdb": "tt12664798",
+    "tmdb": 874271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-06",
+  "runtime_minutes": 90
+}

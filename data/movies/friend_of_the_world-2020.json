@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friend_of_the_world_2020",
+  "title": "Friend of the World",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107791285",
+    "imdb": "tt6074542",
+    "tmdb": 437518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-15",
+  "runtime_minutes": 50
+}

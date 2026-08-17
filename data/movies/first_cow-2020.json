@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_cow_2020",
+  "title": "First Cow",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65082453",
+    "imdb": "tt9231040",
+    "tmdb": 558582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-06",
+  "runtime_minutes": 121
+}

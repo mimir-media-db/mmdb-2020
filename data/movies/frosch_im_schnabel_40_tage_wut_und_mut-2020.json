@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frosch_im_schnabel_40_tage_wut_und_mut_2020",
+  "title": "Frosch im Schnabel – 40 Tage Wut und Mut",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84470017",
+    "imdb": "tt13790854",
+    "tmdb": 812874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-07",
+  "runtime_minutes": 88
+}

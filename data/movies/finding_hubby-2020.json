@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_hubby_2020",
+  "title": "Finding Hubby",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108919466",
+    "imdb": "tt13540496",
+    "tmdb": 845414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-04",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flu_2020",
+  "title": "The Flu",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8564063",
+    "imdb": "tt2351310",
+    "tmdb": 200085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-06",
+  "runtime_minutes": 121
+}

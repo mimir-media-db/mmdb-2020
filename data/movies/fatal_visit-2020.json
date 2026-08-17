@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fatal_visit_2020",
+  "title": "Fatal Visit",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48897221",
+    "imdb": "tt7271190",
+    "tmdb": 531381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-25"
+}

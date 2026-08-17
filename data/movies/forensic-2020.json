@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forensic_2020",
+  "title": "Forensic",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86755284",
+    "imdb": "tt10187680",
+    "tmdb": 676792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-28",
+  "runtime_minutes": 134
+}

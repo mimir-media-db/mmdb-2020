@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_spaces_2020",
+  "title": "Free Spaces",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87099049",
+    "imdb": "tt10121022",
+    "tmdb": 605037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-24",
+  "runtime_minutes": 102
+}

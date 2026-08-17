@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fever_2020",
+  "title": "The Fever",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76860368",
+    "imdb": "tt10445166",
+    "tmdb": 747387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-10",
+  "runtime_minutes": 99
+}
