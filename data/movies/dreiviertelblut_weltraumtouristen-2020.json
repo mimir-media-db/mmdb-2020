@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreiviertelblut_weltraumtouristen_2020",
+  "title": "Dreiviertelblut – Weltraumtouristen",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97620919",
+    "imdb": "tt12828498",
+    "tmdb": 730214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-06",
+  "runtime_minutes": 87
+}

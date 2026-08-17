@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_figure_of_crime_2020",
+  "title": "Dark Figure of Crime",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51844664",
+    "imdb": "tt8119680",
+    "tmdb": 544627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-03"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daulat_2020",
+  "title": "Daulat",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89189379",
+    "imdb": "tt11512522",
+    "tmdb": 690153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-06"
+}

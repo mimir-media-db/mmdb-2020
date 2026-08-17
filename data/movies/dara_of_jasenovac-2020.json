@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dara_of_jasenovac_2020",
+  "title": "Dara of Jasenovac",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65195830",
+    "imdb": "tt10554232",
+    "tmdb": 733740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-25",
+  "runtime_minutes": 130
+}

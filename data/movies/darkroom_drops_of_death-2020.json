@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_darkroom_drops_of_death_2020",
+  "title": "Darkroom - Drops of Death",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q82792225",
+    "imdb": "tt9514116",
+    "tmdb": 573956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-30",
+  "runtime_minutes": 89
+}

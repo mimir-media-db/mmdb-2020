@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_grote_sinterklaasfilm_2020",
+  "title": "De Grote Sinterklaasfilm",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104793796",
+    "imdb": "tt13054644",
+    "tmdb": 751113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-07"
+}

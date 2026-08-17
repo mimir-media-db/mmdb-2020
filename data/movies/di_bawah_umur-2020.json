@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_di_bawah_umur_2020",
+  "title": "Di Bawah Umur",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97587211",
+    "imdb": "tt11886096",
+    "tmdb": 726166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-13",
+  "runtime_minutes": 92
+}

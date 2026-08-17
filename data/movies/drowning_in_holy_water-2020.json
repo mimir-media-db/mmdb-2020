@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drowning_in_holy_water_2020",
+  "title": "Drowning in Holy Water",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85974721",
+    "imdb": "tt11773588",
+    "tmdb": 676680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-01"
+}

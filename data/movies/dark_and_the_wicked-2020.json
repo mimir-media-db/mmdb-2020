@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_and_the_wicked_2020",
+  "title": "The Dark and the Wicked",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98761957",
+    "imdb": "tt10229558",
+    "tmdb": 680593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-28",
+  "runtime_minutes": 93
+}

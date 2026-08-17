@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_days_in_a_summer_2020",
+  "title": "Days in a Summer",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97750097",
+    "imdb": "tt13684084",
+    "tmdb": 664291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-20"
+}

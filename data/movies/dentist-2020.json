@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dentist_2020",
+  "title": "The Dentist",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115431079",
+    "imdb": "tt11907902",
+    "tmdb": 797859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-27",
+  "runtime_minutes": 7
+}

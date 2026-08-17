@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dragon_inn_part_1_the_city_of_sadness_2020",
+  "title": "Dragon Inn Part 1: The City of Sadness",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q103412263",
+    "imdb": "tt18950006",
+    "tmdb": 751132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-03"
+}

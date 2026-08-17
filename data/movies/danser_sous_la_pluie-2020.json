@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_danser_sous_la_pluie_2020",
+  "title": "Danser sous la pluie",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102029469"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-05",
+  "runtime_minutes": 75
+}

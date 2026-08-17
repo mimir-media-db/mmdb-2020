@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_digital_diamond_2020",
+  "title": "Digital Diamond",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107483175"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-14"
+}

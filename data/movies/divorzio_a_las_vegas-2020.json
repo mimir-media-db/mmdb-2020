@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_divorzio_a_las_vegas_2020",
+  "title": "Divorzio a Las Vegas",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99935581",
+    "imdb": "tt11204984",
+    "tmdb": 647813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-08",
+  "runtime_minutes": 90
+}

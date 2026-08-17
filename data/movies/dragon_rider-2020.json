@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dragon_rider_2020",
+  "title": "Dragon Rider",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66715823",
+    "imdb": "tt7080422",
+    "tmdb": 523366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-15"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_liebe_frisst_das_leben_2020",
+  "title": "Die Liebe frisst das Leben",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87063538",
+    "imdb": "tt11128400",
+    "tmdb": 695598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-23",
+  "runtime_minutes": 96
+}

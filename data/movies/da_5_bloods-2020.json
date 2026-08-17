@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_da_5_bloods_2020",
+  "title": "Da 5 Bloods",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62277203",
+    "imdb": "tt9777644",
+    "tmdb": 581859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-12",
+  "runtime_minutes": 154
+}

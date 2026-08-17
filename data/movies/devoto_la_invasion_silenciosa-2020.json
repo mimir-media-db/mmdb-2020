@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devoto_la_invasion_silenciosa_2020",
+  "title": "Devoto, la invasión silenciosa",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93985780",
+    "imdb": "tt12262690",
+    "tmdb": 700995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-07",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dumbheaded_duo_2020",
+  "title": "Dumbheaded Duo",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110114478",
+    "imdb": "tt39380528",
+    "tmdb": 918308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-09"
+}

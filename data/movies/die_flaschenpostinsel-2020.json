@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_flaschenpostinsel_2020",
+  "title": "Die Flaschenpost-Insel",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87453842",
+    "imdb": "tt7420494",
+    "tmdb": 488461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-28"
+}

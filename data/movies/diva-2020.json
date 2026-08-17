@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_diva_2020",
+  "title": "Diva",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739098",
+    "imdb": "tt13155030",
+    "tmdb": 601664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-01"
+}

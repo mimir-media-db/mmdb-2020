@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_days_2020",
+  "title": "Days",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84324952",
+    "imdb": "tt11697820",
+    "tmdb": 662400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 127
+}
