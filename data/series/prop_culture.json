@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_prop_culture",
+  "title": "Prop Culture",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q93754011",
+    "imdb": "tt10162496",
+    "tmdb": 101699
+  },
+  "last_updated": "2026-08-17"
+}

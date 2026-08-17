@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_parisian_agency_exclusive_properties",
+  "title": "The Parisian Agency: Exclusive Properties",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107638297",
+    "imdb": "tt14746934",
+    "tmdb": 112747
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 29
+}

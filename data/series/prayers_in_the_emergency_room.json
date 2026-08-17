@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_prayers_in_the_emergency_room",
+  "title": "Prayers in the Emergency Room",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28069242",
+    "imdb": "tt13110412",
+    "tmdb": 104214
+  },
+  "last_updated": "2026-08-17"
+}

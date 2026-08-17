@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_piece_of_your_mind",
+  "title": "A Piece of Your Mind",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q67181794",
+    "imdb": "tt11505790",
+    "tmdb": 99112
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

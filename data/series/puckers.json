@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_puckers",
+  "title": "Puckers",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q108138418",
+    "imdb": "tt13650312",
+    "tmdb": 113591
+  },
+  "last_updated": "2026-08-17"
+}

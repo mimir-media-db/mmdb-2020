@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_playbook",
+  "title": "The Playbook",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q99767283",
+    "imdb": "tt12930602",
+    "tmdb": 110193
+  },
+  "last_updated": "2026-08-17"
+}

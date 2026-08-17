@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pops_loves_kawaii_stuff",
+  "title": "Pops Loves Kawaii Stuff",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q136769093",
+    "imdb": "tt12604468",
+    "tmdb": 107459
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

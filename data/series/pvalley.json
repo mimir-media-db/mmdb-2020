@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pvalley",
+  "title": "P-Valley",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60769439",
+    "imdb": "tt9340526",
+    "tmdb": 87017
+  },
+  "last_updated": "2026-08-17"
+}

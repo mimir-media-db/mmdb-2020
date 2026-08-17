@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pappas_pojkar",
+  "title": "Pappas pojkar",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q128012310",
+    "imdb": "tt13010912",
+    "tmdb": 131288
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pan_tau",
+  "title": "Pan Tau",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q78341323",
+    "imdb": "tt11034990",
+    "tmdb": 110635
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 14
+}

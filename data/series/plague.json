@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_plague",
+  "title": "Plague!",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q112063416",
+    "imdb": "tt12508306",
+    "tmdb": 104463
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

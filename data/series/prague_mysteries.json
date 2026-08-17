@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_prague_mysteries",
+  "title": "The Prague Mysteries",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q104906911",
+    "imdb": "tt12210312",
+    "tmdb": 105917
+  },
+  "last_updated": "2026-08-17"
+}

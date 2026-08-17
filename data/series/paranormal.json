@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_paranormal",
+  "title": "Paranormal",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q99658491",
+    "imdb": "tt12411074",
+    "tmdb": 106590
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_psycho",
+  "title": "Psycho",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q100269006",
+    "imdb": "tt12827674",
+    "tmdb": 100426
+  },
+  "last_updated": "2026-08-17"
+}
