@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inner_wars_2020",
+  "title": "Inner Wars",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111099795",
+    "imdb": "tt14680562",
+    "tmdb": 831356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-18",
+  "runtime_minutes": 68
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_never_cry_2020",
+  "title": "I Never Cry",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110029008",
+    "imdb": "tt10004368",
+    "tmdb": 736225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-25",
+  "runtime_minutes": 98
+}

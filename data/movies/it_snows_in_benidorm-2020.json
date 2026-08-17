@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_snows_in_benidorm_2020",
+  "title": "It Snows in Benidorm",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86756613",
+    "imdb": "tt9806468",
+    "tmdb": 645693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-11",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_2020",
+  "title": "The Invisible",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86689377",
+    "imdb": "tt9563096",
+    "tmdb": 650625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-21",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_life_2020",
+  "title": "The Invisible Life",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64166529",
+    "imdb": "tt6390668",
+    "tmdb": 548544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-17",
+  "runtime_minutes": 139
+}

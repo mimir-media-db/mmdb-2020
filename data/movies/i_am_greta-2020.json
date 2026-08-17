@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_greta_2020",
+  "title": "I Am Greta",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98078619",
+    "imdb": "tt10394738",
+    "tmdb": 728123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-03",
+  "runtime_minutes": 97
+}

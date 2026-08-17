@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_2_2020",
+  "title": "Ice 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63842704",
+    "imdb": "tt10922066",
+    "tmdb": 576917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-14",
+  "runtime_minutes": 132
+}

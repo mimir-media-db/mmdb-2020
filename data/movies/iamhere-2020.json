@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iamhere_2020",
+  "title": "#Iamhere",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999076",
+    "imdb": "tt9828918",
+    "tmdb": 605734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-05",
+  "runtime_minutes": 98
+}

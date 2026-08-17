@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_io_sto_bene_2020",
+  "title": "Io sto bene",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105658616",
+    "imdb": "tt11097942",
+    "tmdb": 757261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-13",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_talento_del_calabrone_2020",
+  "title": "Il talento del calabrone",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85016561",
+    "imdb": "tt9916270",
+    "tmdb": 670203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05",
+  "runtime_minutes": 93
+}

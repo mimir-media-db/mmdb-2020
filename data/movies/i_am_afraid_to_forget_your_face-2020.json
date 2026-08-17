@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_afraid_to_forget_your_face_2020",
+  "title": "I Am Afraid To Forget Your Face",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101012390",
+    "imdb": "tt12594020",
+    "tmdb": 717652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-08"
+}

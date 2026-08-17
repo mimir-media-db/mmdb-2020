@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_introducing_the_kujus_2020",
+  "title": "Introducing the Kujus",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104880098",
+    "imdb": "tt13622620",
+    "tmdb": 1007371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-27",
+  "runtime_minutes": 125
+}

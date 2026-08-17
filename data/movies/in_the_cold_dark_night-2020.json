@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_cold_dark_night_2020",
+  "title": "In the Cold Dark Night",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108559370",
+    "imdb": "tt10039642",
+    "tmdb": 802171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-17"
+}
