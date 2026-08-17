@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grand_hotel",
+  "title": "Grand Hotel",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q98774724",
+    "imdb": "tt12060298",
+    "tmdb": 108389
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

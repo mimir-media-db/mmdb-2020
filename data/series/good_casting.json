@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_casting",
+  "title": "Good Casting",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q79997070",
+    "imdb": "tt10584436",
+    "tmdb": 99497
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

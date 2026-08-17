@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_great_british_dig_history_in_your_garden",
+  "title": "The Great British Dig: History in Your Garden",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109510982",
+    "imdb": "tt26934484",
+    "tmdb": 119056
+  },
+  "last_updated": "2026-08-17"
+}

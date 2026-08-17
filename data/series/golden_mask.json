@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_golden_mask",
+  "title": "Golden mask",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q88390478",
+    "imdb": "tt11822590",
+    "tmdb": 108885
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

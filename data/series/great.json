@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great",
+  "title": "The Great",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q61782859",
+    "imdb": "tt2235759",
+    "tmdb": 93812
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

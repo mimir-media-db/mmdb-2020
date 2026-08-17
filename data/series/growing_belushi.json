@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_growing_belushi",
+  "title": "Growing Belushi",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117715052",
+    "imdb": "tt12809840",
+    "tmdb": 106996
+  },
+  "last_updated": "2026-08-17"
+}

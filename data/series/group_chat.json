@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_group_chat",
+  "title": "Group Chat",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97176232",
+    "imdb": "tt12343900",
+    "tmdb": 103782
+  },
+  "last_updated": "2026-08-17"
+}

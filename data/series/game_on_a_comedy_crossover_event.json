@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_game_on_a_comedy_crossover_event",
+  "title": "Game On: A Comedy Crossover Event",
+  "start_year": 2020,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q98708491",
+    "imdb": "tt12800428",
+    "tmdb": 107304
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

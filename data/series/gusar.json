@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gusar",
+  "title": "Gusar",
+  "start_year": 2020,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q101067793",
+    "imdb": "tt13288008",
+    "tmdb": 100042
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 34
+}
