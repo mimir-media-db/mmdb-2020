@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ducobu_3_2020",
+  "title": "Ducobu 3",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81669829",
+    "imdb": "tt10658928",
+    "tmdb": 605733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 94
+}

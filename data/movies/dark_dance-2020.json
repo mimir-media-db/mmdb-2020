@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_dance_2020",
+  "title": "The Dark Dance",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111431140",
+    "imdb": "tt7793262",
+    "tmdb": 776020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 101
+}

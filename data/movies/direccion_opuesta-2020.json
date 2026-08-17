@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_direccion_opuesta_2020",
+  "title": "Dirección Opuesta",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110078001",
+    "imdb": "tt10485538",
+    "tmdb": 853119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dc_showcase_adam_strange_2020",
+  "title": "DC Showcase: Adam Strange",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97355560",
+    "imdb": "tt12272414",
+    "tmdb": 618350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 16
+}

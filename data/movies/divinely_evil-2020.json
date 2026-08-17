@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_divinely_evil_2020",
+  "title": "Divinely Evil",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86077676",
+    "imdb": "tt11719702",
+    "tmdb": 665478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

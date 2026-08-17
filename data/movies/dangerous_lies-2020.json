@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dangerous_lies_2020",
+  "title": "Dangerous Lies",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65068458",
+    "imdb": "tt10183816",
+    "tmdb": 689723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 96
+}

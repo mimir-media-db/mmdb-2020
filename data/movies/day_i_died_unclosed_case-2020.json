@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_i_died_unclosed_case_2020",
+  "title": "The Day I Died: Unclosed Case",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739112",
+    "imdb": "tt13423318",
+    "tmdb": 609598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

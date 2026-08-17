@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daria_2020",
+  "title": "Daria",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88305334",
+    "imdb": "tt11523872",
+    "tmdb": 656808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}

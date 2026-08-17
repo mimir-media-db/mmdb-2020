@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dune_drifter_2020",
+  "title": "Dune Drifter",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051252",
+    "imdb": "tt11835714",
+    "tmdb": 744738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_bayo_2020",
+  "title": "Dear Bayo",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85756018",
+    "imdb": "tt11510002",
+    "tmdb": 661513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

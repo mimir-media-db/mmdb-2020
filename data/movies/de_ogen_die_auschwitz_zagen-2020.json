@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_ogen_die_auschwitz_zagen_2020",
+  "title": "De ogen die Auschwitz zagen",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643487",
+    "imdb": "tt11685406"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 46
+}

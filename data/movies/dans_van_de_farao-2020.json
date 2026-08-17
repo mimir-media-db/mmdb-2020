@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dans_van_de_farao_2020",
+  "title": "Dans van de farao",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104529661",
+    "imdb": "tt12616688",
+    "tmdb": 660552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

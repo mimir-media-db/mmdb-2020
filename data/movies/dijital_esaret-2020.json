@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dijital_esaret_2020",
+  "title": "Dijital Esaret",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65219974",
+    "imdb": "tt9451352",
+    "tmdb": 945121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

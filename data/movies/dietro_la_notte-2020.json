@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dietro_la_notte_2020",
+  "title": "Dietro la notte",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108616638",
+    "imdb": "tt13833722",
+    "tmdb": 705714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}

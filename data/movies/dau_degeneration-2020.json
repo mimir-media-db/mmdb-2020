@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dau_degeneration_2020",
+  "title": "DAU. Degeneration",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97210177",
+    "imdb": "tt11777298",
+    "tmdb": 667944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 369
+}

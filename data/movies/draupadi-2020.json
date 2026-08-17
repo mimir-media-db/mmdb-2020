@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_draupadi_2020",
+  "title": "Draupadi",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86218158",
+    "imdb": "tt11581264",
+    "tmdb": 639743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

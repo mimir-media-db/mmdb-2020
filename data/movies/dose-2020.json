@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dose_2020",
+  "title": "The Dose",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108123259",
+    "imdb": "tt9690184",
+    "tmdb": 662345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}

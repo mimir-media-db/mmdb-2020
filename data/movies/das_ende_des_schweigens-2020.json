@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_das_ende_des_schweigens_2020",
+  "title": "Das Ende des Schweigens",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109383006",
+    "imdb": "tt6858728",
+    "tmdb": 719908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}
