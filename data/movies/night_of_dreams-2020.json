@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_dreams_2020",
+  "title": "Night Of Dreams",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96335247",
+    "imdb": "tt12223558"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 85
+}

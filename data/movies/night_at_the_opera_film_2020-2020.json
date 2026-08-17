@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_at_the_opera_film_2020_2020",
+  "title": "A Night at the Opera (film, 2020)",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107449725",
+    "imdb": "tt13234550",
+    "tmdb": 739388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 19
+}

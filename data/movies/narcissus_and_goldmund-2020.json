@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_narcissus_and_goldmund_2020",
+  "title": "Narcissus and Goldmund",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38685846",
+    "imdb": "tt9014656",
+    "tmdb": 644852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-02",
+  "runtime_minutes": 118
+}

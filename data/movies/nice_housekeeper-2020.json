@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nice_housekeeper_2020",
+  "title": "A Nice Housekeeper",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841970",
+    "imdb": "tt12987672",
+    "tmdb": 699161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-10"
+}

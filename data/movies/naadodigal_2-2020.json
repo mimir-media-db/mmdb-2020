@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naadodigal_2_2020",
+  "title": "Naadodigal 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737575",
+    "imdb": "tt9537278",
+    "tmdb": 504409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

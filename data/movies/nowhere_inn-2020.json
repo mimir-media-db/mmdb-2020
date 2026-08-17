@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nowhere_inn_2020",
+  "title": "The Nowhere Inn",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84010999",
+    "imdb": "tt10441822",
+    "tmdb": 653572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

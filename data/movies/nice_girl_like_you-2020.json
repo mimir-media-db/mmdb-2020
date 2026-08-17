@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nice_girl_like_you_2020",
+  "title": "A Nice Girl Like You",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737557",
+    "imdb": "tt3278540",
+    "tmdb": 718840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 94
+}
