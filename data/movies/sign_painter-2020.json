@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sign_painter_2020",
+  "title": "The Sign Painter",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84764570",
+    "imdb": "tt11493046",
+    "tmdb": 658895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spirit_of_itchi_2020",
+  "title": "Spirit of Itchi",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111512853",
+    "imdb": "tt13084912",
+    "tmdb": 624441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 87
+}

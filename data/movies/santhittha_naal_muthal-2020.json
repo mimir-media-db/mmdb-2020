@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_santhittha_naal_muthal_2020",
+  "title": "Santhittha Naal Muthal",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84768032",
+    "imdb": "tt11697242",
+    "tmdb": 672041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

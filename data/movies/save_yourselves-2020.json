@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_save_yourselves_2020",
+  "title": "Save Yourselves!",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84363557",
+    "imdb": "tt7873348",
+    "tmdb": 653569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_svetlana_zhurova_beg_k_pobede_2020",
+  "title": "Svetlana Zhurova - Beg k pobede",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132128160",
+    "imdb": "tt35603022"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 39
+}

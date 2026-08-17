@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_school_meals_time_final_battle_2020",
+  "title": "School Meals Time Final Battle",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106247312",
+    "imdb": "tt12975196",
+    "tmdb": 733741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

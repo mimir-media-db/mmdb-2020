@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sniper_assassins_end_2020",
+  "title": "Sniper: Assassin's End",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96405879",
+    "imdb": "tt12305696",
+    "tmdb": 702936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_parties_2020",
+  "title": "Shadow Parties",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108525564",
+    "imdb": "tt10168094",
+    "tmdb": 871229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 116
+}

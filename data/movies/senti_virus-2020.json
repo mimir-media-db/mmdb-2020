@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_senti_virus_2020",
+  "title": "Senti Virus",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94997676",
+    "imdb": "tt12321124",
+    "tmdb": 1170465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

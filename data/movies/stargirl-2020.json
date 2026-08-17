@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stargirl_2020",
+  "title": "Stargirl",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57474414",
+    "imdb": "tt4858674",
+    "tmdb": 382748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 107
+}

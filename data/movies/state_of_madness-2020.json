@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_state_of_madness_2020",
+  "title": "A State of Madness",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104872119",
+    "imdb": "tt7552938",
+    "tmdb": 679924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}

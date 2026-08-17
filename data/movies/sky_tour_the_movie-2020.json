@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_tour_the_movie_2020",
+  "title": "Sky Tour: The Movie",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96180873",
+    "imdb": "tt12486200",
+    "tmdb": 715819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

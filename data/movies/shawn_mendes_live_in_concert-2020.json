@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shawn_mendes_live_in_concert_2020",
+  "title": "Shawn Mendes: Live in Concert",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102395747",
+    "imdb": "tt13528990",
+    "tmdb": 768410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 87
+}

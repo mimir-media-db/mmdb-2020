@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slaxx_2020",
+  "title": "Slaxx",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97332669",
+    "imdb": "tt9741310",
+    "tmdb": 605133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 77
+}

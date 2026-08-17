@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_of_mesa_2020",
+  "title": "Summer of Mesa",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96406690",
+    "imdb": "tt9716208",
+    "tmdb": 974746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 76
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suriname_2020",
+  "title": "Suriname",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93183143",
+    "imdb": "tt11192054",
+    "tmdb": 266450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

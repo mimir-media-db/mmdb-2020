@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sincerely_daisy_2020",
+  "title": "Sincerely Daisy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245266",
+    "imdb": "tt14406804",
+    "tmdb": 781776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 87
+}

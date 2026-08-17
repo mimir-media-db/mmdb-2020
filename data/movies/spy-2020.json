@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spy_2020",
+  "title": "The Spy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65665699",
+    "imdb": "tt8435308",
+    "tmdb": 616558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-07",
+  "runtime_minutes": 109
+}

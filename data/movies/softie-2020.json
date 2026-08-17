@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_softie_2020",
+  "title": "Softie",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101201502",
+    "imdb": "tt11394314",
+    "tmdb": 653761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

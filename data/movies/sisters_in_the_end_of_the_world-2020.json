@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_in_the_end_of_the_world_2020",
+  "title": "Sisters in the End of the World",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85412142",
+    "imdb": "tt11802742",
+    "tmdb": 666104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 88
+}

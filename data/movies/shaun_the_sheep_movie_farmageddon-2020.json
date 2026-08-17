@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shaun_the_sheep_movie_farmageddon_2020",
+  "title": "A Shaun the Sheep Movie: Farmageddon",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56277622",
+    "imdb": "tt6193408",
+    "tmdb": 422803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-17",
+  "runtime_minutes": 87
+}

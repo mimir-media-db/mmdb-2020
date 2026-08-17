@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_search_and_destroy_2020",
+  "title": "Search and Destroy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96680814",
+    "imdb": "tt11791146",
+    "tmdb": 715535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

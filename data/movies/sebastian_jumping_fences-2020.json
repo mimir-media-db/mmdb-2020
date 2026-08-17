@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sebastian_jumping_fences_2020",
+  "title": "Sebastian Jumping Fences",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96033315",
+    "imdb": "tt11767498",
+    "tmdb": 665748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shergar_2020",
+  "title": "Shergar",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98131791",
+    "imdb": "tt14210522",
+    "tmdb": 676220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 7
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sebastien_tellier_on_paris_rooftop_2020",
+  "title": "Sébastien Tellier on Paris’ Rooftop",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95965730",
+    "imdb": "tt12414656",
+    "tmdb": 710467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

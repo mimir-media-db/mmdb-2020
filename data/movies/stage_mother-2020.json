@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stage_mother_2020",
+  "title": "Stage Mother",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65049515",
+    "imdb": "tt8364138",
+    "tmdb": 626020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}
