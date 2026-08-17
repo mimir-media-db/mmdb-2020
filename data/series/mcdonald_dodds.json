@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mcdonald_dodds",
+  "title": "McDonald & Dodds",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96392399",
+    "imdb": "tt10720914",
+    "tmdb": 99962
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 11
+}

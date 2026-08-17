@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mir_druzhba_zhvachka",
+  "title": "Mir! Druzhba! Zhvachka!",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97276107",
+    "imdb": "tt12273194",
+    "tmdb": 102359
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 8
+}

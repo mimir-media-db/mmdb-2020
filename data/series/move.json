@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_move",
+  "title": "Move",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104866835",
+    "imdb": "tt10092764",
+    "tmdb": 111726
+  },
+  "last_updated": "2026-08-17"
+}

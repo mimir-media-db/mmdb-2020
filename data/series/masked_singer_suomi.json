@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_masked_singer_suomi",
+  "title": "Masked Singer Suomi",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q88206351",
+    "imdb": "tt11966998",
+    "tmdb": 233751
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_motherland_fort_salem",
+  "title": "Motherland: Fort Salem",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q61990512",
+    "imdb": "tt9900092",
+    "tmdb": 91977
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

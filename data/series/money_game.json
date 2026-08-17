@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_money_game",
+  "title": "Money Game",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q79997511",
+    "imdb": "tt11478544",
+    "tmdb": 27827
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

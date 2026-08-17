@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_manayek",
+  "title": "Manayek",
+  "start_year": 2020,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q97606751",
+    "imdb": "tt12819234",
+    "tmdb": 107013
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

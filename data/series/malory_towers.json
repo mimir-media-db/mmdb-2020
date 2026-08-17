@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_malory_towers",
+  "title": "Malory Towers",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96178260",
+    "imdb": "tt11129816",
+    "tmdb": 101149
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 64
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_missing_the_other_side",
+  "title": "Missing: The Other Side",
+  "start_year": 2020,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q97420690",
+    "imdb": "tt12867916",
+    "tmdb": 106761
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

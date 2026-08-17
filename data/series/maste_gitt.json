@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_maste_gitt",
+  "title": "Måste gitt",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q99628232",
+    "imdb": "tt10765516",
+    "tmdb": 109463
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
