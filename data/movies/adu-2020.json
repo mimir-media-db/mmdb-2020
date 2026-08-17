@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adu_2020",
+  "title": "Adú",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83621079",
+    "imdb": "tt9616700",
+    "tmdb": 588009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-31",
+  "runtime_minutes": 90
+}

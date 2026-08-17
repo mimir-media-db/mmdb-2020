@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_awake_the_life_of_yogananda_2020",
+  "title": "Awake: The Life of Yogananda",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21007575",
+    "imdb": "tt3741860",
+    "tmdb": 290504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-25",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adult_bookmark_close_and_open_2020",
+  "title": "Adult Bookmark: Close and Open",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97163806",
+    "imdb": "tt13550426",
+    "tmdb": 1494882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-03"
+}

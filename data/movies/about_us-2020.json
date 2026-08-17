@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_us_2020",
+  "title": "About Us",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122307313",
+    "imdb": "tt7905168",
+    "tmdb": 733425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-01",
+  "runtime_minutes": 85
+}

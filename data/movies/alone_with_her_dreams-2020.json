@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alone_with_her_dreams_2020",
+  "title": "Alone with Her Dreams",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109381018",
+    "imdb": "tt10438500",
+    "tmdb": 672686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05"
+}

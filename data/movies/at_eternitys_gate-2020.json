@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_at_eternitys_gate_2020",
+  "title": "At Eternity's Gate",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47006131",
+    "imdb": "tt6938828",
+    "tmdb": 491472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-01",
+  "runtime_minutes": 110
+}

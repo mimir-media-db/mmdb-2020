@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_away_2020",
+  "title": "Away",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65127310",
+    "imdb": "tt8288450",
+    "tmdb": 597398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05",
+  "runtime_minutes": 75
+}

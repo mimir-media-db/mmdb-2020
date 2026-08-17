@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_action_2020",
+  "title": "Action",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130252617",
+    "imdb": "tt11041352",
+    "tmdb": 748193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-29",
+  "runtime_minutes": 100
+}

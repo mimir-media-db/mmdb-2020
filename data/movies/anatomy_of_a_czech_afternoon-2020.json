@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anatomy_of_a_czech_afternoon_2020",
+  "title": "Anatomy of a Czech Afternoon",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136342926",
+    "imdb": "tt12677602",
+    "tmdb": 810001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-02",
+  "runtime_minutes": 22
+}

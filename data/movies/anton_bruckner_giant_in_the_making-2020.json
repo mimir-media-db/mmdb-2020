@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anton_bruckner_giant_in_the_making_2020",
+  "title": "Anton Bruckner - Giant in the Making",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87066665",
+    "imdb": "tt9212662",
+    "tmdb": 728162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-23"
+}

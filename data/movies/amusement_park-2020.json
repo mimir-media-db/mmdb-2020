@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amusement_park_2020",
+  "title": "The Amusement Park",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106310944",
+    "imdb": "tt9270362",
+    "tmdb": 560981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-12",
+  "runtime_minutes": 54
+}

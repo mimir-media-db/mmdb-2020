@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ashfall_2020",
+  "title": "Ashfall",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73993691",
+    "imdb": "tt11285908",
+    "tmdb": 581387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-05",
+  "runtime_minutes": 128
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ava_2020",
+  "title": "Ava",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57986045",
+    "imdb": "tt8784956",
+    "tmdb": 539885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-02",
+  "runtime_minutes": 96
+}

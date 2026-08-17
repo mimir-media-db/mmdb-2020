@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_archive_2020",
+  "title": "Archive",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97103592",
+    "imdb": "tt6882604",
+    "tmdb": 606234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-10",
+  "runtime_minutes": 105
+}

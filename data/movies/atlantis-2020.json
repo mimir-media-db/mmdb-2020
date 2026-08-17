@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atlantis_2020",
+  "title": "Atlantis",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67195632",
+    "imdb": "tt10749786",
+    "tmdb": 618245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-05",
+  "runtime_minutes": 106
+}

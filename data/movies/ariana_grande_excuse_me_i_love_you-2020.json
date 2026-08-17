@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ariana_grande_excuse_me_i_love_you_2020",
+  "title": "Ariana Grande: Excuse Me, I Love You",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104097733",
+    "imdb": "tt13615386",
+    "tmdb": 774372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-21",
+  "runtime_minutes": 97
+}

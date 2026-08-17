@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_atithi_kab_aoge_shhamshan_2020",
+  "title": "Atithi Kab Aoge Shhamshan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137087874",
+    "imdb": "tt11251216"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-11",
+  "runtime_minutes": 135
+}

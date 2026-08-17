@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_agr_romantik_2020",
+  "title": "Ağır Romantik",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70942905",
+    "imdb": "tt10806028",
+    "tmdb": 671858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-13"
+}
