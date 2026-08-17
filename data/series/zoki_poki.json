@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_zoki_poki",
+  "title": "Zoki Poki",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116911423",
+    "imdb": "tt11047564"
+  },
+  "last_updated": "2026-08-17"
+}

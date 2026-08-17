@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_zetsumeshi_road",
+  "title": "Zetsumeshi Road",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q86737131",
+    "imdb": "tt13688194",
+    "tmdb": 101251
+  },
+  "last_updated": "2026-08-17"
+}
