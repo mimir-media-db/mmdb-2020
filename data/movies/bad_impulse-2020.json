@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_impulse_2020",
+  "title": "Bad Impulse",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104830215",
+    "imdb": "tt7267530",
+    "tmdb": 706857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

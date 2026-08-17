@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bamfaad_2020",
+  "title": "Bamfaad",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96373040",
+    "imdb": "tt11730940",
+    "tmdb": 691449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

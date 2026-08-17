@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broad_peak_2020",
+  "title": "Broad Peak",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60855844",
+    "imdb": "tt8983230",
+    "tmdb": 999127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 101
+}

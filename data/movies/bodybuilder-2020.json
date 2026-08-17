@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bodybuilder_2020",
+  "title": "Bodybuilder",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97280889",
+    "imdb": "tt14435560",
+    "tmdb": 610369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 91
+}

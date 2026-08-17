@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_boys_for_life_2020",
+  "title": "Bad Boys for Life",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29021224",
+    "imdb": "tt1502397",
+    "tmdb": 38700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-16",
+  "runtime_minutes": 123
+}

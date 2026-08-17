@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bhoot_part_one_the_haunted_ship_2020",
+  "title": "Bhoot – Part One: The Haunted Ship",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77884684",
+    "imdb": "tt10463030",
+    "tmdb": 616880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 114
+}

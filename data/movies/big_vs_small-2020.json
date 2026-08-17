@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_vs_small_2020",
+  "title": "Big vs Small",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107547873",
+    "imdb": "tt12958774",
+    "tmdb": 737180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

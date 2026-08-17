@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_biriyaani_2020",
+  "title": "Biriyaani",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100233867",
+    "imdb": "tt11891870",
+    "tmdb": 716330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

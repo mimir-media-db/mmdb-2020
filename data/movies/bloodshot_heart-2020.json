@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bloodshot_heart_2020",
+  "title": "Bloodshot Heart",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600809",
+    "imdb": "tt9614596",
+    "tmdb": 623745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}

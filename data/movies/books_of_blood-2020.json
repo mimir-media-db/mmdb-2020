@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_books_of_blood_2020",
+  "title": "Books of Blood",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100292174",
+    "imdb": "tt11242218",
+    "tmdb": 715123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 107
+}
