@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nneka_the_pretty_serpent_2020",
+  "title": "Nneka the Pretty Serpent",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108123279",
+    "imdb": "tt13809646",
+    "tmdb": 862280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-18",
+  "runtime_minutes": 120
+}

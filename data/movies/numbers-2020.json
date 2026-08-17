@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_numbers_2020",
+  "title": "Numbers",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59325984",
+    "imdb": "tt11771626",
+    "tmdb": 661566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-19",
+  "runtime_minutes": 104
+}

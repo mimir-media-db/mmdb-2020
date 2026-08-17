@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nocturne_2020",
+  "title": "Nocturne",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73549130",
+    "imdb": "tt11044858",
+    "tmdb": 643550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-13",
+  "runtime_minutes": 90
+}

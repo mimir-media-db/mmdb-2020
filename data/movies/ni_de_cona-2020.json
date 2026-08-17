@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ni_de_cona_2020",
+  "title": "Ni de coña",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101246909",
+    "imdb": "tt13167556",
+    "tmdb": 760050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-13",
+  "runtime_minutes": 90
+}

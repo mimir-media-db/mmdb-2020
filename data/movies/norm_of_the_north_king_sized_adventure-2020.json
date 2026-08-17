@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_norm_of_the_north_king_sized_adventure_2020",
+  "title": "Norm of the North: King Sized Adventure",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97216895",
+    "imdb": "tt9428190",
+    "tmdb": 601131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-19",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nacion_2020",
+  "title": "Nación",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111599604",
+    "imdb": "tt13395378",
+    "tmdb": 763207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-09",
+  "runtime_minutes": 92
+}

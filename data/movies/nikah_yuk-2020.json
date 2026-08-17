@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nikah_yuk_2020",
+  "title": "Nikah Yuk",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65214029",
+    "imdb": "tt10530462",
+    "tmdb": 595307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-06",
+  "runtime_minutes": 94
+}

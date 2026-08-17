@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_never_gonna_snow_again_2020",
+  "title": "Never Gonna Snow Again",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97788165",
+    "imdb": "tt9526784",
+    "tmdb": 726151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-06",
+  "runtime_minutes": 113
+}

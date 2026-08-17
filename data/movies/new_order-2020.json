@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_order_2020",
+  "title": "New Order",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97828875",
+    "imdb": "tt12474056",
+    "tmdb": 575446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-10",
+  "runtime_minutes": 88
+}
