@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1917_2020",
+  "title": "1917",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62721520",
+    "imdb": "tt8579674",
+    "tmdb": 530915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-09",
+  "runtime_minutes": 119
+}

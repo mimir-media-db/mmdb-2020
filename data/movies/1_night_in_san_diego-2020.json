@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1_night_in_san_diego_2020",
+  "title": "1 Night in San Diego",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245236",
+    "imdb": "tt9765226",
+    "tmdb": 664051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 85
+}
