@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_leternitat_2020",
+  "title": "L'eternitat",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111971525",
+    "imdb": "tt20205320",
+    "tmdb": 1005855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_nadine_on_a_accuse_les_morts_2020",
+  "title": "Le Nadine... On a accusé les morts",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105636372",
+    "imdb": "tt13633702",
+    "tmdb": 1249259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

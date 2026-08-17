@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_russia_2020",
+  "title": "Lost in Russia",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83509064",
+    "imdb": "tt11172926",
+    "tmdb": 603770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-24"
+}

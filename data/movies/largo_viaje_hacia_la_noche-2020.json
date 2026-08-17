@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_largo_viaje_hacia_la_noche_2020",
+  "title": "Largo Viaje hacia la Noche",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140287838",
+    "imdb": "tt12690254"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 5
+}

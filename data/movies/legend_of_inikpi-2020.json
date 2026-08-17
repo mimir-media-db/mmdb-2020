@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_inikpi_2020",
+  "title": "The Legend of Inikpi",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96409432",
+    "imdb": "tt12435672",
+    "tmdb": 736728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-19"
+}

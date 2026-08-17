@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_los_andes_symphony_orchestra_2020",
+  "title": "Los Andes Symphony Orchestra",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85417394",
+    "imdb": "tt9718498",
+    "tmdb": 679762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

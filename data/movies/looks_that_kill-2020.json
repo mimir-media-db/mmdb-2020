@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_looks_that_kill_2020",
+  "title": "Looks That Kill",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96312543",
+    "imdb": "tt8179470",
+    "tmdb": 610290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 92
+}

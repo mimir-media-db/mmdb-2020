@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leap_2020",
+  "title": "Leap",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65057399",
+    "imdb": "tt10670442",
+    "tmdb": 638032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-19",
+  "runtime_minutes": 135
+}

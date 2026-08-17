@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_lion_2020",
+  "title": "Le Lion",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75165504",
+    "imdb": "tt9908390",
+    "tmdb": 589970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-14",
+  "runtime_minutes": 95
+}

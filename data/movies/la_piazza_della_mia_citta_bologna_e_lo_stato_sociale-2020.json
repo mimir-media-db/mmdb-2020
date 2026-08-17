@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_piazza_della_mia_citta_bologna_e_lo_stato_sociale_2020",
+  "title": "La piazza della mia città - Bologna e Lo Stato Sociale",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86660991",
+    "imdb": "tt10613518",
+    "tmdb": 706822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 83
+}

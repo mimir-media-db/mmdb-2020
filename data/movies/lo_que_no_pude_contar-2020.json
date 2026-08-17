@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lo_que_no_pude_contar_2020",
+  "title": "Lo que no pude contar",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123553244",
+    "tmdb": 782431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 30
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_prince_2020",
+  "title": "The Lost Prince",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60833914",
+    "imdb": "tt8335482",
+    "tmdb": 520725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_bataille_de_la_plaine_2020",
+  "title": "La Bataille de la Plaine",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111295436",
+    "imdb": "tt15663626",
+    "tmdb": 882364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 70
+}

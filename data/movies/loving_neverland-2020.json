@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loving_neverland_2020",
+  "title": "Loving Neverland",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111456915",
+    "imdb": "tt13092932",
+    "tmdb": 1470224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 315
+}

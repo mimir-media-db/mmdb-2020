@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_live_2020",
+  "title": "Live",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106492797",
+    "imdb": "tt8554982",
+    "tmdb": 655522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

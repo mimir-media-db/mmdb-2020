@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_herida_y_el_cuchillo_notas_para_un_film_sobre_emilio_garcia_wehbi_2020",
+  "title": "La herida y el cuchillo (Notas para un film sobre Emilio García Wehbi)",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106582595",
+    "imdb": "tt10439512",
+    "tmdb": 727497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 74
+}

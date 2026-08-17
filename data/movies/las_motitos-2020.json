@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_las_motitos_2020",
+  "title": "Las motitos",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124612209",
+    "imdb": "tt10472290",
+    "tmdb": 763316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 84
+}

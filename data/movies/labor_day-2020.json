@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_labor_day_2020",
+  "title": "Labor Day",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90845278",
+    "imdb": "tt9162090",
+    "tmdb": 554375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 99
+}

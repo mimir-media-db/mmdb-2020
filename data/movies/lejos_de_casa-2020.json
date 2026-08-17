@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lejos_de_casa_2020",
+  "title": "Lejos de Casa",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87343802",
+    "imdb": "tt11207902",
+    "tmdb": 714916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

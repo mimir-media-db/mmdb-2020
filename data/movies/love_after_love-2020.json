@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_after_love_2020",
+  "title": "Love After Love",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97602927",
+    "imdb": "tt10415576",
+    "tmdb": 660002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 144
+}

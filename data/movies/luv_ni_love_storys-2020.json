@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_luv_ni_love_storys_2020",
+  "title": "Luv Ni Love Storys",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85782712",
+    "imdb": "tt11454890",
+    "tmdb": 679657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

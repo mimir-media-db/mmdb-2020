@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_words_2020",
+  "title": "Last Words",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96386983",
+    "imdb": "tt12443726",
+    "tmdb": 712110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 126
+}

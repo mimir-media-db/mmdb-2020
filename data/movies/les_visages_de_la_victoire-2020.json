@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_les_visages_de_la_victoire_2020",
+  "title": "Les Visages de la victoire",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113839534",
+    "imdb": "tt11944750"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

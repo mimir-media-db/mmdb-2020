@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loco_por_vos_2020",
+  "title": "Loco Por Vos",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83645520",
+    "imdb": "tt11584724",
+    "tmdb": 661095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 97
+}
