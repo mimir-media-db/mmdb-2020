@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lm5_the_tour_film_2020",
+  "title": "LM5: The Tour Film",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106982032",
+    "imdb": "tt13458064",
+    "tmdb": 752340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-21"
+}

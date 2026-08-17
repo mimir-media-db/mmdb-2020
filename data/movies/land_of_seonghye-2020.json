@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_land_of_seonghye_2020",
+  "title": "The Land of Seonghye",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85980857",
+    "imdb": "tt35375993",
+    "tmdb": 528165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-30",
+  "runtime_minutes": 118
+}

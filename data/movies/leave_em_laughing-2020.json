@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_leave_em_laughing_2020",
+  "title": "Leave 'em Laughing",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65767123",
+    "imdb": "tt10477948",
+    "tmdb": 753457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-31"
+}

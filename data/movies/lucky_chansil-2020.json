@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lucky_chansil_2020",
+  "title": "Lucky Chan-sil",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999156",
+    "imdb": "tt11639190",
+    "tmdb": 636294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05",
+  "runtime_minutes": 96
+}

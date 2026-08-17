@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_monsters_2020",
+  "title": "Little Monsters",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64174928",
+    "imdb": "tt7390588",
+    "tmdb": 503125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-10",
+  "runtime_minutes": 93
+}

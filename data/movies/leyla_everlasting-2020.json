@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leyla_everlasting_2020",
+  "title": "Leyla Everlasting",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85967411",
+    "imdb": "tt11792734",
+    "tmdb": 668156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-04",
+  "runtime_minutes": 112
+}

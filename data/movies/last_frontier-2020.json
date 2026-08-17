@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_frontier_2020",
+  "title": "The Last Frontier",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96680099",
+    "imdb": "tt12216986",
+    "tmdb": 579831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-04",
+  "runtime_minutes": 130
+}

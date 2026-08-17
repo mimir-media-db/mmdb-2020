@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_song_1980_2020",
+  "title": "Love Song 1980",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91878497",
+    "imdb": "tt10097470",
+    "tmdb": 763214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-31"
+}

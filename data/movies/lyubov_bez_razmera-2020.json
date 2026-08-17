@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lyubov_bez_razmera_2020",
+  "title": "Lyubov bez razmera",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99974717",
+    "imdb": "tt13385886",
+    "tmdb": 650056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-22",
+  "runtime_minutes": 91
+}

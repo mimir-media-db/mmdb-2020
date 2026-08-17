@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_livet_efter_doden_2020",
+  "title": "Livet efter döden",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86914911",
+    "imdb": "tt10385556",
+    "tmdb": 571671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-06"
+}

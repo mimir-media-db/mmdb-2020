@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_los_ultimos_espanoles_de_mauthausen_2020",
+  "title": "Los últimos españoles de Mauthausen",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93123113",
+    "imdb": "tt12252908",
+    "tmdb": 702806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-01"
+}

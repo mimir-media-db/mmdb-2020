@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_drop_2020",
+  "title": "Last Drop",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128034245",
+    "imdb": "tt12504996",
+    "tmdb": 1406836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-26"
+}

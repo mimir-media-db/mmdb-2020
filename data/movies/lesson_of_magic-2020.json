@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lesson_of_magic_2020",
+  "title": "Lesson of Magic",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23386679",
+    "imdb": "tt6282546",
+    "tmdb": 479330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-26",
+  "runtime_minutes": 90
+}

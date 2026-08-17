@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_ones_2020",
+  "title": "The Last Ones",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97200052",
+    "imdb": "tt6352926",
+    "tmdb": 548647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-11",
+  "runtime_minutes": 119
+}

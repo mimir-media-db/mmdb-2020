@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lequipe_de_secours_en_route_pour_laventure_2020",
+  "title": "L’équipe de secours en route pour l’aventure!",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123282272",
+    "imdb": "tt29724666",
+    "tmdb": 664359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-05",
+  "runtime_minutes": 45
+}

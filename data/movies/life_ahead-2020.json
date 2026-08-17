@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_ahead_2020",
+  "title": "The Life Ahead",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85807735",
+    "imdb": "tt10627584",
+    "tmdb": 667869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-13",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liam_gallagher_as_it_was_2020",
+  "title": "Liam Gallagher: As It Was",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87398417",
+    "imdb": "tt10215424",
+    "tmdb": 590978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-12",
+  "runtime_minutes": 85
+}

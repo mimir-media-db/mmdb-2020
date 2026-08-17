@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legion_2020",
+  "title": "The Legion",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104857613",
+    "imdb": "tt8318284",
+    "tmdb": 631939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-08"
+}

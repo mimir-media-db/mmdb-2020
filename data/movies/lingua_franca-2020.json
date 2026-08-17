@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lingua_franca_2020",
+  "title": "Lingua Franca",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89470554",
+    "imdb": "tt8943224",
+    "tmdb": 583143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-26",
+  "runtime_minutes": 94
+}

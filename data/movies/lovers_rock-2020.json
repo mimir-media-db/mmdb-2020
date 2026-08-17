@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lovers_rock_2020",
+  "title": "Lovers Rock",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96100980",
+    "imdb": "tt10551102"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-22",
+  "runtime_minutes": 68
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leni_2020",
+  "title": "Leni",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136001054",
+    "imdb": "tt13049274",
+    "tmdb": 732202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-02",
+  "runtime_minutes": 74
+}

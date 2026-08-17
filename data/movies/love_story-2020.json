@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_story_2020",
+  "title": "Love Story",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101208699",
+    "imdb": "tt11569822",
+    "tmdb": 718051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-21"
+}

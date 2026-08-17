@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_stuff_2020",
+  "title": "Love & Stuff",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106405810",
+    "imdb": "tt11279292",
+    "tmdb": 709255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-28"
+}

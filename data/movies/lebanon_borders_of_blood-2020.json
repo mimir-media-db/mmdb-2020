@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lebanon_borders_of_blood_2020",
+  "title": "Lebanon - Borders of Blood",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104029004",
+    "imdb": "tt13077062",
+    "tmdb": 1043078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-09",
+  "runtime_minutes": 50
+}

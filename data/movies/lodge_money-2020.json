@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lodge_money_2020",
+  "title": "Lodge Money",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841683",
+    "imdb": "tt13412168",
+    "tmdb": 757764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-20"
+}

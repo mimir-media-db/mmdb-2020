@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_labordage_2020",
+  "title": "À L'abordage",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85852491",
+    "imdb": "tt11068166",
+    "tmdb": 665753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-25"
+}
