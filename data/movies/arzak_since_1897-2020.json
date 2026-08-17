@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arzak_since_1897_2020",
+  "title": "Arzak since 1897",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100144651",
+    "imdb": "tt13087552",
+    "tmdb": 750477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-18",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trolls_world_tour_2020",
+  "title": "Trolls World Tour",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29825830",
+    "imdb": "tt6587640",
+    "tmdb": 446893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-20",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_collectors_2020",
+  "title": "Collectors",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100945934",
+    "imdb": "tt13428686",
+    "tmdb": 605680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-04"
+}

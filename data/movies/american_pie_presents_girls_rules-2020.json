@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_pie_presents_girls_rules_2020",
+  "title": "American Pie Presents: Girls' Rules",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86752639",
+    "imdb": "tt11771594",
+    "tmdb": 660982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-06",
+  "runtime_minutes": 95
+}

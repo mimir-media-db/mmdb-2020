@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_intoxicated_eyes_2020",
+  "title": "The Intoxicated Eyes",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41507598",
+    "imdb": "tt6256998",
+    "tmdb": 722937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-12"
+}

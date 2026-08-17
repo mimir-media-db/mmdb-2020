@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_boys_2020",
+  "title": "Lost Boys",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98725989",
+    "imdb": "tt12938038",
+    "tmdb": 583020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-25"
+}

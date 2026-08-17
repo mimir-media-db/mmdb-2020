@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhoomiyile_manohara_swakaryam_2020",
+  "title": "Bhoomiyile Manohara Swakaryam",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105393962",
+    "imdb": "tt11295984",
+    "tmdb": 751609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-28"
+}

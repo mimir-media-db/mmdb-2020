@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boonie_bears_blast_into_the_past_2020",
+  "title": "Boonie Bears: Blast Into the Past",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60990372",
+    "imdb": "tt10250750",
+    "tmdb": 581218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-27"
+}

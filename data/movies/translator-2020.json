@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_translator_2020",
+  "title": "The Translator",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108806807",
+    "imdb": "tt10691828",
+    "tmdb": 743532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-10",
+  "runtime_minutes": 105
+}

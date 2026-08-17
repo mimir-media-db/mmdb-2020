@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_sister_2020",
+  "title": "Little Sister",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841930",
+    "imdb": "tt18501788",
+    "tmdb": 699151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-20"
+}

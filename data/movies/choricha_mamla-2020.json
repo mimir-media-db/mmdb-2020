@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_choricha_mamla_2020",
+  "title": "Choricha Mamla",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105078132",
+    "imdb": "tt11457262",
+    "tmdb": 673072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-31"
+}

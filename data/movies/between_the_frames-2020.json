@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_between_the_frames_2020",
+  "title": "Between the Frames",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573932",
+    "imdb": "tt13132442",
+    "tmdb": 752037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-29",
+  "runtime_minutes": 93
+}

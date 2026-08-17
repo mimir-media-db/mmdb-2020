@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_diaries_2020",
+  "title": "My Diaries",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105653760",
+    "imdb": "tt11127782",
+    "tmdb": 669368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-12",
+  "runtime_minutes": 94
+}

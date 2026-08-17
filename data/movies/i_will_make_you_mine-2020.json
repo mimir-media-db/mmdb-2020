@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_will_make_you_mine_2020",
+  "title": "I Will Make You Mine",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124398018",
+    "imdb": "tt8820348",
+    "tmdb": 664597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-26"
+}

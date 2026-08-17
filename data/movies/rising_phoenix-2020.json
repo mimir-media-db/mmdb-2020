@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rising_phoenix_2020",
+  "title": "Rising Phoenix",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98688194",
+    "imdb": "tt10851618",
+    "tmdb": 726887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-26"
+}

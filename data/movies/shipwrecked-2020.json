@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shipwrecked_2020",
+  "title": "Shipwrecked",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1431878",
+    "imdb": "tt0099816",
+    "tmdb": 71805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-13",
+  "runtime_minutes": 92
+}

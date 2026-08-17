@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_no_day_without_you_2020",
+  "title": "Paris – No Day Without You",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108874659"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-07",
+  "runtime_minutes": 107
+}

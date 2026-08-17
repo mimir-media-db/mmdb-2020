@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_artist_2020",
+  "title": "The Artist",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q171861",
+    "imdb": "tt1655442",
+    "tmdb": 74643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-07",
+  "runtime_minutes": 100
+}

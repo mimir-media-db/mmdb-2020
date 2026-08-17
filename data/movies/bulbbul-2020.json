@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bulbbul_2020",
+  "title": "Bulbbul",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96631747",
+    "imdb": "tt12393526",
+    "tmdb": 714338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-24"
+}

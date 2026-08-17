@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jacky_2020",
+  "title": "Jacky",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140026947",
+    "imdb": "tt12735256",
+    "tmdb": 714258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-01",
+  "runtime_minutes": 76
+}

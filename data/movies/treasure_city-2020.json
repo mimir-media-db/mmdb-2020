@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_treasure_city_2020",
+  "title": "Treasure City",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96251583",
+    "imdb": "tt8743262",
+    "tmdb": 655361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_centigrade_2020",
+  "title": "Centigrade",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98752480",
+    "imdb": "tt8945942",
+    "tmdb": 680028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-28",
+  "runtime_minutes": 89
+}

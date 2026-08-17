@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_decline_2020",
+  "title": "The Decline",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65130905",
+    "imdb": "tt10307440",
+    "tmdb": 674607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 83
+}

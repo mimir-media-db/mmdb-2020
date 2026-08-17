@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_wunder_von_taipeh_2020",
+  "title": "Das Wunder von Taipeh",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83470777",
+    "imdb": "tt11582758",
+    "tmdb": 671532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_stray_cat_2020",
+  "title": "A Stray Cat",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97339119",
+    "tmdb": 697630
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-15"
+}

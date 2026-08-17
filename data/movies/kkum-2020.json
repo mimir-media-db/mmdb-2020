@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kkum_2020",
+  "title": "Kkum",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106770900",
+    "imdb": "tt13796046",
+    "tmdb": 750144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-04"
+}

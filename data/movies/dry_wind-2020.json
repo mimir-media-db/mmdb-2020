@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dry_wind_2020",
+  "title": "Dry Wind",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100506077",
+    "imdb": "tt11719648",
+    "tmdb": 665783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-26",
+  "runtime_minutes": 110
+}

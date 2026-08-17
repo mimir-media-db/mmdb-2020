@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_claire_andrieux_2020",
+  "title": "Claire Andrieux",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100707295",
+    "imdb": "tt10648042",
+    "tmdb": 749015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-09",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hacksaw_2020",
+  "title": "Hacksaw",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55220530",
+    "imdb": "tt7736042",
+    "tmdb": 572430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-15"
+}

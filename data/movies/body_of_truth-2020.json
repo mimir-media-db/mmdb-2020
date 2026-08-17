@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_body_of_truth_2020",
+  "title": "Body of Truth",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79978463",
+    "imdb": "tt11382952",
+    "tmdb": 661826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-10",
+  "runtime_minutes": 96
+}

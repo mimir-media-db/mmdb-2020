@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fairy_2020",
+  "title": "Fairy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65153999",
+    "imdb": "tt12235234",
+    "tmdb": 575121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-30",
+  "runtime_minutes": 152
+}

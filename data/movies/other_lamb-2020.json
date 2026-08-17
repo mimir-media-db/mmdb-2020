@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_other_lamb_2020",
+  "title": "The Other Lamb",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66124297",
+    "imdb": "tt7737734",
+    "tmdb": 617786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-20",
+  "runtime_minutes": 97
+}

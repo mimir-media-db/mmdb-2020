@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bandar_band_2020",
+  "title": "Bandar Band",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98098887",
+    "imdb": "tt12801538",
+    "tmdb": 728877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-15"
+}

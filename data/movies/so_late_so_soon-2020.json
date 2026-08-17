@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_late_so_soon_2020",
+  "title": "So Late So Soon",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116730574",
+    "imdb": "tt12497830",
+    "tmdb": 681468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05",
+  "runtime_minutes": 71
+}

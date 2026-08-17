@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_warm_hug_2020",
+  "title": "Warm Hug",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97193421",
+    "imdb": "tt13529418",
+    "tmdb": 743413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-31"
+}

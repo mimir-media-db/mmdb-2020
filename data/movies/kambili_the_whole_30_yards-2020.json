@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kambili_the_whole_30_yards_2020",
+  "title": "Kambili: The Whole 30 Yards",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104834026",
+    "imdb": "tt11831084",
+    "tmdb": 842199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-04",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amalia_in_the_fall_2020",
+  "title": "Amalia in the Fall",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105451455",
+    "imdb": "tt13621726",
+    "tmdb": 814564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-20",
+  "runtime_minutes": 75
+}

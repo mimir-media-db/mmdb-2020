@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meryl_streep_mysteres_et_metamorphoses_2020",
+  "title": "Meryl Streep : mystères et métamorphoses",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123741871",
+    "imdb": "tt12959482",
+    "tmdb": 733984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-23"
+}

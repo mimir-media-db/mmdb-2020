@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_motherinlaw_love_2020",
+  "title": "Mother-in-law Love",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841940",
+    "tmdb": 699167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-13"
+}

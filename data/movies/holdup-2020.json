@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holdup_2020",
+  "title": "Hold-Up",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101435417",
+    "imdb": "tt11729546",
+    "tmdb": 1406229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-11",
+  "runtime_minutes": 163
+}

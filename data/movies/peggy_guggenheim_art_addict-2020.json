@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peggy_guggenheim_art_addict_2020",
+  "title": "Peggy Guggenheim: Art Addict",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649044",
+    "imdb": "tt3790720",
+    "tmdb": 333360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-15",
+  "runtime_minutes": 96
+}

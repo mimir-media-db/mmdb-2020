@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_verano_que_vivimos_2020",
+  "title": "El verano que vivimos",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91444319",
+    "imdb": "tt10042590",
+    "tmdb": 588656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-04",
+  "runtime_minutes": 119
+}

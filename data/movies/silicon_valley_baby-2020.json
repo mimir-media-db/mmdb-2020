@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_silicon_valley_baby_2020",
+  "title": "Silicon Valley, Baby",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98725998",
+    "imdb": "tt11714386",
+    "tmdb": 660364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-30"
+}

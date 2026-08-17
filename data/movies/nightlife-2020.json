@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nightlife_2020",
+  "title": "Nightlife",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q82307729",
+    "imdb": "tt10358022",
+    "tmdb": 653910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-13"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_true_history_of_the_kelly_gang_2020",
+  "title": "True History of the Kelly Gang",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56274013",
+    "imdb": "tt4844140",
+    "tmdb": 501395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-28",
+  "runtime_minutes": 124
+}

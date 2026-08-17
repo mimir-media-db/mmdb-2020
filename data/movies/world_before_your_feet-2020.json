@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_world_before_your_feet_2020",
+  "title": "The World Before Your Feet",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68367963",
+    "imdb": "tt7844450",
+    "tmdb": 502138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-12",
+  "runtime_minutes": 95
+}

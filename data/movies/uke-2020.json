@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uke_2020",
+  "title": "UKE",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104723735",
+    "imdb": "tt12253130",
+    "tmdb": 763440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-03",
+  "runtime_minutes": 90
+}

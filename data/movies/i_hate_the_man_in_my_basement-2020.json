@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_hate_the_man_in_my_basement_2020",
+  "title": "I Hate the Man in My Basement",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120255852",
+    "imdb": "tt5174992",
+    "tmdb": 473273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-10",
+  "runtime_minutes": 103
+}

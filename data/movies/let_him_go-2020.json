@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_him_go_2020",
+  "title": "Let Him Go",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63434250",
+    "imdb": "tt9340860",
+    "tmdb": 596161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-06",
+  "runtime_minutes": 114
+}

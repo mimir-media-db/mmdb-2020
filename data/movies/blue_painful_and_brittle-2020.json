@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_painful_and_brittle_2020",
+  "title": "Blue, Painful and Brittle",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55522961",
+    "imdb": "tt11928696",
+    "tmdb": 698208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-28"
+}

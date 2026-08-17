@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bigger_world_2020",
+  "title": "A Bigger World",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76400523",
+    "imdb": "tt7265272",
+    "tmdb": 490462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-09",
+  "runtime_minutes": 100
+}

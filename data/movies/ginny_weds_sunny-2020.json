@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ginny_weds_sunny_2020",
+  "title": "Ginny Weds Sunny",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892946",
+    "imdb": "tt10543680",
+    "tmdb": 744676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-09"
+}

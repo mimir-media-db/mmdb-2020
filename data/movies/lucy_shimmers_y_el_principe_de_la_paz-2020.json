@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lucy_shimmers_y_el_principe_de_la_paz_2020",
+  "title": "Lucy Shimmers y el príncipe de la paz",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132775147",
+    "imdb": "tt11916254",
+    "tmdb": 770156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-19",
+  "runtime_minutes": 87
+}

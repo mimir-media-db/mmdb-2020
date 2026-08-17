@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lockdown_2020",
+  "title": "Lockdown",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108604905",
+    "imdb": "tt12752306"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2040_2020",
+  "title": "2040",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69262739",
+    "imdb": "tt7150512",
+    "tmdb": 575788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-15",
+  "runtime_minutes": 92
+}

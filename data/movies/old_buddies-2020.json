@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_old_buddies_2020",
+  "title": "Old Buddies",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108830433",
+    "imdb": "tt10510254",
+    "tmdb": 741696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-01",
+  "runtime_minutes": 110
+}

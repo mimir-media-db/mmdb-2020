@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_100_candles_game_2020",
+  "title": "The 100 Candles Game",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101070635",
+    "imdb": "tt12739994",
+    "tmdb": 751394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-29",
+  "runtime_minutes": 100
+}

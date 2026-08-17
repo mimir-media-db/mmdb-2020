@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirt_music_2020",
+  "title": "Dirt Music",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737528",
+    "imdb": "tt0810836",
+    "tmdb": 540414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-29",
+  "runtime_minutes": 105
+}

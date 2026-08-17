@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_novemberoslo_2020",
+  "title": "NovemberOslo",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134498216",
+    "imdb": "tt3598944",
+    "tmdb": 606976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-16",
+  "runtime_minutes": 71
+}

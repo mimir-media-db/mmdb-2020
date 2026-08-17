@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_racer_2020",
+  "title": "The Racer",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63457397",
+    "imdb": "tt8374436",
+    "tmdb": 305937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-13",
+  "runtime_minutes": 95
+}

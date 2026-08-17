@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burnt_orange_heresy_2020",
+  "title": "The Burnt Orange Heresy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737566",
+    "imdb": "tt8342680",
+    "tmdb": 566872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-16",
+  "runtime_minutes": 99
+}

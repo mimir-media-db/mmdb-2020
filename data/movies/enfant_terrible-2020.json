@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enfant_terrible_2020",
+  "title": "Enfant Terrible",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q82299296",
+    "imdb": "tt10855798",
+    "tmdb": 660717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-01",
+  "runtime_minutes": 135
+}

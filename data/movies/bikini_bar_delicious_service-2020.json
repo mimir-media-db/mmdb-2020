@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bikini_bar_delicious_service_2020",
+  "title": "Bikini Bar: Delicious Service",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841645",
+    "tmdb": 1229343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-26"
+}

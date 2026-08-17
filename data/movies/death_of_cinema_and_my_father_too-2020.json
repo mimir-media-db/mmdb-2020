@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_cinema_and_my_father_too_2020",
+  "title": "The Death of Cinema and My Father Too",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108047414",
+    "imdb": "tt12444576",
+    "tmdb": 712143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-26",
+  "runtime_minutes": 105
+}

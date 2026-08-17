@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_truth_2020",
+  "title": "The Truth",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64666990",
+    "imdb": "tt8323120",
+    "tmdb": 517468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05",
+  "runtime_minutes": 106
+}

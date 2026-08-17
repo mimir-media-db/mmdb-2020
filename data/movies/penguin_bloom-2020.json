@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_penguin_bloom_2020",
+  "title": "Penguin Bloom",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38686109",
+    "imdb": "tt6317656",
+    "tmdb": 618416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-12",
+  "runtime_minutes": 95
+}

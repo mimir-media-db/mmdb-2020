@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_craft_legacy_2020",
+  "title": "The Craft: Legacy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74191011",
+    "imdb": "tt4685762",
+    "tmdb": 590995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-28"
+}

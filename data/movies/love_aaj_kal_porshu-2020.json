@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_aaj_kal_porshu_2020",
+  "title": "Love Aaj Kal Porshu",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81378036",
+    "imdb": "tt10801042",
+    "tmdb": 687735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-14"
+}

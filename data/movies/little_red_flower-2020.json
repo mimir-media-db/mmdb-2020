@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_red_flower_2020",
+  "title": "A Little Red Flower",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104532857",
+    "imdb": "tt12497408",
+    "tmdb": 716815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-31",
+  "runtime_minutes": 122
+}

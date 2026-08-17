@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rascal_2020",
+  "title": "Rascal",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96965075",
+    "imdb": "tt12444430",
+    "tmdb": 712137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-29",
+  "runtime_minutes": 96
+}

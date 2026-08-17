@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_again_2020",
+  "title": "Again",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97477901",
+    "tmdb": 724881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-30"
+}

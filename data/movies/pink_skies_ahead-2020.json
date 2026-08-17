@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pink_skies_ahead_2020",
+  "title": "Pink Skies Ahead",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96399410",
+    "imdb": "tt10095308",
+    "tmdb": 602832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-18"
+}

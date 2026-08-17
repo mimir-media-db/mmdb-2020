@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_another_christmas_2020",
+  "title": "Just Another Christmas",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q103928994",
+    "imdb": "tt13354204",
+    "tmdb": 755339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-03",
+  "runtime_minutes": 100
+}

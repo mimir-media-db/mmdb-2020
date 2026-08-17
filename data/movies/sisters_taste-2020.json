@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_taste_2020",
+  "title": "Sister's Taste",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841669",
+    "tmdb": 1018325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-02"
+}

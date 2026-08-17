@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nina_wu_2020",
+  "title": "Nina Wu",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60993003",
+    "imdb": "tt9404442",
+    "tmdb": 595923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-03",
+  "runtime_minutes": 103
+}

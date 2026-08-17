@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lee_miller_a_life_on_the_front_line_2020",
+  "title": "Lee Miller - A Life on the Front Line",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123753987",
+    "imdb": "tt12281602",
+    "tmdb": 699957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-30",
+  "runtime_minutes": 59
+}

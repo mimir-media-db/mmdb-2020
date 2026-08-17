@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_fields_2020",
+  "title": "Red Fields",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66588749",
+    "imdb": "tt10679766",
+    "tmdb": 585076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-12",
+  "runtime_minutes": 96
+}

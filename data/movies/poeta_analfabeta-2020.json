@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poeta_analfabeta_2020",
+  "title": "A poeta analfabeta",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115705869",
+    "imdb": "tt17499328"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-12",
+  "runtime_minutes": 71
+}

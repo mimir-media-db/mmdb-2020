@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_traitor_2020",
+  "title": "The Traitor",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63213307",
+    "imdb": "tt7736478",
+    "tmdb": 575452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-02",
+  "runtime_minutes": 148
+}

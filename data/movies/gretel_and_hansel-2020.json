@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gretel_and_hansel_2020",
+  "title": "Gretel and Hansel",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63994491",
+    "imdb": "tt9086228",
+    "tmdb": 542224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-31",
+  "runtime_minutes": 87
+}

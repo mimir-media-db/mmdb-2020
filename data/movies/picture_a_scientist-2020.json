@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_picture_a_scientist_2020",
+  "title": "Picture a Scientist",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92017355",
+    "imdb": "tt11906032",
+    "tmdb": 703810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-15",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_playmobil_the_movie_2020",
+  "title": "Playmobil: The Movie",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57314399",
+    "imdb": "tt4199898",
+    "tmdb": 366668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-10",
+  "runtime_minutes": 110
+}

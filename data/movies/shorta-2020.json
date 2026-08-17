@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shorta_2020",
+  "title": "Shorta",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73483444",
+    "imdb": "tt11081050",
+    "tmdb": 711017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-08",
+  "runtime_minutes": 95
+}

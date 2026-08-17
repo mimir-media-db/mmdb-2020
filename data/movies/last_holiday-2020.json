@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_last_holiday_2020",
+  "title": "Last Holiday",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109458414",
+    "tmdb": 774175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-10"
+}

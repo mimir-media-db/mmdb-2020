@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rupsha_nodeer_baanke_2020",
+  "title": "Rupsha Nodeer Baanke",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70734737",
+    "imdb": "tt6955290",
+    "tmdb": 925829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-11"
+}

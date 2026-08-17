@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_minoriyuku_2020",
+  "title": "Minoriyuku",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109359768",
+    "imdb": "tt26235362",
+    "tmdb": 958438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-09"
+}

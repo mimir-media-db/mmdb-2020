@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_almost_lost_bochum_2020",
+  "title": "We Almost Lost Bochum",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98686916",
+    "imdb": "tt13059878",
+    "tmdb": 721784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-10",
+  "runtime_minutes": 104
+}

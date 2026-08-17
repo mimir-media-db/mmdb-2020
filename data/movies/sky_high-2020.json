@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_high_2020",
+  "title": "Sky High",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96107294",
+    "imdb": "tt10978398",
+    "tmdb": 651589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-26",
+  "runtime_minutes": 121
+}

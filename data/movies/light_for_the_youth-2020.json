@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_light_for_the_youth_2020",
+  "title": "Light for the Youth",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117431905",
+    "imdb": "tt13830532",
+    "tmdb": 635397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-28"
+}

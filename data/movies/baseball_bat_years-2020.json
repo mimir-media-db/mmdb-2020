@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baseball_bat_years_2020",
+  "title": "Baseball Bat Years",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105080908",
+    "imdb": "tt13581914",
+    "tmdb": 771668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-02"
+}

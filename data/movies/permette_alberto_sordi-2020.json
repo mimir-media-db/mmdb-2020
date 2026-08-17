@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_permette_alberto_sordi_2020",
+  "title": "Permette? Alberto Sordi",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85226616",
+    "imdb": "tt11800888",
+    "tmdb": 666363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-24",
+  "runtime_minutes": 100
+}

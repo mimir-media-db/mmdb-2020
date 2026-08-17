@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_assandira_2020",
+  "title": "Assandira",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107001222",
+    "imdb": "tt12792400",
+    "tmdb": 726892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-06"
+}

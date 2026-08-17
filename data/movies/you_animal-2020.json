@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_animal_2020",
+  "title": "You Animal!",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99521078",
+    "imdb": "tt11102242",
+    "tmdb": 622841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-29",
+  "runtime_minutes": 73
+}

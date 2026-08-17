@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_fuite_2020",
+  "title": "La fuite",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125492757",
+    "imdb": "tt13819416",
+    "tmdb": 778705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-24",
+  "runtime_minutes": 90
+}

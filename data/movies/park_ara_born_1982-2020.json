@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_park_ara_born_1982_2020",
+  "title": "Park Ara, Born 1982",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139838774",
+    "tmdb": 700265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-08"
+}

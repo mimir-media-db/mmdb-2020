@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_playing_with_fire_2020",
+  "title": "Playing with Fire",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61774239",
+    "imdb": "tt9134216",
+    "tmdb": 554241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-30"
+}

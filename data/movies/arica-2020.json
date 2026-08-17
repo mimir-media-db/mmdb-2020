@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arica_2020",
+  "title": "Arica",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106356103",
+    "imdb": "tt13617456",
+    "tmdb": 766707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-23",
+  "runtime_minutes": 97
+}

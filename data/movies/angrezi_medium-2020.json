@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angrezi_medium_2020",
+  "title": "Angrezi Medium",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62892931",
+    "imdb": "tt8907986",
+    "tmdb": 606717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-13"
+}

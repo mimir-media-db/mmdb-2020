@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angel_finds_wings_2020",
+  "title": "Angel Finds Wings",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105745333",
+    "imdb": "tt12881834",
+    "tmdb": 731677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-02",
+  "runtime_minutes": 80
+}

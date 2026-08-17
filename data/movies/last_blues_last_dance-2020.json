@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_last_blues_last_dance_2020",
+  "title": "Last Blues, Last Dance",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597751",
+    "tmdb": 693041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-23"
+}

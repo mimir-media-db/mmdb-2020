@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_they_called_me_keith_2020",
+  "title": "They Called Me Keith",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99373237",
+    "imdb": "tt12275210",
+    "tmdb": 1177825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_not_alone_2020",
+  "title": "Not Alone",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573956",
+    "imdb": "tt14054534",
+    "tmdb": 758599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-27",
+  "runtime_minutes": 62
+}

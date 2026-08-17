@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_breath_2020",
+  "title": "One Breath",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86682367",
+    "imdb": "tt8291918",
+    "tmdb": 579647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05",
+  "runtime_minutes": 100
+}

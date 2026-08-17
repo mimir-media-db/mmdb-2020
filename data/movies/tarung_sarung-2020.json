@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tarung_sarung_2020",
+  "title": "Tarung Sarung",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97235342",
+    "imdb": "tt11749980",
+    "tmdb": 655831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-31",
+  "runtime_minutes": 115
+}

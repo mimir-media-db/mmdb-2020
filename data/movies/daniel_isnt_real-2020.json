@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daniel_isnt_real_2020",
+  "title": "Daniel Isn't Real",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55762040",
+    "imdb": "tt8745960",
+    "tmdb": 537788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-07",
+  "runtime_minutes": 96
+}

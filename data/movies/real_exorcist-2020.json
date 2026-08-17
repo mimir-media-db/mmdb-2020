@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_real_exorcist_2020",
+  "title": "The Real Exorcist",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104876436",
+    "imdb": "tt12492578",
+    "tmdb": 708792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-15"
+}

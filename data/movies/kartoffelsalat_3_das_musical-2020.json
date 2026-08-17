@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kartoffelsalat_3_das_musical_2020",
+  "title": "Kartoffelsalat 3 - Das Musical",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84181198",
+    "imdb": "tt11449072",
+    "tmdb": 661037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-30",
+  "runtime_minutes": 92
+}

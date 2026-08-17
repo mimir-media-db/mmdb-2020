@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hospital_2020",
+  "title": "Hospital",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105084604",
+    "imdb": "tt14288764",
+    "tmdb": 761163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-31"
+}

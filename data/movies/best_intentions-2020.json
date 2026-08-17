@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_intentions_2020",
+  "title": "Best Intentions",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60832794",
+    "imdb": "tt9016296",
+    "tmdb": 535754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-30",
+  "runtime_minutes": 100
+}

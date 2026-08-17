@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heinahattu_vilttitossu_ja_arhakka_koululainen_2020",
+  "title": "Heinähattu, Vilttitossu ja ärhäkkä koululainen",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90565192",
+    "imdb": "tt10768232",
+    "tmdb": 660499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-14",
+  "runtime_minutes": 75
+}

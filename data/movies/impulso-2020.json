@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_impulso_2020",
+  "title": "Impulso",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59653012",
+    "imdb": "tt9049072",
+    "tmdb": 489467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-13"
+}

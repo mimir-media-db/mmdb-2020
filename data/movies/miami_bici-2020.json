@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miami_bici_2020",
+  "title": "Miami Bici",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87999926",
+    "imdb": "tt10993566",
+    "tmdb": 677640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-21",
+  "runtime_minutes": 98
+}

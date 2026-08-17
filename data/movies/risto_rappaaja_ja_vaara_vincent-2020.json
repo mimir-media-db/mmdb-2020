@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_risto_rappaaja_ja_vaara_vincent_2020",
+  "title": "Risto Räppääjä ja väärä Vincent",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98726041",
+    "imdb": "tt10449432",
+    "tmdb": 664379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-09",
+  "runtime_minutes": 86
+}

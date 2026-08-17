@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gorbachev_heaven_2020",
+  "title": "Gorbachev. Heaven",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898797",
+    "imdb": "tt13400440",
+    "tmdb": 761000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-19",
+  "runtime_minutes": 100
+}

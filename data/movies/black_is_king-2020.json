@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_is_king_2020",
+  "title": "Black Is King",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97516297",
+    "imdb": "tt12607910",
+    "tmdb": 719643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-31",
+  "runtime_minutes": 85
+}

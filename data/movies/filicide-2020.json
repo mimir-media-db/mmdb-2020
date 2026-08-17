@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_filicide_2020",
+  "title": "The Filicide",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85976590",
+    "imdb": "tt12624668",
+    "tmdb": 964224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-06"
+}

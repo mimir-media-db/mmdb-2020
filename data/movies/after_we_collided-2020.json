@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_we_collided_2020",
+  "title": "After We Collided",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66498260",
+    "imdb": "tt10362466",
+    "tmdb": 613504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-03",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jiu_jitsu_2020",
+  "title": "Jiu Jitsu",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87221150",
+    "imdb": "tt9624766",
+    "tmdb": 590706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-20",
+  "runtime_minutes": 102
+}

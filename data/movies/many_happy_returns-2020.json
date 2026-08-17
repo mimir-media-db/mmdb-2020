@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_many_happy_returns_2020",
+  "title": "Many Happy Returns",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84567475",
+    "imdb": "tt8863032",
+    "tmdb": 571025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-25",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_melville_le_dernier_samourai_2020",
+  "title": "Melville, le dernier samouraï",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124175329",
+    "imdb": "tt12054676",
+    "tmdb": 686836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-22",
+  "runtime_minutes": 54
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cordillera_of_dreams_2020",
+  "title": "The Cordillera of Dreams",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76821622",
+    "imdb": "tt9567718",
+    "tmdb": 582944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-28",
+  "runtime_minutes": 84
+}

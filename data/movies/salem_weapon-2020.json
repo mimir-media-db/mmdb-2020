@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_salem_weapon_2020",
+  "title": "Salem Weapon",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104247320"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-06",
+  "runtime_minutes": 115
+}

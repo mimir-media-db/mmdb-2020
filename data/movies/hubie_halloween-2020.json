@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hubie_halloween_2020",
+  "title": "Hubie Halloween",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65924931",
+    "imdb": "tt10682266",
+    "tmdb": 617505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-07",
+  "runtime_minutes": 102
+}

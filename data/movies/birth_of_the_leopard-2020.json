@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_birth_of_the_leopard_2020",
+  "title": "The Birth of the Leopard",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84752862",
+    "imdb": "tt11658446",
+    "tmdb": 639124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05",
+  "runtime_minutes": 94
+}

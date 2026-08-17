@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spenser_confidential_2020",
+  "title": "Spenser Confidential",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58814558",
+    "imdb": "tt8629748",
+    "tmdb": 581600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-06",
+  "runtime_minutes": 111
+}

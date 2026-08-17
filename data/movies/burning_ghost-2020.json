@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_burning_ghost_2020",
+  "title": "Burning Ghost",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65128099",
+    "imdb": "tt10224624",
+    "tmdb": 597693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-03"
+}

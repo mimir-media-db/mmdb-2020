@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deliver_us_from_evil_2020",
+  "title": "Deliver Us From Evil",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739110",
+    "imdb": "tt12763920",
+    "tmdb": 581526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-05",
+  "runtime_minutes": 108
+}

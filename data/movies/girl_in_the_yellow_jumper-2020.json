@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_in_the_yellow_jumper_2020",
+  "title": "The Girl in the Yellow Jumper",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85947402",
+    "imdb": "tt10954526",
+    "tmdb": 881274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-18"
+}

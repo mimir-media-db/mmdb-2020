@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hill_of_wind_2020",
+  "title": "The Hill of Wind",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93740574",
+    "imdb": "tt11644156",
+    "tmdb": 635400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-23",
+  "runtime_minutes": 107
+}

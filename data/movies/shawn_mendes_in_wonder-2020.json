@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shawn_mendes_in_wonder_2020",
+  "title": "Shawn Mendes: In Wonder",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104864112",
+    "imdb": "tt13276386",
+    "tmdb": 752939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-23"
+}

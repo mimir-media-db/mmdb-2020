@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vesilnyi_spadok_2020",
+  "title": "Vesilnyi Spadok",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575506",
+    "imdb": "tt13215754",
+    "tmdb": 749815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-14",
+  "runtime_minutes": 80
+}

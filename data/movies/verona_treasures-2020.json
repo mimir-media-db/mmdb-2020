@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_verona_treasures_2020",
+  "title": "Verona treasures",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575613",
+    "imdb": "tt12193984",
+    "tmdb": 804457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-10",
+  "runtime_minutes": 60
+}

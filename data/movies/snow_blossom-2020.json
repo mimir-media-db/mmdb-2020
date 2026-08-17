@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_blossom_2020",
+  "title": "Snow Blossom",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97339336",
+    "imdb": "tt12987776",
+    "tmdb": 696025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-16"
+}

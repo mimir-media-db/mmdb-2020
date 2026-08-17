@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mine_de_rien_2020",
+  "title": "Mine de rien",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86533878",
+    "imdb": "tt9568486",
+    "tmdb": 613362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-26"
+}

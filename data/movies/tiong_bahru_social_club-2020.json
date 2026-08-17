@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tiong_bahru_social_club_2020",
+  "title": "Tiong Bahru Social Club",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104879970",
+    "imdb": "tt13081086",
+    "tmdb": 743208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-10"
+}

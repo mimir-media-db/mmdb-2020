@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mishima_the_last_debate_2020",
+  "title": "Mishima: The Last Debate",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85875068",
+    "imdb": "tt11697148",
+    "tmdb": 682428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-20"
+}

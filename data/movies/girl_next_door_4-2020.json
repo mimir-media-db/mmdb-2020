@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_next_door_4_2020",
+  "title": "The Girl Next Door 4",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841791",
+    "tmdb": 719457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-03"
+}

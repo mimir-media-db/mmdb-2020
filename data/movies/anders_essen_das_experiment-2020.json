@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anders_essen_das_experiment_2020",
+  "title": "Anders essen - Das Experiment",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83408671",
+    "imdb": "tt12140186",
+    "tmdb": 667444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 88
+}

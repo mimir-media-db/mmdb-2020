@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_snake_2020",
+  "title": "White Snake",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125988394",
+    "imdb": "tt11151998",
+    "tmdb": 640347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-06",
+  "runtime_minutes": 101
+}

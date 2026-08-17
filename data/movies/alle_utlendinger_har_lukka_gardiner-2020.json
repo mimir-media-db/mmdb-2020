@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alle_utlendinger_har_lukka_gardiner_2020",
+  "title": "Alle utlendinger har lukka gardiner",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97011674",
+    "imdb": "tt11646970",
+    "tmdb": 652535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-06"
+}

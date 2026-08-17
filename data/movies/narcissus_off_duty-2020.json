@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_narcissus_off_duty_2020",
+  "title": "Narcissus Off Duty",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100252108",
+    "imdb": "tt12792446",
+    "tmdb": 728127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-07",
+  "runtime_minutes": 84
+}

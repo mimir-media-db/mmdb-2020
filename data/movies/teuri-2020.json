@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_teuri_2020",
+  "title": "Teuri",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97195661",
+    "tmdb": 707173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-09"
+}

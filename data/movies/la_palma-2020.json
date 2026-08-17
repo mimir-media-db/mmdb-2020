@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_palma_2020",
+  "title": "La Palma",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67401586",
+    "imdb": "tt8649438",
+    "tmdb": 571030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-04"
+}

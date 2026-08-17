@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_halloween_scoobydoo_2020",
+  "title": "Happy Halloween, Scooby-Doo!",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97178104",
+    "imdb": "tt12838958",
+    "tmdb": 721656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-06",
+  "runtime_minutes": 76
+}

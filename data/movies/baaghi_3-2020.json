@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baaghi_3_2020",
+  "title": "Baaghi 3",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72398161",
+    "imdb": "tt8366590",
+    "tmdb": 594669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-06",
+  "runtime_minutes": 143
+}

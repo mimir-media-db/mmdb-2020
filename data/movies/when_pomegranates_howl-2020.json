@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_pomegranates_howl_2020",
+  "title": "When Pomegranates Howl",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109236379",
+    "imdb": "tt13376084",
+    "tmdb": 753883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-16",
+  "runtime_minutes": 80
+}

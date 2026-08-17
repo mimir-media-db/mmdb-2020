@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_congo_murders_2020",
+  "title": "The Congo Murders",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43094535",
+    "imdb": "tt7356382",
+    "tmdb": 481220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-06",
+  "runtime_minutes": 128
+}

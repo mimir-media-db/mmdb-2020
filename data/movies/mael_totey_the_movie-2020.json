@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mael_totey_the_movie_2020",
+  "title": "Mael Totey: The Movie",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102195383",
+    "imdb": "tt13285446",
+    "tmdb": 755979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-22",
+  "runtime_minutes": 103
+}

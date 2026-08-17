@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_squad_2020",
+  "title": "The Squad",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98716820",
+    "imdb": "tt12992034",
+    "tmdb": 712825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-02",
+  "runtime_minutes": 88
+}

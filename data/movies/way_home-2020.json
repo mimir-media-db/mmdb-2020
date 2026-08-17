@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_way_home_2020",
+  "title": "The Way Home",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97161467",
+    "imdb": "tt12363382",
+    "tmdb": 868678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-26"
+}

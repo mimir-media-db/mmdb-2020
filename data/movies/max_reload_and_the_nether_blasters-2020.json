@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_max_reload_and_the_nether_blasters_2020",
+  "title": "Max Reload and the Nether Blasters",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98179835",
+    "imdb": "tt7424290",
+    "tmdb": 680267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-07",
+  "runtime_minutes": 100
+}

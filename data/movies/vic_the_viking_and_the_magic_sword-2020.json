@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vic_the_viking_and_the_magic_sword_2020",
+  "title": "Vic the Viking and the Magic Sword",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87269449",
+    "imdb": "tt8065768",
+    "tmdb": 648572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-28",
+  "runtime_minutes": 82
+}

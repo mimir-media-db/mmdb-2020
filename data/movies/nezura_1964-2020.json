@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nezura_1964_2020",
+  "title": "Nezura 1964",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97376247",
+    "imdb": "tt11571408",
+    "tmdb": 750758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-19"
+}

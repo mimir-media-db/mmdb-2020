@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_blossom_2020",
+  "title": "Sky Blossom",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104878169",
+    "imdb": "tt13187358",
+    "tmdb": 770457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-29"
+}

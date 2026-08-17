@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morning_after_2020",
+  "title": "The Morning After",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98416496",
+    "imdb": "tt10965792",
+    "tmdb": 647745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-19",
+  "runtime_minutes": 96
+}

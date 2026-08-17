@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_superagente_makey_2020",
+  "title": "Superagente Makey",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105515378",
+    "imdb": "tt10419566",
+    "tmdb": 651586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-17"
+}

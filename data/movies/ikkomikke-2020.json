@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ikkomikke_2020",
+  "title": "Ikko~Mikke",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96381951",
+    "imdb": "tt11947446",
+    "tmdb": 682833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-13",
+  "runtime_minutes": 133
+}

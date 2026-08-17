@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolves_return_2020",
+  "title": "Wolves return",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85251788",
+    "imdb": "tt13110006",
+    "tmdb": 637628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-17",
+  "runtime_minutes": 95
+}

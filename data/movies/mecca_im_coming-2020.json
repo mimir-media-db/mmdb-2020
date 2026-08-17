@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mecca_im_coming_2020",
+  "title": "Mecca I'm Coming",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93476194",
+    "imdb": "tt11708788",
+    "tmdb": 646705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05",
+  "runtime_minutes": 93
+}

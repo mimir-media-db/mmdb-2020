@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_masallardan_geriye_kalan_2020",
+  "title": "Masallardan Geriye Kalan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116687525",
+    "imdb": "tt11534356",
+    "tmdb": 674874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-14"
+}

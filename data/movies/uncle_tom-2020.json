@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uncle_tom_2020",
+  "title": "Uncle Tom",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97933278",
+    "imdb": "tt9708358",
+    "tmdb": 711340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-19"
+}

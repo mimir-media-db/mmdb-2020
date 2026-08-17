@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_belle_epoque_2020",
+  "title": "La Belle Époque",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63213666",
+    "imdb": "tt9172422",
+    "tmdb": 595975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-07",
+  "runtime_minutes": 110
+}

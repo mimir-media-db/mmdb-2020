@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rymdresan_2020",
+  "title": "Rymdresan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98961378",
+    "imdb": "tt13078824",
+    "tmdb": 726075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-11",
+  "runtime_minutes": 74
+}

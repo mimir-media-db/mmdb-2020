@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_dear_mother_2020",
+  "title": "My Dear Mother",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111854496",
+    "imdb": "tt11841158",
+    "tmdb": 687181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05",
+  "runtime_minutes": 87
+}

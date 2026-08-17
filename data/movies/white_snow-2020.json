@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_snow_2020",
+  "title": "White Snow",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105419566",
+    "imdb": "tt14210088",
+    "tmdb": 650076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-07",
+  "runtime_minutes": 127
+}

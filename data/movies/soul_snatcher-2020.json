@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_snatcher_2020",
+  "title": "Soul Snatcher",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96401377",
+    "imdb": "tt12392662",
+    "tmdb": 755594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-04"
+}

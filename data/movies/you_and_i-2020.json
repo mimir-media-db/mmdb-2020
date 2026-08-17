@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_you_and_i_2020",
+  "title": "You and I",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109563795",
+    "imdb": "tt14399618",
+    "tmdb": 741296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-29"
+}

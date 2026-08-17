@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eclipse_2020",
+  "title": "Eclipse",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97300641",
+    "imdb": "tt12768962",
+    "tmdb": 718003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-19"
+}

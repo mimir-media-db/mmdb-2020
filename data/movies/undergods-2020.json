@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_undergods_2020",
+  "title": "Undergods",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104826869",
+    "imdb": "tt8043434",
+    "tmdb": 714273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-30"
+}

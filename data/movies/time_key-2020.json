@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_time_key_2020",
+  "title": "Time Key",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97369370",
+    "imdb": "tt12872350",
+    "tmdb": 594958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-06",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sleeping_forest_michiko_2020",
+  "title": "Sleeping Forest Michiko",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109362028",
+    "imdb": "tt15189982",
+    "tmdb": 861257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-25"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dia_2020",
+  "title": "Dia",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86752372",
+    "imdb": "tt11235142",
+    "tmdb": 672128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-07"
+}

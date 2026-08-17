@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kingdom_2020",
+  "title": "The Kingdom",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97321356",
+    "imdb": "tt9334814",
+    "tmdb": 696826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-26",
+  "runtime_minutes": 97
+}

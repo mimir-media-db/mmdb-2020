@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rattlesnake_the_ahanna_story_2020",
+  "title": "Rattlesnake: The Ahanna Story",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104835041",
+    "imdb": "tt13890834",
+    "tmdb": 800415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-13",
+  "runtime_minutes": 145
+}

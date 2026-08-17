@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ii_lines_2020",
+  "title": "II Lines",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130287300",
+    "imdb": "tt13344724",
+    "tmdb": 769651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-24",
+  "runtime_minutes": 21
+}

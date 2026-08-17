@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thalasso_2020",
+  "title": "Thalasso",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60836093",
+    "imdb": "tt9699640",
+    "tmdb": 582874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-26"
+}

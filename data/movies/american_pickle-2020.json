@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_pickle_2020",
+  "title": "An American Pickle",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58762343",
+    "imdb": "tt9059704",
+    "tmdb": 628917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-06",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rrated_idol_seunghas_fancy_walk_2020",
+  "title": "R-Rated Idol Seung-ha's Fancy Walk",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841797",
+    "imdb": "tt12944282",
+    "tmdb": 724108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-01"
+}

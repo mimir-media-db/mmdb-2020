@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cyril_contre_goliath_2020",
+  "title": "Cyril Contre Goliath",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98276370",
+    "imdb": "tt10720690",
+    "tmdb": 683594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-09"
+}

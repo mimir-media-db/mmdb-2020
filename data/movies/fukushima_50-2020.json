@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fukushima_50_2020",
+  "title": "Fukushima 50",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79960318",
+    "imdb": "tt9318772",
+    "tmdb": 563067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-06"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cronofobia_2020",
+  "title": "Cronofobia",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79457388",
+    "imdb": "tt8575428",
+    "tmdb": 548638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-20"
+}

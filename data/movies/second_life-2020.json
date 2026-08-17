@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_second_life_2020",
+  "title": "The Second Life",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105501580",
+    "imdb": "tt8302712",
+    "tmdb": 836085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-17",
+  "runtime_minutes": 90
+}

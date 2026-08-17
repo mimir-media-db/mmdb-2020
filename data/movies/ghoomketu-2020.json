@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghoomketu_2020",
+  "title": "Ghoomketu",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248590",
+    "imdb": "tt3734580",
+    "tmdb": 496348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-22"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salir_del_ropero_2020",
+  "title": "Salir del ropero",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101046574",
+    "imdb": "tt9695258",
+    "tmdb": 587970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-11",
+  "runtime_minutes": 94
+}

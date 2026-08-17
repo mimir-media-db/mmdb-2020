@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_special_jollof_2020",
+  "title": "Special Jollof",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93729353",
+    "imdb": "tt11546322",
+    "tmdb": 1153092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-14",
+  "runtime_minutes": 85
+}

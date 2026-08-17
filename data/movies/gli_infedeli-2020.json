@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gli_infedeli_2020",
+  "title": "Gli infedeli",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97104470",
+    "imdb": "tt10168672",
+    "tmdb": 608649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-15",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_closet_2020",
+  "title": "The Closet",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65058433",
+    "imdb": "tt11727052",
+    "tmdb": 571625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-05",
+  "runtime_minutes": 98
+}

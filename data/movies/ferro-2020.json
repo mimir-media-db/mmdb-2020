@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ferro_2020",
+  "title": "Ferro",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101869400",
+    "imdb": "tt13157084",
+    "tmdb": 759024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-06",
+  "runtime_minutes": 77
+}

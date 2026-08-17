@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_fur_ein_paar_scheine_2020",
+  "title": "Für ein paar Scheine",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118465150",
+    "imdb": "tt13072946"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-06"
+}

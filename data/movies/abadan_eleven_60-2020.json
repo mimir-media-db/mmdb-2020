@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abadan_eleven_60_2020",
+  "title": "Abadan Eleven 60",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85966679",
+    "imdb": "tt11773286",
+    "tmdb": 765608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-16",
+  "runtime_minutes": 94
+}

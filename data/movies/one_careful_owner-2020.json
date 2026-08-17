@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_careful_owner_2020",
+  "title": "One Careful Owner",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104146990",
+    "imdb": "tt9354422",
+    "tmdb": 677574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-24",
+  "runtime_minutes": 94
+}

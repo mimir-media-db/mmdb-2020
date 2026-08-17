@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adult_hazing_2020",
+  "title": "Adult Hazing",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841804",
+    "imdb": "tt29573332",
+    "tmdb": 718343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-23"
+}

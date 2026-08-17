@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eng_aerd_2020",
+  "title": "Eng Äerd",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88062527",
+    "imdb": "tt13545856",
+    "tmdb": 983213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-28",
+  "runtime_minutes": 85
+}

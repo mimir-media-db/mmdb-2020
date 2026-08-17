@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_food_club_2020",
+  "title": "The Food Club",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98131702",
+    "imdb": "tt10945328",
+    "tmdb": 725234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-22",
+  "runtime_minutes": 95
+}

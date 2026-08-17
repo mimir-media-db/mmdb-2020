@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crimes_that_bind_2020",
+  "title": "The Crimes That Bind",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98108682",
+    "imdb": "tt10915060",
+    "tmdb": 632618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-19",
+  "runtime_minutes": 99
+}

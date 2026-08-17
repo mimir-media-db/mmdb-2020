@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_sombra_del_gallo_2020",
+  "title": "La sombra del gallo",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98761460",
+    "imdb": "tt11879016",
+    "tmdb": 629522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-12",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_milea_suara_dari_dilan_2020",
+  "title": "Milea: Suara dari Dilan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65205393",
+    "imdb": "tt11127878",
+    "tmdb": 642657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-13",
+  "runtime_minutes": 102
+}

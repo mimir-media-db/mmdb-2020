@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bittu_couple_exchange_2020",
+  "title": "Bittu: Couple Exchange",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841690",
+    "imdb": "tt19113468",
+    "tmdb": 913912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-09"
+}

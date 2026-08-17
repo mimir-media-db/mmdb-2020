@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_heart_cant_beat_unless_you_tell_it_to_2020",
+  "title": "My Heart Can't Beat Unless You Tell It To",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84204232",
+    "imdb": "tt11084432",
+    "tmdb": 690248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-28",
+  "runtime_minutes": 90
+}

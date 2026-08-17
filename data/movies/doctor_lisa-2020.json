@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doctor_lisa_2020",
+  "title": "Doctor Lisa",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65154239",
+    "imdb": "tt12028944",
+    "tmdb": 595464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-12",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_romys_salon_2020",
+  "title": "Romy's Salon",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70321325",
+    "imdb": "tt7865162",
+    "tmdb": 622139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-30",
+  "runtime_minutes": 90
+}

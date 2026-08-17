@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_of_jangsari_915_2020",
+  "title": "Battle of Jangsa-ri 9.15",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66829628",
+    "imdb": "tt9018916",
+    "tmdb": 567629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-26",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notes_for_my_son_2020",
+  "title": "Notes for My Son",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102395995",
+    "imdb": "tt13353486",
+    "tmdb": 674865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-24",
+  "runtime_minutes": 84
+}

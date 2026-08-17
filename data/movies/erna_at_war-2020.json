@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_erna_at_war_2020",
+  "title": "Erna at War",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69302956",
+    "imdb": "tt10747310",
+    "tmdb": 659993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-29",
+  "runtime_minutes": 119
+}

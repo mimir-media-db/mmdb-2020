@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_imprisonment_2020",
+  "title": "Imprisonment",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841793",
+    "imdb": "tt18375470",
+    "tmdb": 723298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-02"
+}

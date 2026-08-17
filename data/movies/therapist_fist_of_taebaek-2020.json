@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_therapist_fist_of_taebaek_2020",
+  "title": "The Therapist : Fist of Tae-baek",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109534096",
+    "imdb": "tt13028516",
+    "tmdb": 712257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-20"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vigil_2020",
+  "title": "The Vigil",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96965188",
+    "imdb": "tt10793644",
+    "tmdb": 621707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-23",
+  "runtime_minutes": 89
+}

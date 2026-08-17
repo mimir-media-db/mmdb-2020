@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_normal_world_2020",
+  "title": "A normal world",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99002841",
+    "imdb": "tt8376986",
+    "tmdb": 679891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-04",
+  "runtime_minutes": 103
+}

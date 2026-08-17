@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reframe_theater_experience_with_you_2020",
+  "title": "Reframe THEATER EXPERIENCE with you",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109600396",
+    "imdb": "tt29546476",
+    "tmdb": 805003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-04"
+}

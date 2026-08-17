@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_room_2020",
+  "title": "The Room",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76750012",
+    "imdb": "tt8485364",
+    "tmdb": 582913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-10",
+  "runtime_minutes": 100
+}

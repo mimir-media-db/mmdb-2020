@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_infernal_walker_2020",
+  "title": "The Infernal Walker",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102036259",
+    "imdb": "tt10300286",
+    "tmdb": 766713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-19"
+}

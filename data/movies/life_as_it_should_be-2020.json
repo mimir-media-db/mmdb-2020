@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_as_it_should_be_2020",
+  "title": "Life as It Should Be",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104929713",
+    "imdb": "tt9467386",
+    "tmdb": 719270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-29",
+  "runtime_minutes": 108
+}

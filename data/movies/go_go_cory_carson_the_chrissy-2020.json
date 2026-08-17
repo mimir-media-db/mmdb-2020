@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_go_go_cory_carson_the_chrissy_2020",
+  "title": "Go! Go! Cory Carson: The Chrissy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98709387",
+    "imdb": "tt12240368",
+    "tmdb": 696048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-01"
+}

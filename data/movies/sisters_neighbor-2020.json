@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_neighbor_2020",
+  "title": "Sister's Neighbor",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841834",
+    "imdb": "tt18479912",
+    "tmdb": 739808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-22"
+}

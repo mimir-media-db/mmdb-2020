@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_know_when_you_dead_2020",
+  "title": "I Know When You Dead",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97375103",
+    "imdb": "tt11753890",
+    "tmdb": 662726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05",
+  "runtime_minutes": 92
+}

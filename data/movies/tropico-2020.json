@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tropico_2020",
+  "title": "Trópico",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123869132",
+    "imdb": "tt13392930",
+    "tmdb": 718372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-22",
+  "runtime_minutes": 87
+}

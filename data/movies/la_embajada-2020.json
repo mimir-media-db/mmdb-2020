@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_embajada_2020",
+  "title": "La embajada",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130377995",
+    "imdb": "tt11679426",
+    "tmdb": 634962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-26",
+  "runtime_minutes": 53
+}

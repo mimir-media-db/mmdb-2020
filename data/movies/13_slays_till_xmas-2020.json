@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_13_slays_till_xmas_2020",
+  "title": "13 Slays Till X-Mas",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111942366",
+    "imdb": "tt13665354",
+    "tmdb": 792720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-13"
+}

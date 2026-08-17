@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_affairs_2020",
+  "title": "Love Affair(s)",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98745126",
+    "imdb": "tt12443930",
+    "tmdb": 661935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-16",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_new_normal_2020",
+  "title": "The New Normal",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113201954",
+    "imdb": "tt12767960",
+    "tmdb": 738418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-15"
+}

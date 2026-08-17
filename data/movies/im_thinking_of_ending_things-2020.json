@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_thinking_of_ending_things_2020",
+  "title": "I'm Thinking of Ending Things",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63226470",
+    "imdb": "tt7939766",
+    "tmdb": 500840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-28",
+  "runtime_minutes": 134
+}

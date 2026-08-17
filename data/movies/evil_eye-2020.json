@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evil_eye_2020",
+  "title": "Evil Eye",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102185100",
+    "imdb": "tt12882620",
+    "tmdb": 732713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-13",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_monde_obese_2020",
+  "title": "Un monde obèse",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92394598",
+    "imdb": "tt12140066",
+    "tmdb": 680738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-14",
+  "runtime_minutes": 90
+}

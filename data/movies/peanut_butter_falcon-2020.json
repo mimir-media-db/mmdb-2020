@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peanut_butter_falcon_2020",
+  "title": "The Peanut Butter Falcon",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39047194",
+    "imdb": "tt4364194",
+    "tmdb": 463257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-27",
+  "runtime_minutes": 97
+}

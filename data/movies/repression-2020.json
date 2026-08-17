@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_repression_2020",
+  "title": "Repression",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97940688",
+    "imdb": "tt8237272",
+    "tmdb": 662659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-28",
+  "runtime_minutes": 112
+}

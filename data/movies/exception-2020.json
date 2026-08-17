@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exception_2020",
+  "title": "The Exception",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55766090",
+    "imdb": "tt7420532",
+    "tmdb": 518245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-02",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lassie_come_home_2020",
+  "title": "Lassie Come Home",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80265844",
+    "imdb": "tt10384944",
+    "tmdb": 657811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-20"
+}

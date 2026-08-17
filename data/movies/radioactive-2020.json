@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_radioactive_2020",
+  "title": "Radioactive",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50329297",
+    "imdb": "tt6017756",
+    "tmdb": 480857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-11",
+  "runtime_minutes": 103
+}

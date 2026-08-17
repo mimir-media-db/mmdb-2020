@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_dark_man_2020",
+  "title": "A Dark, Dark Man",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98546087",
+    "imdb": "tt10867768",
+    "tmdb": 625046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-14",
+  "runtime_minutes": 130
+}

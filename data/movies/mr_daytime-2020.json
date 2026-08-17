@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_daytime_2020",
+  "title": "Mr. Daytime",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97219247",
+    "tmdb": 694973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-25"
+}

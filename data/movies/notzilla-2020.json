@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notzilla_2020",
+  "title": "Notzilla",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84953528",
+    "imdb": "tt9035000",
+    "tmdb": 615690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-18",
+  "runtime_minutes": 78
+}

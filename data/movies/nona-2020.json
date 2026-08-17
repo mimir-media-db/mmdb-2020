@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nona_2020",
+  "title": "Nona",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105754608",
+    "imdb": "tt13324734",
+    "tmdb": 752202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-06",
+  "runtime_minutes": 99
+}

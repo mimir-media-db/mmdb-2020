@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guests_in_a_villa_2020",
+  "title": "Guests in a Villa",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102047818",
+    "imdb": "tt9239814",
+    "tmdb": 571489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-30",
+  "runtime_minutes": 88
+}

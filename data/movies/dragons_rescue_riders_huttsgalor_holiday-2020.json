@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dragons_rescue_riders_huttsgalor_holiday_2020",
+  "title": "Dragons: Rescue Riders: Huttsgalor Holiday",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102395856",
+    "imdb": "tt13353508",
+    "tmdb": 768076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-24"
+}

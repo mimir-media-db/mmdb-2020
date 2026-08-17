@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ik_sandhu_hunda_si_2020",
+  "title": "Ik Sandhu Hunda Si",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122776597",
+    "imdb": "tt10916120",
+    "tmdb": 677024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-28",
+  "runtime_minutes": 115
+}

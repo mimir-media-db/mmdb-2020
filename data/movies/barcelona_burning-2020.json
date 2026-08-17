@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barcelona_burning_2020",
+  "title": "Barcelona Burning",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128918016",
+    "imdb": "tt14578628",
+    "tmdb": 750788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 5
+}

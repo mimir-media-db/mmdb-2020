@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sonne_im_herzen_2020",
+  "title": "Sonne im Herzen",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96823062",
+    "imdb": "tt13474068"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-02"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_videophobia_2020",
+  "title": "Videophobia",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109361072",
+    "imdb": "tt8737070",
+    "tmdb": 637961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-24"
+}

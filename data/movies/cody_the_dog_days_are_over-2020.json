@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cody_the_dog_days_are_over_2020",
+  "title": "Cody - The Dog Days Are Over",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90549815",
+    "imdb": "tt6985042",
+    "tmdb": 641865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-30"
+}

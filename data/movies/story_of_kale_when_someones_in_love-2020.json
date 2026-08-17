@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_kale_when_someones_in_love_2020",
+  "title": "Story of Kale: When Someone's in Love",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105753552",
+    "imdb": "tt13081264",
+    "tmdb": 727894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-23"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tike_love_tike_twist_2020",
+  "title": "Tike Love Tike Twist",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110441083",
+    "imdb": "tt11779940"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-27"
+}

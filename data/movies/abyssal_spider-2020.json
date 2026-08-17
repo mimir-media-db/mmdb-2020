@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abyssal_spider_2020",
+  "title": "Abyssal Spider",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98096747",
+    "imdb": "tt12929746",
+    "tmdb": 734732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-11"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_obratnaya_svyaz_2020",
+  "title": "Obratnaya svyaz",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104153452",
+    "imdb": "tt13652420",
+    "tmdb": 598354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-17",
+  "runtime_minutes": 100
+}

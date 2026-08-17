@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voice_of_silence_2020",
+  "title": "Voice of Silence",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66220160",
+    "imdb": "tt10431572",
+    "tmdb": 606740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-15",
+  "runtime_minutes": 99
+}

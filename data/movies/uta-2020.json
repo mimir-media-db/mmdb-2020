@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uta_2020",
+  "title": "Uta",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104652663",
+    "imdb": "tt11348910",
+    "tmdb": 898004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-07",
+  "runtime_minutes": 89
+}

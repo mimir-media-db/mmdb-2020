@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_downstream_to_kinshasa_2020",
+  "title": "Downstream to Kinshasa",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104878158",
+    "imdb": "tt10676042",
+    "tmdb": 712144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-14",
+  "runtime_minutes": 90
+}

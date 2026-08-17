@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girlfriends_taste_2020",
+  "title": "Girlfriend's Taste",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841694",
+    "imdb": "tt13334838",
+    "tmdb": 995611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-29"
+}

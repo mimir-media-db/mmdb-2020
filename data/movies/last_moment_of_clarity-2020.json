@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_moment_of_clarity_2020",
+  "title": "Last Moment of Clarity",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96386967",
+    "imdb": "tt1929297",
+    "tmdb": 567608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-19",
+  "runtime_minutes": 90
+}

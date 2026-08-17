@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tie_2020",
+  "title": "The Tie",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77694958",
+    "imdb": "tt11669702",
+    "tmdb": 627654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-05",
+  "runtime_minutes": 97
+}

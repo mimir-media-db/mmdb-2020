@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10_things_we_should_do_before_we_break_up_2020",
+  "title": "10 Things We Should Do Before We Break Up",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98767248",
+    "imdb": "tt7939428",
+    "tmdb": 534039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-10",
+  "runtime_minutes": 74
+}

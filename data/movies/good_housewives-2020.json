@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_good_housewives_2020",
+  "title": "Good Housewives",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841620",
+    "tmdb": 1229446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-21"
+}

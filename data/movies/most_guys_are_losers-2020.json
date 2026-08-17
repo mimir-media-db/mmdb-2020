@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_most_guys_are_losers_2020",
+  "title": "Most Guys Are Losers",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108112985",
+    "imdb": "tt11084664",
+    "tmdb": 757451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-22"
+}

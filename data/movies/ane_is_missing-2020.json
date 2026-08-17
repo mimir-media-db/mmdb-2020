@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ane_is_missing_2020",
+  "title": "Ane Is Missing",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99934643",
+    "imdb": "tt7960322",
+    "tmdb": 736203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-16",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sergio_2020",
+  "title": "Sergio",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80622008",
+    "imdb": "tt8750570",
+    "tmdb": 653744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-17",
+  "runtime_minutes": 118
+}

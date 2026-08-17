@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unser_boden_unser_erbe_2020",
+  "title": "Unser Boden, unser Erbe",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98811842",
+    "imdb": "tt13017458",
+    "tmdb": 731536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-08"
+}

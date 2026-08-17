@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_healing_waters_2020",
+  "title": "Healing Waters",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104521407",
+    "imdb": "tt13702222",
+    "tmdb": 727764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-26",
+  "runtime_minutes": 90
+}

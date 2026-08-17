@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_walkaway_joe_2020",
+  "title": "Walkaway Joe",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89798187",
+    "imdb": "tt4427800",
+    "tmdb": 553593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-08"
+}

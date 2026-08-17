@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_comrades_2020",
+  "title": "Dear Comrades",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85859809",
+    "imdb": "tt10796286",
+    "tmdb": 587609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-07",
+  "runtime_minutes": 120
+}

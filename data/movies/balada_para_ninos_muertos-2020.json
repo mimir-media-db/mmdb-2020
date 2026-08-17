@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_balada_para_ninos_muertos_2020",
+  "title": "Balada para niños muertos",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97626976",
+    "imdb": "tt23854768",
+    "tmdb": 721963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-13",
+  "runtime_minutes": 80
+}

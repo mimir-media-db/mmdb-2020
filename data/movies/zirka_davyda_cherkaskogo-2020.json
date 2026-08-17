@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zirka_davyda_cherkaskogo_2020",
+  "title": "Zirka Davyda Cherkaskogo",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573834",
+    "imdb": "tt14216986",
+    "tmdb": 804683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-05",
+  "runtime_minutes": 81
+}

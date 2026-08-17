@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blackbird_2020",
+  "title": "Blackbird",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737526",
+    "imdb": "tt8717446",
+    "tmdb": 536396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-23",
+  "runtime_minutes": 97
+}

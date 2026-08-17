@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maty_apostoliv_2020",
+  "title": "Maty apostoliv",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107030610",
+    "imdb": "tt13948444",
+    "tmdb": 763426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-03",
+  "runtime_minutes": 122
+}

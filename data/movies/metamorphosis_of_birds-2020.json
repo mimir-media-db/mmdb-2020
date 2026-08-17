@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_metamorphosis_of_birds_2020",
+  "title": "The Metamorphosis of Birds",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84428750",
+    "imdb": "tt11625100",
+    "tmdb": 664576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-28"
+}

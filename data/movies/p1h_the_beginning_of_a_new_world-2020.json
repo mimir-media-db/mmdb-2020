@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_p1h_the_beginning_of_a_new_world_2020",
+  "title": "P1H: The Beginning of a New World",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109460653",
+    "imdb": "tt15023900",
+    "tmdb": 750380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-08"
+}

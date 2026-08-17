@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nate_a_one_man_show_2020",
+  "title": "Nate – A One Man Show",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114024769",
+    "imdb": "tt10798934",
+    "tmdb": 767809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-01",
+  "runtime_minutes": 60
+}

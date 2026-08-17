@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_maquisarde_2020",
+  "title": "La Maquisarde",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130753033"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-16",
+  "runtime_minutes": 84
+}

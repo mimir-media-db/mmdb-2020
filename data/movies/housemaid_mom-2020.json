@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_housemaid_mom_2020",
+  "title": "Housemaid Mom",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841770",
+    "tmdb": 724890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-17"
+}

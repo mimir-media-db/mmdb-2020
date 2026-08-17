@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_true_and_false_monkey_king_2020",
+  "title": "True and False Monkey King",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109344208",
+    "imdb": "tt14636934",
+    "tmdb": 730723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-05"
+}

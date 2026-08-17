@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_castle_2020",
+  "title": "The Castle",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118234018",
+    "imdb": "tt12189208",
+    "tmdb": 690389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-04",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laila_in_haifa_2020",
+  "title": "Laila in Haifa",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97827149",
+    "imdb": "tt12716170",
+    "tmdb": 728107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-07",
+  "runtime_minutes": 99
+}

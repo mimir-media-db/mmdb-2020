@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inner_glow_2020",
+  "title": "The Inner Glow",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109535565",
+    "imdb": "tt13815678",
+    "tmdb": 814616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-10"
+}

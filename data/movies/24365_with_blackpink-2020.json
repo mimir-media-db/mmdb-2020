@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_24365_with_blackpink_2020",
+  "title": "24/365 with Blackpink",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97162481",
+    "imdb": "tt13222394"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-12",
+  "runtime_minutes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_airliner_sky_battle_2020",
+  "title": "Airliner Sky Battle",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113373761",
+    "imdb": "tt13437998",
+    "tmdb": 763920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-13",
+  "runtime_minutes": 89
+}

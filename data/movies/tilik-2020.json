@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tilik_2020",
+  "title": "Tilik",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98603274",
+    "imdb": "tt14728728",
+    "tmdb": 614173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-17",
+  "runtime_minutes": 32
+}

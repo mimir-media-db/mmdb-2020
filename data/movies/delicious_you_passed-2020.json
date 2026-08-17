@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_delicious_you_passed_2020",
+  "title": "Delicious You Passed",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841776",
+    "tmdb": 727459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-13"
+}

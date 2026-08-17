@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dakara_the_confession_of_a_thug_2020",
+  "title": "Dakara - The confession of a thug",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100105983",
+    "imdb": "tt11899814"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-19",
+  "runtime_minutes": 90
+}

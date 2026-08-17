@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ask_dr_ruth_2020",
+  "title": "Ask Dr. Ruth",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67679510",
+    "imdb": "tt9353586",
+    "tmdb": 566063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-27",
+  "runtime_minutes": 100
+}

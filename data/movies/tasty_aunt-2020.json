@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tasty_aunt_2020",
+  "title": "Tasty Aunt",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841743",
+    "imdb": "tt18375568",
+    "tmdb": 731809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-10"
+}

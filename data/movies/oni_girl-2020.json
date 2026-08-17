@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_oni_girl_2020",
+  "title": "Oni Girl!!",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97166870",
+    "tmdb": 829018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-16"
+}

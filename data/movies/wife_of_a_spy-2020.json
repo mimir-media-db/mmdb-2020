@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wife_of_a_spy_2020",
+  "title": "Wife of a Spy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97768272",
+    "imdb": "tt11917942",
+    "tmdb": 688301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-06",
+  "runtime_minutes": 115
+}

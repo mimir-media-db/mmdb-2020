@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bloodclub_dolls_2_2020",
+  "title": "Blood-Club Dolls 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110269022",
+    "imdb": "tt19114232",
+    "tmdb": 986313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-11"
+}

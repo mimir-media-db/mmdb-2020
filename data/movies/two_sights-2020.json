@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_sights_2020",
+  "title": "The Two Sights",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100057542",
+    "imdb": "tt11991040",
+    "tmdb": 592210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-15",
+  "runtime_minutes": 90
+}

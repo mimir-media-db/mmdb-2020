@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_will_die_at_20_2020",
+  "title": "You Will Die at 20",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79359841",
+    "imdb": "tt9686154",
+    "tmdb": 617710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-12",
+  "runtime_minutes": 105
+}

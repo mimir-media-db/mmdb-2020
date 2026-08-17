@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_akujo_no_irojikake_kamotte_kaikan_2020",
+  "title": "Akujo no irojikake: Kamotte kaikan!",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109367777",
+    "imdb": "tt13554226",
+    "tmdb": 1501992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-20"
+}

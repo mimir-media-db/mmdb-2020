@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_and_only_ivan_2020",
+  "title": "The One and Only Ivan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54958420",
+    "imdb": "tt3661394",
+    "tmdb": 508570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-21",
+  "runtime_minutes": 95
+}

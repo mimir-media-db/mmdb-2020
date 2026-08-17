@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_favorite_concubine_2020",
+  "title": "Favorite Concubine",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841618",
+    "tmdb": 793602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-24"
+}

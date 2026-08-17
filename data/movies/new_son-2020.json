@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_new_son_2020",
+  "title": "New Son",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841924",
+    "tmdb": 679059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27"
+}

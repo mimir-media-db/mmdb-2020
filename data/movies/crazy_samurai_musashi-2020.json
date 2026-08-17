@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_samurai_musashi_2020",
+  "title": "Crazy Samurai Musashi",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106246313",
+    "imdb": "tt12015352",
+    "tmdb": 675476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-21"
+}

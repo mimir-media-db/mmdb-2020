@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laughter_2020",
+  "title": "Laughter",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96387029",
+    "imdb": "tt5649086",
+    "tmdb": 572509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-27",
+  "runtime_minutes": 124
+}

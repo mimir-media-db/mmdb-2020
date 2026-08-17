@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trump_vs_the_illuminati_2020",
+  "title": "Trump vs the Illuminati",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118903315",
+    "imdb": "tt12969958",
+    "tmdb": 750578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-06",
+  "runtime_minutes": 70
+}

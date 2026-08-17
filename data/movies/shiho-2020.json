@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shiho_2020",
+  "title": "Shiho",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88528677",
+    "imdb": "tt26762470",
+    "tmdb": 669179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 103
+}

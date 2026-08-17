@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kiss_the_ground_2020",
+  "title": "Kiss the Ground",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99935074",
+    "imdb": "tt8618654",
+    "tmdb": 737157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-01"
+}

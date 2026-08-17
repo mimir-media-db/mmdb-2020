@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_have_a_good_trip_adventures_in_psychedelics_2020",
+  "title": "Have a Good Trip: Adventures in Psychedelics",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94139161",
+    "imdb": "tt12133722",
+    "tmdb": 673175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-11",
+  "runtime_minutes": 125
+}

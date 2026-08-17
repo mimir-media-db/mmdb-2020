@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_acquaintance_2020",
+  "title": "Acquaintance",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841634",
+    "imdb": "tt18080290",
+    "tmdb": 826934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-14"
+}

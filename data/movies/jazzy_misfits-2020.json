@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jazzy_misfits_2020",
+  "title": "Jazzy Misfits",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97210137",
+    "imdb": "tt11963590",
+    "tmdb": 632929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-27"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_father_marianne_2020",
+  "title": "My Father Marianne",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84475354",
+    "imdb": "tt9894440",
+    "tmdb": 631578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-21",
+  "runtime_minutes": 110
+}

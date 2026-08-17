@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mita_dances_2020",
+  "title": "Mita Dances",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110588101",
+    "imdb": "tt11595680",
+    "tmdb": 732223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-07"
+}

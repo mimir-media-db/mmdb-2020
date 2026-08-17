@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_own_2020",
+  "title": "Our Own",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96397847",
+    "imdb": "tt8724130",
+    "tmdb": 664707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-26",
+  "runtime_minutes": 103
+}

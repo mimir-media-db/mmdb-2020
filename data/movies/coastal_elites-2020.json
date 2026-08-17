@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coastal_elites_2020",
+  "title": "Coastal Elites",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97354411",
+    "imdb": "tt12587564",
+    "tmdb": 728203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-12"
+}

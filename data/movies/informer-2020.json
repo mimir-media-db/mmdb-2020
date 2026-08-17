@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_informer_2020",
+  "title": "The Informer",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46223211",
+    "imdb": "tt1833116",
+    "tmdb": 466081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-13",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_detectives_blue_building_movie_3_an_adventure_at_the_end_of_the_world_2020",
+  "title": "Detectives Blue Building - Movie 3: An Adventure at the End of the World",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83809958",
+    "imdb": "tt10805260",
+    "tmdb": 664422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-25"
+}

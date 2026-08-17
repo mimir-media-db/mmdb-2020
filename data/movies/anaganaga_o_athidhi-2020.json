@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anaganaga_o_athidhi_2020",
+  "title": "Anaganaga O Athidhi",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102213117",
+    "imdb": "tt13361920",
+    "tmdb": 766426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-20"
+}

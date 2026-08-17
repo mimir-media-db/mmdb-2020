@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matchless_mulan_2020",
+  "title": "Matchless Mulan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107634105",
+    "imdb": "tt12845320",
+    "tmdb": 993998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-07",
+  "runtime_minutes": 90
+}

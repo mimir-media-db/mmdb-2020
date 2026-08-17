@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_of_three_sisters_2020",
+  "title": "A Tale of Three Sisters",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60220908",
+    "imdb": "tt9418878",
+    "tmdb": 539186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-04"
+}

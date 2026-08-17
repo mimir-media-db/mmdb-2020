@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fancy_2020",
+  "title": "Fancy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106365626",
+    "imdb": "tt11495880",
+    "tmdb": 642288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-07"
+}

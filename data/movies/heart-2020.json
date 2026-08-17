@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_2020",
+  "title": "Heart",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85988041",
+    "imdb": "tt11033746",
+    "tmdb": 627061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 71
+}

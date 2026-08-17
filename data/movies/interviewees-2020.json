@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_interviewees_2020",
+  "title": "The Interviewees",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109536859",
+    "imdb": "tt13995274",
+    "tmdb": 716890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-12"
+}

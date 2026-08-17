@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pain_and_glory_2020",
+  "title": "Pain and Glory",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55609803",
+    "imdb": "tt8291806",
+    "tmdb": 519010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-05",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suicide_tourist_2020",
+  "title": "Suicide Tourist",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58365592",
+    "imdb": "tt8765580",
+    "tmdb": 538715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-20",
+  "runtime_minutes": 90
+}

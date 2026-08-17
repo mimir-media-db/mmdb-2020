@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_likes_coincidences_2_2020",
+  "title": "Love Likes Coincidences 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77765845",
+    "imdb": "tt10420532",
+    "tmdb": 659764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-31"
+}

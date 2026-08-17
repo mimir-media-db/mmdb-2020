@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_food_luck_2020",
+  "title": "Food Luck",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97961899",
+    "imdb": "tt13181596",
+    "tmdb": 746554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-20"
+}

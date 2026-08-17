@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bi_urte_lau_hilabete_eta_egun_bat_2020",
+  "title": "Bi urte, lau hilabete eta egun bat",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140206345",
+    "imdb": "tt12570464",
+    "tmdb": 751542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-24",
+  "runtime_minutes": 90
+}

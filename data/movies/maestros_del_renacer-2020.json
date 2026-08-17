@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maestros_del_renacer_2020",
+  "title": "Maestros del Renacer",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100716557",
+    "imdb": "tt13279488",
+    "tmdb": 864533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-07",
+  "runtime_minutes": 124
+}

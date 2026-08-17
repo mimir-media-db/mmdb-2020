@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tenet_2020",
+  "title": "Tenet",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63985561",
+    "imdb": "tt6723592",
+    "tmdb": 577922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-13",
+  "runtime_minutes": 150
+}

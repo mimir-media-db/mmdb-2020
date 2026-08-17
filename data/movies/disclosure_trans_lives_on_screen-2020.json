@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_disclosure_trans_lives_on_screen_2020",
+  "title": "Disclosure: Trans Lives on Screen",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84366473",
+    "imdb": "tt8637504",
+    "tmdb": 653610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-27"
+}

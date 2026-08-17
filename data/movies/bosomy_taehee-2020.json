@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bosomy_taehee_2020",
+  "title": "Bosomy Tae-hee",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841925",
+    "imdb": "tt18480484",
+    "tmdb": 679057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27"
+}

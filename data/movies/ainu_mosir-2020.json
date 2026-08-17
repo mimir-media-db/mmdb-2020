@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ainu_mosir_2020",
+  "title": "Ainu Mosir",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104902469",
+    "imdb": "tt9140354",
+    "tmdb": 583090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-17",
+  "runtime_minutes": 84
+}

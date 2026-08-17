@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taras_return_2020",
+  "title": "Taras. Return",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16719092",
+    "imdb": "tt8625388",
+    "tmdb": 641295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-24",
+  "runtime_minutes": 120
+}

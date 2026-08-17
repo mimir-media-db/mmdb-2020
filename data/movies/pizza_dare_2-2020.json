@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_pizza_dare_2_2020",
+  "title": "Pizza Dare 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841839",
+    "tmdb": 704440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-22"
+}

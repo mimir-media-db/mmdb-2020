@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_facing_the_void_2020",
+  "title": "Facing the Void",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105887029",
+    "imdb": "tt13639726",
+    "tmdb": 794342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-18"
+}

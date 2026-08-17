@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pieni_punainen_2020",
+  "title": "Pieni punainen",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98726000",
+    "imdb": "tt12257268",
+    "tmdb": 701624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-04"
+}

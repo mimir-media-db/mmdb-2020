@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_housewife_dealer_2020",
+  "title": "Housewife Dealer",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841727",
+    "imdb": "tt13034500",
+    "tmdb": 739366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-27"
+}

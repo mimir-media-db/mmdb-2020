@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poor_innocence_2020",
+  "title": "Poor Innocence",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65798441",
+    "imdb": "tt9052140",
+    "tmdb": 581636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-20",
+  "runtime_minutes": 120
+}

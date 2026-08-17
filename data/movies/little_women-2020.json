@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_women_2020",
+  "title": "Little Women",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56881140",
+    "imdb": "tt3281548",
+    "tmdb": 331482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-30",
+  "runtime_minutes": 134
+}

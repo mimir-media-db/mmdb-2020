@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_who_is_your_sponsor_2020",
+  "title": "Who Is Your Sponsor?",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841893",
+    "tmdb": 688297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-27"
+}

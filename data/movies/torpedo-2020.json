@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_torpedo_2020",
+  "title": "Torpedo",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69633940",
+    "imdb": "tt8829128",
+    "tmdb": 554022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-19",
+  "runtime_minutes": 102
+}

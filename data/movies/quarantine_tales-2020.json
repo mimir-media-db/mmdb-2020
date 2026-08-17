@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quarantine_tales_2020",
+  "title": "Quarantine Tales",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105804668",
+    "imdb": "tt13555930",
+    "tmdb": 770108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-18",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_berlin_wachst_kein_orangenbaum_2020",
+  "title": "In Berlin wächst kein Orangenbaum",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99546997",
+    "imdb": "tt12387580",
+    "tmdb": 724735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-15",
+  "runtime_minutes": 94
+}

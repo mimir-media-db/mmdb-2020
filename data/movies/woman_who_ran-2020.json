@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_who_ran_2020",
+  "title": "The Woman Who Ran",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84702886",
+    "imdb": "tt11697690",
+    "tmdb": 662401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-21",
+  "runtime_minutes": 77
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_octopus_teacher_2020",
+  "title": "My Octopus Teacher",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99372651",
+    "imdb": "tt12888462",
+    "tmdb": 682110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-04",
+  "runtime_minutes": 85
+}

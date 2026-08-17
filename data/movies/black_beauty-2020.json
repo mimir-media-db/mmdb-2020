@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_beauty_2020",
+  "title": "Black Beauty",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85747484",
+    "imdb": "tt8484160",
+    "tmdb": 526702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-27",
+  "runtime_minutes": 110
+}

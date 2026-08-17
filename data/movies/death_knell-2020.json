@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_knell_2020",
+  "title": "Death Knell",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67819639",
+    "imdb": "tt11123278",
+    "tmdb": 736216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-20",
+  "runtime_minutes": 95
+}

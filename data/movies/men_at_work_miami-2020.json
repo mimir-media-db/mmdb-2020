@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_men_at_work_miami_2020",
+  "title": "Men at Work: Miami",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98750346",
+    "imdb": "tt10375272",
+    "tmdb": 641167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-30",
+  "runtime_minutes": 115
+}

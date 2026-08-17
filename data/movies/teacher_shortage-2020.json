@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teacher_shortage_2020",
+  "title": "Teacher Shortage",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125548811",
+    "imdb": "tt8555778",
+    "tmdb": 637272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-21",
+  "runtime_minutes": 86
+}

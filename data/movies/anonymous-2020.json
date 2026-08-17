@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anonymous_2020",
+  "title": "Anonymous",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q313819",
+    "imdb": "tt1521197",
+    "tmdb": 61891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-11",
+  "runtime_minutes": 131
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_set_play_2020",
+  "title": "Set Play",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109545995",
+    "tmdb": 600082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-10"
+}

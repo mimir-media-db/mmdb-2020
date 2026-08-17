@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silver_skates_2020",
+  "title": "The Silver Skates",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64747594",
+    "imdb": "tt10525672",
+    "tmdb": 576920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-01",
+  "runtime_minutes": 130
+}

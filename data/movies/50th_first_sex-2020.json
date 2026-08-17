@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_50th_first_sex_2020",
+  "title": "50th First Sex",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841757",
+    "tmdb": 744366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-27"
+}

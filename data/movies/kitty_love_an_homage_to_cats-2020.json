@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kitty_love_an_homage_to_cats_2020",
+  "title": "Kitty Love: An Homage to Cats",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110517221",
+    "imdb": "tt12661060",
+    "tmdb": 746712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-30"
+}

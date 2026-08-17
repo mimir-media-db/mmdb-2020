@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shock_wave_2_2020",
+  "title": "Shock Wave 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62597210",
+    "imdb": "tt9597838",
+    "tmdb": 559974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-24",
+  "runtime_minutes": 120
+}

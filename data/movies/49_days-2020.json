@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_49_days_2020",
+  "title": "49 Days",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96904851",
+    "imdb": "tt7654144",
+    "tmdb": 719403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-24"
+}

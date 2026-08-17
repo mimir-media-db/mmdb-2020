@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alle_in_einem_boot_2020",
+  "title": "Alle in einem Boot",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84321386",
+    "imdb": "tt8396596",
+    "tmdb": 594640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-12"
+}

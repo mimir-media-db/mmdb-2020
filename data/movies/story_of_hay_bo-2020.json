@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_hay_bo_2020",
+  "title": "The Story of Hay Bo",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123330441",
+    "imdb": "tt0126331",
+    "tmdb": 837334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-16"
+}

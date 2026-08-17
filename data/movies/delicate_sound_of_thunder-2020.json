@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_delicate_sound_of_thunder_2020",
+  "title": "Delicate Sound of Thunder",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q903541",
+    "imdb": "tt0097181",
+    "tmdb": 61598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-15",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_news_of_the_world_2020",
+  "title": "News of the World",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73537408",
+    "imdb": "tt6878306",
+    "tmdb": 581032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-25",
+  "runtime_minutes": 118
+}

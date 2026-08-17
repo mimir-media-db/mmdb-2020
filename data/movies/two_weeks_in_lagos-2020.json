@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_weeks_in_lagos_2020",
+  "title": "Two Weeks in Lagos",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108933922",
+    "imdb": "tt10241024",
+    "tmdb": 669374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-01",
+  "runtime_minutes": 106
+}

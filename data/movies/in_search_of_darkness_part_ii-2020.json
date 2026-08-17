@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_search_of_darkness_part_ii_2020",
+  "title": "In Search of Darkness: Part II",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107121497",
+    "imdb": "tt13198946",
+    "tmdb": 749240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-06",
+  "runtime_minutes": 263
+}

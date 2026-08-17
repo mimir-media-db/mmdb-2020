@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rainbow_a_private_affair_2020",
+  "title": "Rainbow: A Private Affair",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45454824",
+    "imdb": "tt5952238",
+    "tmdb": 474944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-03",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_combat_wombat_2020",
+  "title": "Combat Wombat",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104815118",
+    "imdb": "tt9679528",
+    "tmdb": 732721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-15"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_our_consul_in_havana_2020",
+  "title": "Our Consul in Havana",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106602580",
+    "imdb": "tt11465994",
+    "tmdb": 702934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-19"
+}

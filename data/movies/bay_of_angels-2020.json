@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bay_of_angels_2020",
+  "title": "Bay of Angels",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1217981",
+    "imdb": "tt0056846",
+    "tmdb": 60773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-15",
+  "runtime_minutes": 90
+}

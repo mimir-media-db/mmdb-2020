@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_switzerland_2020",
+  "title": "Switzerland",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121368478",
+    "imdb": "tt13335618",
+    "tmdb": 718353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-13"
+}

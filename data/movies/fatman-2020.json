@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fatman_2020",
+  "title": "Fatman",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98078172",
+    "imdb": "tt10310140",
+    "tmdb": 602211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-10",
+  "runtime_minutes": 100
+}

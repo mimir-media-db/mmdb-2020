@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_499_2020",
+  "title": "499",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91259953",
+    "imdb": "tt10149938",
+    "tmdb": 678513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-15",
+  "runtime_minutes": 87
+}

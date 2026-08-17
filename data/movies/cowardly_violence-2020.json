@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cowardly_violence_2020",
+  "title": "Cowardly Violence",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109458153",
+    "tmdb": 766845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-11"
+}

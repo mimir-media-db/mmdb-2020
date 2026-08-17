@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fare_2020",
+  "title": "The Fare",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83730346",
+    "imdb": "tt7293920",
+    "tmdb": 588064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-27"
+}

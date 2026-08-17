@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mome_2020",
+  "title": "Momê",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118352225",
+    "imdb": "tt11943698",
+    "tmdb": 743913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-28"
+}

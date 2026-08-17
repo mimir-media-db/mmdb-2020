@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clara_2020",
+  "title": "Clara",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69430564",
+    "imdb": "tt4449562",
+    "tmdb": 475871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-29",
+  "runtime_minutes": 87
+}

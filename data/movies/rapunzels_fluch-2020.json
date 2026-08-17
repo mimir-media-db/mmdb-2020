@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rapunzels_fluch_2020",
+  "title": "Rapunzels Fluch",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98168872",
+    "imdb": "tt10560846",
+    "tmdb": 619635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-07",
+  "runtime_minutes": 80
+}

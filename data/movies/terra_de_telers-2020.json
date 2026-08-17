@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_terra_de_telers_2020",
+  "title": "Terra de telers",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q103841001",
+    "imdb": "tt9335210",
+    "tmdb": 773664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-11",
+  "runtime_minutes": 115
+}

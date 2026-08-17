@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ausgrissn_in_der_lederhosn_nach_las_vegas_2020",
+  "title": "Ausgrissn! - In der Lederhosn nach Las Vegas",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97621034",
+    "imdb": "tt11042278",
+    "tmdb": 738092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-13",
+  "runtime_minutes": 96
+}

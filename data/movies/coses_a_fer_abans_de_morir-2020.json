@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coses_a_fer_abans_de_morir_2020",
+  "title": "Coses a fer abans de morir",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112056711",
+    "imdb": "tt11168488",
+    "tmdb": 765849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-24",
+  "runtime_minutes": 103
+}

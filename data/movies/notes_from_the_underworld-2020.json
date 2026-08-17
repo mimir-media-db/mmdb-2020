@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notes_from_the_underworld_2020",
+  "title": "Notes From the Underworld",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85322988",
+    "imdb": "tt11758356",
+    "tmdb": 656277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-23",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_visible_hilma_af_klint_2020",
+  "title": "Beyond the Visible - Hilma af Klint",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83482847",
+    "imdb": "tt9760516",
+    "tmdb": 579191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05",
+  "runtime_minutes": 93
+}

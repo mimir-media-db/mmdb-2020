@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_speed_cubers_2020",
+  "title": "The Speed Cubers",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97495263",
+    "imdb": "tt12038300",
+    "tmdb": 720748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-29",
+  "runtime_minutes": 40
+}

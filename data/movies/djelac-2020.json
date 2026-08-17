@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_djelac_2020",
+  "title": "Djelac",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115162189",
+    "imdb": "tt11935720",
+    "tmdb": 1552869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-22",
+  "runtime_minutes": 84
+}

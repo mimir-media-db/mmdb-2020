@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bearlike_2020",
+  "title": "Bear-Like",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98813397",
+    "imdb": "tt11379540",
+    "tmdb": 666435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-15",
+  "runtime_minutes": 91
+}

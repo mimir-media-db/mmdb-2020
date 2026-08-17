@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_takeover_2020",
+  "title": "Takeover",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85518621",
+    "imdb": "tt10567444",
+    "tmdb": 721077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-02"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_party_over_2020",
+  "title": "Party Over",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109279166",
+    "imdb": "tt11912618",
+    "tmdb": 650040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-05",
+  "runtime_minutes": 94
+}

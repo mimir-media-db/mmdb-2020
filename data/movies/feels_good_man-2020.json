@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feels_good_man_2020",
+  "title": "Feels Good Man",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84427809",
+    "imdb": "tt11394182",
+    "tmdb": 653578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-27",
+  "runtime_minutes": 92
+}

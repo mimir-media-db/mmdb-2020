@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mhorkya_2020",
+  "title": "Mhorkya",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85846627",
+    "imdb": "tt11587720",
+    "tmdb": 813940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-07"
+}

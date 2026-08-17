@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inglorious_serfs_2020",
+  "title": "The Inglorious Serfs",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87463779",
+    "imdb": "tt12166434",
+    "tmdb": 684308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-24",
+  "runtime_minutes": 90
+}

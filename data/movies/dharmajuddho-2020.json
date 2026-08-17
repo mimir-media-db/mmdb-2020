@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dharmajuddho_2020",
+  "title": "Dharmajuddho",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80878562",
+    "imdb": "tt12581150",
+    "tmdb": 718565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-20"
+}

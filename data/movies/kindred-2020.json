@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kindred_2020",
+  "title": "Kindred",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104868573",
+    "imdb": "tt9742392",
+    "tmdb": 717672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-21"
+}
