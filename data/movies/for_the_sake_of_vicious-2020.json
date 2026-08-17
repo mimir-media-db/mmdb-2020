@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_the_sake_of_vicious_2020",
+  "title": "For the Sake of Vicious",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123682966",
+    "imdb": "tt11014390",
+    "tmdb": 722780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feel_the_beat_2020",
+  "title": "Feel the Beat",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96473088",
+    "imdb": "tt10714856",
+    "tmdb": 707886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fans_2020",
+  "title": "The Fans",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111596660",
+    "imdb": "tt13672044",
+    "tmdb": 768660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 25
+}

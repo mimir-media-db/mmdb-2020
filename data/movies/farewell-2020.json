@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farewell_2020",
+  "title": "The Farewell",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60611804",
+    "imdb": "tt8637428",
+    "tmdb": 565310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-24",
+  "runtime_minutes": 98
+}

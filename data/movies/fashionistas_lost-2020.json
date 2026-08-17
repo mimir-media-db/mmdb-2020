@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_fashionistas_lost_2020",
+  "title": "Fashionistas Lost",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107920566",
+    "imdb": "tt14521562"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_famosa_2020",
+  "title": "Famosa",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107556759",
+    "imdb": "tt12961802",
+    "tmdb": 721342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 120
+}

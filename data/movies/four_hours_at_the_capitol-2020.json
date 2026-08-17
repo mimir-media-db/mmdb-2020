@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_hours_at_the_capitol_2020",
+  "title": "Four Hours at the Capitol",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110348897",
+    "imdb": "tt15520020",
+    "tmdb": 879535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 52
+}

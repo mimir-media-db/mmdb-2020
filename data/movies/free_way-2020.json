@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_way_2020",
+  "title": "Free Way",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111329403",
+    "imdb": "tt13986070",
+    "tmdb": 750482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 75
+}

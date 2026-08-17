@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_sally_2020",
+  "title": "Finding Sally",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108913476",
+    "imdb": "tt11643110",
+    "tmdb": 691284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

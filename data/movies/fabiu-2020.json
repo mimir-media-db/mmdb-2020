@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fabiu_2020",
+  "title": "Fabiu",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107073117",
+    "imdb": "tt11519498",
+    "tmdb": 717299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

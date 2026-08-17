@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fearless_2020",
+  "title": "Fearless",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98598298",
+    "imdb": "tt8675288",
+    "tmdb": 726664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

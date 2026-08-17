@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_funny_boy_2020",
+  "title": "Funny Boy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104853560",
+    "imdb": "tt13345636",
+    "tmdb": 755080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 109
+}

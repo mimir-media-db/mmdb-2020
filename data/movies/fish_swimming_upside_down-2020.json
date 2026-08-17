@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fish_swimming_upside_down_2020",
+  "title": "A Fish Swimming Upside Down",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84143768",
+    "imdb": "tt11496088",
+    "tmdb": 656292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

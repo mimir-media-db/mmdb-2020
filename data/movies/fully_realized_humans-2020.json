@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fully_realized_humans_2020",
+  "title": "Fully Realized Humans",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90922860",
+    "imdb": "tt10579768",
+    "tmdb": 680587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

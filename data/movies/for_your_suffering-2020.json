@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_for_your_suffering_2020",
+  "title": "For Your Suffering",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137895985",
+    "imdb": "tt13218898",
+    "tmdb": 1725773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_faith_based_2020",
+  "title": "Faith Based",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104842488",
+    "imdb": "tt10260692",
+    "tmdb": 616982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-18"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_face_of_anonymous_2020",
+  "title": "The Face of Anonymous",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110970216",
+    "imdb": "tt13073848",
+    "tmdb": 809467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 87
+}
