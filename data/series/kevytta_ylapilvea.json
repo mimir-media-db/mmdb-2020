@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kevytta_ylapilvea",
+  "title": "Kevyttä yläpilveä",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97198110",
+    "imdb": "tt12721146",
+    "tmdb": 272231
+  },
+  "last_updated": "2026-08-17"
+}

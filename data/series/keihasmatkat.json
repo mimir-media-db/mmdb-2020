@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_keihasmatkat",
+  "title": "Keihäsmatkat",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q71817867",
+    "imdb": "tt10854062",
+    "tmdb": 100138
+  },
+  "last_updated": "2026-08-17"
+}

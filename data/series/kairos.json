@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kairos",
+  "title": "Kairos",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97198907",
+    "imdb": "tt12874950",
+    "tmdb": 112119
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

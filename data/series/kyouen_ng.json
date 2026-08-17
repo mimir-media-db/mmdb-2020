@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kyouen_ng",
+  "title": "Kyouen NG",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106516721",
+    "imdb": "tt13623146",
+    "tmdb": 112075
+  },
+  "last_updated": "2026-08-17"
+}

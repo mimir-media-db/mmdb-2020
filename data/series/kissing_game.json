@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kissing_game",
+  "title": "Kissing Game",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65160815",
+    "imdb": "tt11131962",
+    "tmdb": 105213
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

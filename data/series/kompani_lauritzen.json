@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kompani_lauritzen",
+  "title": "Kompani Lauritzen",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98973291",
+    "imdb": "tt11065074",
+    "tmdb": 102394
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 136
+}
