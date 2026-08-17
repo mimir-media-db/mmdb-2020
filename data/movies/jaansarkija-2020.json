@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jaansarkija_2020",
+  "title": "Jäänsärkijä",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110955045",
+    "imdb": "tt12264022"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-25"
+}

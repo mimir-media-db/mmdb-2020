@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jirai_mourir_dans_les_carpates_2020",
+  "title": "J'irai Mourir Dans Les Carpates",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97031977",
+    "imdb": "tt11508096",
+    "tmdb": 719747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-16",
+  "runtime_minutes": 96
+}

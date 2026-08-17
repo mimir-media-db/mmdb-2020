@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jean_paul_gaultier_freak_and_chic_2020",
+  "title": "Jean Paul Gaultier: Freak and Chic",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84766204",
+    "imdb": "tt10374438",
+    "tmdb": 569643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-13",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_just_a_bite_2020",
+  "title": "Just A Bite",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841816",
+    "tmdb": 716273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-11"
+}

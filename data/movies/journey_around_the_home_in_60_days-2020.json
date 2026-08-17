@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_around_the_home_in_60_days_2020",
+  "title": "Journey Around the Home in 60 days",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116482134",
+    "imdb": "tt13446406"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jacobs_ladder_2020",
+  "title": "Jacob's Ladder",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28114658",
+    "imdb": "tt3016748",
+    "tmdb": 456529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-13",
+  "runtime_minutes": 89
+}

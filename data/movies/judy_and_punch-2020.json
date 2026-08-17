@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_judy_and_punch_2020",
+  "title": "Judy and Punch",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61450786",
+    "imdb": "tt7798644",
+    "tmdb": 506554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-05",
+  "runtime_minutes": 105
+}

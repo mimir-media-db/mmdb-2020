@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jay_and_silent_bob_reboot_2020",
+  "title": "Jay and Silent Bob Reboot",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55258972",
+    "imdb": "tt6521876",
+    "tmdb": 440762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-13"
+}
