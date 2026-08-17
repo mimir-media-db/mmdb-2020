@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ein_sommer_an_der_moldau_2020",
+  "title": "Ein Sommer an der Moldau",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98593875",
+    "imdb": "tt12917032",
+    "tmdb": 748761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 89
+}

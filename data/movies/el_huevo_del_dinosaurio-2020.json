@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_huevo_del_dinosaurio_2020",
+  "title": "El huevo del dinosaurio",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106149474",
+    "imdb": "tt12366200"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 68
+}

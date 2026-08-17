@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_error_102_2020",
+  "title": "Error 102",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55658770",
+    "imdb": "tt10818092",
+    "tmdb": 576987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 92
+}

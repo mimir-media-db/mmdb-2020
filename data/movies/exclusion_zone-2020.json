@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exclusion_zone_2020",
+  "title": "Exclusion Zone",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q103842134",
+    "imdb": "tt13075882",
+    "tmdb": 666659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}

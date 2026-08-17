@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everythings_gonna_be_alright_2020",
+  "title": "Everything's Gonna Be Alright",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86674981",
+    "imdb": "tt12673488",
+    "tmdb": 654894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

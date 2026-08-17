@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_siglo_de_galdos_2020",
+  "title": "El siglo de Galdós",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135719383",
+    "imdb": "tt11847556",
+    "tmdb": 733644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 94
+}

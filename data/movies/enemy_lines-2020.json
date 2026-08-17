@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enemy_lines_2020",
+  "title": "Enemy Lines",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111208821",
+    "imdb": "tt9904802",
+    "tmdb": 679796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 92
+}

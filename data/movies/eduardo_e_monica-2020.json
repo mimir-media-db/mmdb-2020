@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eduardo_e_monica_2020",
+  "title": "Eduardo e Mônica",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79483640",
+    "imdb": "tt8747460",
+    "tmdb": 540734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

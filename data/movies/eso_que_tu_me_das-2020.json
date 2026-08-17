@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eso_que_tu_me_das_2020",
+  "title": "Eso que tú me das",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107099213",
+    "imdb": "tt12843358",
+    "tmdb": 736835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

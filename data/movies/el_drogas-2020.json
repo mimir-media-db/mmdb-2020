@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_drogas_2020",
+  "title": "El Drogas",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135719377",
+    "imdb": "tt13023214",
+    "tmdb": 740642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_nino_de_los_mandados_2020",
+  "title": "El niño de los mandados",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130615824",
+    "imdb": "tt5937624",
+    "tmdb": 773125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_mesero_2020",
+  "title": "El mesero",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85758846",
+    "imdb": "tt10886670",
+    "tmdb": 678580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}
