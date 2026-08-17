@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_the_rocks_2020",
+  "title": "On the Rocks",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64787973",
+    "imdb": "tt9606374",
+    "tmdb": 575417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 96
+}

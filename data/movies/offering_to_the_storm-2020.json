@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_offering_to_the_storm_2020",
+  "title": "Offering to the Storm",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97638280",
+    "imdb": "tt7304824",
+    "tmdb": 673174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 139
+}

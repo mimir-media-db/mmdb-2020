@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_opening_act_2020",
+  "title": "The Opening Act",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56274578",
+    "imdb": "tt8633748",
+    "tmdb": 664184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

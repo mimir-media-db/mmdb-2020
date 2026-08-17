@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_day_well_talk_about_today_2020",
+  "title": "One Day We'll Talk About Today",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93468144",
+    "imdb": "tt10773114",
+    "tmdb": 613710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-02",
+  "runtime_minutes": 121
+}

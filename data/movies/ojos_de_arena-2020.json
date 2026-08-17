@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ojos_de_arena_2020",
+  "title": "Ojos de arena",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118278864",
+    "imdb": "tt13611302",
+    "tmdb": 791991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 92
+}

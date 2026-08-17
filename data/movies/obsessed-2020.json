@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_obsessed_2020",
+  "title": "Obsessed",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109039051",
+    "imdb": "tt12629772",
+    "tmdb": 761190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

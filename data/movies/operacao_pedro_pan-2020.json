@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_operacao_pedro_pan_2020",
+  "title": "Operação Pedro Pan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112632341",
+    "imdb": "tt12764602",
+    "tmdb": 730480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}
