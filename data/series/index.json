@@ -1,1 +1,8066 @@
-[]
+[
+  {
+    "id": "s_10_no_himitsu",
+    "title": "10 no himitsu",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/10_no_himitsu.json"
+  },
+  {
+    "id": "s_100",
+    "title": "100세 시대 건강하이소",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/100.json"
+  },
+  {
+    "id": "s_100_dias_para_enamorarnos",
+    "title": "100 días para enamorarnos",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/100_dias_para_enamorarnos.json"
+  },
+  {
+    "id": "s_100_humans",
+    "title": "100 Humans",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/100_humans.json"
+  },
+  {
+    "id": "s_1000lb_sisters",
+    "title": "1000-lb Sisters",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/1000lb_sisters.json"
+  },
+  {
+    "id": "s_13",
+    "title": "13",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/13.json"
+  },
+  {
+    "id": "s_17",
+    "title": "僕だけが17歳の世界で",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/17.json"
+  },
+  {
+    "id": "s_173_about_a_sex",
+    "title": "17.3 about a sex",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/173_about_a_sex.json"
+  },
+  {
+    "id": "s_18_again",
+    "title": "18 Again",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/18_again.json"
+  },
+  {
+    "id": "s_2020",
+    "title": "2020年 五月の恋",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/2020.json"
+  },
+  {
+    "id": "s_247",
+    "title": "24/7",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/247.json"
+  },
+  {
+    "id": "s_257_reasons_to_live",
+    "title": "257 Reasons to Live",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/257_reasons_to_live.json"
+  },
+  {
+    "id": "s_2gether_the_series",
+    "title": "2gether: The Series",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/2gether_the_series.json"
+  },
+  {
+    "id": "s_30_coins",
+    "title": "30 Coins",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/30_coins.json"
+  },
+  {
+    "id": "s_3615_monique",
+    "title": "3615 Monique",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/3615_monique.json"
+  },
+  {
+    "id": "s_365_repeat_the_year",
+    "title": "365: Repeat the Year",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/365_repeat_the_year.json"
+  },
+  {
+    "id": "s_50_states_of_fright",
+    "title": "50 States of Fright",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/50_states_of_fright.json"
+  },
+  {
+    "id": "s_68_whiskey",
+    "title": "68 Whiskey",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/68_whiskey.json"
+  },
+  {
+    "id": "s_70",
+    "title": "70才、初めて産みますセブンティウイザン。",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/70.json"
+  },
+  {
+    "id": "s_76_horror_bookstore_s1_tin_of_fear",
+    "title": "76 Horror Bookstore S1 Tin of Fear",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/76_horror_bookstore_s1_tin_of_fear.json"
+  },
+  {
+    "id": "s_911_lone_star",
+    "title": "9-1-1: Lone Star",
+    "start_year": 2020,
+    "end_year": 2025,
+    "path": "data/series/911_lone_star.json"
+  },
+  {
+    "id": "s_aba_metapelet",
+    "title": "Aba Metapelet",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/aba_metapelet.json"
+  },
+  {
+    "id": "s_about_last_night",
+    "title": "About Last Night...",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/about_last_night.json"
+  },
+  {
+    "id": "s_about_vera",
+    "title": "About Vera",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/about_vera.json"
+  },
+  {
+    "id": "s_absurd_planet",
+    "title": "Absurd Planet",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/absurd_planet.json"
+  },
+  {
+    "id": "s_accomplice",
+    "title": "The Accomplice",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/accomplice.json"
+  },
+  {
+    "id": "s_action_scene",
+    "title": "Action Scene",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/action_scene.json"
+  },
+  {
+    "id": "s_actor_miniseries",
+    "title": "Actor (miniseries)",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/actor_miniseries.json"
+  },
+  {
+    "id": "s_adhdennis",
+    "title": "ADHDennis",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/adhdennis.json"
+  },
+  {
+    "id": "s_adult_material",
+    "title": "Adult Material",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/adult_material.json"
+  },
+  {
+    "id": "s_afghanistan_das_verwundete_land",
+    "title": "Afghanistan. Das verwundete Land",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/afghanistan_das_verwundete_land.json"
+  },
+  {
+    "id": "s_agent_hamilton",
+    "title": "Agent Hamilton",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/agent_hamilton.json"
+  },
+  {
+    "id": "s_ahwal_anes",
+    "title": "Ahwal Anes",
+    "start_year": 2020,
+    "end_year": 2025,
+    "path": "data/series/ahwal_anes.json"
+  },
+  {
+    "id": "s_ainori_love_wagon_african_journey",
+    "title": "Ainori Love Wagon: African Journey",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/ainori_love_wagon_african_journey.json"
+  },
+  {
+    "id": "s_aj_and_the_queen",
+    "title": "AJ and the Queen",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/aj_and_the_queen.json"
+  },
+  {
+    "id": "s_aku_dia_dan_pinky_promise",
+    "title": "Aku, Dia dan Pinky Promise",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/aku_dia_dan_pinky_promise.json"
+  },
+  {
+    "id": "s_aku_ingin_dicintai",
+    "title": "Aku Ingin Dicintai",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/aku_ingin_dicintai.json"
+  },
+  {
+    "id": "s_albatros",
+    "title": "Albatros",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/albatros.json"
+  },
+  {
+    "id": "s_aldri_voksen",
+    "title": "Aldri voksen",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/aldri_voksen.json"
+  },
+  {
+    "id": "s_alev_alev",
+    "title": "Alev Alev",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/alev_alev.json"
+  },
+  {
+    "id": "s_alex_rider",
+    "title": "Alex Rider",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/alex_rider.json"
+  },
+  {
+    "id": "s_ali_mili_gupchili",
+    "title": "Ali Mili Gupchili",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ali_mili_gupchili.json"
+  },
+  {
+    "id": "s_alice",
+    "title": "Alice",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/alice.json"
+  },
+  {
+    "id": "s_alice_in_borderland",
+    "title": "Alice in Borderland",
+    "start_year": 2020,
+    "end_year": 2025,
+    "path": "data/series/alice_in_borderland.json"
+  },
+  {
+    "id": "s_alien",
+    "title": "Alien",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/alien.json"
+  },
+  {
+    "id": "s_alien_tv",
+    "title": "Alien TV",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/alien_tv.json"
+  },
+  {
+    "id": "s_alien_worlds",
+    "title": "Alien Worlds",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/alien_worlds.json"
+  },
+  {
+    "id": "s_all_creatures_great_and_small",
+    "title": "All Creatures Great and Small",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/all_creatures_great_and_small.json"
+  },
+  {
+    "id": "s_all_that_cube",
+    "title": "All That Cube",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/all_that_cube.json"
+  },
+  {
+    "id": "s_all_together_now_suomi",
+    "title": "All Together Now Suomi",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/all_together_now_suomi.json"
+  },
+  {
+    "id": "s_allerud_vgs",
+    "title": "Allerud VGS",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/allerud_vgs.json"
+  },
+  {
+    "id": "s_almas_not_normal",
+    "title": "Alma's Not Normal",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/almas_not_normal.json"
+  },
+  {
+    "id": "s_almost_happy",
+    "title": "Almost Happy",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/almost_happy.json"
+  },
+  {
+    "id": "s_almost_paradise",
+    "title": "Almost Paradise",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/almost_paradise.json"
+  },
+  {
+    "id": "s_altsasu",
+    "title": "Altsasu",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/altsasu.json"
+  },
+  {
+    "id": "s_am_dro",
+    "title": "Am Dro!",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/am_dro.json"
+  },
+  {
+    "id": "s_amanah_wali_4",
+    "title": "Amanah Wali 4",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/amanah_wali_4.json"
+  },
+  {
+    "id": "s_amanza",
+    "title": "Amanza",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/amanza.json"
+  },
+  {
+    "id": "s_amar_demais",
+    "title": "Amar Demais",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/amar_demais.json"
+  },
+  {
+    "id": "s_amazing_stories",
+    "title": "Amazing Stories",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/amazing_stories.json"
+  },
+  {
+    "id": "s_ambassadoren",
+    "title": "Ambassadören",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ambassadoren.json"
+  },
+  {
+    "id": "s_ambassadren",
+    "title": "Ambassadøren",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ambassadren.json"
+  },
+  {
+    "id": "s_amber_ruffin_show",
+    "title": "The Amber Ruffin Show",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/amber_ruffin_show.json"
+  },
+  {
+    "id": "s_amensalism",
+    "title": "Amensalism",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/amensalism.json"
+  },
+  {
+    "id": "s_american_aristocrats_guide_to_great_estates",
+    "title": "An American Aristocrat's Guide to Great Estates",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/american_aristocrats_guide_to_great_estates.json"
+  },
+  {
+    "id": "s_american_voices_with_alicia_menendez",
+    "title": "American Voices with Alicia Menendez",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/american_voices_with_alicia_menendez.json"
+  },
+  {
+    "id": "s_americas_top_dog",
+    "title": "America's Top Dog",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/americas_top_dog.json"
+  },
+  {
+    "id": "s_amningsrummet",
+    "title": "Amningsrummet",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/amningsrummet.json"
+  },
+  {
+    "id": "s_amor_e_sorte",
+    "title": "Amor e Sorte",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/amor_e_sorte.json"
+  },
+  {
+    "id": "s_anak_band",
+    "title": "Anak Band",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/anak_band.json"
+  },
+  {
+    "id": "s_and_the_winner_is_love",
+    "title": "And The Winner Is Love",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/and_the_winner_is_love.json"
+  },
+  {
+    "id": "s_angel_de_la_muerte",
+    "title": "Ángel de la muerte",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/angel_de_la_muerte.json"
+  },
+  {
+    "id": "s_angelica",
+    "title": "Angelica",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/angelica.json"
+  },
+  {
+    "id": "s_animal_within",
+    "title": "The Animal Within",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/animal_within.json"
+  },
+  {
+    "id": "s_anitta_made_in_honorio",
+    "title": "Anitta: Made In Honório",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/anitta_made_in_honorio.json"
+  },
+  {
+    "id": "s_anna_und_ihr_untermieter_aller_anfang_ist_schwer",
+    "title": "Anna und ihr Untermieter: Aller Anfang ist schwer",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/anna_und_ihr_untermieter_aller_anfang_ist_schwer.json"
+  },
+  {
+    "id": "s_apatigris",
+    "title": "Apatigris",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/apatigris.json"
+  },
+  {
+    "id": "s_archivist",
+    "title": "The archivist",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/archivist.json"
+  },
+  {
+    "id": "s_ares",
+    "title": "Ares",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/ares.json"
+  },
+  {
+    "id": "s_as_long_as_you_love_me",
+    "title": "As Long As You Love Me",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/as_long_as_you_love_me.json"
+  },
+  {
+    "id": "s_askip",
+    "title": "Askip",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/askip.json"
+  },
+  {
+    "id": "s_assassins",
+    "title": "Assassins",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/assassins.json"
+  },
+  {
+    "id": "s_assir_al_madfoun",
+    "title": "Assir Al Madfoun",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/assir_al_madfoun.json"
+  },
+  {
+    "id": "s_astronauts",
+    "title": "The Astronauts",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/astronauts.json"
+  },
+  {
+    "id": "s_ate_ng_ate_ko",
+    "title": "Ate ng Ate Ko",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/ate_ng_ate_ko.json"
+  },
+  {
+    "id": "s_au_pairs",
+    "title": "Au Pairs",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/au_pairs.json"
+  },
+  {
+    "id": "s_aunty_donnas_big_ol_house_of_fun",
+    "title": "Aunty Donna's Big Ol' House of Fun",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/aunty_donnas_big_ol_house_of_fun.json"
+  },
+  {
+    "id": "s_aus_dem_tagebuch_eines_uberfahrers",
+    "title": "Aus dem Tagebuch eines Uber-Fahrers",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/aus_dem_tagebuch_eines_uberfahrers.json"
+  },
+  {
+    "id": "s_avenue_5",
+    "title": "Avenue 5",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/avenue_5.json"
+  },
+  {
+    "id": "s_awaiting_kirin",
+    "title": "Awaiting Kirin",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/awaiting_kirin.json"
+  },
+  {
+    "id": "s_awaken",
+    "title": "Awaken",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/awaken.json"
+  },
+  {
+    "id": "s_away",
+    "title": "Away",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/away.json"
+  },
+  {
+    "id": "s_awkwafina_is_nora_from_queens",
+    "title": "Awkwafina Is Nora from Queens",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/awkwafina_is_nora_from_queens.json"
+  },
+  {
+    "id": "s_b_positive",
+    "title": "B Positive",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/b_positive.json"
+  },
+  {
+    "id": "s_ba_khaneman",
+    "title": "Ba Khaneman",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/ba_khaneman.json"
+  },
+  {
+    "id": "s_babies",
+    "title": "Babies",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/babies.json"
+  },
+  {
+    "id": "s_babysitters_club",
+    "title": "The Baby-Sitters Club",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/babysitters_club.json"
+  },
+  {
+    "id": "s_bachelor_presents_listen_to_your_heart",
+    "title": "The Bachelor Presents: Listen to Your Heart",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/bachelor_presents_listen_to_your_heart.json"
+  },
+  {
+    "id": "s_backstreet_rookie",
+    "title": "Backstreet Rookie",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/backstreet_rookie.json"
+  },
+  {
+    "id": "s_backstrom",
+    "title": "Bäckström",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/backstrom.json"
+  },
+  {
+    "id": "s_bad_boy_billionaires_india",
+    "title": "Bad Boy Billionaires: India",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/bad_boy_billionaires_india.json"
+  },
+  {
+    "id": "s_bad_kids",
+    "title": "The Bad Kids",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/bad_kids.json"
+  },
+  {
+    "id": "s_baghdad_central",
+    "title": "Baghdad Central",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/baghdad_central.json"
+  },
+  {
+    "id": "s_baker_and_the_beauty",
+    "title": "The Baker and the Beauty",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/baker_and_the_beauty.json"
+  },
+  {
+    "id": "s_balanha_hostel",
+    "title": "Balanha Hostel",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/balanha_hostel.json"
+  },
+  {
+    "id": "s_band_ladies",
+    "title": "Band Ladies",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/band_ladies.json"
+  },
+  {
+    "id": "s_barbarians",
+    "title": "Barbarians",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/barbarians.json"
+  },
+  {
+    "id": "s_barbecue_showdown",
+    "title": "Barbecue Showdown",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/barbecue_showdown.json"
+  },
+  {
+    "id": "s_barkskins",
+    "title": "Barkskins",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/barkskins.json"
+  },
+  {
+    "id": "s_barrier",
+    "title": "The Barrier",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/barrier.json"
+  },
+  {
+    "id": "s_basic_bitch",
+    "title": "Basic Bitch",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/basic_bitch.json"
+  },
+  {
+    "id": "s_bawang_putih_berkulit_merah",
+    "title": "Bawang Putih Berkulit Merah",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/bawang_putih_berkulit_merah.json"
+  },
+  {
+    "id": "s_bay_yanls",
+    "title": "Bay Yanlış",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/bay_yanls.json"
+  },
+  {
+    "id": "s_beat_the_genius",
+    "title": "Beat The Genius",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/beat_the_genius.json"
+  },
+  {
+    "id": "s_beauty_and_the_boss",
+    "title": "Beauty and the Boss",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/beauty_and_the_boss.json"
+  },
+  {
+    "id": "s_becoming_you",
+    "title": "Becoming You",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/becoming_you.json"
+  },
+  {
+    "id": "s_beestenbrigade",
+    "title": "Beestenbrigade",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/beestenbrigade.json"
+  },
+  {
+    "id": "s_belenggu_dua_hati",
+    "title": "Belenggu Dua Hati",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/belenggu_dua_hati.json"
+  },
+  {
+    "id": "s_belgravia",
+    "title": "Belgravia",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/belgravia.json"
+  },
+  {
+    "id": "s_bem_me_quer",
+    "title": "Bem me Quer",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/bem_me_quer.json"
+  },
+  {
+    "id": "s_best_frenemies",
+    "title": "Best Frenemies",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/best_frenemies.json"
+  },
+  {
+    "id": "s_best_leftovers_ever",
+    "title": "Best Leftovers Ever!",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/best_leftovers_ever.json"
+  },
+  {
+    "id": "s_best_of_you_in_my_mind",
+    "title": "The Best of You in My Mind",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/best_of_you_in_my_mind.json"
+  },
+  {
+    "id": "s_betty",
+    "title": "Betty",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/betty.json"
+  },
+  {
+    "id": "s_bhaag_beanie_bhaag",
+    "title": "Bhaag Beanie Bhaag",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/bhaag_beanie_bhaag.json"
+  },
+  {
+    "id": "s_bibi_tina",
+    "title": "Bibi & Tina",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/bibi_tina.json"
+  },
+  {
+    "id": "s_big_flower_fight",
+    "title": "The Big Flower Fight",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/big_flower_fight.json"
+  },
+  {
+    "id": "s_big_game",
+    "title": "The Big Game",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/big_game.json"
+  },
+  {
+    "id": "s_big_lars",
+    "title": "Big Lars",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/big_lars.json"
+  },
+  {
+    "id": "s_big_show_show",
+    "title": "The Big Show Show",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/big_show_show.json"
+  },
+  {
+    "id": "s_big_sky",
+    "title": "Big Sky",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/big_sky.json"
+  },
+  {
+    "id": "s_bildmachtdeutschland",
+    "title": "BILD.Macht.Deutschland?",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/bildmachtdeutschland.json"
+  },
+  {
+    "id": "s_binge_reloaded",
+    "title": "Binge Reloaded",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/binge_reloaded.json"
+  },
+  {
+    "id": "s_biohackers",
+    "title": "Biohackers",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/biohackers.json"
+  },
+  {
+    "id": "s_birthcare_center",
+    "title": "Birthcare Center",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/birthcare_center.json"
+  },
+  {
+    "id": "s_bite_size_halloween",
+    "title": "Bite Size Halloween",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/bite_size_halloween.json"
+  },
+  {
+    "id": "s_black_and_white",
+    "title": "Black and White",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/black_and_white.json"
+  },
+  {
+    "id": "s_black_narcissus",
+    "title": "Black Narcissus",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/black_narcissus.json"
+  },
+  {
+    "id": "s_black_sea",
+    "title": "The Black Sea",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/black_sea.json"
+  },
+  {
+    "id": "s_blackaf",
+    "title": "BlackAF",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/blackaf.json"
+  },
+  {
+    "id": "s_blackspace",
+    "title": "Blackspace",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/blackspace.json"
+  },
+  {
+    "id": "s_blood_water",
+    "title": "Blood & Water",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/blood_water.json"
+  },
+  {
+    "id": "s_bloodride",
+    "title": "Bloodride",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/bloodride.json"
+  },
+  {
+    "id": "s_blutige_anfanger",
+    "title": "Blutige Anfänger",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/blutige_anfanger.json"
+  },
+  {
+    "id": "s_bokura_wa_koi_ga_heta_sugiru",
+    "title": "Bokura wa Koi ga Heta sugiru",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/bokura_wa_koi_ga_heta_sugiru.json"
+  },
+  {
+    "id": "s_boon_and_pimento",
+    "title": "Boon and Pimento",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/boon_and_pimento.json"
+  },
+  {
+    "id": "s_box_21",
+    "title": "Box 21",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/box_21.json"
+  },
+  {
+    "id": "s_brak_na_prvu",
+    "title": "Brak na prvu",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/brak_na_prvu.json"
+  },
+  {
+    "id": "s_brave_new_world",
+    "title": "Brave New World",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/brave_new_world.json"
+  },
+  {
+    "id": "s_brave_squad",
+    "title": "The Brave Squad",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/brave_squad.json"
+  },
+  {
+    "id": "s_break_it_all_the_history_of_rock_in_latin_america",
+    "title": "Break It All: The History of Rock in Latin America",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/break_it_all_the_history_of_rock_in_latin_america.json"
+  },
+  {
+    "id": "s_breeders",
+    "title": "Breeders",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/breeders.json"
+  },
+  {
+    "id": "s_brews_brothers",
+    "title": "Brews Brothers",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/brews_brothers.json"
+  },
+  {
+    "id": "s_briarpatch",
+    "title": "Briarpatch",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/briarpatch.json"
+  },
+  {
+    "id": "s_bridgerton",
+    "title": "Bridgerton",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/bridgerton.json"
+  },
+  {
+    "id": "s_brilliant_heritage",
+    "title": "Brilliant Heritage",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/brilliant_heritage.json"
+  },
+  {
+    "id": "s_broke",
+    "title": "Broke",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/broke.json"
+  },
+  {
+    "id": "s_brothers",
+    "title": "Brothers",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/brothers.json"
+  },
+  {
+    "id": "s_bruh",
+    "title": "Bruh",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/bruh.json"
+  },
+  {
+    "id": "s_bukan_salah_cinta",
+    "title": "Bukan Salah Cinta",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/bukan_salah_cinta.json"
+  },
+  {
+    "id": "s_busch_family_brewed",
+    "title": "The Busch Family Brewed",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/busch_family_brewed.json"
+  },
+  {
+    "id": "s_butimar",
+    "title": "Butimar",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/butimar.json"
+  },
+  {
+    "id": "s_by_whatever_means_necessary_the_times_of_godfather_of_harlem",
+    "title": "By Whatever Means Necessary: The Times of Godfather of Harlem",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/by_whatever_means_necessary_the_times_of_godfather_of_harlem.json"
+  },
+  {
+    "id": "s_byanamilan",
+    "title": "ByAnaMilán",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/byanamilan.json"
+  },
+  {
+    "id": "s_cabin_with_bert_kreischer",
+    "title": "The Cabin with Bert Kreischer",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/cabin_with_bert_kreischer.json"
+  },
+  {
+    "id": "s_cada_familia_una_escuela",
+    "title": "Cada familia una escuela",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/cada_familia_una_escuela.json"
+  },
+  {
+    "id": "s_caliphate",
+    "title": "Caliphate",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/caliphate.json"
+  },
+  {
+    "id": "s_callcenter",
+    "title": "Call-Center",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/callcenter.json"
+  },
+  {
+    "id": "s_can_i_step_in",
+    "title": "Can I Step In?",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/can_i_step_in.json"
+  },
+  {
+    "id": "s_caronte",
+    "title": "Caronte",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/caronte.json"
+  },
+  {
+    "id": "s_carpathian_ranger",
+    "title": "Carpathian Ranger",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/carpathian_ranger.json"
+  },
+  {
+    "id": "s_cart_narcs",
+    "title": "Cart Narcs",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/cart_narcs.json"
+  },
+  {
+    "id": "s_celebrity_iou",
+    "title": "Celebrity IOU",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/celebrity_iou.json"
+  },
+  {
+    "id": "s_celebrity_showoff",
+    "title": "Celebrity Show-Off",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/celebrity_showoff.json"
+  },
+  {
+    "id": "s_ceske_tajemno",
+    "title": "Ceské tajemno",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/ceske_tajemno.json"
+  },
+  {
+    "id": "s_chahadat_milad",
+    "title": "Chahadat Milad",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/chahadat_milad.json"
+  },
+  {
+    "id": "s_chain_of_vengeance",
+    "title": "Chain of Vengeance",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/chain_of_vengeance.json"
+  },
+  {
+    "id": "s_challenger_the_final_flight",
+    "title": "Challenger: The Final Flight",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/challenger_the_final_flight.json"
+  },
+  {
+    "id": "s_cheat_on_me_if_you_can",
+    "title": "Cheat on Me, if You Can",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/cheat_on_me_if_you_can.json"
+  },
+  {
+    "id": "s_cheer",
+    "title": "Cheer",
+    "start_year": 2019,
+    "end_year": 2021,
+    "path": "data/series/cheer.json"
+  },
+  {
+    "id": "s_chef",
+    "title": "The Chef",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/chef.json"
+  },
+  {
+    "id": "s_chefs_table_bbq",
+    "title": "Chef's Table: BBQ",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/chefs_table_bbq.json"
+  },
+  {
+    "id": "s_cherish_the_day",
+    "title": "Cherish the Day",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/cherish_the_day.json"
+  },
+  {
+    "id": "s_china_special_forces",
+    "title": "China Special Forces",
+    "start_year": 2019,
+    "end_year": 2021,
+    "path": "data/series/china_special_forces.json"
+  },
+  {
+    "id": "s_chip_in",
+    "title": "Chip In",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/chip_in.json"
+  },
+  {
+    "id": "s_chrissys_court",
+    "title": "Chrissy's Court",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/chrissys_court.json"
+  },
+  {
+    "id": "s_cinta_mulia",
+    "title": "Cinta Mulia",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/cinta_mulia.json"
+  },
+  {
+    "id": "s_circle",
+    "title": "The Circle",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/circle.json"
+  },
+  {
+    "id": "s_circle_brazil",
+    "title": "The Circle: Brazil",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/circle_brazil.json"
+  },
+  {
+    "id": "s_city_so_real",
+    "title": "City So Real",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/city_so_real.json"
+  },
+  {
+    "id": "s_classical_destinations",
+    "title": "Classical Destinations",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/classical_destinations.json"
+  },
+  {
+    "id": "s_cnn_lideres",
+    "title": "CNN Líderes",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/cnn_lideres.json"
+  },
+  {
+    "id": "s_cnn_newsroom",
+    "title": "CNN Newsroom",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/cnn_newsroom.json"
+  },
+  {
+    "id": "s_cnn_series_originais",
+    "title": "CNN Séries Originais",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/cnn_series_originais.json"
+  },
+  {
+    "id": "s_coach_me_if_you_can",
+    "title": "Coach Me If You Can",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/coach_me_if_you_can.json"
+  },
+  {
+    "id": "s_cold_courage",
+    "title": "Cold Courage",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/cold_courage.json"
+  },
+  {
+    "id": "s_color_rush",
+    "title": "Color Rush",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/color_rush.json"
+  },
+  {
+    "id": "s_comedy_star",
+    "title": "Comedy Star",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/comedy_star.json"
+  },
+  {
+    "id": "s_comey_rule",
+    "title": "The Comey Rule",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/comey_rule.json"
+  },
+  {
+    "id": "s_commandos",
+    "title": "Commando’s",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/commandos.json"
+  },
+  {
+    "id": "s_commitmental",
+    "title": "CommitMental",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/commitmental.json"
+  },
+  {
+    "id": "s_commune",
+    "title": "The Commune",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/commune.json"
+  },
+  {
+    "id": "s_como_tu_no_hay_2",
+    "title": "Como tú no hay 2",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/como_tu_no_hay_2.json"
+  },
+  {
+    "id": "s_complicated_life_of_lea_oliver",
+    "title": "The Complicated Life of Lea Oliver",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/complicated_life_of_lea_oliver.json"
+  },
+  {
+    "id": "s_con",
+    "title": "The Con",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/con.json"
+  },
+  {
+    "id": "s_confinados",
+    "title": "Confinados",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/confinados.json"
+  },
+  {
+    "id": "s_connected_the_hidden_science_of_everything",
+    "title": "Connected: The Hidden Science of Everything",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/connected_the_hidden_science_of_everything.json"
+  },
+  {
+    "id": "s_connecting",
+    "title": "Connecting",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/connecting.json"
+  },
+  {
+    "id": "s_container_cup",
+    "title": "Container Cup",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/container_cup.json"
+  },
+  {
+    "id": "s_conversation",
+    "title": "The Conversation",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/conversation.json"
+  },
+  {
+    "id": "s_cooked_with_cannabis",
+    "title": "Cooked with Cannabis",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/cooked_with_cannabis.json"
+  },
+  {
+    "id": "s_cooking",
+    "title": "CooKing",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/cooking.json"
+  },
+  {
+    "id": "s_coronavirus_explained",
+    "title": "Coronavirus, Explained",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/coronavirus_explained.json"
+  },
+  {
+    "id": "s_cosmos_possible_worlds",
+    "title": "Cosmos: Possible Worlds",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/cosmos_possible_worlds.json"
+  },
+  {
+    "id": "s_council_of_dads",
+    "title": "Council of Dads",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/council_of_dads.json"
+  },
+  {
+    "id": "s_count_your_lucky_stars",
+    "title": "Count Your Lucky Stars",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/count_your_lucky_stars.json"
+  },
+  {
+    "id": "s_country_ever_after",
+    "title": "Country Ever After",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/country_ever_after.json"
+  },
+  {
+    "id": "s_coyote",
+    "title": "Coyote",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/coyote.json"
+  },
+  {
+    "id": "s_coyote_peterson_brave_the_wild",
+    "title": "Coyote Peterson: Brave the Wild",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/coyote_peterson_brave_the_wild.json"
+  },
+  {
+    "id": "s_craftopia",
+    "title": "Craftopia",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/craftopia.json"
+  },
+  {
+    "id": "s_crazy_delicious",
+    "title": "Crazy Delicious",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/crazy_delicious.json"
+  },
+  {
+    "id": "s_crews_gangs",
+    "title": "Crews & Gangs",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/crews_gangs.json"
+  },
+  {
+    "id": "s_crime_diaries_the_search",
+    "title": "Crime Diaries: The Search",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/crime_diaries_the_search.json"
+  },
+  {
+    "id": "s_cronica_dos_bons_malandros",
+    "title": "Crónica dos Bons Malandros",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/cronica_dos_bons_malandros.json"
+  },
+  {
+    "id": "s_cross_connection_with_tiffany_cross",
+    "title": "The Cross Connection with Tiffany Cross",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/cross_connection_with_tiffany_cross.json"
+  },
+  {
+    "id": "s_cube",
+    "title": "The Cube",
+    "start_year": 2020,
+    "end_year": 2015,
+    "path": "data/series/cube.json"
+  },
+  {
+    "id": "s_curious_life_and_death_of",
+    "title": "The Curious Life and Death Of...",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/curious_life_and_death_of.json"
+  },
+  {
+    "id": "s_curon",
+    "title": "Curon",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/curon.json"
+  },
+  {
+    "id": "s_curry_songs",
+    "title": "The Curry Songs",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/curry_songs.json"
+  },
+  {
+    "id": "s_cursed",
+    "title": "Cursed",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/cursed.json"
+  },
+  {
+    "id": "s_da_is_ja_nix",
+    "title": "Da is' ja nix",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/da_is_ja_nix.json"
+  },
+  {
+    "id": "s_daily_kitchen_live",
+    "title": "Daily Kitchen Live",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/daily_kitchen_live.json"
+  },
+  {
+    "id": "s_dakara_watashi_wa_make_suru",
+    "title": "Dakara Watashi wa Make Suru",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/dakara_watashi_wa_make_suru.json"
+  },
+  {
+    "id": "s_dance_of_the_phoenix",
+    "title": "Dance of the Phoenix",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/dance_of_the_phoenix.json"
+  },
+  {
+    "id": "s_danger_force",
+    "title": "Danger Force",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/danger_force.json"
+  },
+  {
+    "id": "s_dari_jendela_smp",
+    "title": "Dari Jendela SMP",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/dari_jendela_smp.json"
+  },
+  {
+    "id": "s_dark_desire",
+    "title": "Dark Desire",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/dark_desire.json"
+  },
+  {
+    "id": "s_dark_woods",
+    "title": "Dark Woods",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/dark_woods.json"
+  },
+  {
+    "id": "s_darktown",
+    "title": "Darktown",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/darktown.json"
+  },
+  {
+    "id": "s_dash_lily",
+    "title": "Dash & Lily",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/dash_lily.json"
+  },
+  {
+    "id": "s_dave",
+    "title": "Dave",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/dave.json"
+  },
+  {
+    "id": "s_dayoff_of_kasumi_arimura",
+    "title": "A Day-Off of Kasumi Arimura",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/dayoff_of_kasumi_arimura.json"
+  },
+  {
+    "id": "s_de_erfgenaam",
+    "title": "De Erfgenaam",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/de_erfgenaam.json"
+  },
+  {
+    "id": "s_de_hemmelige_optagelser_med_peter_madsen",
+    "title": "De hemmelige optagelser med Peter Madsen",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/de_hemmelige_optagelser_med_peter_madsen.json"
+  },
+  {
+    "id": "s_de_hit_kwis",
+    "title": "De Hit Kwis",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/de_hit_kwis.json"
+  },
+  {
+    "id": "s_de_kraak",
+    "title": "De Kraak",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/de_kraak.json"
+  },
+  {
+    "id": "s_de_utvalda",
+    "title": "De utvalda",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/de_utvalda.json"
+  },
+  {
+    "id": "s_de_zomer_van_zoe",
+    "title": "De zomer van Zoë",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/de_zomer_van_zoe.json"
+  },
+  {
+    "id": "s_dead_mountain",
+    "title": "Dead Mountain",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/dead_mountain.json"
+  },
+  {
+    "id": "s_dead_still",
+    "title": "Dead Still",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/dead_still.json"
+  },
+  {
+    "id": "s_deadliest_catch_bloodline",
+    "title": "Deadliest Catch: Bloodline",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/deadliest_catch_bloodline.json"
+  },
+  {
+    "id": "s_deadline_to_disaster",
+    "title": "Deadline to Disaster",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/deadline_to_disaster.json"
+  },
+  {
+    "id": "s_deaf_u",
+    "title": "Deaf U",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/deaf_u.json"
+  },
+  {
+    "id": "s_dean_angel",
+    "title": "Dean & Angel",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/dean_angel.json"
+  },
+  {
+    "id": "s_dear",
+    "title": "Dear...",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/dear.json"
+  },
+  {
+    "id": "s_dedalo",
+    "title": "Dédalo",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/dedalo.json"
+  },
+  {
+    "id": "s_deeparadhana",
+    "title": "Deeparadhana",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/deeparadhana.json"
+  },
+  {
+    "id": "s_defeated",
+    "title": "The Defeated",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/defeated.json"
+  },
+  {
+    "id": "s_defending_jacob",
+    "title": "Defending Jacob",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/defending_jacob.json"
+  },
+  {
+    "id": "s_dejta",
+    "title": "Dejta",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/dejta.json"
+  },
+  {
+    "id": "s_delayed_justice",
+    "title": "Delayed Justice",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/delayed_justice.json"
+  },
+  {
+    "id": "s_deliciousness",
+    "title": "Deliciousness",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/deliciousness.json"
+  },
+  {
+    "id": "s_demarcus_family_rules",
+    "title": "DeMarcus Family Rules",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/demarcus_family_rules.json"
+  },
+  {
+    "id": "s_den_stora_halsoresan_fran_soffpropp_till_superkropp",
+    "title": "Den stora hälsoresan - från soffpropp till superkropp",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/den_stora_halsoresan_fran_soffpropp_till_superkropp.json"
+  },
+  {
+    "id": "s_denis_and_me",
+    "title": "Denis and Me",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/denis_and_me.json"
+  },
+  {
+    "id": "s_deputy",
+    "title": "Deputy",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/deputy.json"
+  },
+  {
+    "id": "s_der_altausseekrimi",
+    "title": "Der Altaussee-Krimi",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/der_altausseekrimi.json"
+  },
+  {
+    "id": "s_der_beischlafer",
+    "title": "Der Beischläfer",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/der_beischlafer.json"
+  },
+  {
+    "id": "s_der_kleine_song_contest",
+    "title": "Der kleine Song Contest",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/der_kleine_song_contest.json"
+  },
+  {
+    "id": "s_derby_girl",
+    "title": "Derby Girl",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/derby_girl.json"
+  },
+  {
+    "id": "s_des",
+    "title": "Des",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/des.json"
+  },
+  {
+    "id": "s_desaparecidos",
+    "title": "Desaparecidos",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/desaparecidos.json"
+  },
+  {
+    "id": "s_descendants_of_the_sun",
+    "title": "Descendants of the Sun",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/descendants_of_the_sun.json"
+  },
+  {
+    "id": "s_det_stora_postranet",
+    "title": "Det stora postrånet",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/det_stora_postranet.json"
+  },
+  {
+    "id": "s_detective_chinatown",
+    "title": "Detective Chinatown",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/detective_chinatown.json"
+  },
+  {
+    "id": "s_detective_novice",
+    "title": "Detective Novice",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/detective_novice.json"
+  },
+  {
+    "id": "s_detention",
+    "title": "Detention",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/detention.json"
+  },
+  {
+    "id": "s_deutscher",
+    "title": "Deutscher",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/deutscher.json"
+  },
+  {
+    "id": "s_deutschland_89",
+    "title": "Deutschland 89",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/deutschland_89.json"
+  },
+  {
+    "id": "s_devil_punisher",
+    "title": "The Devil Punisher",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/devil_punisher.json"
+  },
+  {
+    "id": "s_dia_bukan_manusia",
+    "title": "Dia Bukan Manusia",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/dia_bukan_manusia.json"
+  },
+  {
+    "id": "s_diarios_de_la_cuarentena",
+    "title": "Diarios de la cuarentena",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/diarios_de_la_cuarentena.json"
+  },
+  {
+    "id": "s_diary_of_a_future_president",
+    "title": "Diary of a Future President",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/diary_of_a_future_president.json"
+  },
+  {
+    "id": "s_die_kustenpiloten",
+    "title": "Die Küstenpiloten",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/die_kustenpiloten.json"
+  },
+  {
+    "id": "s_die_toten_am_meer",
+    "title": "Die Toten am Meer",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/die_toten_am_meer.json"
+  },
+  {
+    "id": "s_dinner_mate",
+    "title": "Dinner Mate",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/dinner_mate.json"
+  },
+  {
+    "id": "s_disney_insider",
+    "title": "Disney Insider",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/disney_insider.json"
+  },
+  {
+    "id": "s_dispatches_from_elsewhere",
+    "title": "Dispatches From Elsewhere",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/dispatches_from_elsewhere.json"
+  },
+  {
+    "id": "s_diumenge_paella",
+    "title": "Diumenge, paella",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/diumenge_paella.json"
+  },
+  {
+    "id": "s_diversant_3",
+    "title": "Diversant 3",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/diversant_3.json"
+  },
+  {
+    "id": "s_do_do_sol_sol_la_la_sol",
+    "title": "Do Do Sol Sol La La Sol",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/do_do_sol_sol_la_la_sol.json"
+  },
+  {
+    "id": "s_do_you_like_brahms",
+    "title": "Do You Like Brahms?",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/do_you_like_brahms.json"
+  },
+  {
+    "id": "s_doc_nelle_tue_mani",
+    "title": "Doc - Nelle tue mani",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/doc_nelle_tue_mani.json"
+  },
+  {
+    "id": "s_dog_days",
+    "title": "Dog Days",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/dog_days.json"
+  },
+  {
+    "id": "s_doktor_balaton",
+    "title": "Doktor Balaton",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/doktor_balaton.json"
+  },
+  {
+    "id": "s_donburi_iincho",
+    "title": "Donburi Iinchō",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/donburi_iincho.json"
+  },
+  {
+    "id": "s_dont",
+    "title": "Don't",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/dont.json"
+  },
+  {
+    "id": "s_doodstil",
+    "title": "Doodstil",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/doodstil.json"
+  },
+  {
+    "id": "s_dos_hermanas",
+    "title": "Dos Hermanas",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/dos_hermanas.json"
+  },
+  {
+    "id": "s_down_to_earth_with_zac_efron",
+    "title": "Down to Earth with Zac Efron",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/down_to_earth_with_zac_efron.json"
+  },
+  {
+    "id": "s_dr_romantic_2",
+    "title": "Dr. Romantic 2",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/dr_romantic_2.json"
+  },
+  {
+    "id": "s_dracula",
+    "title": "Dracula",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/dracula.json"
+  },
+  {
+    "id": "s_drama",
+    "title": "Drama",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/drama.json"
+  },
+  {
+    "id": "s_dream_home_makeover",
+    "title": "Dream Home Makeover",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/dream_home_makeover.json"
+  },
+  {
+    "id": "s_dream_raider",
+    "title": "Dream Raider",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/dream_raider.json"
+  },
+  {
+    "id": "s_drew_barrymore_show",
+    "title": "The Drew Barrymore Show",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/drew_barrymore_show.json"
+  },
+  {
+    "id": "s_drinnen_im_internet_sind_alle_gleich",
+    "title": "Drinnen - Im Internet sind alle gleich",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/drinnen_im_internet_sind_alle_gleich.json"
+  },
+  {
+    "id": "s_drug_lords_the_next_generation",
+    "title": "Drug Lords: The Next Generation",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/drug_lords_the_next_generation.json"
+  },
+  {
+    "id": "s_dry_water",
+    "title": "Dry Water",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/dry_water.json"
+  },
+  {
+    "id": "s_duchess",
+    "title": "The Duchess",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/duchess.json"
+  },
+  {
+    "id": "s_dzhulbars",
+    "title": "Dzhulbars",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/dzhulbars.json"
+  },
+  {
+    "id": "s_earth_at_night_in_color",
+    "title": "Earth at Night in Color",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/earth_at_night_in_color.json"
+  },
+  {
+    "id": "s_earth_to_ned",
+    "title": "Earth to Ned",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/earth_to_ned.json"
+  },
+  {
+    "id": "s_earths_tropical_islands",
+    "title": "Earth's Tropical Islands",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/earths_tropical_islands.json"
+  },
+  {
+    "id": "s_eddy",
+    "title": "The Eddy",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/eddy.json"
+  },
+  {
+    "id": "s_educating_greater_manchester_2",
+    "title": "Educating Greater Manchester 2",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/educating_greater_manchester_2.json"
+  },
+  {
+    "id": "s_ein_krimi_aus_passau",
+    "title": "Ein Krimi aus Passau",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ein_krimi_aus_passau.json"
+  },
+  {
+    "id": "s_ein_tisch_in_der_provence",
+    "title": "Ein Tisch in der Provence",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/ein_tisch_in_der_provence.json"
+  },
+  {
+    "id": "s_el_cid",
+    "title": "El Cid",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/el_cid.json"
+  },
+  {
+    "id": "s_el_loco_de_los_huesos",
+    "title": "El Loco de los Huesos",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/el_loco_de_los_huesos.json"
+  },
+  {
+    "id": "s_el_presidente",
+    "title": "El presidente",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/el_presidente.json"
+  },
+  {
+    "id": "s_el_secretario_argentina",
+    "title": "El secretario (Argentina)",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/el_secretario_argentina.json"
+  },
+  {
+    "id": "s_em_seu_lugar",
+    "title": "Em Seu Lugar",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/em_seu_lugar.json"
+  },
+  {
+    "id": "s_emergency",
+    "title": "Emergency",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/emergency.json"
+  },
+  {
+    "id": "s_emergency_call",
+    "title": "Emergency Call",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/emergency_call.json"
+  },
+  {
+    "id": "s_emily_in_paris",
+    "title": "Emily in Paris",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/emily_in_paris.json"
+  },
+  {
+    "id": "s_emilys_wonder_lab",
+    "title": "Emily's Wonder Lab",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/emilys_wonder_lab.json"
+  },
+  {
+    "id": "s_en_route_avec_la_police_locale",
+    "title": "En route avec la police locale",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/en_route_avec_la_police_locale.json"
+  },
+  {
+    "id": "s_end",
+    "title": "The End",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/end.json"
+  },
+  {
+    "id": "s_endlings",
+    "title": "Endlings",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/endlings.json"
+  },
+  {
+    "id": "s_english_game",
+    "title": "The English Game",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/english_game.json"
+  },
+  {
+    "id": "s_enslaved",
+    "title": "Enslaved",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/enslaved.json"
+  },
+  {
+    "id": "s_enta_jos",
+    "title": "Entä jos?",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/enta_jos.json"
+  },
+  {
+    "id": "s_equinox",
+    "title": "Equinox",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/equinox.json"
+  },
+  {
+    "id": "s_eternal_love_of_dream",
+    "title": "Eternal Love of Dream",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/eternal_love_of_dream.json"
+  },
+  {
+    "id": "s_eteros_ego_season_2",
+    "title": "Eteros ego, season 2",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/eteros_ego_season_2.json"
+  },
+  {
+    "id": "s_ethos",
+    "title": "Ethos",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ethos.json"
+  },
+  {
+    "id": "s_everyone_wants_to_meet_you",
+    "title": "Everyone Wants To Meet You",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/everyone_wants_to_meet_you.json"
+  },
+  {
+    "id": "s_everythings_gonna_be_okay",
+    "title": "Everything's Gonna Be Okay",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/everythings_gonna_be_okay.json"
+  },
+  {
+    "id": "s_expanding_universe_of_ashley_garcia",
+    "title": "The Expanding Universe of Ashley Garcia",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/expanding_universe_of_ashley_garcia.json"
+  },
+  {
+    "id": "s_extracurricular",
+    "title": "Extracurricular",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/extracurricular.json"
+  },
+  {
+    "id": "s_fabulous_lives_of_bollywood_wives",
+    "title": "Fabulous Lives of Bollywood Wives",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/fabulous_lives_of_bollywood_wives.json"
+  },
+  {
+    "id": "s_face_to_face_with_david",
+    "title": "Face to Face with David",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/face_to_face_with_david.json"
+  },
+  {
+    "id": "s_fair_trade",
+    "title": "Fair Trade",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/fair_trade.json"
+  },
+  {
+    "id": "s_fake_princess",
+    "title": "Fake Princess",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/fake_princess.json"
+  },
+  {
+    "id": "s_falling_into_you",
+    "title": "Falling Into You",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/falling_into_you.json"
+  },
+  {
+    "id": "s_falsez_pentru_tine",
+    "title": "Falsez pentru tine",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/falsez_pentru_tine.json"
+  },
+  {
+    "id": "s_families_of_the_mafia",
+    "title": "Families of the Mafia",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/families_of_the_mafia.json"
+  },
+  {
+    "id": "s_family_fortunes",
+    "title": "Family Fortunes",
+    "start_year": 2020,
+    "end_year": 2002,
+    "path": "data/series/family_fortunes.json"
+  },
+  {
+    "id": "s_family_history",
+    "title": "Family History",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/family_history.json"
+  },
+  {
+    "id": "s_family_honor",
+    "title": "Family Honor",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/family_honor.json"
+  },
+  {
+    "id": "s_farmi_suomi",
+    "title": "Farmi Suomi",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/farmi_suomi.json"
+  },
+  {
+    "id": "s_faryaad",
+    "title": "Faryaad",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/faryaad.json"
+  },
+  {
+    "id": "s_fatal_promise",
+    "title": "Fatal Promise",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/fatal_promise.json"
+  },
+  {
+    "id": "s_fbi_declassified",
+    "title": "The FBI Declassified",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/fbi_declassified.json"
+  },
+  {
+    "id": "s_fbi_most_wanted",
+    "title": "FBI: Most Wanted",
+    "start_year": 2020,
+    "end_year": 2025,
+    "path": "data/series/fbi_most_wanted.json"
+  },
+  {
+    "id": "s_fear_by_the_lake",
+    "title": "Fear by the Lake",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/fear_by_the_lake.json"
+  },
+  {
+    "id": "s_fear_factor_khatron_ke_khiladi_made_in_india",
+    "title": "Fear Factor: Khatron Ke Khiladi – Made in India",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/fear_factor_khatron_ke_khiladi_made_in_india.json"
+  },
+  {
+    "id": "s_fearless_heroes_2020",
+    "title": "fearless heroes 2020",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/fearless_heroes_2020.json"
+  },
+  {
+    "id": "s_feel_good",
+    "title": "Feel Good",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/feel_good.json"
+  },
+  {
+    "id": "s_filatov",
+    "title": "Filatov",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/filatov.json"
+  },
+  {
+    "id": "s_filthy_rich",
+    "title": "Filthy Rich",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/filthy_rich.json"
+  },
+  {
+    "id": "s_find_me_in_your_memory",
+    "title": "Find Me in Your Memory",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/find_me_in_your_memory.json"
+  },
+  {
+    "id": "s_find_yourself",
+    "title": "Find Yourself",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/find_yourself.json"
+  },
+  {
+    "id": "s_finlands_historia_som_du_aldrig_har_sett_den_forr",
+    "title": "Finlands historia – som du aldrig har sett den förr",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/finlands_historia_som_du_aldrig_har_sett_den_forr.json"
+  },
+  {
+    "id": "s_first_responders",
+    "title": "First Responders",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/first_responders.json"
+  },
+  {
+    "id": "s_first_romance",
+    "title": "First Romance",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/first_romance.json"
+  },
+  {
+    "id": "s_fisica_o_quimica_el_reencuentro",
+    "title": "Física o Química: El reencuentro",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/fisica_o_quimica_el_reencuentro.json"
+  },
+  {
+    "id": "s_flight_attendant",
+    "title": "The Flight Attendant",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/flight_attendant.json"
+  },
+  {
+    "id": "s_floor_is_lava",
+    "title": "Floor Is Lava",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/floor_is_lava.json"
+  },
+  {
+    "id": "s_flower_of_evil",
+    "title": "Flower of Evil",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/flower_of_evil.json"
+  },
+  {
+    "id": "s_followers",
+    "title": "Followers",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/followers.json"
+  },
+  {
+    "id": "s_for_life",
+    "title": "For Life",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/for_life.json"
+  },
+  {
+    "id": "s_forensic_heroes_iv",
+    "title": "Forensic Heroes IV",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/forensic_heroes_iv.json"
+  },
+  {
+    "id": "s_forest",
+    "title": "Forest",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/forest.json"
+  },
+  {
+    "id": "s_forever_love",
+    "title": "Forever Love",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/forever_love.json"
+  },
+  {
+    "id": "s_forget_you_remember_love",
+    "title": "Forget You Remember Love",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/forget_you_remember_love.json"
+  },
+  {
+    "id": "s_fra_blle_til_bestevenn",
+    "title": "Fra bølle til bestevenn",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/fra_blle_til_bestevenn.json"
+  },
+  {
+    "id": "s_fraggle_rock_rock_on",
+    "title": "Fraggle Rock: Rock On!",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/fraggle_rock_rock_on.json"
+  },
+  {
+    "id": "s_freud",
+    "title": "Freud",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/freud.json"
+  },
+  {
+    "id": "s_friday_joy_package",
+    "title": "Friday Joy Package",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/friday_joy_package.json"
+  },
+  {
+    "id": "s_friend_forever",
+    "title": "Friend Forever",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/friend_forever.json"
+  },
+  {
+    "id": "s_fugitive",
+    "title": "The Fugitive",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/fugitive.json"
+  },
+  {
+    "id": "s_fur_umme_die_serie",
+    "title": "Für Umme - Die Serie",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/fur_umme_die_serie.json"
+  },
+  {
+    "id": "s_ga_doo_ris_sushi_restaurant",
+    "title": "Ga Doo Ri's Sushi Restaurant",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/ga_doo_ris_sushi_restaurant.json"
+  },
+  {
+    "id": "s_game_on",
+    "title": "Game On!",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/game_on.json"
+  },
+  {
+    "id": "s_game_on_a_comedy_crossover_event",
+    "title": "Game On: A Comedy Crossover Event",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/game_on_a_comedy_crossover_event.json"
+  },
+  {
+    "id": "s_game_towards_zero",
+    "title": "The Game: Towards Zero",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/game_towards_zero.json"
+  },
+  {
+    "id": "s_gangs_of_filmistaan",
+    "title": "Gangs of Filmistaan",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/gangs_of_filmistaan.json"
+  },
+  {
+    "id": "s_gangs_of_london",
+    "title": "Gangs of London",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/gangs_of_london.json"
+  },
+  {
+    "id": "s_gaspar_bodor_was_once_in_buda",
+    "title": "Gáspár Bödör was once in Buda",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/gaspar_bodor_was_once_in_buda.json"
+  },
+  {
+    "id": "s_gentefied",
+    "title": "Gentefied",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/gentefied.json"
+  },
+  {
+    "id": "s_get_even",
+    "title": "Get Even",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/get_even.json"
+  },
+  {
+    "id": "s_get_organised_with_the_home_edit",
+    "title": "Get Organised with the Home Edit",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/get_organised_with_the_home_edit.json"
+  },
+  {
+    "id": "s_ghost_bride",
+    "title": "The Ghost Bride",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/ghost_bride.json"
+  },
+  {
+    "id": "s_ginirama",
+    "title": "Ginirama",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ginirama.json"
+  },
+  {
+    "id": "s_gloaming",
+    "title": "The Gloaming",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/gloaming.json"
+  },
+  {
+    "id": "s_gma3",
+    "title": "GMA3",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/gma3.json"
+  },
+  {
+    "id": "s_go_ahead",
+    "title": "Go Ahead",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/go_ahead.json"
+  },
+  {
+    "id": "s_goddess_of_revenge",
+    "title": "The Goddess of Revenge",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/goddess_of_revenge.json"
+  },
+  {
+    "id": "s_goedam",
+    "title": "Goedam",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/goedam.json"
+  },
+  {
+    "id": "s_golden_mask",
+    "title": "Golden mask",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/golden_mask.json"
+  },
+  {
+    "id": "s_gonul_dag",
+    "title": "Gönül Dağı",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/gonul_dag.json"
+  },
+  {
+    "id": "s_good_casting",
+    "title": "Good Casting",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/good_casting.json"
+  },
+  {
+    "id": "s_good_girls_club",
+    "title": "The Good Girls Club",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/good_girls_club.json"
+  },
+  {
+    "id": "s_good_lord_bird",
+    "title": "The Good Lord Bird",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/good_lord_bird.json"
+  },
+  {
+    "id": "s_good_man",
+    "title": "A Good Man",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/good_man.json"
+  },
+  {
+    "id": "s_good_morning_veronica",
+    "title": "Good Morning, Verônica",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/good_morning_veronica.json"
+  },
+  {
+    "id": "s_good_year",
+    "title": "A Good Year",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/good_year.json"
+  },
+  {
+    "id": "s_goop_lab",
+    "title": "The Goop Lab",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/goop_lab.json"
+  },
+  {
+    "id": "s_gosti_iz_proshlogo",
+    "title": "Gosti iz proshlogo",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/gosti_iz_proshlogo.json"
+  },
+  {
+    "id": "s_got_talent_uruguay",
+    "title": "Got Talent Uruguay",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/got_talent_uruguay.json"
+  },
+  {
+    "id": "s_gr5",
+    "title": "GR5",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/gr5.json"
+  },
+  {
+    "id": "s_graceful_friends",
+    "title": "Graceful Friends",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/graceful_friends.json"
+  },
+  {
+    "id": "s_grand_army",
+    "title": "Grand Army",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/grand_army.json"
+  },
+  {
+    "id": "s_grand_hotel",
+    "title": "Grand Hotel",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/grand_hotel.json"
+  },
+  {
+    "id": "s_grandfather",
+    "title": "Grandfather",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/grandfather.json"
+  },
+  {
+    "id": "s_grasa",
+    "title": "Grasa",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/grasa.json"
+  },
+  {
+    "id": "s_great",
+    "title": "The Great",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/great.json"
+  },
+  {
+    "id": "s_great_british_dig_history_in_your_garden",
+    "title": "The Great British Dig: History in Your Garden",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/great_british_dig_history_in_your_garden.json"
+  },
+  {
+    "id": "s_great_india_dance_off",
+    "title": "The Great India Dance Off",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/great_india_dance_off.json"
+  },
+  {
+    "id": "s_great_ruler",
+    "title": "The Great Ruler",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/great_ruler.json"
+  },
+  {
+    "id": "s_greatest_athome_videos",
+    "title": "The Greatest AtHome Videos",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/greatest_athome_videos.json"
+  },
+  {
+    "id": "s_greek_islands_with_julia_bradbury",
+    "title": "The Greek Islands with Julia Bradbury",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/greek_islands_with_julia_bradbury.json"
+  },
+  {
+    "id": "s_grethes_jul",
+    "title": "Grethes jul",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/grethes_jul.json"
+  },
+  {
+    "id": "s_group_chat",
+    "title": "Group Chat",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/group_chat.json"
+  },
+  {
+    "id": "s_grow",
+    "title": "Grow",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/grow.json"
+  },
+  {
+    "id": "s_growing_belushi",
+    "title": "Growing Belushi",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/growing_belushi.json"
+  },
+  {
+    "id": "s_grozny",
+    "title": "Grozny",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/grozny.json"
+  },
+  {
+    "id": "s_guerre_des_sexes",
+    "title": "Guerre des sexes",
+    "start_year": 2019,
+    "end_year": 2021,
+    "path": "data/series/guerre_des_sexes.json"
+  },
+  {
+    "id": "s_guessable",
+    "title": "Guessable",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/guessable.json"
+  },
+  {
+    "id": "s_gusar",
+    "title": "Gusar",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/gusar.json"
+  },
+  {
+    "id": "s_h24",
+    "title": "H24",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/h24.json"
+  },
+  {
+    "id": "s_haireta_mou_tou_platano",
+    "title": "Haireta mou tou platano",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/haireta_mou_tou_platano.json"
+  },
+  {
+    "id": "s_hamari_wali_good_news",
+    "title": "Hamari Wali Good News",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/hamari_wali_good_news.json"
+  },
+  {
+    "id": "s_hammarvik",
+    "title": "Hammarvik",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/hammarvik.json"
+  },
+  {
+    "id": "s_hanachala",
+    "title": "HaNachala",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/hanachala.json"
+  },
+  {
+    "id": "s_handsome_siblings",
+    "title": "Handsome Siblings",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/handsome_siblings.json"
+  },
+  {
+    "id": "s_happily_married",
+    "title": "Happily Married",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/happily_married.json"
+  },
+  {
+    "id": "s_happy_520",
+    "title": "Happy 520",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/happy_520.json"
+  },
+  {
+    "id": "s_hardy_boys",
+    "title": "The Hardy Boys",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/hardy_boys.json"
+  },
+  {
+    "id": "s_hasifa",
+    "title": "Hasifa",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/hasifa.json"
+  },
+  {
+    "id": "s_hati_yang_terluka",
+    "title": "Hati yang Terluka",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/hati_yang_terluka.json"
+  },
+  {
+    "id": "s_hausen",
+    "title": "Hausen",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/hausen.json"
+  },
+  {
+    "id": "s_head",
+    "title": "The Head",
+    "start_year": 2020,
+    "end_year": 2025,
+    "path": "data/series/head.json"
+  },
+  {
+    "id": "s_healing_powers_of_dude",
+    "title": "The Healing Powers of Dude",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/healing_powers_of_dude.json"
+  },
+  {
+    "id": "s_heksejakt",
+    "title": "Heksejakt",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/heksejakt.json"
+  },
+  {
+    "id": "s_held_in_the_lonely_castle",
+    "title": "Held in the Lonely Castle",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/held_in_the_lonely_castle.json"
+  },
+  {
+    "id": "s_helga_y_flora",
+    "title": "Helga y Flora",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/helga_y_flora.json"
+  },
+  {
+    "id": "s_hell_the_history_of_norwegian_black_metal",
+    "title": "Hell: The History of Norwegian Black Metal",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/hell_the_history_of_norwegian_black_metal.json"
+  },
+  {
+    "id": "s_hello_kitty_and_friends_supercute_adventures",
+    "title": "Hello Kitty and Friends Supercute Adventures",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/hello_kitty_and_friends_supercute_adventures.json"
+  },
+  {
+    "id": "s_helstrom",
+    "title": "Helstrom",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/helstrom.json"
+  },
+  {
+    "id": "s_helt_ramme_sporter",
+    "title": "Helt Ramme sporter",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/helt_ramme_sporter.json"
+  },
+  {
+    "id": "s_here_we_go",
+    "title": "Here We Go",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/here_we_go.json"
+  },
+  {
+    "id": "s_hero_gayab_mode_on",
+    "title": "Hero – Gayab Mode On",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/hero_gayab_mode_on.json"
+  },
+  {
+    "id": "s_het_awoord",
+    "title": "Het A-woord",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/het_awoord.json"
+  },
+  {
+    "id": "s_hi_bye_mama",
+    "title": "Hi Bye, Mama!",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/hi_bye_mama.json"
+  },
+  {
+    "id": "s_hidden_london_hangouts",
+    "title": "Hidden London Hangouts",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/hidden_london_hangouts.json"
+  },
+  {
+    "id": "s_high_arctic_haulers",
+    "title": "High Arctic Haulers",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/high_arctic_haulers.json"
+  },
+  {
+    "id": "s_high_fidelity",
+    "title": "High Fidelity",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/high_fidelity.json"
+  },
+  {
+    "id": "s_high_score",
+    "title": "High Score",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/high_score.json"
+  },
+  {
+    "id": "s_high_stakes_duel",
+    "title": "High Stakes Duel",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/high_stakes_duel.json"
+  },
+  {
+    "id": "s_hightown",
+    "title": "Hightown",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/hightown.json"
+  },
+  {
+    "id": "s_hikaru_no_go",
+    "title": "Hikaru no Go",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/hikaru_no_go.json"
+  },
+  {
+    "id": "s_hinatazaka46_desu_chotto_ii_desu_ka",
+    "title": "Hinatazaka46 desu. Chotto Ii Desu ka?",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/hinatazaka46_desu_chotto_ii_desu_ka.json"
+  },
+  {
+    "id": "s_historias_de_alcafran",
+    "title": "Historias de Alcafrán",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/historias_de_alcafran.json"
+  },
+  {
+    "id": "s_historias_de_cuarentena",
+    "title": "Historias de cuarentena",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/historias_de_cuarentena.json"
+  },
+  {
+    "id": "s_hit",
+    "title": "HIT",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/hit.json"
+  },
+  {
+    "id": "s_hivemind",
+    "title": "Hivemind",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/hivemind.json"
+  },
+  {
+    "id": "s_hjalp_vi_har_kopt_en_bondgard",
+    "title": "Hjälp, vi har köpt en bondgård!",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/hjalp_vi_har_kopt_en_bondgard.json"
+  },
+  {
+    "id": "s_holiday_home_makeover_with_mr_christmas",
+    "title": "Holiday Home Makeover with Mr. Christmas",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/holiday_home_makeover_with_mr_christmas.json"
+  },
+  {
+    "id": "s_hollywood",
+    "title": "Hollywood",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/hollywood.json"
+  },
+  {
+    "id": "s_home_before_dark",
+    "title": "Home Before Dark",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/home_before_dark.json"
+  },
+  {
+    "id": "s_home_game",
+    "title": "Home Game",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/home_game.json"
+  },
+  {
+    "id": "s_homemade_love_story",
+    "title": "Homemade Love Story",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/homemade_love_story.json"
+  },
+  {
+    "id": "s_homeroom",
+    "title": "Homeroom",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/homeroom.json"
+  },
+  {
+    "id": "s_hoodie",
+    "title": "Hoodie",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/hoodie.json"
+  },
+  {
+    "id": "s_hoogvliegers",
+    "title": "Hoogvliegers",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/hoogvliegers.json"
+  },
+  {
+    "id": "s_hope",
+    "title": "Hope",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/hope.json"
+  },
+  {
+    "id": "s_hospital_playlist",
+    "title": "Hospital Playlist",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/hospital_playlist.json"
+  },
+  {
+    "id": "s_hot_ground",
+    "title": "The Hot Ground",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/hot_ground.json"
+  },
+  {
+    "id": "s_house_on_wheels",
+    "title": "House on Wheels",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/house_on_wheels.json"
+  },
+  {
+    "id": "s_how_to_buy_a_friend",
+    "title": "How to Buy a Friend",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/how_to_buy_a_friend.json"
+  },
+  {
+    "id": "s_how_to_ruin_christmas_the_wedding",
+    "title": "How to Ruin Christmas: The Wedding",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/how_to_ruin_christmas_the_wedding.json"
+  },
+  {
+    "id": "s_how_to_tatort",
+    "title": "How to Tatort",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/how_to_tatort.json"
+  },
+  {
+    "id": "s_how_to_with_john_wilson",
+    "title": "How To with John Wilson",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/how_to_with_john_wilson.json"
+  },
+  {
+    "id": "s_hunters",
+    "title": "Hunters",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/hunters.json"
+  },
+  {
+    "id": "s_husdrommar_sicilien",
+    "title": "Husdrömmar Sicilien",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/husdrommar_sicilien.json"
+  },
+  {
+    "id": "s_hyena",
+    "title": "Hyena",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/hyena.json"
+  },
+  {
+    "id": "s_i_am_a_killer_released",
+    "title": "I Am a Killer: Released",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/i_am_a_killer_released.json"
+  },
+  {
+    "id": "s_i_am_not_okay_with_this",
+    "title": "I Am Not Okay With This",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/i_am_not_okay_with_this.json"
+  },
+  {
+    "id": "s_i_can_see_your_voice",
+    "title": "I Can See Your Voice",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/i_can_see_your_voice.json"
+  },
+  {
+    "id": "s_i_dont_want_to_be_friends_with_you",
+    "title": "I Don't Want To Be Friends With You",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/i_dont_want_to_be_friends_with_you.json"
+  },
+  {
+    "id": "s_i_hate_suzie",
+    "title": "I Hate Suzie",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/i_hate_suzie.json"
+  },
+  {
+    "id": "s_i_myself",
+    "title": "I, Myself",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/i_myself.json"
+  },
+  {
+    "id": "s_i_told_sunset_about_you",
+    "title": "I Told Sunset About You",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/i_told_sunset_about_you.json"
+  },
+  {
+    "id": "s_i_tourta_tis_mamas",
+    "title": "I Tourta tis Mamas",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/i_tourta_tis_mamas.json"
+  },
+  {
+    "id": "s_ici_tout_commence",
+    "title": "Ici tout commence",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ici_tout_commence.json"
+  },
+  {
+    "id": "s_iine_hikaru_genjikun",
+    "title": "Iine! Hikaru Genji-kun",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/iine_hikaru_genjikun.json"
+  },
+  {
+    "id": "s_ilios",
+    "title": "Ilios",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/ilios.json"
+  },
+  {
+    "id": "s_iliza_shlesinger_sketch_show",
+    "title": "The Iliza Shlesinger Sketch Show",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/iliza_shlesinger_sketch_show.json"
+  },
+  {
+    "id": "s_im_tee_me_too",
+    "title": "I'm Tee, Me Too",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/im_tee_me_too.json"
+  },
+  {
+    "id": "s_imperfect_love",
+    "title": "Imperfect Love",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/imperfect_love.json"
+  },
+  {
+    "id": "s_imperio_de_mentiras",
+    "title": "Imperio de mentiras",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/imperio_de_mentiras.json"
+  },
+  {
+    "id": "s_incurable_case_of_love",
+    "title": "An Incurable Case of Love",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/incurable_case_of_love.json"
+  },
+  {
+    "id": "s_indebted",
+    "title": "Indebted",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/indebted.json"
+  },
+  {
+    "id": "s_indonesias_next_top_model",
+    "title": "Indonesia's Next Top Model",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/indonesias_next_top_model.json"
+  },
+  {
+    "id": "s_industry",
+    "title": "Industry",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/industry.json"
+  },
+  {
+    "id": "s_ines_of_my_soul",
+    "title": "Inés of My Soul",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ines_of_my_soul.json"
+  },
+  {
+    "id": "s_innocence_files",
+    "title": "The Innocence Files",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/innocence_files.json"
+  },
+  {
+    "id": "s_insect_detective",
+    "title": "Insect Detective",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/insect_detective.json"
+  },
+  {
+    "id": "s_insya_allah_surga_1",
+    "title": "Insya Allah Surga 1",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/insya_allah_surga_1.json"
+  },
+  {
+    "id": "s_insya_allah_surga_tingkat_2",
+    "title": "Insya Allah Surga Tingkat 2",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/insya_allah_surga_tingkat_2.json"
+  },
+  {
+    "id": "s_intelligence",
+    "title": "Intelligence",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/intelligence.json"
+  },
+  {
+    "id": "s_interrogation",
+    "title": "Interrogation",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/interrogation.json"
+  },
+  {
+    "id": "s_into_the_night",
+    "title": "Into the Night",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/into_the_night.json"
+  },
+  {
+    "id": "s_into_the_ring",
+    "title": "Into The Ring",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/into_the_ring.json"
+  },
+  {
+    "id": "s_into_the_unknown_making_frozen_2",
+    "title": "Into the Unknown: Making Frozen 2",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/into_the_unknown_making_frozen_2.json"
+  },
+  {
+    "id": "s_investigation",
+    "title": "The Investigation",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/investigation.json"
+  },
+  {
+    "id": "s_iqui_la_magia_de_los_suenos",
+    "title": "Iqui, la Magia de los Sueños",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/iqui_la_magia_de_los_suenos.json"
+  },
+  {
+    "id": "s_ishq_oyinlari",
+    "title": "Ishq o'yinlari",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/ishq_oyinlari.json"
+  },
+  {
+    "id": "s_itaewon_class",
+    "title": "Itaewon Class",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/itaewon_class.json"
+  },
+  {
+    "id": "s_its_a_dogs_life_with_bill_farmer",
+    "title": "It's a Dog's Life with Bill Farmer",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/its_a_dogs_life_with_bill_farmer.json"
+  },
+  {
+    "id": "s_its_all_relatives",
+    "title": "It's All Relatives",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/its_all_relatives.json"
+  },
+  {
+    "id": "s_its_okay_to_not_be_okay",
+    "title": "It's Okay to Not Be Okay",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/its_okay_to_not_be_okay.json"
+  },
+  {
+    "id": "s_ivanko",
+    "title": "Ivanko",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/ivanko.json"
+  },
+  {
+    "id": "s_ive_fallen_for_you",
+    "title": "I've Fallen For You",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ive_fallen_for_you.json"
+  },
+  {
+    "id": "s_izzys_koala_world",
+    "title": "Izzy's Koala World",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/izzys_koala_world.json"
+  },
+  {
+    "id": "s_jag_kommer",
+    "title": "Jag kommer",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/jag_kommer.json"
+  },
+  {
+    "id": "s_jaka_tingkir_dan_wali_songo",
+    "title": "Jaka Tingkir dan Wali Songo",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/jaka_tingkir_dan_wali_songo.json"
+  },
+  {
+    "id": "s_japan_womens_gourmet_burger_club",
+    "title": "Japan Women's Gourmet Burger Club",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/japan_womens_gourmet_burger_club.json"
+  },
+  {
+    "id": "s_jewish_enquirer",
+    "title": "The Jewish Enquirer",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/jewish_enquirer.json"
+  },
+  {
+    "id": "s_jj_villards_fairy_tales",
+    "title": "JJ Villard's Fairy Tales",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/jj_villards_fairy_tales.json"
+  },
+  {
+    "id": "s_jo_tambe_em_quedo_a_casa",
+    "title": "Jo també em quedo a casa",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/jo_tambe_em_quedo_a_casa.json"
+  },
+  {
+    "id": "s_joonas_nordman_show",
+    "title": "Joonas Nordman Show",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/joonas_nordman_show.json"
+  },
+  {
+    "id": "s_joselines_cabaret",
+    "title": "Joseline's Cabaret",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/joselines_cabaret.json"
+  },
+  {
+    "id": "s_journey_of_an_african_colony",
+    "title": "Journey of an African Colony",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/journey_of_an_african_colony.json"
+  },
+  {
+    "id": "s_jstyle_trip",
+    "title": "J-Style Trip",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/jstyle_trip.json"
+  },
+  {
+    "id": "s_julefeber",
+    "title": "Julefeber",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/julefeber.json"
+  },
+  {
+    "id": "s_julie_and_the_phantoms",
+    "title": "Julie and the Phantoms",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/julie_and_the_phantoms.json"
+  },
+  {
+    "id": "s_juon_origins",
+    "title": "JU-ON: Origins",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/juon_origins.json"
+  },
+  {
+    "id": "s_kairos",
+    "title": "Kairos",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/kairos.json"
+  },
+  {
+    "id": "s_kakarat",
+    "title": "Kakarat",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/kakarat.json"
+  },
+  {
+    "id": "s_kamiondzije_doo",
+    "title": "Kamiondzije d.o.o.",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/kamiondzije_doo.json"
+  },
+  {
+    "id": "s_kampong_pisang_bersirisiri",
+    "title": "Kampong Pisang Bersiri-siri",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/kampong_pisang_bersirisiri.json"
+  },
+  {
+    "id": "s_karma",
+    "title": "Karma",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/karma.json"
+  },
+  {
+    "id": "s_katakoi_gourmet_nikki",
+    "title": "Katakoi Gourmet Nikki",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/katakoi_gourmet_nikki.json"
+  },
+  {
+    "id": "s_kate_koji",
+    "title": "Kate & Koji",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/kate_koji.json"
+  },
+  {
+    "id": "s_katran_tv_series",
+    "title": "Katran (TV, series)",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/katran_tv_series.json"
+  },
+  {
+    "id": "s_katy_keene",
+    "title": "Katy Keene",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/katy_keene.json"
+  },
+  {
+    "id": "s_kaukes",
+    "title": "Kaukės",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/kaukes.json"
+  },
+  {
+    "id": "s_kefaret",
+    "title": "Kefaret",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/kefaret.json"
+  },
+  {
+    "id": "s_keihasmatkat",
+    "title": "Keihäsmatkat",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/keihasmatkat.json"
+  },
+  {
+    "id": "s_kesayasaya",
+    "title": "Kesayasaya",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/kesayasaya.json"
+  },
+  {
+    "id": "s_kevytta_ylapilvea",
+    "title": "Kevyttä yläpilveä",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/kevytta_ylapilvea.json"
+  },
+  {
+    "id": "s_kholostiachka",
+    "title": "Kholostiachka",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/kholostiachka.json"
+  },
+  {
+    "id": "s_killer_britain_with_dermot_murnaghan",
+    "title": "Killer Britain with Dermot Murnaghan",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/killer_britain_with_dermot_murnaghan.json"
+  },
+  {
+    "id": "s_killer_inside_the_mind_of_aaron_hernandez",
+    "title": "Killer Inside: The Mind of Aaron Hernandez",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/killer_inside_the_mind_of_aaron_hernandez.json"
+  },
+  {
+    "id": "s_kinderwood",
+    "title": "Kinderwood",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/kinderwood.json"
+  },
+  {
+    "id": "s_king_of_warsaw",
+    "title": "The King of Warsaw",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/king_of_warsaw.json"
+  },
+  {
+    "id": "s_kings_of_joburg",
+    "title": "Kings of Jo'burg",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/kings_of_joburg.json"
+  },
+  {
+    "id": "s_kissing_game",
+    "title": "Kissing Game",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/kissing_game.json"
+  },
+  {
+    "id": "s_kkondae_intern",
+    "title": "Kkondae Intern",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/kkondae_intern.json"
+  },
+  {
+    "id": "s_knights_of_castelcorvo",
+    "title": "The Knights of Castelcorvo",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/knights_of_castelcorvo.json"
+  },
+  {
+    "id": "s_knock_on_the_happiness_door",
+    "title": "Knock on the Happiness Door",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/knock_on_the_happiness_door.json"
+  },
+  {
+    "id": "s_koisuru_hahatachi",
+    "title": "Koisuru Hahatachi",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/koisuru_hahatachi.json"
+  },
+  {
+    "id": "s_kompani_lauritzen",
+    "title": "Kompani Lauritzen",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/kompani_lauritzen.json"
+  },
+  {
+    "id": "s_kotaki_kyodai_to_shikuhakku",
+    "title": "kotaki kyodai to shikuhakku",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/kotaki_kyodai_to_shikuhakku.json"
+  },
+  {
+    "id": "s_krmz_oda",
+    "title": "Kırmızı Oda",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/krmz_oda.json"
+  },
+  {
+    "id": "s_krolestwo_kobiet",
+    "title": "Królestwo kobiet",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/krolestwo_kobiet.json"
+  },
+  {
+    "id": "s_kuppilat_kuntoon_hans_valimaki",
+    "title": "Kuppilat kuntoon, Hans Välimäki!",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/kuppilat_kuntoon_hans_valimaki.json"
+  },
+  {
+    "id": "s_kyouen_ng",
+    "title": "Kyouen NG",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/kyouen_ng.json"
+  },
+  {
+    "id": "s_la_flamme",
+    "title": "La Flamme",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/la_flamme.json"
+  },
+  {
+    "id": "s_la_jauria",
+    "title": "La Jauría",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/la_jauria.json"
+  },
+  {
+    "id": "s_la_linea_shadow_of_narco",
+    "title": "La Línea: Shadow of Narco",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/la_linea_shadow_of_narco.json"
+  },
+  {
+    "id": "s_la_maisonbleue",
+    "title": "La Maison-Bleue",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/la_maisonbleue.json"
+  },
+  {
+    "id": "s_la_matinee_est_tienne",
+    "title": "La Matinée Est Tienne",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/la_matinee_est_tienne.json"
+  },
+  {
+    "id": "s_la_mexicana_y_el_guero",
+    "title": "La mexicana y el güero",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/la_mexicana_y_el_guero.json"
+  },
+  {
+    "id": "s_la_otra_orilla",
+    "title": "La Otra Orilla",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/la_otra_orilla.json"
+  },
+  {
+    "id": "s_la_persuasion",
+    "title": "La persuasión",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/la_persuasion.json"
+  },
+  {
+    "id": "s_la_revolution",
+    "title": "La Révolution",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/la_revolution.json"
+  },
+  {
+    "id": "s_la_unidad",
+    "title": "La unidad",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/la_unidad.json"
+  },
+  {
+    "id": "s_la_venganza_de_analia",
+    "title": "La venganza de Analía",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/la_venganza_de_analia.json"
+  },
+  {
+    "id": "s_labyrinth_of_peace",
+    "title": "Labyrinth of Peace",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/labyrinth_of_peace.json"
+  },
+  {
+    "id": "s_ladies_up",
+    "title": "Ladies Up",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/ladies_up.json"
+  },
+  {
+    "id": "s_ladies_vs_gentlemen",
+    "title": "Ladies vs Gentlemen",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ladies_vs_gentlemen.json"
+  },
+  {
+    "id": "s_laidback_camp",
+    "title": "Laid-Back Camp",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/laidback_camp.json"
+  },
+  {
+    "id": "s_lakan",
+    "title": "Lakan",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/lakan.json"
+  },
+  {
+    "id": "s_lalligatore",
+    "title": "L'alligatore",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/lalligatore.json"
+  },
+  {
+    "id": "s_land_of_the_brave",
+    "title": "Land of the brave",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/land_of_the_brave.json"
+  },
+  {
+    "id": "s_landscape_artist_of_the_year_canada",
+    "title": "Landscape Artist of the Year Canada",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/landscape_artist_of_the_year_canada.json"
+  },
+  {
+    "id": "s_las_perrerias_de_mike",
+    "title": "Las perrerías de Mike",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/las_perrerias_de_mike.json"
+  },
+  {
+    "id": "s_lassemajas_detektivbyra",
+    "title": "LasseMajas detektivbyrå",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/lassemajas_detektivbyra.json"
+  },
+  {
+    "id": "s_last_dance",
+    "title": "The Last Dance",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/last_dance.json"
+  },
+  {
+    "id": "s_last_minister",
+    "title": "The Last Minister",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/last_minister.json"
+  },
+  {
+    "id": "s_last_word",
+    "title": "The Last Word",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/last_word.json"
+  },
+  {
+    "id": "s_lasten_tasavalta",
+    "title": "Lasten tasavalta",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/lasten_tasavalta.json"
+  },
+  {
+    "id": "s_latem_leven",
+    "title": "Latem Leven",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/latem_leven.json"
+  },
+  {
+    "id": "s_laulu_rakkaudelle_secret_song_suomi",
+    "title": "Laulu rakkaudelle – Secret Song Suomi",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/laulu_rakkaudelle_secret_song_suomi.json"
+  },
+  {
+    "id": "s_learn_way",
+    "title": "Learn Way",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/learn_way.json"
+  },
+  {
+    "id": "s_least_expected_day_inside_the_movistar_team_2019",
+    "title": "The Least Expected Day: Inside the Movistar Team 2019",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/least_expected_day_inside_the_movistar_team_2019.json"
+  },
+  {
+    "id": "s_lego_masters",
+    "title": "LEGO Masters",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/lego_masters.json"
+  },
+  {
+    "id": "s_lei_de_santos",
+    "title": "A lei de Santos",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/lei_de_santos.json"
+  },
+  {
+    "id": "s_lenox_hill",
+    "title": "Lenox Hill",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/lenox_hill.json"
+  },
+  {
+    "id": "s_les_mutants",
+    "title": "Les Mutants",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/les_mutants.json"
+  },
+  {
+    "id": "s_les_mysteres_de_paris",
+    "title": "Les Mystères de Paris",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/les_mysteres_de_paris.json"
+  },
+  {
+    "id": "s_lets_make_a_deal_primetime",
+    "title": "Let's Make a Deal Primetime",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/lets_make_a_deal_primetime.json"
+  },
+  {
+    "id": "s_letter_for_the_king",
+    "title": "The Letter for the King",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/letter_for_the_king.json"
+  },
+  {
+    "id": "s_letzter_wille",
+    "title": "Letzter Wille",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/letzter_wille.json"
+  },
+  {
+    "id": "s_lie_after_lie",
+    "title": "Lie After Lie",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/lie_after_lie.json"
+  },
+  {
+    "id": "s_liebe_jetzt",
+    "title": "Liebe. Jetzt!",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/liebe_jetzt.json"
+  },
+  {
+    "id": "s_life",
+    "title": "Life",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/life.json"
+  },
+  {
+    "id": "s_life_senjou_no_bokura",
+    "title": "Life Senjou no Bokura",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/life_senjou_no_bokura.json"
+  },
+  {
+    "id": "s_lincoln_rhyme_hunt_for_the_bone_collector",
+    "title": "Lincoln Rhyme: Hunt for the Bone Collector",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/lincoln_rhyme_hunt_for_the_bone_collector.json"
+  },
+  {
+    "id": "s_line",
+    "title": "LINEの答えあわせ〜男と女の勘違い〜",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/line.json"
+  },
+  {
+    "id": "s_little_america",
+    "title": "Little America",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/little_america.json"
+  },
+  {
+    "id": "s_little_birds",
+    "title": "Little Birds",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/little_birds.json"
+  },
+  {
+    "id": "s_little_voice",
+    "title": "Little Voice",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/little_voice.json"
+  },
+  {
+    "id": "s_live_on",
+    "title": "Live On",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/live_on.json"
+  },
+  {
+    "id": "s_living",
+    "title": "Living",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/living.json"
+  },
+  {
+    "id": "s_livstid",
+    "title": "Livstid",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/livstid.json"
+  },
+  {
+    "id": "s_locke_key",
+    "title": "Locke & Key",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/locke_key.json"
+  },
+  {
+    "id": "s_long_night",
+    "title": "The Long Night",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/long_night.json"
+  },
+  {
+    "id": "s_long_way_up",
+    "title": "Long Way Up",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/long_way_up.json"
+  },
+  {
+    "id": "s_los_milagros_de_la_rosa_peru",
+    "title": "Los milagros de la rosa: Perú",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/los_milagros_de_la_rosa_peru.json"
+  },
+  {
+    "id": "s_losing_alice",
+    "title": "Losing Alice",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/losing_alice.json"
+  },
+  {
+    "id": "s_lost_romance",
+    "title": "Lost Romance",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/lost_romance.json"
+  },
+  {
+    "id": "s_lost_tomb_reboot",
+    "title": "The Lost Tomb: Reboot",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/lost_tomb_reboot.json"
+  },
+  {
+    "id": "s_love_101",
+    "title": "Love 101",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/love_101.json"
+  },
+  {
+    "id": "s_love_advanced_customization",
+    "title": "Love Advanced Customization",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/love_advanced_customization.json"
+  },
+  {
+    "id": "s_love_anarchy",
+    "title": "Love & Anarchy",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/love_anarchy.json"
+  },
+  {
+    "id": "s_love_and_redemption",
+    "title": "Love and Redemption",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/love_and_redemption.json"
+  },
+  {
+    "id": "s_love_bond",
+    "title": "Love bond",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/love_bond.json"
+  },
+  {
+    "id": "s_love_exchange",
+    "title": "Love Exchange",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/love_exchange.json"
+  },
+  {
+    "id": "s_love_for_the_arts",
+    "title": "Love for the Arts",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/love_for_the_arts.json"
+  },
+  {
+    "id": "s_love_in_between",
+    "title": "Love in Between",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/love_in_between.json"
+  },
+  {
+    "id": "s_love_in_the_time_of_corona",
+    "title": "Love in the Time of Corona",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/love_in_the_time_of_corona.json"
+  },
+  {
+    "id": "s_love_is_blind",
+    "title": "Love Is Blind",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/love_is_blind.json"
+  },
+  {
+    "id": "s_love_life",
+    "title": "Love Life",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/love_life.json"
+  },
+  {
+    "id": "s_love_monster",
+    "title": "Love Monster",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/love_monster.json"
+  },
+  {
+    "id": "s_love_victor",
+    "title": "Love, Victor",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/love_victor.json"
+  },
+  {
+    "id": "s_lovecraft_country",
+    "title": "Lovecraft Country",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/lovecraft_country.json"
+  },
+  {
+    "id": "s_lovestruck_in_the_city",
+    "title": "Lovestruck in the City",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/lovestruck_in_the_city.json"
+  },
+  {
+    "id": "s_luimelia",
+    "title": "#Luimelia",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/luimelia.json"
+  },
+  {
+    "id": "s_luna_nera",
+    "title": "Luna Nera",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/luna_nera.json"
+  },
+  {
+    "id": "s_machinery",
+    "title": "The Machinery",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/machinery.json"
+  },
+  {
+    "id": "s_madres_amor_y_vida",
+    "title": "Madres. Amor y vida",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/madres_amor_y_vida.json"
+  },
+  {
+    "id": "s_maelstrom",
+    "title": "The Maelstrom",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/maelstrom.json"
+  },
+  {
+    "id": "s_mafia_nights",
+    "title": "Mafia Nights",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/mafia_nights.json"
+  },
+  {
+    "id": "s_magical_girl_friendship_squad_origins",
+    "title": "Magical Girl Friendship Squad: Origins",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/magical_girl_friendship_squad_origins.json"
+  },
+  {
+    "id": "s_magomaev",
+    "title": "Magomaev",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/magomaev.json"
+  },
+  {
+    "id": "s_malory_towers",
+    "title": "Malory Towers",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/malory_towers.json"
+  },
+  {
+    "id": "s_man_in_a_veil",
+    "title": "Man in a Veil",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/man_in_a_veil.json"
+  },
+  {
+    "id": "s_manayek",
+    "title": "Manayek",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/manayek.json"
+  },
+  {
+    "id": "s_manner_of_death",
+    "title": "Manner of Death",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/manner_of_death.json"
+  },
+  {
+    "id": "s_mapa",
+    "title": "Mapa",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/mapa.json"
+  },
+  {
+    "id": "s_marry_me",
+    "title": "Marry Me!",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/marry_me.json"
+  },
+  {
+    "id": "s_martha_knows_best",
+    "title": "Martha Knows Best",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/martha_knows_best.json"
+  },
+  {
+    "id": "s_mashin_sentai_kiramager",
+    "title": "Mashin Sentai Kiramager",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/mashin_sentai_kiramager.json"
+  },
+  {
+    "id": "s_masked_dancer",
+    "title": "The Masked Dancer",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/masked_dancer.json"
+  },
+  {
+    "id": "s_masked_singer",
+    "title": "The Masked Singer",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/masked_singer.json"
+  },
+  {
+    "id": "s_masked_singer_suomi",
+    "title": "Masked Singer Suomi",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/masked_singer_suomi.json"
+  },
+  {
+    "id": "s_maste_gitt",
+    "title": "Måste gitt",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/maste_gitt.json"
+  },
+  {
+    "id": "s_mcdonald_dodds",
+    "title": "McDonald & Dodds",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/mcdonald_dodds.json"
+  },
+  {
+    "id": "s_medical_police",
+    "title": "Medical Police",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/medical_police.json"
+  },
+  {
+    "id": "s_meet_the_richardsons",
+    "title": "Meet the Richardsons",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/meet_the_richardsons.json"
+  },
+  {
+    "id": "s_meeting_you",
+    "title": "Meeting You",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/meeting_you.json"
+  },
+  {
+    "id": "s_meiji_kaika_shinjuro_tanteicho",
+    "title": "Meiji Kaika: Shinjuro Tanteicho",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/meiji_kaika_shinjuro_tanteicho.json"
+  },
+  {
+    "id": "s_melkein_mensa",
+    "title": "Melkein Mensa",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/melkein_mensa.json"
+  },
+  {
+    "id": "s_melody_la_victoire_en_chansons",
+    "title": "Melody, la victoire en chansons",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/melody_la_victoire_en_chansons.json"
+  },
+  {
+    "id": "s_memorist",
+    "title": "Memorist",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/memorist.json"
+  },
+  {
+    "id": "s_men_are_men",
+    "title": "Men Are Men",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/men_are_men.json"
+  },
+  {
+    "id": "s_mental",
+    "title": "Mental",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/mental.json"
+  },
+  {
+    "id": "s_mentiras",
+    "title": "Mentiras",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/mentiras.json"
+  },
+  {
+    "id": "s_mess_you_leave_behind",
+    "title": "The Mess You Leave Behind",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/mess_you_leave_behind.json"
+  },
+  {
+    "id": "s_message",
+    "title": "The Message",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/message.json"
+  },
+  {
+    "id": "s_messiah",
+    "title": "Messiah",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/messiah.json"
+  },
+  {
+    "id": "s_mi_vida_sin_ti",
+    "title": "Mi vida sin ti",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/mi_vida_sin_ti.json"
+  },
+  {
+    "id": "s_mighty_express",
+    "title": "Mighty Express",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/mighty_express.json"
+  },
+  {
+    "id": "s_mighty_ones",
+    "title": "The Mighty Ones",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/mighty_ones.json"
+  },
+  {
+    "id": "s_million_dollar_beach_house",
+    "title": "Million Dollar Beach House",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/million_dollar_beach_house.json"
+  },
+  {
+    "id": "s_mir_druzhba_zhvachka",
+    "title": "Mir! Druzhba! Zhvachka!",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/mir_druzhba_zhvachka.json"
+  },
+  {
+    "id": "s_mirage",
+    "title": "Mirage",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/mirage.json"
+  },
+  {
+    "id": "s_misha_portit_vsyo",
+    "title": "Misha portit vsyo",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/misha_portit_vsyo.json"
+  },
+  {
+    "id": "s_mismatched",
+    "title": "Mismatched",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/mismatched.json"
+  },
+  {
+    "id": "s_miss_scarlet",
+    "title": "Miss Scarlet",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/miss_scarlet.json"
+  },
+  {
+    "id": "s_missedet_bonbon",
+    "title": "Missedet Bonbon",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/missedet_bonbon.json"
+  },
+  {
+    "id": "s_missing_the_other_side",
+    "title": "Missing: The Other Side",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/missing_the_other_side.json"
+  },
+  {
+    "id": "s_misto_zlocinu_ostrava",
+    "title": "Místo zlocinu Ostrava",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/misto_zlocinu_ostrava.json"
+  },
+  {
+    "id": "s_miu404",
+    "title": "MIU404",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/miu404.json"
+  },
+  {
+    "id": "s_moah",
+    "title": "Moah",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/moah.json"
+  },
+  {
+    "id": "s_mole_undercover_in_north_korea",
+    "title": "The Mole – Undercover in North Korea",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/mole_undercover_in_north_korea.json"
+  },
+  {
+    "id": "s_moloch",
+    "title": "Moloch",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/moloch.json"
+  },
+  {
+    "id": "s_mom_has_an_affair",
+    "title": "Mom Has an Affair",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/mom_has_an_affair.json"
+  },
+  {
+    "id": "s_mon_fils",
+    "title": "Mon fils",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/mon_fils.json"
+  },
+  {
+    "id": "s_money_game",
+    "title": "Money Game",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/money_game.json"
+  },
+  {
+    "id": "s_more_than_friends",
+    "title": "More Than Friends",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/more_than_friends.json"
+  },
+  {
+    "id": "s_mother_to_be",
+    "title": "Mother to be",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/mother_to_be.json"
+  },
+  {
+    "id": "s_motherland_fort_salem",
+    "title": "Motherland: Fort Salem",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/motherland_fort_salem.json"
+  },
+  {
+    "id": "s_mothers",
+    "title": "Mothers",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/mothers.json"
+  },
+  {
+    "id": "s_motive",
+    "title": "The Motive",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/motive.json"
+  },
+  {
+    "id": "s_mousetrap_for_a_cat",
+    "title": "Mousetrap for a cat",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/mousetrap_for_a_cat.json"
+  },
+  {
+    "id": "s_move",
+    "title": "Move",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/move.json"
+  },
+  {
+    "id": "s_mr_queen",
+    "title": "Mr. Queen",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/mr_queen.json"
+  },
+  {
+    "id": "s_mrs_america",
+    "title": "Mrs. America",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/mrs_america.json"
+  },
+  {
+    "id": "s_muppets_now",
+    "title": "Muppets Now",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/muppets_now.json"
+  },
+  {
+    "id": "s_murder_247",
+    "title": "Murder 24/7",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/murder_247.json"
+  },
+  {
+    "id": "s_muse_season_1",
+    "title": "Muse Season 1",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/muse_season_1.json"
+  },
+  {
+    "id": "s_my_best_friends_story",
+    "title": "My Best Friend's Story",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/my_best_friends_story.json"
+  },
+  {
+    "id": "s_my_bilshe_nizh_ya",
+    "title": "My bilshe nizh Ya",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/my_bilshe_nizh_ya.json"
+  },
+  {
+    "id": "s_my_engineer",
+    "title": "My Engineer",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/my_engineer.json"
+  },
+  {
+    "id": "s_my_feet_are_killing_me",
+    "title": "My Feet Are Killing Me",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/my_feet_are_killing_me.json"
+  },
+  {
+    "id": "s_my_gear_and_your_gown",
+    "title": "My Gear and Your Gown",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/my_gear_and_your_gown.json"
+  },
+  {
+    "id": "s_my_holo_love",
+    "title": "My Holo Love",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/my_holo_love.json"
+  },
+  {
+    "id": "s_my_housekeeper_nagisasan",
+    "title": "My Housekeeper Nagisa-san",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/my_housekeeper_nagisasan.json"
+  },
+  {
+    "id": "s_my_roommate_is_a_detective",
+    "title": "My Roommate is a Detective",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/my_roommate_is_a_detective.json"
+  },
+  {
+    "id": "s_my_unfamiliar_family",
+    "title": "My Unfamiliar Family",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/my_unfamiliar_family.json"
+  },
+  {
+    "id": "s_mystery_lab",
+    "title": "Mystery Lab",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/mystery_lab.json"
+  },
+  {
+    "id": "s_mystic_popup_bar",
+    "title": "Mystic Pop-up Bar",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/mystic_popup_bar.json"
+  },
+  {
+    "id": "s_mythic_quest",
+    "title": "Mythic Quest",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/mythic_quest.json"
+  },
+  {
+    "id": "s_nadiya_bakes",
+    "title": "Nadiya Bakes",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/nadiya_bakes.json"
+  },
+  {
+    "id": "s_nailed_it_germany",
+    "title": "Nailed It! Germany",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/nailed_it_germany.json"
+  },
+  {
+    "id": "s_najla",
+    "title": "Najla",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/najla.json"
+  },
+  {
+    "id": "s_nand",
+    "title": "Nand",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/nand.json"
+  },
+  {
+    "id": "s_nannarasi_radhe",
+    "title": "Nannarasi Radhe",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/nannarasi_radhe.json"
+  },
+  {
+    "id": "s_nasdrovia",
+    "title": "Nasdrovia",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/nasdrovia.json"
+  },
+  {
+    "id": "s_nayden_zhiv",
+    "title": "Nayden Zhiv",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/nayden_zhiv.json"
+  },
+  {
+    "id": "s_nbc_nightly_news_with_tom_llamas",
+    "title": "NBC Nightly News with Tom Llamas",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/nbc_nightly_news_with_tom_llamas.json"
+  },
+  {
+    "id": "s_neboa",
+    "title": "Néboa",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/neboa.json"
+  },
+  {
+    "id": "s_neighbors_tv_series_2020",
+    "title": "Neighbors (TV Series 2020)",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/neighbors_tv_series_2020.json"
+  },
+  {
+    "id": "s_neighbourhood_guy",
+    "title": "Neighbourhood Guy",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/neighbourhood_guy.json"
+  },
+  {
+    "id": "s_netflix_afterparty",
+    "title": "The Netflix Afterparty",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/netflix_afterparty.json"
+  },
+  {
+    "id": "s_never_ending_neverland",
+    "title": "Never Ending Neverland",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/never_ending_neverland.json"
+  },
+  {
+    "id": "s_never_have_i_ever",
+    "title": "Never Have I Ever",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/never_have_i_ever.json"
+  },
+  {
+    "id": "s_new_gen_hug_baan_kerd",
+    "title": "New Gen Hug Baan Kerd",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/new_gen_hug_baan_kerd.json"
+  },
+  {
+    "id": "s_new_pope",
+    "title": "The New Pope",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/new_pope.json"
+  },
+  {
+    "id": "s_news_with_shepard_smith",
+    "title": "The News with Shepard Smith",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/news_with_shepard_smith.json"
+  },
+  {
+    "id": "s_next",
+    "title": "Next",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/next.json"
+  },
+  {
+    "id": "s_nezhnost",
+    "title": "Nezhnost",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/nezhnost.json"
+  },
+  {
+    "id": "s_nibiiro_no_hako_no_naka_de",
+    "title": "Nibiiro no Hako no Naka de",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/nibiiro_no_hako_no_naka_de.json"
+  },
+  {
+    "id": "s_nicht_dein_ernst",
+    "title": "Nicht dein Ernst",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/nicht_dein_ernst.json"
+  },
+  {
+    "id": "s_nick_news",
+    "title": "Nick News",
+    "start_year": 2020,
+    "end_year": 2015,
+    "path": "data/series/nick_news.json"
+  },
+  {
+    "id": "s_nickelodeons_unfiltered",
+    "title": "Nickelodeon's Unfiltered",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/nickelodeons_unfiltered.json"
+  },
+  {
+    "id": "s_nizi_project",
+    "title": "Nizi Project",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/nizi_project.json"
+  },
+  {
+    "id": "s_no_activity_belgium",
+    "title": "No Activity: Belgium",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/no_activity_belgium.json"
+  },
+  {
+    "id": "s_no_mans_land",
+    "title": "No Man's Land",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/no_mans_land.json"
+  },
+  {
+    "id": "s_no_matter_what",
+    "title": "No Matter What",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/no_matter_what.json"
+  },
+  {
+    "id": "s_nobody_knows",
+    "title": "Nobody Knows",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/nobody_knows.json"
+  },
+  {
+    "id": "s_normal",
+    "title": "Normal",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/normal.json"
+  },
+  {
+    "id": "s_normal_people",
+    "title": "Normal People",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/normal_people.json"
+  },
+  {
+    "id": "s_norskish",
+    "title": "Norsk-ish",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/norskish.json"
+  },
+  {
+    "id": "s_nothing_but_thirty",
+    "title": "Nothing But Thirty",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/nothing_but_thirty.json"
+  },
+  {
+    "id": "s_nottoolate_show_with_elmo",
+    "title": "The Not-Too-Late Show with Elmo",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/nottoolate_show_with_elmo.json"
+  },
+  {
+    "id": "s_nouba_2",
+    "title": "Nouba 2",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/nouba_2.json"
+  },
+  {
+    "id": "s_noughts_crosses",
+    "title": "Noughts + Crosses",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/noughts_crosses.json"
+  },
+  {
+    "id": "s_novoland_castle_in_the_sky_2",
+    "title": "Novoland: Castle in the Sky 2",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/novoland_castle_in_the_sky_2.json"
+  },
+  {
+    "id": "s_nurses",
+    "title": "Nurses",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/nurses.json"
+  },
+  {
+    "id": "s_o_maidens_in_your_savage_season",
+    "title": "O Maidens in Your Savage Season",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/o_maidens_in_your_savage_season.json"
+  },
+  {
+    "id": "s_ochoyan",
+    "title": "Ochoyan",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ochoyan.json"
+  },
+  {
+    "id": "s_october_faction",
+    "title": "October Faction",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/october_faction.json"
+  },
+  {
+    "id": "s_ofra",
+    "title": "Ofra",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/ofra.json"
+  },
+  {
+    "id": "s_oh_my_baby",
+    "title": "Oh My Baby",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/oh_my_baby.json"
+  },
+  {
+    "id": "s_oh_my_dad",
+    "title": "Oh My Dad!",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/oh_my_dad.json"
+  },
+  {
+    "id": "s_okayannye_dni",
+    "title": "Okayannye dni",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/okayannye_dni.json"
+  },
+  {
+    "id": "s_oktoberfest_beer_blood",
+    "title": "Oktoberfest: Beer & Blood",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/oktoberfest_beer_blood.json"
+  },
+  {
+    "id": "s_omniscient",
+    "title": "Omniscient",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/omniscient.json"
+  },
+  {
+    "id": "s_on_pointe",
+    "title": "On Pointe",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/on_pointe.json"
+  },
+  {
+    "id": "s_once_again",
+    "title": "Once Again",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/once_again.json"
+  },
+  {
+    "id": "s_one_lane_bridge",
+    "title": "One Lane Bridge",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/one_lane_bridge.json"
+  },
+  {
+    "id": "s_one_on_one",
+    "title": "One on One",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/one_on_one.json"
+  },
+  {
+    "id": "s_operacion_pacifico",
+    "title": "Operación pacífico",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/operacion_pacifico.json"
+  },
+  {
+    "id": "s_our_sisters_soulmate",
+    "title": "Our Sister's Soulmate",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/our_sisters_soulmate.json"
+  },
+  {
+    "id": "s_outback_ringer",
+    "title": "Outback Ringer",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/outback_ringer.json"
+  },
+  {
+    "id": "s_outbreak",
+    "title": "Outbreak",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/outbreak.json"
+  },
+  {
+    "id": "s_outer_banks",
+    "title": "Outer Banks",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/outer_banks.json"
+  },
+  {
+    "id": "s_outlier",
+    "title": "Outlier",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/outlier.json"
+  },
+  {
+    "id": "s_outmatched",
+    "title": "Outmatched",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/outmatched.json"
+  },
+  {
+    "id": "s_over_christmas",
+    "title": "Over Christmas",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/over_christmas.json"
+  },
+  {
+    "id": "s_over_water",
+    "title": "Over water",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/over_water.json"
+  },
+  {
+    "id": "s_oxygen_the_series",
+    "title": "Oxygen The Series",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/oxygen_the_series.json"
+  },
+  {
+    "id": "s_palace_of_serendipity",
+    "title": "Palace of Serendipity",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/palace_of_serendipity.json"
+  },
+  {
+    "id": "s_pan_tau",
+    "title": "Pan Tau",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/pan_tau.json"
+  },
+  {
+    "id": "s_pandemic_how_to_prevent_an_outbreak",
+    "title": "Pandemic: How to Prevent an Outbreak",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/pandemic_how_to_prevent_an_outbreak.json"
+  },
+  {
+    "id": "s_pappas_pojkar",
+    "title": "Pappas pojkar",
+    "start_year": 2019,
+    "end_year": 2021,
+    "path": "data/series/pappas_pojkar.json"
+  },
+  {
+    "id": "s_paranormal",
+    "title": "Paranormal",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/paranormal.json"
+  },
+  {
+    "id": "s_paras_vuosi_ikina",
+    "title": "Paras vuosi ikinä",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/paras_vuosi_ikina.json"
+  },
+  {
+    "id": "s_parents_committee",
+    "title": "Parents Committee",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/parents_committee.json"
+  },
+  {
+    "id": "s_parisian_agency_exclusive_properties",
+    "title": "The Parisian Agency: Exclusive Properties",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/parisian_agency_exclusive_properties.json"
+  },
+  {
+    "id": "s_parlement",
+    "title": "Parlement",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/parlement.json"
+  },
+  {
+    "id": "s_parousiaste",
+    "title": "Parousiaste!",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/parousiaste.json"
+  },
+  {
+    "id": "s_party_of_five",
+    "title": "Party of Five",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/party_of_five.json"
+  },
+  {
+    "id": "s_passeggeri_notturni",
+    "title": "Passeggeri notturni",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/passeggeri_notturni.json"
+  },
+  {
+    "id": "s_passengers_the_last_love",
+    "title": "Passengers. The Last Love",
+    "start_year": 2019,
+    "end_year": 2021,
+    "path": "data/series/passengers_the_last_love.json"
+  },
+  {
+    "id": "s_peacemaker",
+    "title": "Peacemaker",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/peacemaker.json"
+  },
+  {
+    "id": "s_penkinlammittajat",
+    "title": "Penkinlämmittäjät",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/penkinlammittajat.json"
+  },
+  {
+    "id": "s_penny_dreadful_city_of_angels",
+    "title": "Penny Dreadful: City of Angels",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/penny_dreadful_city_of_angels.json"
+  },
+  {
+    "id": "s_penthouse_war_in_life",
+    "title": "The Penthouse: War in Life",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/penthouse_war_in_life.json"
+  },
+  {
+    "id": "s_pepper_anything_for_a_like",
+    "title": "Pepper: Anything for a Like",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/pepper_anything_for_a_like.json"
+  },
+  {
+    "id": "s_perdida",
+    "title": "Perdida",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/perdida.json"
+  },
+  {
+    "id": "s_perfect_day_for_arsenide",
+    "title": "A Perfect Day for Arsenide",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/perfect_day_for_arsenide.json"
+  },
+  {
+    "id": "s_perfect_family",
+    "title": "A Perfect Family",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/perfect_family.json"
+  },
+  {
+    "id": "s_perry_mason",
+    "title": "Perry Mason",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/perry_mason.json"
+  },
+  {
+    "id": "s_persias_got_talent",
+    "title": "Persia's Got Talent",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/persias_got_talent.json"
+  },
+  {
+    "id": "s_pesantren_rock_n_dut",
+    "title": "Pesantren Rock n' Dut",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/pesantren_rock_n_dut.json"
+  },
+  {
+    "id": "s_peter_crouch_save_our_summer",
+    "title": "Peter Crouch: Save Our Summer",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/peter_crouch_save_our_summer.json"
+  },
+  {
+    "id": "s_petra",
+    "title": "Petra",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/petra.json"
+  },
+  {
+    "id": "s_phantom",
+    "title": "Phantom",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/phantom.json"
+  },
+  {
+    "id": "s_pharmacist",
+    "title": "The Pharmacist",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/pharmacist.json"
+  },
+  {
+    "id": "s_phoenix_2020",
+    "title": "Phoenix 2020",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/phoenix_2020.json"
+  },
+  {
+    "id": "s_pia_und_die_wilden_tiere",
+    "title": "Pia und die wilden Tiere",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/pia_und_die_wilden_tiere.json"
+  },
+  {
+    "id": "s_piece_of_your_mind",
+    "title": "A Piece of Your Mind",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/piece_of_your_mind.json"
+  },
+  {
+    "id": "s_plague",
+    "title": "Plague!",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/plague.json"
+  },
+  {
+    "id": "s_playbook",
+    "title": "The Playbook",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/playbook.json"
+  },
+  {
+    "id": "s_please_dont_date_him",
+    "title": "Please Don't Date Him",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/please_dont_date_him.json"
+  },
+  {
+    "id": "s_pognali",
+    "title": "Pognali",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/pognali.json"
+  },
+  {
+    "id": "s_pohjolan_laki",
+    "title": "Pohjolan laki",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/pohjolan_laki.json"
+  },
+  {
+    "id": "s_poka_stanitsa_spit",
+    "title": "Poka stanitsa spit",
+    "start_year": 2020,
+    "end_year": 2014,
+    "path": "data/series/poka_stanitsa_spit.json"
+  },
+  {
+    "id": "s_poldove_a_nemluvne",
+    "title": "Poldové a nemluvne",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/poldove_a_nemluvne.json"
+  },
+  {
+    "id": "s_police_heroine_lovepatrina",
+    "title": "Police × Heroine Lovepatrina!",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/police_heroine_lovepatrina.json"
+  },
+  {
+    "id": "s_policemans_daughter",
+    "title": "The Policeman’s Daughter",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/policemans_daughter.json"
+  },
+  {
+    "id": "s_pooch_perfect",
+    "title": "Pooch Perfect",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/pooch_perfect.json"
+  },
+  {
+    "id": "s_pops_loves_kawaii_stuff",
+    "title": "Pops Loves Kawaii Stuff",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/pops_loves_kawaii_stuff.json"
+  },
+  {
+    "id": "s_possessions",
+    "title": "Possessions",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/possessions.json"
+  },
+  {
+    "id": "s_post_mortem",
+    "title": "Post mortem",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/post_mortem.json"
+  },
+  {
+    "id": "s_power_book_ii_ghost",
+    "title": "Power Book II: Ghost",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/power_book_ii_ghost.json"
+  },
+  {
+    "id": "s_power_play_with_champions",
+    "title": "Power Play with Champions",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/power_play_with_champions.json"
+  },
+  {
+    "id": "s_prague_mysteries",
+    "title": "The Prague Mysteries",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/prague_mysteries.json"
+  },
+  {
+    "id": "s_prayers_in_the_emergency_room",
+    "title": "Prayers in the Emergency Room",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/prayers_in_the_emergency_room.json"
+  },
+  {
+    "id": "s_presumption_of_innocence",
+    "title": "Presumption of Innocence",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/presumption_of_innocence.json"
+  },
+  {
+    "id": "s_pretty_little_liars",
+    "title": "Pretty Little Liars",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/pretty_little_liars.json"
+  },
+  {
+    "id": "s_pride_revolution",
+    "title": "The Pride Revolution",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/pride_revolution.json"
+  },
+  {
+    "id": "s_princesas",
+    "title": "Princesas",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/princesas.json"
+  },
+  {
+    "id": "s_princess_for_a_prince",
+    "title": "Princess for a Prince",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/princess_for_a_prince.json"
+  },
+  {
+    "id": "s_private_lives",
+    "title": "Private Lives",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/private_lives.json"
+  },
+  {
+    "id": "s_project_anna_nikolaevna",
+    "title": "Project 'Anna Nikolaevna'",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/project_anna_nikolaevna.json"
+  },
+  {
+    "id": "s_promise",
+    "title": "The Promise",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/promise.json"
+  },
+  {
+    "id": "s_prop_culture",
+    "title": "Prop Culture",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/prop_culture.json"
+  },
+  {
+    "id": "s_psycho",
+    "title": "Psycho",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/psycho.json"
+  },
+  {
+    "id": "s_psychologist",
+    "title": "Psychologist",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/psychologist.json"
+  },
+  {
+    "id": "s_puckers",
+    "title": "Puckers",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/puckers.json"
+  },
+  {
+    "id": "s_puerta_7",
+    "title": "Puerta 7",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/puerta_7.json"
+  },
+  {
+    "id": "s_pvalley",
+    "title": "P-Valley",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/pvalley.json"
+  },
+  {
+    "id": "s_qadiat_al_omr",
+    "title": "Qadiat Al Omr",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/qadiat_al_omr.json"
+  },
+  {
+    "id": "s_qin_dynasty_epic",
+    "title": "Qin Dynasty Epic",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/qin_dynasty_epic.json"
+  },
+  {
+    "id": "s_queen_and_the_conqueror",
+    "title": "The Queen and the Conqueror",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/queen_and_the_conqueror.json"
+  },
+  {
+    "id": "s_queen_is_born",
+    "title": "A Queen Is Born",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/queen_is_born.json"
+  },
+  {
+    "id": "s_quer_o_destino",
+    "title": "Quer o Destino",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/quer_o_destino.json"
+  },
+  {
+    "id": "s_quererlo_todo",
+    "title": "Quererlo todo",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/quererlo_todo.json"
+  },
+  {
+    "id": "s_quest_to_heal",
+    "title": "A Quest to Heal",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/quest_to_heal.json"
+  },
+  {
+    "id": "s_radebank",
+    "title": "Rådebank",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/radebank.json"
+  },
+  {
+    "id": "s_ragnarok",
+    "title": "Ragnarok",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/ragnarok.json"
+  },
+  {
+    "id": "s_raised_by_wolves",
+    "title": "Raised by Wolves",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/raised_by_wolves.json"
+  },
+  {
+    "id": "s_ramo",
+    "title": "Ramo",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/ramo.json"
+  },
+  {
+    "id": "s_rapport_fran_2050",
+    "title": "Rapport från 2050",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/rapport_fran_2050.json"
+  },
+  {
+    "id": "s_ratched",
+    "title": "Ratched",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/ratched.json"
+  },
+  {
+    "id": "s_reality_z",
+    "title": "Reality Z",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/reality_z.json"
+  },
+  {
+    "id": "s_realta_agus_gaolta",
+    "title": "Réalta Agus Gaolta",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/realta_agus_gaolta.json"
+  },
+  {
+    "id": "s_recipe_of_life",
+    "title": "Recipe of Life",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/recipe_of_life.json"
+  },
+  {
+    "id": "s_reclaimed",
+    "title": "Reclaimed",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/reclaimed.json"
+  },
+  {
+    "id": "s_record_of_youth",
+    "title": "Record of Youth",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/record_of_youth.json"
+  },
+  {
+    "id": "s_records_of_the_southern_mist_house",
+    "title": "Records of the Southern Mist House",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/records_of_the_southern_mist_house.json"
+  },
+  {
+    "id": "s_red_light",
+    "title": "Red Light",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/red_light.json"
+  },
+  {
+    "id": "s_red_rooster_tv",
+    "title": "Red Rooster TV",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/red_rooster_tv.json"
+  },
+  {
+    "id": "s_redemption",
+    "title": "Redemption",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/redemption.json"
+  },
+  {
+    "id": "s_rehearsals",
+    "title": "Rehearsals",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/rehearsals.json"
+  },
+  {
+    "id": "s_reid_report",
+    "title": "The Reid Report",
+    "start_year": 2020,
+    "end_year": 2015,
+    "path": "data/series/reid_report.json"
+  },
+  {
+    "id": "s_restaurants_on_the_edge",
+    "title": "Restaurants on the Edge",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/restaurants_on_the_edge.json"
+  },
+  {
+    "id": "s_reunions",
+    "title": "Reunions",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/reunions.json"
+  },
+  {
+    "id": "s_revenge_prank",
+    "title": "Revenge Prank",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/revenge_prank.json"
+  },
+  {
+    "id": "s_rich_house_poor_house",
+    "title": "Rich House Poor House",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/rich_house_poor_house.json"
+  },
+  {
+    "id": "s_ridnia",
+    "title": "Ridnia",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ridnia.json"
+  },
+  {
+    "id": "s_right_stuff",
+    "title": "The Right Stuff",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/right_stuff.json"
+  },
+  {
+    "id": "s_riot_police",
+    "title": "Riot Police",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/riot_police.json"
+  },
+  {
+    "id": "s_ripper",
+    "title": "The Ripper",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/ripper.json"
+  },
+  {
+    "id": "s_roadkill",
+    "title": "Roadkill",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/roadkill.json"
+  },
+  {
+    "id": "s_rob_schmitt_tonight",
+    "title": "Rob Schmitt Tonight",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/rob_schmitt_tonight.json"
+  },
+  {
+    "id": "s_rocco_schiavone",
+    "title": "Rocco Schiavone",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/rocco_schiavone.json"
+  },
+  {
+    "id": "s_rocky_kwaterner",
+    "title": "Rocky Kwaterner",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/rocky_kwaterner.json"
+  },
+  {
+    "id": "s_rod_parsley_now",
+    "title": "Rod Parsley Now",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/rod_parsley_now.json"
+  },
+  {
+    "id": "s_romance",
+    "title": "Romance",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/romance.json"
+  },
+  {
+    "id": "s_romantic_blue_the_series",
+    "title": "Romantic Blue The Series",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/romantic_blue_the_series.json"
+  },
+  {
+    "id": "s_romulus",
+    "title": "Romulus",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/romulus.json"
+  },
+  {
+    "id": "s_room_2806_the_accusation",
+    "title": "Room 2806: The Accusation",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/room_2806_the_accusation.json"
+  },
+  {
+    "id": "s_royal_secret_agent",
+    "title": "Royal Secret Agent",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/royal_secret_agent.json"
+  },
+  {
+    "id": "s_rubi",
+    "title": "Rubí",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/rubi.json"
+  },
+  {
+    "id": "s_rugal",
+    "title": "Rugal",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/rugal.json"
+  },
+  {
+    "id": "s_run",
+    "title": "Run",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/run.json"
+  },
+  {
+    "id": "s_run_for_young",
+    "title": "Run for Young",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/run_for_young.json"
+  },
+  {
+    "id": "s_run_on",
+    "title": "Run On",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/run_on.json"
+  },
+  {
+    "id": "s_ruthless",
+    "title": "Ruthless",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ruthless.json"
+  },
+  {
+    "id": "s_saga",
+    "title": "Saga",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/saga.json"
+  },
+  {
+    "id": "s_salamate_abou_lbanat",
+    "title": "Salamate Abou Lbanat",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/salamate_abou_lbanat.json"
+  },
+  {
+    "id": "s_salisbury_poisonings",
+    "title": "The Salisbury Poisonings",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/salisbury_poisonings.json"
+  },
+  {
+    "id": "s_salvese_quem_puder",
+    "title": "Salve-se Quem Puder",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/salvese_quem_puder.json"
+  },
+  {
+    "id": "s_sanyukt",
+    "title": "Sanyukt",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/sanyukt.json"
+  },
+  {
+    "id": "s_saved_by_the_bell",
+    "title": "Saved by the Bell",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/saved_by_the_bell.json"
+  },
+  {
+    "id": "s_say_i_do",
+    "title": "Say I Do",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/say_i_do.json"
+  },
+  {
+    "id": "s_school_nurse_files",
+    "title": "The School Nurse Files",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/school_nurse_files.json"
+  },
+  {
+    "id": "s_schule_furs_leben",
+    "title": "Schule fürs Leben",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/schule_furs_leben.json"
+  },
+  {
+    "id": "s_sea_beyond",
+    "title": "The Sea Beyond",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/sea_beyond.json"
+  },
+  {
+    "id": "s_search",
+    "title": "Search",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/search.json"
+  },
+  {
+    "id": "s_secret_forest_2",
+    "title": "Secret Forest 2",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/secret_forest_2.json"
+  },
+  {
+    "id": "s_secrets_of_the_zoo_down_under",
+    "title": "Secrets of the Zoo: Down Under",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/secrets_of_the_zoo_down_under.json"
+  },
+  {
+    "id": "s_secrets_she_keeps",
+    "title": "The Secrets She Keeps",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/secrets_she_keeps.json"
+  },
+  {
+    "id": "s_segitseg_itthon_vagyok",
+    "title": "Segítség! Itthon vagyok!",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/segitseg_itthon_vagyok.json"
+  },
+  {
+    "id": "s_selena_the_series",
+    "title": "Selena: The Series",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/selena_the_series.json"
+  },
+  {
+    "id": "s_self_made_inspired_by_the_life_of_madam_c_j_walker",
+    "title": "Self Made: Inspired by the Life of Madam C. J. Walker",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/self_made_inspired_by_the_life_of_madam_c_j_walker.json"
+  },
+  {
+    "id": "s_separadas",
+    "title": "Separadas",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/separadas.json"
+  },
+  {
+    "id": "s_seputih_cinta_semerah_dusta",
+    "title": "Seputih Cinta Semerah Dusta",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/seputih_cinta_semerah_dusta.json"
+  },
+  {
+    "id": "s_sex_explained",
+    "title": "Sex, Explained",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/sex_explained.json"
+  },
+  {
+    "id": "s_sf8",
+    "title": "SF8",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/sf8.json"
+  },
+  {
+    "id": "s_she",
+    "title": "She",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/she.json"
+  },
+  {
+    "id": "s_she_knows_everything",
+    "title": "She Knows Everything",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/she_knows_everything.json"
+  },
+  {
+    "id": "s_sherlock_holmes_in_russia",
+    "title": "Sherlock Holmes in Russia",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/sherlock_holmes_in_russia.json"
+  },
+  {
+    "id": "s_shichinin_no_hisho",
+    "title": "Shichinin no hisho",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/shichinin_no_hisho.json"
+  },
+  {
+    "id": "s_shipper",
+    "title": "The Shipper",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/shipper.json"
+  },
+  {
+    "id": "s_side_hustle",
+    "title": "Side Hustle",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/side_hustle.json"
+  },
+  {
+    "id": "s_sigurd_cant_get_laid",
+    "title": "Sigurd Can't Get Laid",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/sigurd_cant_get_laid.json"
+  },
+  {
+    "id": "s_sing_meinen_song_das_schweizer_tauschkonzert",
+    "title": "Sing meinen Song – Das Schweizer Tauschkonzert",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/sing_meinen_song_das_schweizer_tauschkonzert.json"
+  },
+  {
+    "id": "s_sing_on",
+    "title": "Sing On!",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/sing_on.json"
+  },
+  {
+    "id": "s_singapore_grip",
+    "title": "The Singapore Grip",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/singapore_grip.json"
+  },
+  {
+    "id": "s_six_empty_seats",
+    "title": "Six Empty Seats",
+    "start_year": 2019,
+    "end_year": 2020,
+    "path": "data/series/six_empty_seats.json"
+  },
+  {
+    "id": "s_sixth_sense",
+    "title": "Sixth Sense",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/sixth_sense.json"
+  },
+  {
+    "id": "s_skoro_na_mizine",
+    "title": "Skoro Na Mizine",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/skoro_na_mizine.json"
+  },
+  {
+    "id": "s_slborn",
+    "title": "Sløborn",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/slborn.json"
+  },
+  {
+    "id": "s_slid",
+    "title": "Slid",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/slid.json"
+  },
+  {
+    "id": "s_slunecna",
+    "title": "Slunecná",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/slunecna.json"
+  },
+  {
+    "id": "s_snowpiercer",
+    "title": "Snowpiercer",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/snowpiercer.json"
+  },
+  {
+    "id": "s_so_much_in_love",
+    "title": "So Much in Love",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/so_much_in_love.json"
+  },
+  {
+    "id": "s_social_distance",
+    "title": "Social Distance",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/social_distance.json"
+  },
+  {
+    "id": "s_social_family",
+    "title": "Social Family",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/social_family.json"
+  },
+  {
+    "id": "s_sol_yanim",
+    "title": "Sol Yanim",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/sol_yanim.json"
+  },
+  {
+    "id": "s_someone_has_to_die",
+    "title": "Someone Has To Die",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/someone_has_to_die.json"
+  },
+  {
+    "id": "s_something_just_like_this",
+    "title": "Something Just Like This",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/something_just_like_this.json"
+  },
+  {
+    "id": "s_somethings_wrong_with_us",
+    "title": "Something's Wrong with Us",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/somethings_wrong_with_us.json"
+  },
+  {
+    "id": "s_sommerdahl",
+    "title": "Sommerdahl",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/sommerdahl.json"
+  },
+  {
+    "id": "s_song_exploder",
+    "title": "Song Exploder",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/song_exploder.json"
+  },
+  {
+    "id": "s_sonhadores",
+    "title": "Sonhadores",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/sonhadores.json"
+  },
+  {
+    "id": "s_soul_mechanic",
+    "title": "Soul Mechanic",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/soul_mechanic.json"
+  },
+  {
+    "id": "s_soulmates",
+    "title": "Soulmates",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/soulmates.json"
+  },
+  {
+    "id": "s_south_wind",
+    "title": "South Wind",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/south_wind.json"
+  },
+  {
+    "id": "s_southern_survival",
+    "title": "Southern Survival",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/southern_survival.json"
+  },
+  {
+    "id": "s_space_force",
+    "title": "Space Force",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/space_force.json"
+  },
+  {
+    "id": "s_spectros",
+    "title": "Spectros",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/spectros.json"
+  },
+  {
+    "id": "s_spides",
+    "title": "Spides",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/spides.json"
+  },
+  {
+    "id": "s_spies_who_loved_me",
+    "title": "The Spies Who Loved Me",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/spies_who_loved_me.json"
+  },
+  {
+    "id": "s_spinning_out",
+    "title": "Spinning Out",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/spinning_out.json"
+  },
+  {
+    "id": "s_spitting_image",
+    "title": "Spitting Image",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/spitting_image.json"
+  },
+  {
+    "id": "s_spy_city",
+    "title": "Spy City",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/spy_city.json"
+  },
+  {
+    "id": "s_spyders",
+    "title": "Spyders",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/spyders.json"
+  },
+  {
+    "id": "s_staged",
+    "title": "Staged",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/staged.json"
+  },
+  {
+    "id": "s_stalk",
+    "title": "Stalk",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/stalk.json"
+  },
+  {
+    "id": "s_star_trek_picard",
+    "title": "Star Trek: Picard",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/star_trek_picard.json"
+  },
+  {
+    "id": "s_star_wars_jedi_temple_challenge",
+    "title": "Star Wars: Jedi Temple Challenge",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/star_wars_jedi_temple_challenge.json"
+  },
+  {
+    "id": "s_stardust",
+    "title": "Stardust",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/stardust.json"
+  },
+  {
+    "id": "s_stargirl",
+    "title": "Stargirl",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/stargirl.json"
+  },
+  {
+    "id": "s_startup",
+    "title": "Start-Up",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/startup.json"
+  },
+  {
+    "id": "s_stateless",
+    "title": "Stateless",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/stateless.json"
+  },
+  {
+    "id": "s_steve_on_watch",
+    "title": "Steve on Watch",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/steve_on_watch.json"
+  },
+  {
+    "id": "s_still_2gether",
+    "title": "Still 2gether",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/still_2gether.json"
+  },
+  {
+    "id": "s_still_not_enough",
+    "title": "Still Not Enough",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/still_not_enough.json"
+  },
+  {
+    "id": "s_street_food_latin_america",
+    "title": "Street Food: Latin America",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/street_food_latin_america.json"
+  },
+  {
+    "id": "s_subete_a_mi_moto",
+    "title": "Súbete a mi moto",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/subete_a_mi_moto.json"
+  },
+  {
+    "id": "s_submersos",
+    "title": "Submersos",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/submersos.json"
+  },
+  {
+    "id": "s_summertime",
+    "title": "Summertime",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/summertime.json"
+  },
+  {
+    "id": "s_sunday_kada",
+    "title": "Sunday 'Kada",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/sunday_kada.json"
+  },
+  {
+    "id": "s_sunny_wer_bist_du_wirklich",
+    "title": "Sunny - Wer bist du wirklich?",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/sunny_wer_bist_du_wirklich.json"
+  },
+  {
+    "id": "s_super_fan",
+    "title": "Super Fan",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/super_fan.json"
+  },
+  {
+    "id": "s_super_radical_gag_family",
+    "title": "Super Radical Gag Family",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/super_radical_gag_family.json"
+  },
+  {
+    "id": "s_surgeons_cut",
+    "title": "The Surgeon's Cut",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/surgeons_cut.json"
+  },
+  {
+    "id": "s_sweet_home",
+    "title": "Sweet Home",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/sweet_home.json"
+  },
+  {
+    "id": "s_sweet_magnolias",
+    "title": "Sweet Magnolias",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/sweet_magnolias.json"
+  },
+  {
+    "id": "s_sweet_munchies",
+    "title": "Sweet Munchies",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/sweet_munchies.json"
+  },
+  {
+    "id": "s_ta_kalytera_mas_hronia",
+    "title": "Ta Kalytera mas Hronia",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/ta_kalytera_mas_hronia.json"
+  },
+  {
+    "id": "s_taj_mahal_1989",
+    "title": "Taj Mahal 1989",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/taj_mahal_1989.json"
+  },
+  {
+    "id": "s_tale_of_the_nine_tailed",
+    "title": "Tale of the Nine Tailed",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/tale_of_the_nine_tailed.json"
+  },
+  {
+    "id": "s_tales_from_the_loop",
+    "title": "Tales from the Loop",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/tales_from_the_loop.json"
+  },
+  {
+    "id": "s_taronga_whos_who_in_the_zoo",
+    "title": "Taronga: Who's Who in the Zoo",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/taronga_whos_who_in_the_zoo.json"
+  },
+  {
+    "id": "s_taste_the_nation_with_padma_lakshmi",
+    "title": "Taste the Nation with Padma Lakshmi",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/taste_the_nation_with_padma_lakshmi.json"
+  },
+  {
+    "id": "s_tazawwaj_ma_qalha_liyya",
+    "title": "Tazawwaj Ma Qalha Liyya",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/tazawwaj_ma_qalha_liyya.json"
+  },
+  {
+    "id": "s_te_doy_la_vida",
+    "title": "Te doy la vida",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/te_doy_la_vida.json"
+  },
+  {
+    "id": "s_te_volvere_a_encontrar",
+    "title": "Te Volveré a Encontrar",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/te_volvere_a_encontrar.json"
+  },
+  {
+    "id": "s_teacher",
+    "title": "A Teacher",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/teacher.json"
+  },
+  {
+    "id": "s_team_bulldog_offduty_investigation",
+    "title": "Team Bulldog: Off-Duty Investigation",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/team_bulldog_offduty_investigation.json"
+  },
+  {
+    "id": "s_ted_lasso",
+    "title": "Ted Lasso",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/ted_lasso.json"
+  },
+  {
+    "id": "s_teenage_bounty_hunters",
+    "title": "Teenage Bounty Hunters",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/teenage_bounty_hunters.json"
+  },
+  {
+    "id": "s_tehran",
+    "title": "Tehran",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/tehran.json"
+  },
+  {
+    "id": "s_tell_me_what_you_saw",
+    "title": "Tell Me What You Saw",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/tell_me_what_you_saw.json"
+  },
+  {
+    "id": "s_tell_me_who_i_am",
+    "title": "Tell Me Who I Am",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/tell_me_who_i_am.json"
+  },
+  {
+    "id": "s_territoriya",
+    "title": "Territoriya",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/territoriya.json"
+  },
+  {
+    "id": "s_tharntype_2_7_years_of_love",
+    "title": "TharnType 2: 7 Years of Love",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/tharntype_2_7_years_of_love.json"
+  },
+  {
+    "id": "s_thats_joey",
+    "title": "That's Joey",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/thats_joey.json"
+  },
+  {
+    "id": "s_there_will_be_people",
+    "title": "There will be people",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/there_will_be_people.json"
+  },
+  {
+    "id": "s_they_were_ten",
+    "title": "They Were Ten",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/they_were_ten.json"
+  },
+  {
+    "id": "s_thieves_of_the_wood",
+    "title": "Thieves of the Wood",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/thieves_of_the_wood.json"
+  },
+  {
+    "id": "s_thin_ice",
+    "title": "Thin Ice",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/thin_ice.json"
+  },
+  {
+    "id": "s_think_big",
+    "title": "Think Big!",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/think_big.json"
+  },
+  {
+    "id": "s_thonhon_chonlathee",
+    "title": "Thonhon Chonlathee",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/thonhon_chonlathee.json"
+  },
+  {
+    "id": "s_three_busy_debras",
+    "title": "Three Busy Debras",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/three_busy_debras.json"
+  },
+  {
+    "id": "s_thus_spoke_kishibe_rohan",
+    "title": "Thus Spoke Kishibe Rohan",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/thus_spoke_kishibe_rohan.json"
+  },
+  {
+    "id": "s_tiger_king_murder_mayhem_and_madness",
+    "title": "Tiger King: Murder, Mayhem and Madness",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/tiger_king_murder_mayhem_and_madness.json"
+  },
+  {
+    "id": "s_timoucha",
+    "title": "Timoucha",
+    "start_year": 2020,
+    "end_year": 2025,
+    "path": "data/series/timoucha.json"
+  },
+  {
+    "id": "s_tiny_creatures",
+    "title": "Tiny Creatures",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/tiny_creatures.json"
+  },
+  {
+    "id": "s_tiny_pretty_things",
+    "title": "Tiny Pretty Things",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/tiny_pretty_things.json"
+  },
+  {
+    "id": "s_titoudao_inspired_by_the_true_story_of_a_wayang_star",
+    "title": "Titoudao: Inspired by the True Story of a Wayang Star",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/titoudao_inspired_by_the_true_story_of_a_wayang_star.json"
+  },
+  {
+    "id": "s_to_catch_a_beautician",
+    "title": "To Catch A Beautician",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/to_catch_a_beautician.json"
+  },
+  {
+    "id": "s_to_catch_the_kaidash",
+    "title": "To Catch the Kaidash",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/to_catch_the_kaidash.json"
+  },
+  {
+    "id": "s_toca_life_stories",
+    "title": "Toca Life Stories",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/toca_life_stories.json"
+  },
+  {
+    "id": "s_tommy",
+    "title": "Tommy",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/tommy.json"
+  },
+  {
+    "id": "s_tomorrow_x_together",
+    "title": "週活!TOMORROW X TOGETHER",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/tomorrow_x_together.json"
+  },
+  {
+    "id": "s_top_dog",
+    "title": "Top Dog",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/top_dog.json"
+  },
+  {
+    "id": "s_toshi_no_sakon",
+    "title": "Toshi no Sakon",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/toshi_no_sakon.json"
+  },
+  {
+    "id": "s_touch",
+    "title": "Touch",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/touch.json"
+  },
+  {
+    "id": "s_tough_as_nails",
+    "title": "Tough as Nails",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/tough_as_nails.json"
+  },
+  {
+    "id": "s_train",
+    "title": "Train",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/train.json"
+  },
+  {
+    "id": "s_transplant",
+    "title": "Transplant",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/transplant.json"
+  },
+  {
+    "id": "s_trial_4",
+    "title": "Trial 4",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/trial_4.json"
+  },
+  {
+    "id": "s_trial_by_media",
+    "title": "Trial by Media",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/trial_by_media.json"
+  },
+  {
+    "id": "s_tribal",
+    "title": "Tribal",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/tribal.json"
+  },
+  {
+    "id": "s_trigger",
+    "title": "Trigger",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/trigger.json"
+  },
+  {
+    "id": "s_true_beauty",
+    "title": "True Beauty",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/true_beauty.json"
+  },
+  {
+    "id": "s_true_life_crime",
+    "title": "True Life Crime",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/true_life_crime.json"
+  },
+  {
+    "id": "s_truth_seekers",
+    "title": "Truth Seekers",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/truth_seekers.json"
+  },
+  {
+    "id": "s_trying",
+    "title": "Trying",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/trying.json"
+  },
+  {
+    "id": "s_tsunami",
+    "title": "Tsunami",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/tsunami.json"
+  },
+  {
+    "id": "s_tu_cara_me_suena",
+    "title": "Tu cara me suena",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/tu_cara_me_suena.json"
+  },
+  {
+    "id": "s_turn_left_turn_right",
+    "title": "Turn Left Turn Right",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/turn_left_turn_right.json"
+  },
+  {
+    "id": "s_twenties",
+    "title": "Twenties",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/twenties.json"
+  },
+  {
+    "id": "s_twenty_again",
+    "title": "Twenty Again",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/twenty_again.json"
+  },
+  {
+    "id": "s_twenty_your_life_on",
+    "title": "Twenty Your Life On",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/twenty_your_life_on.json"
+  },
+  {
+    "id": "s_two_leaders",
+    "title": "The Two Leaders",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/two_leaders.json"
+  },
+  {
+    "id": "s_two_weeks_to_live",
+    "title": "Two Weeks to Live",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/two_weeks_to_live.json"
+  },
+  {
+    "id": "s_twogether",
+    "title": "Twogether",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/twogether.json"
+  },
+  {
+    "id": "s_tyler_perrys_assisted_living",
+    "title": "Tyler Perry's Assisted Living",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/tyler_perrys_assisted_living.json"
+  },
+  {
+    "id": "s_tyler_perrys_young_dylan",
+    "title": "Tyler Perry's Young Dylan",
+    "start_year": 2020,
+    "end_year": 2025,
+    "path": "data/series/tyler_perrys_young_dylan.json"
+  },
+  {
+    "id": "s_u_motherbaker",
+    "title": "U Motherbaker",
+    "start_year": 2020,
+    "end_year": 2024,
+    "path": "data/series/u_motherbaker.json"
+  },
+  {
+    "id": "s_ultimate_fighter_latin_america",
+    "title": "The Ultimate Fighter: Latin America",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/ultimate_fighter_latin_america.json"
+  },
+  {
+    "id": "s_ultimate_tag",
+    "title": "Ultimate Tag",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/ultimate_tag.json"
+  },
+  {
+    "id": "s_unabomber_in_his_own_words",
+    "title": "Unabomber: In His Own Words",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/unabomber_in_his_own_words.json"
+  },
+  {
+    "id": "s_uncanny_counter",
+    "title": "The Uncanny Counter",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/uncanny_counter.json"
+  },
+  {
+    "id": "s_underclass",
+    "title": "The Underclass",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/underclass.json"
+  },
+  {
+    "id": "s_une_belle_histoire",
+    "title": "Une Belle histoire",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/une_belle_histoire.json"
+  },
+  {
+    "id": "s_une_vie_de_reve",
+    "title": "Une vie de rêve",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/une_vie_de_reve.json"
+  },
+  {
+    "id": "s_united_we_fall",
+    "title": "United We Fall",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/united_we_fall.json"
+  },
+  {
+    "id": "s_unleashed",
+    "title": "Unleashed",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/unleashed.json"
+  },
+  {
+    "id": "s_unprecedented",
+    "title": "Unprecedented",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/unprecedented.json"
+  },
+  {
+    "id": "s_unprincipled",
+    "title": "Unprincipled",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/unprincipled.json"
+  },
+  {
+    "id": "s_unremarkable_juanquini",
+    "title": "The Unremarkable Juanquini",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/unremarkable_juanquini.json"
+  },
+  {
+    "id": "s_unseen",
+    "title": "Unseen",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/unseen.json"
+  },
+  {
+    "id": "s_unser_lied_fur_rotterdam",
+    "title": "Unser Lied für Rotterdam",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/unser_lied_fur_rotterdam.json"
+  },
+  {
+    "id": "s_unsere_wunderbaren_jahre",
+    "title": "Unsere wunderbaren Jahre",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/unsere_wunderbaren_jahre.json"
+  },
+  {
+    "id": "s_unsolved_mysteries",
+    "title": "Unsolved Mysteries",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/unsolved_mysteries.json"
+  },
+  {
+    "id": "s_unsung_cinderella",
+    "title": "Unsung Cinderella",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/unsung_cinderella.json"
+  },
+  {
+    "id": "s_unter_freunden_stirbt_man_nicht",
+    "title": "Unter Freunden stirbt man nicht",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/unter_freunden_stirbt_man_nicht.json"
+  },
+  {
+    "id": "s_until_dawn",
+    "title": "Until Dawn",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/until_dawn.json"
+  },
+  {
+    "id": "s_unwell",
+    "title": "(Un)well",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/unwell.json"
+  },
+  {
+    "id": "s_upload",
+    "title": "Upload",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/upload.json"
+  },
+  {
+    "id": "s_utopia",
+    "title": "Utopia",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/utopia.json"
+  },
+  {
+    "id": "s_uyans_buyuk_selcuklu",
+    "title": "Uyanış: Büyük Selçuklu",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/uyans_buyuk_selcuklu.json"
+  },
+  {
+    "id": "s_v_imenu_ljudstva",
+    "title": "V imenu ljudstva",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/v_imenu_ljudstva.json"
+  },
+  {
+    "id": "s_valentino",
+    "title": "Valentino",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/valentino.json"
+  },
+  {
+    "id": "s_valeria",
+    "title": "Valeria",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/valeria.json"
+  },
+  {
+    "id": "s_valide",
+    "title": "Validé",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/valide.json"
+  },
+  {
+    "id": "s_valkommen_till_koping",
+    "title": "Välkommen till Köping",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/valkommen_till_koping.json"
+  },
+  {
+    "id": "s_valley_of_tears",
+    "title": "Valley of Tears",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/valley_of_tears.json"
+  },
+  {
+    "id": "s_vamos_juan",
+    "title": "Vamos Juan",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/vamos_juan.json"
+  },
+  {
+    "id": "s_vampires",
+    "title": "Vampires",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/vampires.json"
+  },
+  {
+    "id": "s_van_der_valk",
+    "title": "Van der Valk",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/van_der_valk.json"
+  },
+  {
+    "id": "s_vencer_el_desamor",
+    "title": "Vencer el desamor",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/vencer_el_desamor.json"
+  },
+  {
+    "id": "s_vencer_el_miedo",
+    "title": "Vencer el miedo",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/vencer_el_miedo.json"
+  },
+  {
+    "id": "s_verbotene_liebe_next_generation",
+    "title": "Verbotene Liebe – Next Generation",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/verbotene_liebe_next_generation.json"
+  },
+  {
+    "id": "s_vice_2020_tv_series",
+    "title": "VICE (2020 TV series)",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/vice_2020_tv_series.json"
+  },
+  {
+    "id": "s_victims_game",
+    "title": "The Victims' Game",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/victims_game.json"
+  },
+  {
+    "id": "s_vis_a_vis_el_oasis",
+    "title": "Vis a vis: El oasis",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/vis_a_vis_el_oasis.json"
+  },
+  {
+    "id": "s_vivi_e_lascia_vivere",
+    "title": "Vivi e lascia vivere",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/vivi_e_lascia_vivere.json"
+  },
+  {
+    "id": "s_voices_of_fire",
+    "title": "Voices of Fire",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/voices_of_fire.json"
+  },
+  {
+    "id": "s_vow",
+    "title": "The Vow",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/vow.json"
+  },
+  {
+    "id": "s_vyklyk",
+    "title": "Vyklyk",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/vyklyk.json"
+  },
+  {
+    "id": "s_wacko_at_law",
+    "title": "Wacko At Law",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/wacko_at_law.json"
+  },
+  {
+    "id": "s_wagner_method",
+    "title": "The Wagner Method",
+    "start_year": 2019,
+    "end_year": 2025,
+    "path": "data/series/wagner_method.json"
+  },
+  {
+    "id": "s_waka_tammy_what_the_flocka",
+    "title": "Waka & Tammy: What The Flocka",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/waka_tammy_what_the_flocka.json"
+  },
+  {
+    "id": "s_waliaun_siarad",
+    "title": "Waliau'n Siarad",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/waliaun_siarad.json"
+  },
+  {
+    "id": "s_walking_dead_world_beyond",
+    "title": "The Walking Dead: World Beyond",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/walking_dead_world_beyond.json"
+  },
+  {
+    "id": "s_wall_of_chefs",
+    "title": "Wall of Chefs",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/wall_of_chefs.json"
+  },
+  {
+    "id": "s_wapo_berlin",
+    "title": "WaPo Berlin",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/wapo_berlin.json"
+  },
+  {
+    "id": "s_war_with_no_name",
+    "title": "War with No Name",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/war_with_no_name.json"
+  },
+  {
+    "id": "s_warmed_up_love",
+    "title": "A Warmed Up Love",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/warmed_up_love.json"
+  },
+  {
+    "id": "s_warrior_nun",
+    "title": "Warrior Nun",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/warrior_nun.json"
+  },
+  {
+    "id": "s_warten_aufn_bus",
+    "title": "Warten auf’n Bus",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/warten_aufn_bus.json"
+  },
+  {
+    "id": "s_was_it_love",
+    "title": "Was It Love?",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/was_it_love.json"
+  },
+  {
+    "id": "s_wassup_man_go",
+    "title": "Wassup Man GO!",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/wassup_man_go.json"
+  },
+  {
+    "id": "s_wasteful_days_of_high_school_girls",
+    "title": "Wasteful Days of High School Girls",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/wasteful_days_of_high_school_girls.json"
+  },
+  {
+    "id": "s_watch",
+    "title": "The Watch",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/watch.json"
+  },
+  {
+    "id": "s_wayne_bradys_comedy_iq",
+    "title": "Wayne Brady's Comedy IQ",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/wayne_bradys_comedy_iq.json"
+  },
+  {
+    "id": "s_we_are_five",
+    "title": "We Are Five",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/we_are_five.json"
+  },
+  {
+    "id": "s_we_are_the_champions",
+    "title": "We Are the Champions",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/we_are_the_champions.json"
+  },
+  {
+    "id": "s_we_are_the_littles",
+    "title": "We are the Littles",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/we_are_the_littles.json"
+  },
+  {
+    "id": "s_we_got_this",
+    "title": "We Got This",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/we_got_this.json"
+  },
+  {
+    "id": "s_wedding_planners",
+    "title": "The Wedding Planners",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/wedding_planners.json"
+  },
+  {
+    "id": "s_week_with_joshua_johnson",
+    "title": "The Week with Joshua Johnson",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/week_with_joshua_johnson.json"
+  },
+  {
+    "id": "s_weekends_with_jonathan_capehart",
+    "title": "Weekends with Jonathan Capehart",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/weekends_with_jonathan_capehart.json"
+  },
+  {
+    "id": "s_welcome",
+    "title": "Welcome",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/welcome.json"
+  },
+  {
+    "id": "s_welive",
+    "title": "WeLive",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/welive.json"
+  },
+  {
+    "id": "s_were_here",
+    "title": "We're Here",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/were_here.json"
+  },
+  {
+    "id": "s_what_the_love_with_karan_johar",
+    "title": "What the Love! with Karan Johar",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/what_the_love_with_karan_johar.json"
+  },
+  {
+    "id": "s_wheel",
+    "title": "The Wheel",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/wheel.json"
+  },
+  {
+    "id": "s_when_my_love_blooms",
+    "title": "When My Love Blooms",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/when_my_love_blooms.json"
+  },
+  {
+    "id": "s_when_the_dust_settles",
+    "title": "When the Dust Settles",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/when_the_dust_settles.json"
+  },
+  {
+    "id": "s_when_the_streetlights_go_on",
+    "title": "When the Streetlights Go On",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/when_the_streetlights_go_on.json"
+  },
+  {
+    "id": "s_when_the_weather_is_fine",
+    "title": "When the Weather Is Fine",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/when_the_weather_is_fine.json"
+  },
+  {
+    "id": "s_where_your_eyes_linger",
+    "title": "Where Your Eyes Linger",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/where_your_eyes_linger.json"
+  },
+  {
+    "id": "s_while_the_rest_of_us_die",
+    "title": "While the Rest of Us Die",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/while_the_rest_of_us_die.json"
+  },
+  {
+    "id": "s_whispers",
+    "title": "Whispers",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/whispers.json"
+  },
+  {
+    "id": "s_white_lines",
+    "title": "White Lines",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/white_lines.json"
+  },
+  {
+    "id": "s_white_shaman",
+    "title": "The White Shaman",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/white_shaman.json"
+  },
+  {
+    "id": "s_white_wall",
+    "title": "White Wall",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/white_wall.json"
+  },
+  {
+    "id": "s_who_to_choose",
+    "title": "Who to Choose",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/who_to_choose.json"
+  },
+  {
+    "id": "s_whose_vote_counts_explained",
+    "title": "Whose Vote Counts, Explained",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/whose_vote_counts_explained.json"
+  },
+  {
+    "id": "s_why_r_u",
+    "title": "Why R U?",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/why_r_u.json"
+  },
+  {
+    "id": "s_wilds",
+    "title": "The Wilds",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/wilds.json"
+  },
+  {
+    "id": "s_win_jaimes_heart",
+    "title": "Win Jaime's Heart",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/win_jaimes_heart.json"
+  },
+  {
+    "id": "s_win_the_wilderness_alaska",
+    "title": "Win the Wilderness: Alaska",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/win_the_wilderness_alaska.json"
+  },
+  {
+    "id": "s_wischen_ist_macht",
+    "title": "Wischen ist Macht",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/wischen_ist_macht.json"
+  },
+  {
+    "id": "s_wish_you",
+    "title": "Wish You",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/wish_you.json"
+  },
+  {
+    "id": "s_wizard_of_paws",
+    "title": "The Wizard of Paws",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/wizard_of_paws.json"
+  },
+  {
+    "id": "s_woke",
+    "title": "Woke",
+    "start_year": 2020,
+    "end_year": 2022,
+    "path": "data/series/woke.json"
+  },
+  {
+    "id": "s_wolf",
+    "title": "The Wolf",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/wolf.json"
+  },
+  {
+    "id": "s_wonderful_world",
+    "title": "The Wonderful World",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/wonderful_world.json"
+  },
+  {
+    "id": "s_woods",
+    "title": "The Woods",
+    "start_year": 2019,
+    "end_year": 2019,
+    "path": "data/series/woods.json"
+  },
+  {
+    "id": "s_word_party_songs",
+    "title": "Word Party Songs",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/word_party_songs.json"
+  },
+  {
+    "id": "s_world_of_the_married",
+    "title": "The World of the Married",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/world_of_the_married.json"
+  },
+  {
+    "id": "s_worlds_most_wanted",
+    "title": "World's Most Wanted",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/worlds_most_wanted.json"
+  },
+  {
+    "id": "s_worlds_toughest_race_ecochallenge_fiji",
+    "title": "World's Toughest Race: Eco-Challenge Fiji",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/worlds_toughest_race_ecochallenge_fiji.json"
+  },
+  {
+    "id": "s_yan_yun_tai",
+    "title": "Yan Yun Tai",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/yan_yun_tai.json"
+  },
+  {
+    "id": "s_yarm_kalan_asklar",
+    "title": "Yarım Kalan Aşklar",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/yarm_kalan_asklar.json"
+  },
+  {
+    "id": "s_yell",
+    "title": "Yell",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/yell.json"
+  },
+  {
+    "id": "s_yevrodyrektor",
+    "title": "Yevrodyrektor",
+    "start_year": 2020,
+    "end_year": 2019,
+    "path": "data/series/yevrodyrektor.json"
+  },
+  {
+    "id": "s_yokai_sharehouse",
+    "title": "Yōkai Sharehouse",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/yokai_sharehouse.json"
+  },
+  {
+    "id": "s_yoobyeolna_chef_moon",
+    "title": "Yoobyeolna! Chef Moon",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/yoobyeolna_chef_moon.json"
+  },
+  {
+    "id": "s_young_and_the_strong_will_survive",
+    "title": "The Young and the Strong Will Survive",
+    "start_year": 2019,
+    "end_year": null,
+    "path": "data/series/young_and_the_strong_will_survive.json"
+  },
+  {
+    "id": "s_young_wallander",
+    "title": "Young Wallander",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/young_wallander.json"
+  },
+  {
+    "id": "s_your_honor",
+    "title": "Your Honor",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/your_honor.json"
+  },
+  {
+    "id": "s_yowis_ben_the_series",
+    "title": "Yowis Ben: The Series",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/yowis_ben_the_series.json"
+  },
+  {
+    "id": "s_zemheri",
+    "title": "Zemheri",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/zemheri.json"
+  },
+  {
+    "id": "s_zerlina",
+    "title": "Zerlina",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/zerlina.json"
+  },
+  {
+    "id": "s_zerozerozero",
+    "title": "ZeroZeroZero",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/zerozerozero.json"
+  },
+  {
+    "id": "s_zetsumeshi_road",
+    "title": "Zetsumeshi Road",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/zetsumeshi_road.json"
+  },
+  {
+    "id": "s_ziggy",
+    "title": "Ziggy",
+    "start_year": 2020,
+    "end_year": 2023,
+    "path": "data/series/ziggy.json"
+  },
+  {
+    "id": "s_zoeys_extraordinary_playlist",
+    "title": "Zoey's Extraordinary Playlist",
+    "start_year": 2020,
+    "end_year": 2021,
+    "path": "data/series/zoeys_extraordinary_playlist.json"
+  },
+  {
+    "id": "s_zoki_poki",
+    "title": "Zoki Poki",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/zoki_poki.json"
+  },
+  {
+    "id": "s_zombie_detective",
+    "title": "Zombie Detective",
+    "start_year": 2020,
+    "end_year": null,
+    "path": "data/series/zombie_detective.json"
+  },
+  {
+    "id": "s_zuleikha_opens_her_eyes",
+    "title": "Zuleikha Opens Her Eyes",
+    "start_year": 2020,
+    "end_year": 2020,
+    "path": "data/series/zuleikha_opens_her_eyes.json"
+  }
+]
