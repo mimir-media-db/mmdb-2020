@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zumiriki_2020",
+  "title": "Zumiriki",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130355125",
+    "imdb": "tt10749710",
+    "tmdb": 618222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-25",
+  "runtime_minutes": 122
+}

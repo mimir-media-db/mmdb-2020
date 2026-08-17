@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zarojelentes_2020",
+  "title": "Zárójelentés",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79792304",
+    "imdb": "tt9701934",
+    "tmdb": 678931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 115
+}

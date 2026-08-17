@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zombie_fighter_2020",
+  "title": "Zombie Fighter",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97339227",
+    "imdb": "tt11779626",
+    "tmdb": 608319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-16"
+}

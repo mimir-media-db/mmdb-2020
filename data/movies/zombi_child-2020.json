@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zombi_child_2020",
+  "title": "Zombi Child",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63718515",
+    "imdb": "tt9056192",
+    "tmdb": 554311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-08",
+  "runtime_minutes": 103
+}

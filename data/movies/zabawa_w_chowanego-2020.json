@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zabawa_w_chowanego_2020",
+  "title": "Zabawa w chowanego",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86725850",
+    "imdb": "tt11550202",
+    "tmdb": 689553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-16",
+  "runtime_minutes": 87
+}
