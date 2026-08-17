@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_4_mantan_2020",
+  "title": "4 Mantan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98080757",
+    "imdb": "tt11669118",
+    "tmdb": 664797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-20",
+  "runtime_minutes": 98
+}
