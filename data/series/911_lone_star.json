@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_911_lone_star",
+  "title": "9-1-1: Lone Star",
+  "start_year": 2020,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q75053165",
+    "imdb": "tt10323338",
+    "tmdb": 89393
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 72
+}
