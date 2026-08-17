@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_desire",
+  "title": "Dark Desire",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q85809906",
+    "imdb": "tt12540080",
+    "tmdb": 105214
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 33
+}

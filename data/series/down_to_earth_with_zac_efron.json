@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_down_to_earth_with_zac_efron",
+  "title": "Down to Earth with Zac Efron",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97278509",
+    "imdb": "tt12585152",
+    "tmdb": 105288
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

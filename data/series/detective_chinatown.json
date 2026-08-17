@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_detective_chinatown",
+  "title": "Detective Chinatown",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85877687",
+    "imdb": "tt11502628",
+    "tmdb": 97317
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

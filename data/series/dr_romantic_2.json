@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_romantic_2",
+  "title": "Dr. Romantic 2",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q61360867",
+    "imdb": "tt6157190",
+    "tmdb": 68398
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

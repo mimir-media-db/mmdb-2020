@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_de_zomer_van_zoe",
+  "title": "De zomer van Zoë",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109451270",
+    "imdb": "tt13251096",
+    "tmdb": 111704
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

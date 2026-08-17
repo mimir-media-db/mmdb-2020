@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dead_still",
+  "title": "Dead Still",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96376085",
+    "imdb": "tt10413648",
+    "tmdb": 95888
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_deputy",
+  "title": "Deputy",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q63674424",
+    "imdb": "tt8873996",
+    "tmdb": 89498
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

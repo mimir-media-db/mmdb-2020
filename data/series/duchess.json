@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_duchess",
+  "title": "The Duchess",
+  "start_year": 2020,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q99511567",
+    "imdb": "tt9310390",
+    "tmdb": 107363
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

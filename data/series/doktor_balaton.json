@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doktor_balaton",
+  "title": "Doktor Balaton",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q104550799",
+    "imdb": "tt13754174",
+    "tmdb": 115436
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 140
+}

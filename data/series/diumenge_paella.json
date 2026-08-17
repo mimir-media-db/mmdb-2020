@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_diumenge_paella",
+  "title": "Diumenge, paella",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85867470",
+    "imdb": "tt8392110",
+    "tmdb": 215976
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

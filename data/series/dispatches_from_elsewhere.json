@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dispatches_from_elsewhere",
+  "title": "Dispatches From Elsewhere",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q56275165",
+    "imdb": "tt8965666",
+    "tmdb": 81241
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

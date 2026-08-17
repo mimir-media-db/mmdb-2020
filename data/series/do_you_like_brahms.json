@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_do_you_like_brahms",
+  "title": "Do You Like Brahms?",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97233126",
+    "imdb": "tt12867750",
+    "tmdb": 101857
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

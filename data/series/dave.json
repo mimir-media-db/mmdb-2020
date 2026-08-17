@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dave",
+  "title": "Dave",
+  "start_year": 2020,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q85946144",
+    "imdb": "tt8531222",
+    "tmdb": 97084
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

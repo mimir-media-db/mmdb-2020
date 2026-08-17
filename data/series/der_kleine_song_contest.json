@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_der_kleine_song_contest",
+  "title": "Der kleine Song Contest",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q90666768",
+    "imdb": "tt12157350"
+  },
+  "last_updated": "2026-08-17"
+}
