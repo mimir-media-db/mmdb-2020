@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_long_night",
+  "title": "The Long Night",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97300015",
+    "imdb": "tt11298328",
+    "tmdb": 105053
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

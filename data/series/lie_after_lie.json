@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lie_after_lie",
+  "title": "Lie After Lie",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q85884324",
+    "imdb": "tt12867708",
+    "tmdb": 106535
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

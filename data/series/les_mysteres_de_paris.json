@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_les_mysteres_de_paris",
+  "title": "Les Mystères de Paris",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q105719894",
+    "imdb": "tt17041876"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_landscape_artist_of_the_year_canada",
+  "title": "Landscape Artist of the Year Canada",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107202849",
+    "imdb": "tt12245374",
+    "tmdb": 157685
+  },
+  "last_updated": "2026-08-17"
+}

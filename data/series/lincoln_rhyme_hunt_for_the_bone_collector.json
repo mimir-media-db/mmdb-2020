@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lincoln_rhyme_hunt_for_the_bone_collector",
+  "title": "Lincoln Rhyme: Hunt for the Bone Collector",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65069294",
+    "imdb": "tt9307990",
+    "tmdb": 95272
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

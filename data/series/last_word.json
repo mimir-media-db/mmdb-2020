@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_last_word",
+  "title": "The Last Word",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q99409038",
+    "imdb": "tt10506510",
+    "tmdb": 110152
+  },
+  "last_updated": "2026-08-17"
+}

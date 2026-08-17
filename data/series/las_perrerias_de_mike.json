@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_las_perrerias_de_mike",
+  "title": "Las perrerías de Mike",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140329348",
+    "imdb": "tt35609863",
+    "tmdb": 301089
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 57
+}

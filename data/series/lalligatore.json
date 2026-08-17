@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lalligatore",
+  "title": "L'alligatore",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109377576",
+    "imdb": "tt11628096",
+    "tmdb": 113411
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

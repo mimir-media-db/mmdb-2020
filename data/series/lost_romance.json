@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_romance",
+  "title": "Lost Romance",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97346512",
+    "imdb": "tt12495978",
+    "tmdb": 104798
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

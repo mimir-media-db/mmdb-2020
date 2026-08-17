@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_locke_key",
+  "title": "Locke & Key",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q56274745",
+    "imdb": "tt3007572",
+    "tmdb": 86423
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 28
+}

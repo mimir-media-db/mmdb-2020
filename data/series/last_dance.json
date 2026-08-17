@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_dance",
+  "title": "The Last Dance",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q85807688",
+    "imdb": "tt8420184",
+    "tmdb": 79525
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

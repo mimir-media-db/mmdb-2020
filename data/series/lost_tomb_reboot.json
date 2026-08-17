@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_tomb_reboot",
+  "title": "The Lost Tomb: Reboot",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97487340",
+    "imdb": "tt12199544",
+    "tmdb": 105962
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

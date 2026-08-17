@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_land_of_the_brave",
+  "title": "Land of the brave",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q82938171",
+    "imdb": "tt11102682",
+    "tmdb": 96753
+  },
+  "last_updated": "2026-08-17"
+}

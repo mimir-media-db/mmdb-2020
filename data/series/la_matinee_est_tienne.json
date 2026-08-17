@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_la_matinee_est_tienne",
+  "title": "La Matinée Est Tienne",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104594232"
+  },
+  "last_updated": "2026-08-17"
+}
