@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kamen_rider_deno_pretty_deno_appears_2020",
+  "title": "Kamen Rider Den-O: Pretty Den-O Appears!",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100699901",
+    "imdb": "tt12888306",
+    "tmdb": 785671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 23
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kuruthi_aattam_2020",
+  "title": "Kuruthi Aattam",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737666",
+    "imdb": "tt11530982",
+    "tmdb": 886447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

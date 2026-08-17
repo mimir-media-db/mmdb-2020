@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karakomik_filmler_2_2020",
+  "title": "Karakomik Filmler 2",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81225309",
+    "imdb": "tt8456098",
+    "tmdb": 640154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-17"
+}

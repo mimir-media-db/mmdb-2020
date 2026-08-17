@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kandisha_2020",
+  "title": "Kandisha",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105081798",
+    "imdb": "tt11058930",
+    "tmdb": 607365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kombu_2020",
+  "title": "Kombu",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105846713",
+    "imdb": "tt13621256",
+    "tmdb": 864235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}
