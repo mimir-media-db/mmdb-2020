@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_word_party_songs",
+  "title": "Word Party Songs",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98708481",
+    "imdb": "tt12748268",
+    "tmdb": 106528
+  },
+  "last_updated": "2026-08-17"
+}

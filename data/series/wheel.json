@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wheel",
+  "title": "The Wheel",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q103931083",
+    "imdb": "tt12740874",
+    "tmdb": 113890
+  },
+  "last_updated": "2026-08-17"
+}

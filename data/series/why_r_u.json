@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_why_r_u",
+  "title": "Why R U?",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97224421",
+    "imdb": "tt12204002",
+    "tmdb": 93972
+  },
+  "last_updated": "2026-08-17"
+}

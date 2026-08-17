@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wish_you",
+  "title": "Wish You",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104884904",
+    "imdb": "tt13660270",
+    "tmdb": 114195
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_we_are_five",
+  "title": "We Are Five",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85634269",
+    "imdb": "tt11974516",
+    "tmdb": 112468
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

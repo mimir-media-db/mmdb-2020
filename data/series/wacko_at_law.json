@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_wacko_at_law",
+  "title": "Wacko At Law",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q86732162",
+    "tmdb": 114036
+  },
+  "last_updated": "2026-08-17"
+}

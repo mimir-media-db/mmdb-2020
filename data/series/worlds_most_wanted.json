@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_worlds_most_wanted",
+  "title": "World's Most Wanted",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q98114010",
+    "imdb": "tt12753698",
+    "tmdb": 106513
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_whispers",
+  "title": "Whispers",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q95627408",
+    "imdb": "tt12410506",
+    "tmdb": 104669
+  },
+  "last_updated": "2026-08-17"
+}

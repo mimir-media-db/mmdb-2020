@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_warrior_nun",
+  "title": "Warrior Nun",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q65084266",
+    "imdb": "tt9059350",
+    "tmdb": 87689
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

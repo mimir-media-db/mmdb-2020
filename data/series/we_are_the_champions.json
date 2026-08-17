@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_we_are_the_champions",
+  "title": "We Are the Champions",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102396788",
+    "imdb": "tt12409154",
+    "tmdb": 112440
+  },
+  "last_updated": "2026-08-17"
+}

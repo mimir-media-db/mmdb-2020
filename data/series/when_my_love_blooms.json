@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_when_my_love_blooms",
+  "title": "When My Love Blooms",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85989135",
+    "imdb": "tt12358696",
+    "tmdb": 100595
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}
