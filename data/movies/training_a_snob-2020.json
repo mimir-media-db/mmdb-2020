@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_training_a_snob_2020",
+  "title": "Training a Snob",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841972",
+    "tmdb": 671072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-10"
+}

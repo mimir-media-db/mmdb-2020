@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taana_2020",
+  "title": "Taana",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85804828",
+    "imdb": "tt10415510",
+    "tmdb": 618151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

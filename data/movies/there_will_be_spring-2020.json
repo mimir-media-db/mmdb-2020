@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_there_will_be_spring_2020",
+  "title": "There Will Be Spring",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97924164",
+    "imdb": "tt12574718",
+    "tmdb": 673756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

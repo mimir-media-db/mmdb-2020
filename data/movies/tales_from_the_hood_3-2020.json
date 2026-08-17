@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tales_from_the_hood_3_2020",
+  "title": "Tales from the Hood 3",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104880887",
+    "imdb": "tt11453082",
+    "tmdb": 739123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_take_a_spin_in_the_air_2020",
+  "title": "Take a Spin in the Air",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119686514",
+    "imdb": "tt14081052",
+    "tmdb": 748624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 80
+}

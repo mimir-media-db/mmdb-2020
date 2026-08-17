@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_threads_our_tapestry_of_love_2020",
+  "title": "Threads: Our Tapestry of Love",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65278123",
+    "imdb": "tt10467054",
+    "tmdb": 612511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

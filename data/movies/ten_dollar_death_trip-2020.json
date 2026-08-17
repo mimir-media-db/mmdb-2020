@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ten_dollar_death_trip_2020",
+  "title": "Ten Dollar Death Trip",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116680642",
+    "imdb": "tt13019594",
+    "tmdb": 794893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 52
+}

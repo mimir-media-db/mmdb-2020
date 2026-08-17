@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_autumns_in_paris_2020",
+  "title": "Two Autumns in Paris",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102103505",
+    "imdb": "tt9324428",
+    "tmdb": 736518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 102
+}

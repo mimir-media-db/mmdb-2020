@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiempos_de_deseo_2020",
+  "title": "Tiempos de deseo",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120973885",
+    "imdb": "tt21054514",
+    "tmdb": 800890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 1
+}

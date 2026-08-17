@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tell_me_when_2020",
+  "title": "Tell Me When",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106727075",
+    "imdb": "tt10648198",
+    "tmdb": 676859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 95
+}
