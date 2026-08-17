@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_never_have_i_ever",
+  "title": "Never Have I Ever",
+  "start_year": 2020,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q90138922",
+    "imdb": "tt10062292",
+    "tmdb": 100883
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

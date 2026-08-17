@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nicht_dein_ernst",
+  "title": "Nicht dein Ernst",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q77581620",
+    "imdb": "tt12814688",
+    "tmdb": 116265
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

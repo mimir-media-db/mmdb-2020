@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_nand",
+  "title": "Nand",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q104882456",
+    "imdb": "tt33371352"
+  },
+  "last_updated": "2026-08-17"
+}

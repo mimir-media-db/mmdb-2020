@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_najla",
+  "title": "Najla",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113678745",
+    "imdb": "tt19874558"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 17
+}

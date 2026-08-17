@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_norskish",
+  "title": "Norsk-ish",
+  "start_year": 2020,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q109656243",
+    "imdb": "tt12540266",
+    "tmdb": 110169
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}
