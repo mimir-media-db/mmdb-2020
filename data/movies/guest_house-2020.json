@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guest_house_2020",
+  "title": "Guest House",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64211109",
+    "imdb": "tt10054316",
+    "tmdb": 594084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

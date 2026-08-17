@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gumnaami_2020",
+  "title": "Gumnaami",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63846086",
+    "imdb": "tt10834986",
+    "tmdb": 641304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

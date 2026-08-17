@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gypsy_2020",
+  "title": "Gypsy",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737651",
+    "imdb": "tt8042112",
+    "tmdb": 574830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}

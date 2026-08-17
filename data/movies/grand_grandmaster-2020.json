@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grand_grandmaster_2020",
+  "title": "The Grand Grandmaster",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83612946",
+    "imdb": "tt11536476",
+    "tmdb": 666453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-23",
+  "runtime_minutes": 117
+}

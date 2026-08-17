@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_night_malvinas_2020",
+  "title": "Good Night Malvinas",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109424182",
+    "tmdb": 775815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 66
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_back_up_2020",
+  "title": "Get Back Up",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97658598",
+    "imdb": "tt4134712",
+    "tmdb": 706910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 6334
+}

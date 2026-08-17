@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grudge_2020",
+  "title": "The Grudge",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54339473",
+    "imdb": "tt3612126",
+    "tmdb": 465086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 93
+}

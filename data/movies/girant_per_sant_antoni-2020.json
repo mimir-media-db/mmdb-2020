@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girant_per_sant_antoni_2020",
+  "title": "Girant per Sant Antoni",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111264177",
+    "imdb": "tt12234184",
+    "tmdb": 698787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 101
+}

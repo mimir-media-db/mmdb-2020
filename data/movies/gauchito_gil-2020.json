@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gauchito_gil_2020",
+  "title": "Gauchito Gil",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108065242",
+    "imdb": "tt12819028"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 90
+}
