@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_earth_to_ned",
+  "title": "Earth to Ned",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q99522770",
+    "imdb": "tt11176048",
+    "tmdb": 94883
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_end",
+  "title": "The End",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60761911",
+    "imdb": "tt9055250",
+    "tmdb": 99552
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

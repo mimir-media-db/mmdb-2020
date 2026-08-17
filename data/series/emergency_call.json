@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_emergency_call",
+  "title": "Emergency Call",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q99658909",
+    "imdb": "tt13084832",
+    "tmdb": 108875
+  },
+  "last_updated": "2026-08-17"
+}

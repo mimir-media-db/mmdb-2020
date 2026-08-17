@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_enslaved",
+  "title": "Enslaved",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105123328",
+    "imdb": "tt9179882",
+    "tmdb": 107530
+  },
+  "last_updated": "2026-08-17"
+}
