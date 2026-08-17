@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_education_2020",
+  "title": "The Education",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117431907",
+    "imdb": "tt11585966",
+    "tmdb": 638427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-26"
+}

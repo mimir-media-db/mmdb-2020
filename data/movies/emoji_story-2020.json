@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_emoji_story_2020",
+  "title": "The Emoji Story",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105818526",
+    "imdb": "tt10011302",
+    "tmdb": 596028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-18",
+  "runtime_minutes": 79
+}

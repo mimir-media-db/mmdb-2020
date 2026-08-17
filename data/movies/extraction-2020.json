@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_extraction_2020",
+  "title": "Extraction",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58814616",
+    "imdb": "tt8936646",
+    "tmdb": 545609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-24",
+  "runtime_minutes": 116
+}

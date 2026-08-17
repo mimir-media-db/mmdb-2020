@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enola_holmes_2020",
+  "title": "Enola Holmes",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65032692",
+    "imdb": "tt7846844",
+    "tmdb": 497582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-23",
+  "runtime_minutes": 123
+}

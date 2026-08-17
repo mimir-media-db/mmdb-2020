@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_end_of_endless_love_2020",
+  "title": "The End of Endless Love",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109344452",
+    "imdb": "tt13154372",
+    "tmdb": 757583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-04"
+}

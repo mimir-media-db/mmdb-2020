@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eden_for_all_2020",
+  "title": "Eden for All",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99243624",
+    "imdb": "tt11792540",
+    "tmdb": 748280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-28",
+  "runtime_minutes": 90
+}

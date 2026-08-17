@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_experiment_socialism_2020",
+  "title": "Experiment Socialism",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87059037",
+    "imdb": "tt12977382",
+    "tmdb": 737279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-27",
+  "runtime_minutes": 80
+}

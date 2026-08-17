@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_emperor_2020",
+  "title": "Emperor",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104862576",
+    "imdb": "tt8354752",
+    "tmdb": 666219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-18"
+}
