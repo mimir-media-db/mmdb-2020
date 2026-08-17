@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_restoration_2020",
+  "title": "The Restoration",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115730135",
+    "imdb": "tt8552008",
+    "tmdb": 666752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 94
+}

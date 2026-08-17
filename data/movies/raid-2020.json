@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raid_2020",
+  "title": "The Raid",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84997456",
+    "imdb": "tt7059626",
+    "tmdb": 668429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-23",
+  "runtime_minutes": 94
+}

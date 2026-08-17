@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_regina_2020",
+  "title": "Regina",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106409640",
+    "imdb": "tt12862990",
+    "tmdb": 787245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01",
+  "runtime_minutes": 82
+}

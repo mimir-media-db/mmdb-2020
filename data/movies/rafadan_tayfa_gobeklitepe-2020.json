@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rafadan_tayfa_gobeklitepe_2020",
+  "title": "Rafadan Tayfa Göbeklitepe",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83639071",
+    "imdb": "tt10183846",
+    "tmdb": 658408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-23"
+}
