@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_the_andes_2020",
+  "title": "Queen of the Andes",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104857840",
+    "imdb": "tt9382358",
+    "tmdb": 618303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}
