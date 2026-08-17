@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_backstrom",
+  "title": "Bäckström",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85683781",
+    "imdb": "tt10068932",
+    "tmdb": 100884
+  },
+  "last_updated": "2026-08-17"
+}

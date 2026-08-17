@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bildmachtdeutschland",
+  "title": "BILD.Macht.Deutschland?",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q108258162",
+    "imdb": "tt13600152",
+    "tmdb": 114833
+  },
+  "last_updated": "2026-08-17"
+}

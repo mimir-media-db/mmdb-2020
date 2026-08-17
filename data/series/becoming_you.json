@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_becoming_you",
+  "title": "Becoming You",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106608999",
+    "imdb": "tt13007964",
+    "tmdb": 108305
+  },
+  "last_updated": "2026-08-17"
+}

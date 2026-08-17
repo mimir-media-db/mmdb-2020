@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_backstreet_rookie",
+  "title": "Backstreet Rookie",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q91091667",
+    "imdb": "tt12516712",
+    "tmdb": 98827
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bite_size_halloween",
+  "title": "Bite Size Halloween",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q128924878",
+    "imdb": "tt21335916",
+    "tmdb": 112226
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 68
+}

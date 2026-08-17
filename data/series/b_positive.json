@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_b_positive",
+  "title": "B Positive",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q96372934",
+    "imdb": "tt11839500",
+    "tmdb": 104714
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 34
+}

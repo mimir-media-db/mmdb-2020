@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_game",
+  "title": "The Big Game",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98785876",
+    "imdb": "tt13144490",
+    "tmdb": 107703
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

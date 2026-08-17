@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bridgerton",
+  "title": "Bridgerton",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85748936",
+    "imdb": "tt8740790",
+    "tmdb": 91239
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

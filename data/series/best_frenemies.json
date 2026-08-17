@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_best_frenemies",
+  "title": "Best Frenemies",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97659708",
+    "imdb": "tt11100146",
+    "tmdb": 99319
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

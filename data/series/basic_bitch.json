@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_basic_bitch",
+  "title": "Basic Bitch",
+  "start_year": 2020,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q108782927",
+    "imdb": "tt13535306",
+    "tmdb": 112153
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

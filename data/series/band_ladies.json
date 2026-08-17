@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_band_ladies",
+  "title": "Band Ladies",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106630142",
+    "imdb": "tt10130892"
+  },
+  "last_updated": "2026-08-17"
+}

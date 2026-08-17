@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_barbecue_showdown",
+  "title": "Barbecue Showdown",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q99507532",
+    "imdb": "tt12938472",
+    "tmdb": 109819
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ba_khaneman",
+  "title": "Ba Khaneman",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111016135",
+    "imdb": "tt13945046",
+    "tmdb": 238780
+  },
+  "last_updated": "2026-08-17"
+}
