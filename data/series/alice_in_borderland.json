@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alice_in_borderland",
+  "title": "Alice in Borderland",
+  "start_year": 2020,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q103967305",
+    "imdb": "tt10795658",
+    "tmdb": 110316
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

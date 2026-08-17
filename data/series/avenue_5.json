@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_avenue_5",
+  "title": "Avenue 5",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q65091025",
+    "imdb": "tt10234362",
+    "tmdb": 90811
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

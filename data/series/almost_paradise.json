@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_almost_paradise",
+  "title": "Almost Paradise",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96371832",
+    "imdb": "tt11266702",
+    "tmdb": 100383
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

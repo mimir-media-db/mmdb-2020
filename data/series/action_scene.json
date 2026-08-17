@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_action_scene",
+  "title": "Action Scene",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107526203",
+    "imdb": "tt10726424",
+    "tmdb": 99072
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_creatures_great_and_small",
+  "title": "All Creatures Great and Small",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q86753160",
+    "imdb": "tt10590066",
+    "tmdb": 108255
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 41
+}

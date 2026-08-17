@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_alien_tv",
+  "title": "Alien TV",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q98689475",
+    "imdb": "tt12765530",
+    "tmdb": 107422
+  },
+  "last_updated": "2026-08-17"
+}

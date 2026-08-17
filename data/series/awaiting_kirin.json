@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_awaiting_kirin",
+  "title": "Awaiting Kirin",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q55526264",
+    "imdb": "tt13588566",
+    "tmdb": 98928
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 44
+}

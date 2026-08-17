@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_within",
+  "title": "The Animal Within",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123463425",
+    "imdb": "tt27481190",
+    "tmdb": 196979
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

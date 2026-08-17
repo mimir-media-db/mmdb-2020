@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_aus_dem_tagebuch_eines_uberfahrers",
+  "title": "Aus dem Tagebuch eines Uber-Fahrers",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q95578189",
+    "imdb": "tt11308454",
+    "tmdb": 111764
+  },
+  "last_updated": "2026-08-17"
+}

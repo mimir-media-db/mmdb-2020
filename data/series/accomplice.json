@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_accomplice",
+  "title": "The Accomplice",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85976308",
+    "imdb": "tt11989426",
+    "tmdb": 99701
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

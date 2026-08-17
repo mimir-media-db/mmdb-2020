@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_allerud_vgs",
+  "title": "Allerud VGS",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q104876789",
+    "imdb": "tt11594858",
+    "tmdb": 97622
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

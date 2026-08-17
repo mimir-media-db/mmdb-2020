@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_anitta_made_in_honorio",
+  "title": "Anitta: Made In Honório",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104532241",
+    "imdb": "tt13486136",
+    "tmdb": 113415
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amanza",
+  "title": "Amanza",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105084376",
+    "imdb": "tt12994186",
+    "tmdb": 111534
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

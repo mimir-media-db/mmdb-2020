@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_askip",
+  "title": "Askip",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97119897",
+    "imdb": "tt13749528",
+    "tmdb": 103325
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 213
+}

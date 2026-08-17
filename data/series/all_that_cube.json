@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_all_that_cube",
+  "title": "All That Cube",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97707802"
+  },
+  "last_updated": "2026-08-17"
+}

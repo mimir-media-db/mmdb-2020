@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_apatigris",
+  "title": "Apatigris",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97198958",
+    "imdb": "tt12430156",
+    "tmdb": 101549
+  },
+  "last_updated": "2026-08-17"
+}

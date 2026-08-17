@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_amningsrummet",
+  "title": "Amningsrummet",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q105268029",
+    "imdb": "tt13063286",
+    "tmdb": 210128
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_about_last_night",
+  "title": "About Last Night...",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q99908799",
+    "imdb": "tt13207256",
+    "tmdb": 109802
+  },
+  "last_updated": "2026-08-17"
+}
