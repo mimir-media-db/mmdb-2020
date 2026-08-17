@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_japan_womens_gourmet_burger_club",
+  "title": "Japan Women's Gourmet Burger Club",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97279045",
+    "imdb": "tt13034190",
+    "tmdb": 107419
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}
