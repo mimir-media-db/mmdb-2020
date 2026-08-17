@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shakhtar_donetsk_vs_inter_milan_2020",
+  "title": "Shakhtar Donetsk vs Inter Milan",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576039",
+    "imdb": "tt13416564"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-27",
+  "runtime_minutes": 96
+}

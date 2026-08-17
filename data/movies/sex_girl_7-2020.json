@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_girl_7_2020",
+  "title": "Sex Girl 7",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841650",
+    "tmdb": 852418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-19"
+}

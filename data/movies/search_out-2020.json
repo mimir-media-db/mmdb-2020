@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_search_out_2020",
+  "title": "Search Out",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89175873",
+    "imdb": "tt12380870",
+    "tmdb": 680973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-09",
+  "runtime_minutes": 92
+}

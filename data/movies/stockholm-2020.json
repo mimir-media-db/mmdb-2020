@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stockholm_2020",
+  "title": "Stockholm",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30599096",
+    "imdb": "tt6474040",
+    "tmdb": 437626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-24",
+  "runtime_minutes": 92
+}

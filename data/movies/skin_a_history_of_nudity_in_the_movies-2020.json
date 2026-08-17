@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skin_a_history_of_nudity_in_the_movies_2020",
+  "title": "Skin: A History of Nudity in the Movies",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115804194",
+    "imdb": "tt11245776",
+    "tmdb": 722926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-18",
+  "runtime_minutes": 130
+}

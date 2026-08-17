@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spare_daughterinlaw_2020",
+  "title": "Spare Daughter-in-law",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841737",
+    "imdb": "tt18480528",
+    "tmdb": 739806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-20"
+}

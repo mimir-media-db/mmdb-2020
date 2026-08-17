@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_still_into_you_2020",
+  "title": "Still into You",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98555936",
+    "imdb": "tt12768788",
+    "tmdb": 698002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-07"
+}

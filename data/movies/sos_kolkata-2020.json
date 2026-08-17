@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sos_kolkata_2020",
+  "title": "SOS Kolkata",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97142461",
+    "imdb": "tt12655954",
+    "tmdb": 722075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-21"
+}

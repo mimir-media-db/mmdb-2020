@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sulphur_and_white_2020",
+  "title": "Sulphur and White",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96474726",
+    "imdb": "tt7334158",
+    "tmdb": 669672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27",
+  "runtime_minutes": 120
+}

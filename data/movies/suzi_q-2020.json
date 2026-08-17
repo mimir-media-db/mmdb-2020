@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suzi_q_2020",
+  "title": "Suzi Q",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84762464",
+    "imdb": "tt9783620",
+    "tmdb": 589452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-06-04",
+  "runtime_minutes": 98
+}

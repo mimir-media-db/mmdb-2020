@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_steel_rain_2_summit_2020",
+  "title": "Steel Rain 2: Summit",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97338345",
+    "imdb": "tt10516176",
+    "tmdb": 606906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-29",
+  "runtime_minutes": 132
+}

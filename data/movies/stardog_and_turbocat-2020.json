@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stardog_and_turbocat_2020",
+  "title": "StarDog and TurboCat",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93121630",
+    "imdb": "tt7531096",
+    "tmdb": 515789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-26",
+  "runtime_minutes": 90
+}

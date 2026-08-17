@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sputnik_2020",
+  "title": "Sputnik",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86675345",
+    "imdb": "tt11905962",
+    "tmdb": 594718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-15",
+  "runtime_minutes": 113
+}

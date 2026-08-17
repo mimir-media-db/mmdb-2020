@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scarecrow_2020",
+  "title": "Scarecrow",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105408858",
+    "imdb": "tt13124586",
+    "tmdb": 694823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-09-14",
+  "runtime_minutes": 72
+}

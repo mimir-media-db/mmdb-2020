@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schoolgirls_2020",
+  "title": "Schoolgirls",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85092153",
+    "imdb": "tt10434142",
+    "tmdb": 619443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-23",
+  "runtime_minutes": 97
+}

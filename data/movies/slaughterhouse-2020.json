@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_slaughterhouse_2020",
+  "title": "Slaughterhouse",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85977423",
+    "imdb": "tt12758660",
+    "tmdb": 669419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-28"
+}

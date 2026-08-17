@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_the_summer_we_found_our_superpowers_2020",
+  "title": "Sisters: The Summer We Found Our Superpowers",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106375335",
+    "imdb": "tt12553244",
+    "tmdb": 714401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-08-07",
+  "runtime_minutes": 72
+}

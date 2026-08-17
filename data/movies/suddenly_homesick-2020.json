@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suddenly_homesick_2020",
+  "title": "Suddenly Homesick",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83468535",
+    "imdb": "tt11189058",
+    "tmdb": 673405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-27"
+}

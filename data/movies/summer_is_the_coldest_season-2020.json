@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_is_the_coldest_season_2020",
+  "title": "Summer Is the Coldest Season",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109457918",
+    "imdb": "tt11151736",
+    "tmdb": 735811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-12-11"
+}

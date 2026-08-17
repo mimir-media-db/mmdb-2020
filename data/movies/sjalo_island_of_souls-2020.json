@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sjalo_island_of_souls_2020",
+  "title": "Själö: Island of Souls",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111854306",
+    "imdb": "tt10965308",
+    "tmdb": 686599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-03-19",
+  "runtime_minutes": 78
+}

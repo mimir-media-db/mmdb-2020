@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snuff_tapes_2020",
+  "title": "Snuff Tapes",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116210495",
+    "imdb": "tt14399148",
+    "tmdb": 562566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-05",
+  "runtime_minutes": 70
+}

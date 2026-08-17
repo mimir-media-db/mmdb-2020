@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_searching4_tabernero_2020",
+  "title": "Searching-4 Tabernero",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104877777",
+    "imdb": "tt8594748"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-26",
+  "runtime_minutes": 72
+}

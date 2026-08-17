@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schlingensief_a_voice_that_shook_the_silence_2020",
+  "title": "Schlingensief - A Voice that Shook the Silence",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85109889",
+    "imdb": "tt11790902",
+    "tmdb": 665774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-21",
+  "runtime_minutes": 130
+}

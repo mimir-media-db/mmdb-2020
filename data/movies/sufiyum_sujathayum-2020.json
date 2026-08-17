@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sufiyum_sujathayum_2020",
+  "title": "Sufiyum Sujathayum",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96406662",
+    "imdb": "tt10976066",
+    "tmdb": 718659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-07-03"
+}

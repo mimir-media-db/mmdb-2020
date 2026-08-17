@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shehr_e_tabassum_2020",
+  "title": "Shehr e Tabassum",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108841607",
+    "imdb": "tt13723512",
+    "tmdb": 679092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-02-29",
+  "runtime_minutes": 9
+}

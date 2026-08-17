@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_somewhere_in_between_2020",
+  "title": "Somewhere in Between",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97207822",
+    "imdb": "tt19389478",
+    "tmdb": 589743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-05-29"
+}

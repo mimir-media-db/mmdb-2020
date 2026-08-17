@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_smart_nation_2020",
+  "title": "Smart Nation",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102129304"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-11-17"
+}

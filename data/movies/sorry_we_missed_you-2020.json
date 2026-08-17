@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorry_we_missed_you_2020",
+  "title": "Sorry We Missed You",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56604161",
+    "imdb": "tt8359816",
+    "tmdb": 522369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-30",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_siege_diary_2020",
+  "title": "A Siege Diary",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97315487",
+    "imdb": "tt13723712",
+    "tmdb": 579816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-03",
+  "runtime_minutes": 118
+}

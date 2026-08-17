@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shironam_2020",
+  "title": "Shironam",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102036263",
+    "imdb": "tt13353622",
+    "tmdb": 757951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-10-21"
+}
