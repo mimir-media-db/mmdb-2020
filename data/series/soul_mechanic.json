@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_soul_mechanic",
+  "title": "Soul Mechanic",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q79997083",
+    "imdb": "tt12274220",
+    "tmdb": 101906
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

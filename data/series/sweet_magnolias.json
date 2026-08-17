@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sweet_magnolias",
+  "title": "Sweet Magnolias",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56800842",
+    "imdb": "tt9077540",
+    "tmdb": 102904
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 50
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_schule_furs_leben",
+  "title": "Schule fürs Leben",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q99658773",
+    "imdb": "tt11673852",
+    "tmdb": 110609
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 24
+}

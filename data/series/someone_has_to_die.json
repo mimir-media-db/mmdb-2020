@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_someone_has_to_die",
+  "title": "Someone Has To Die",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q85802007",
+    "imdb": "tt10311932",
+    "tmdb": 105904
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

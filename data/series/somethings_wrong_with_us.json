@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_somethings_wrong_with_us",
+  "title": "Something's Wrong with Us",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q115959467",
+    "imdb": "tt12221504",
+    "tmdb": 106128
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

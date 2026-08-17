@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_subete_a_mi_moto",
+  "title": "Súbete a mi moto",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q100351075",
+    "imdb": "tt12248706",
+    "tmdb": 111119
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

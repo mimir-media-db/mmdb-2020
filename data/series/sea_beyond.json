@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sea_beyond",
+  "title": "The Sea Beyond",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q99589509",
+    "imdb": "tt6864602",
+    "tmdb": 110283
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 74
+}

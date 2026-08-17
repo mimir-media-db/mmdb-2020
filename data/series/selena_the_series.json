@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_selena_the_series",
+  "title": "Selena: The Series",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q68249892",
+    "imdb": "tt9421868",
+    "tmdb": 97180
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

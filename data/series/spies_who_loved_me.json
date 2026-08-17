@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_spies_who_loved_me",
+  "title": "The Spies Who Loved Me",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97338733",
+    "imdb": "tt12867972",
+    "tmdb": 110658
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

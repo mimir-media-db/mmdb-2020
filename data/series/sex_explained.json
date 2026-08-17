@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sex_explained",
+  "title": "Sex, Explained",
+  "start_year": 2020,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q81562219",
+    "imdb": "tt11390530",
+    "tmdb": 96815
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

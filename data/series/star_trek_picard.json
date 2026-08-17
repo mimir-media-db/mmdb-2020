@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_star_trek_picard",
+  "title": "Star Trek: Picard",
+  "start_year": 2020,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q62573305",
+    "imdb": "tt8806524",
+    "tmdb": 85949
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

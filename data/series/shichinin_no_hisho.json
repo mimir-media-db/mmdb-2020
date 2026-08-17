@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_shichinin_no_hisho",
+  "title": "Shichinin no hisho",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102856858",
+    "imdb": "tt13630510",
+    "tmdb": 111711
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

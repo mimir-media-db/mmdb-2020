@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_school_nurse_files",
+  "title": "The School Nurse Files",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65252221",
+    "imdb": "tt12879522",
+    "tmdb": 87313
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}
