@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_filatov",
+  "title": "Filatov",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q85867583",
+    "imdb": "tt10664510",
+    "tmdb": 99212
+  },
+  "last_updated": "2026-08-17"
+}

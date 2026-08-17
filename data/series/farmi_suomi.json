@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_farmi_suomi",
+  "title": "Farmi Suomi",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q88175959",
+    "imdb": "tt11891324",
+    "tmdb": 157533
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 62
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_family_fortunes",
+  "title": "Family Fortunes",
+  "start_year": 2020,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5433125",
+    "imdb": "tt0195457",
+    "tmdb": 2511
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 22,
+  "total_episodes": 545
+}

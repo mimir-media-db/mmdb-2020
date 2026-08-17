@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fbi_declassified",
+  "title": "The FBI Declassified",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108281326",
+    "imdb": "tt13081068",
+    "tmdb": 111132
+  },
+  "last_updated": "2026-08-17"
+}

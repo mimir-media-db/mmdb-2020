@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_filthy_rich",
+  "title": "Filthy Rich",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65069418",
+    "imdb": "tt10327526",
+    "tmdb": 89499
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

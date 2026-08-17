@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_friend_forever",
+  "title": "Friend Forever",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q117257103",
+    "imdb": "tt13274730",
+    "tmdb": 110265
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

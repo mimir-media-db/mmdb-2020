@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_find_me_in_your_memory",
+  "title": "Find Me in Your Memory",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q79997127",
+    "imdb": "tt11885790",
+    "tmdb": 99477
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 32
+}

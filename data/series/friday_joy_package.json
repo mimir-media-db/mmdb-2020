@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_friday_joy_package",
+  "title": "Friday Joy Package",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q80086693",
+    "tmdb": 96827
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

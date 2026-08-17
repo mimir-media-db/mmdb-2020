@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_followers",
+  "title": "Followers",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q84992205",
+    "imdb": "tt10049610",
+    "tmdb": 98772
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}
