@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_handsome_siblings",
+  "title": "Handsome Siblings",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q67933440",
+    "imdb": "tt11541444",
+    "tmdb": 98039
+  },
+  "last_updated": "2026-08-17"
+}

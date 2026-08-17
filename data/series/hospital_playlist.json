@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hospital_playlist",
+  "title": "Hospital Playlist",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q83625648",
+    "imdb": "tt11769304",
+    "tmdb": 96102
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

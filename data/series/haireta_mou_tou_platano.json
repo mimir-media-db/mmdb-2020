@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_haireta_mou_tou_platano",
+  "title": "Haireta mou tou platano",
+  "start_year": 2020,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q105171886",
+    "imdb": "tt13261746",
+    "tmdb": 111551
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 510
+}

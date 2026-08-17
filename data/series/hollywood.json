@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hollywood",
+  "title": "Hollywood",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q85712059",
+    "imdb": "tt9827854",
+    "tmdb": 87050
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_high_arctic_haulers",
+  "title": "High Arctic Haulers",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85766492",
+    "imdb": "tt11458672",
+    "tmdb": 113315
+  },
+  "last_updated": "2026-08-17"
+}

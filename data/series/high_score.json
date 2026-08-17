@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_high_score",
+  "title": "High Score",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98544737",
+    "imdb": "tt12759400",
+    "tmdb": 106754
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

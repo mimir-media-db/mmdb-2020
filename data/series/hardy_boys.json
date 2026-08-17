@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hardy_boys",
+  "title": "The Hardy Boys",
+  "start_year": 2020,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q103811823",
+    "imdb": "tt11252090",
+    "tmdb": 112945
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 31
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hi_bye_mama",
+  "title": "Hi Bye, Mama!",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q79997173",
+    "imdb": "tt11804034",
+    "tmdb": 97219
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

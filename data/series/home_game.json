@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_home_game",
+  "title": "Home Game",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q96792029",
+    "imdb": "tt12429046",
+    "tmdb": 105274
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

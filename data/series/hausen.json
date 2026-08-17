@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hausen",
+  "title": "Hausen",
+  "start_year": 2020,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q101002908",
+    "imdb": "tt11052434",
+    "tmdb": 109357
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

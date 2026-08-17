@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_homeroom",
+  "title": "Homeroom",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85873770",
+    "imdb": "tt12700630",
+    "tmdb": 101517
+  },
+  "last_updated": "2026-08-17"
+}

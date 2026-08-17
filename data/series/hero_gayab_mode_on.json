@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hero_gayab_mode_on",
+  "title": "Hero – Gayab Mode On",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q103994242",
+    "imdb": "tt13137346",
+    "tmdb": 114349
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 236
+}
