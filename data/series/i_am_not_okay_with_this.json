@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_am_not_okay_with_this",
+  "title": "I Am Not Okay With This",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q84349047",
+    "imdb": "tt9446688",
+    "tmdb": 90260
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_its_a_dogs_life_with_bill_farmer",
+  "title": "It's a Dog's Life with Bill Farmer",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114614720",
+    "imdb": "tt12105232",
+    "tmdb": 102845
+  },
+  "last_updated": "2026-08-17"
+}

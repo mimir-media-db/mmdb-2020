@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_investigation",
+  "title": "The Investigation",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q100707086",
+    "imdb": "tt9112152",
+    "tmdb": 110333
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_tourta_tis_mamas",
+  "title": "I Tourta tis Mamas",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q105070716",
+    "imdb": "tt13286468",
+    "tmdb": 111604
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 62
+}

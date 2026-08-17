@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_interrogation",
+  "title": "Interrogation",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q60753100",
+    "imdb": "tt9310136",
+    "tmdb": 96488
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

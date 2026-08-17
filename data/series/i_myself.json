@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_i_myself",
+  "title": "I, Myself",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85883815",
+    "imdb": "tt12252316",
+    "tmdb": 103544
+  },
+  "last_updated": "2026-08-17"
+}

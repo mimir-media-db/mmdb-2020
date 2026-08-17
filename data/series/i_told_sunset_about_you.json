@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_i_told_sunset_about_you",
+  "title": "I Told Sunset About You",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q101094826",
+    "imdb": "tt13368804",
+    "tmdb": 106840
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}
