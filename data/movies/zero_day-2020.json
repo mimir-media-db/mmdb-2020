@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zero_day_2020",
+  "title": "Zero Day",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85971303",
+    "imdb": "tt11768018",
+    "tmdb": 670340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-01-01"
+}
