@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_october_faction",
+  "title": "October Faction",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q60764055",
+    "imdb": "tt8826128",
+    "tmdb": 93826
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

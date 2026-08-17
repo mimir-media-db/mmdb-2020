@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_one_on_one",
+  "title": "One on One",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108170857",
+    "imdb": "tt12839508",
+    "tmdb": 115191
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

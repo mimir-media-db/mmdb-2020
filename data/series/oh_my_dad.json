@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_oh_my_dad",
+  "title": "Oh My Dad!",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q104864344"
+  },
+  "last_updated": "2026-08-17"
+}
