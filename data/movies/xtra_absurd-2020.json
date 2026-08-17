@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_xtra_absurd_2020",
+  "title": "X-tra Absurd",
+  "year": 2020,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109437589",
+    "imdb": "tt13224598",
+    "tmdb": 694061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2020-04-15"
+}
